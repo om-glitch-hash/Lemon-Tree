@@ -95,11 +95,11 @@
   "checked": "2026-11-19T18:17:35Z"
  },
  "GenSci (Changchun GeneScience)": {
-  "feed": "https://news.google.com/rss/search?q=%22GenSci145%22+OR+%28%22GeneScience%22+%28%22PI3K%22+OR+%22breast+cancer%22%29%29+OR+%28%22GenSci%22+%22PI3K%22%29&hl=en-US&gl=US&ceid=US:en",
+  "feed": "https://news.google.com/rss/search?q=%22GenSci145%22+OR+%28%22GeneScience%22+%22PI3K%22%29+OR+%28%22GenSci%22+%22PI3K%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "filter": false,
-  "sig": "[null, null, null, \"\\\"GenSci145\\\" OR (\\\"GeneScience\\\" (\\\"PI3K\\\" OR \\\"breast cancer\\\")) OR (\\\"GenSci\\\" \\\"PI3K\\\")\", null]",
-  "checked": "2026-11-19T18:19:14Z"
+  "sig": "[null, null, null, \"\\\"GenSci145\\\" OR (\\\"GeneScience\\\" \\\"PI3K\\\") OR (\\\"GenSci\\\" \\\"PI3K\\\")\", null]",
+  "checked": "2026-11-19T18:23:47Z"
  },
  "AstraZeneca": {
   "feed": "https://news.google.com/rss/search?q=site%3Aastrazeneca.com+%28%22camizestrant%22+OR+%22Etcamah%22+OR+%22SERENA%22+OR+%22HR-positive%22+OR+%22ER-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
