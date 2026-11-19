@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:54:22Z",
+ "updated": "2026-11-19T22:45:09Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1458,6 +1458,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "ab14ac55ae53f03c",
+   "company": "Arvinas",
+   "title": "Absorption, Metabolism, Excretion, and Pharmacokinetics of [14C] Vepdegestrant in Healthy Adult Participants - Arvinas",
+   "summary": "Absorption, Metabolism, Excretion, and Pharmacokinetics of [14C] Vepdegestrant in Healthy Adult Participants Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPenNxN00zZVkyaWhoLXdpMGdDNGViU0xUOUlnN1FGUGhUVGQzbEtRUUtkODN1bUpCQURqb1lhbWh5bW5WTG51TUhNRjFlcWxkTm5lLUdzbUxBZWJoUU5CdzMxSUxyaEd2cFQzY2lDY1NkeThlaDBqX203YVhMTllUa2Y4V1NVNGhaUUlHQjczS3hFeGVGSWd5QmhKX1huNlZGckFOcFNMTEQ1R0JxVnlVNWtmektKbzJfM1A1Y3RkaDNCZ1VZMWpuQUI1WGZoSFRRMlZla1ZXcV9Gck9hd1dZY0RoWQ?oc=5",
+   "published": "2026-05-22T11:38:05Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T22:45:09Z"
+  },
+  {
    "id": "9fe9c2496d717db7",
    "company": "AstraZeneca",
    "title": "Camizestrant in combination with a CDK4/6 inhibitor recommended for approval in the EU by CHMP for 1st-line advanced ER-positive breast cancer - AstraZeneca",
@@ -1764,6 +1775,17 @@
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "a34ed47f6492d8b7",
+   "company": "Roche",
+   "title": "Untitled - Roche",
+   "summary": "Untitled Roche",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51d2Q2SUZTOVhIZWsyVDBWZmlid1RoSXFSNXBGVFFrR0JSVjJ5MTlIVWxlZUxuSndHbjB0aUFvblNqRW5sMDIxSQ?oc=5",
+   "published": "2026-04-23T07:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
   },
   {
    "id": "cfff5001d0059444",
@@ -2206,17 +2228,6 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
-   "id": "a34ed47f6492d8b7",
-   "company": "Roche",
-   "title": "Untitled - Roche",
-   "summary": "Untitled Roche",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTUTVxbXBQYTV6dGViTXVreDFxQ0JHa3hxYVI1TnR1Yy1Ud2VKaDVvUFRBWjVTd210bkd4TTZpUXlzYkFNUmg5OFZNZUlBaEYtbk00aVpTN1piNXV1WlRFZEZmUVJ1UGp0X0x1U0RJdWpGOHhBeXlBNGdn?oc=5",
-   "published": "2026-01-12T08:00:00Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "6212f6ac64888ca5",
    "company": "Sermonix Pharmaceuticals",
    "title": "Athira Pharma Announces Name Change to LeonaBio, Inc. with New Ticker “LONA”",
@@ -2237,6 +2248,17 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "8015f20a7bfe062a",
+   "company": "Arvinas",
+   "title": "2025 Archives - Arvinas",
+   "summary": "2025 Archives Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45ZUhVdFB2d0pocC1UVWg2aGtoX3phSHR0XzhFaVk2MWZVUDVkUGtkQmhobkNRSkZqenlSZWRIdWtjYkdtRUk3RXZPbzg5QVdURzlUQ2pNTkg0aWM?oc=5",
+   "published": "2025-12-28T19:45:24Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T22:45:09Z"
   },
   {
    "id": "1633b6d680d62b58",
