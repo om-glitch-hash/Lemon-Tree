@@ -26,6 +26,8 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main              # latest main, so the last run's data is included
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -43,7 +45,7 @@ jobs:
             echo "No changes"
           else
             git commit -q -m "News update $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull -q --rebase --autostash
+            git pull -q --rebase --autostash -X theirs   # if two runs overlap, keep this run's data
             git push -q
           fi
 
