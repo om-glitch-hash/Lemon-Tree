@@ -94,8 +94,8 @@ def get(url: str, **kw) -> requests.Response | None:
 
 # ---------------------------------------------------------------- news sources
 
-def parse_feed(url: str):
-    """Return a parsed feed with entries, or None."""
+def parse_feed(url: str, allow_empty: bool = False):
+    """Return a parsed feed with entries (or a valid empty feed if allow_empty), or None."""
     r = get(url)
     if not r:
         return None
@@ -104,7 +104,7 @@ def parse_feed(url: str):
     if "html" in ctype and b"<rss" not in body[:2000] and b"<feed" not in body[:2000]:
         return None
     fp = feedparser.parse(body)
-    if fp.entries:
+    if fp.entries or (allow_empty and fp.get("feed") and not fp.bozo):
         return fp
     return None
 
@@ -277,7 +277,8 @@ def fetch_entries(choice: dict) -> list[dict] | None:
     if choice.get("scrape"):
         entries = scrape_page(choice["scrape"])
         return entries or None
-    fp = parse_feed(choice["feed"])
+    # a Google News search with no matches is a working source with nothing to show
+    fp = parse_feed(choice["feed"], allow_empty="news.google.com" in choice["feed"])
     return feed_entries(fp) if fp else None
 
 
@@ -368,6 +369,13 @@ def process(company: dict, cache: dict) -> tuple[list[dict], dict]:
     if entries is None and reused:            # cached source broke: rediscover once
         choice, reused = discover(company), False
         entries = fetch_entries(choice)
+    if entries is None and (company.get("rss") or company.get("scrape")):
+        # the configured feed/page refused GitHub's servers: fall back to the next source in line
+        alt = discover({**company, "rss": None, "scrape": None})
+        alt_entries = fetch_entries(alt)
+        if alt_entries is not None:
+            alt["method"] += " (own feed blocked)"
+            choice, entries, reused = alt, alt_entries, False
 
     choice.update({"sig": sig, "checked": choice["checked"] if reused else iso(now)})
     cache[name] = choice
