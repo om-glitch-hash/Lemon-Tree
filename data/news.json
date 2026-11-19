@@ -1,0 +1,1241 @@
+{
+ "updated": "2026-11-19T18:17:35Z",
+ "companies": {
+  "Celcuity": {
+   "site": "https://ir.celcuity.com/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Gedatolisib"
+    }
+   ],
+   "keywords": null
+  },
+  "Eli Lilly": {
+   "site": "https://investor.lilly.com/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Imlunestrant, Tersolisib (LY4064809 / STX-478)"
+    }
+   ],
+   "keywords": [
+    "imlunestrant",
+    "Inluriyo",
+    "tersolisib",
+    "LY4064809",
+    "STX-478",
+    "Scorpion",
+    "EMBER",
+    "PI3K",
+    "SERD",
+    "HR+",
+    "HR-positive",
+    "ER+",
+    "ER-positive",
+    "ESR1",
+    "PIK3CA"
+   ]
+  },
+  "Roche": {
+   "site": "https://www.roche.com/media/releases",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Giredestrant, Inavolisib (Itovebi)"
+    },
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 2,
+     "assets": "GDC-4198"
+    }
+   ],
+   "keywords": [
+    "giredestrant",
+    "Wilserdly",
+    "inavolisib",
+    "Itovebi",
+    "GDC-4198",
+    "RGT-419B",
+    "evERA",
+    "lidERA",
+    "persevERA",
+    "INAVO",
+    "HR-positive",
+    "ESR1",
+    "PIK3CA"
+   ]
+  },
+  "Genentech (Roche US)": {
+   "site": "https://www.gene.com/media/press-releases",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Giredestrant, Inavolisib (Itovebi)"
+    },
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 2,
+     "assets": "GDC-4198"
+    }
+   ],
+   "keywords": [
+    "giredestrant",
+    "Wilserdly",
+    "inavolisib",
+    "Itovebi",
+    "GDC-4198",
+    "RGT-419B",
+    "evERA",
+    "lidERA",
+    "persevERA",
+    "INAVO",
+    "HR-positive",
+    "ER-positive",
+    "ESR1",
+    "PIK3CA"
+   ]
+  },
+  "Olema Oncology": {
+   "site": "https://ir.olema.com/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Palazestrant"
+    },
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 3,
+     "assets": "OP-3136"
+    }
+   ],
+   "keywords": null
+  },
+  "Menarini Group / Stemline Therapeutics": {
+   "site": "https://www.menarini.com/en-us/news.html",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Elacestrant"
+    },
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 3,
+     "assets": "MEN2312"
+    }
+   ],
+   "keywords": [
+    "elacestrant",
+    "Orserdu",
+    "MEN2312",
+    "KAT6",
+    "ELEVATE",
+    "ELECTRA",
+    "ELCIN",
+    "ADELA",
+    "breast"
+   ]
+  },
+  "AstraZeneca": {
+   "site": "https://www.astrazeneca.com/media-centre/press-releases.html",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Camizestrant"
+    }
+   ],
+   "keywords": [
+    "camizestrant",
+    "Etcamah",
+    "SERENA",
+    "HR-positive",
+    "ER-positive",
+    "ESR1"
+   ]
+  },
+  "Pfizer": {
+   "site": "https://www.pfizer.com/newsroom/press-releases",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Atirmociclib, Prifetrastat, Vepdegestrant (development, with Arvinas)"
+    },
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 2,
+     "assets": "Tegtociclib"
+    }
+   ],
+   "keywords": [
+    "vepdegestrant",
+    "Veppanu",
+    "atirmociclib",
+    "tegtociclib",
+    "prifetrastat",
+    "PF-07220060",
+    "PF-07104091",
+    "PF-07248144",
+    "CDK4",
+    "CDK2",
+    "KAT6",
+    "breast"
+   ]
+  },
+  "Rigel Pharmaceuticals (Veppanu commercial rights)": {
+   "site": "https://www.rigel.com/investors/news-events/press-releases",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Vepdegestrant (Veppanu)"
+    }
+   ],
+   "keywords": [
+    "Veppanu",
+    "vepdegestrant",
+    "breast",
+    "ESR1"
+   ]
+  },
+  "Arvinas": {
+   "site": "https://ir.arvinas.com/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Vepdegestrant (Veppanu)"
+    }
+   ],
+   "keywords": [
+    "vepdegestrant",
+    "Veppanu",
+    "VERITAC",
+    "TACTIVE",
+    "breast",
+    "estrogen receptor",
+    "ER+",
+    "Rigel"
+   ]
+  },
+  "LeonaBio (ex-Athira; lasofoxifene licensee)": {
+   "site": "https://leonabio.gcs-web.com/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Lasofoxifene (rights outside Asia)"
+    }
+   ],
+   "keywords": [
+    "lasofoxifene",
+    "ELAINE",
+    "breast",
+    "Sermonix"
+   ]
+  },
+  "Sermonix Pharmaceuticals": {
+   "site": "https://sermonixpharma.com/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Lasofoxifene (originator; Asia rights)"
+    }
+   ],
+   "keywords": null
+  },
+  "Relay Therapeutics": {
+   "site": "https://ir.relaytx.com/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "Zovegalisib (RLY-2608)"
+    }
+   ],
+   "keywords": null
+  },
+  "Junshi Biosciences (TopAlliance)": {
+   "site": "https://www.junshipharma.com/en/news-center/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 1,
+     "assets": "JS105 (with Risen Pharma)"
+    }
+   ],
+   "keywords": [
+    "JS105",
+    "RP903",
+    "PI3K",
+    "breast",
+    "Risen"
+   ]
+  },
+  "Novartis": {
+   "site": "https://www.novartis.com/news/newsroom",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 2,
+     "assets": "SNV4818 (from Synnovation / Pikavation), ECI830"
+    }
+   ],
+   "keywords": [
+    "SNV4818",
+    "ECI830",
+    "Pikavation",
+    "Synnovation",
+    "PI3K",
+    "CDK2",
+    "Kisqali",
+    "ribociclib",
+    "HR+",
+    "HR-positive",
+    "breast"
+   ]
+  },
+  "Avenzo Therapeutics": {
+   "site": "https://avenzotx.com/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 2,
+     "assets": "ARTS-021 / AVZO-021"
+    }
+   ],
+   "keywords": null
+  },
+  "Carrick Therapeutics": {
+   "site": "https://www.carricktherapeutics.com/news-media/press-releases",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 2,
+     "assets": "Samuraciclib"
+    }
+   ],
+   "keywords": null
+  },
+  "Totus Medicines": {
+   "site": "https://www.totusmedicines.com/news",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 3,
+     "assets": "TOS-358"
+    }
+   ],
+   "keywords": null
+  },
+  "GenSci (Changchun GeneScience)": {
+   "site": null,
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 3,
+     "assets": "GenSci145"
+    }
+   ],
+   "keywords": null
+  },
+  "BeOne Medicines (ex-BeiGene)": {
+   "site": "https://beonemedicines.com/newsroom/",
+   "lists": [
+    {
+     "program": "Lemon Tree",
+     "list": "List A",
+     "priority": 3,
+     "assets": "BG-75202"
+    }
+   ],
+   "keywords": [
+    "BG-75202",
+    "CDK2",
+    "CDK4",
+    "breast"
+   ]
+  }
+ },
+ "assets": [
+  {
+   "name": "Gedatolisib",
+   "company": "Celcuity",
+   "terms": [
+    "gedatolisib",
+    "PF-05212384"
+   ]
+  },
+  {
+   "name": "Imlunestrant",
+   "company": "Eli Lilly",
+   "terms": [
+    "imlunestrant",
+    "LY3484356"
+   ]
+  },
+  {
+   "name": "Tersolisib",
+   "company": "Eli Lilly",
+   "terms": [
+    "tersolisib",
+    "LY4064809",
+    "STX-478"
+   ]
+  },
+  {
+   "name": "Giredestrant",
+   "company": "Roche",
+   "terms": [
+    "giredestrant",
+    "GDC-9545"
+   ]
+  },
+  {
+   "name": "Inavolisib",
+   "company": "Roche",
+   "terms": [
+    "inavolisib",
+    "GDC-0077"
+   ]
+  },
+  {
+   "name": "GDC-4198",
+   "company": "Roche",
+   "terms": [
+    "GDC-4198",
+    "RGT-419B",
+    "RO7840734"
+   ]
+  },
+  {
+   "name": "Palazestrant",
+   "company": "Olema Oncology",
+   "terms": [
+    "palazestrant",
+    "OP-1250"
+   ]
+  },
+  {
+   "name": "OP-3136",
+   "company": "Olema Oncology",
+   "terms": [
+    "OP-3136"
+   ]
+  },
+  {
+   "name": "Elacestrant",
+   "company": "Menarini Group / Stemline Therapeutics",
+   "terms": [
+    "elacestrant",
+    "RAD1901"
+   ]
+  },
+  {
+   "name": "MEN2312",
+   "company": "Menarini Group / Stemline Therapeutics",
+   "terms": [
+    "MEN2312"
+   ]
+  },
+  {
+   "name": "Camizestrant",
+   "company": "AstraZeneca",
+   "terms": [
+    "camizestrant",
+    "AZD9833"
+   ]
+  },
+  {
+   "name": "Vepdegestrant",
+   "company": "Pfizer / Arvinas / Rigel",
+   "terms": [
+    "vepdegestrant",
+    "ARV-471",
+    "PF-07850327"
+   ]
+  },
+  {
+   "name": "Atirmociclib",
+   "company": "Pfizer",
+   "terms": [
+    "atirmociclib",
+    "PF-07220060"
+   ]
+  },
+  {
+   "name": "Tegtociclib",
+   "company": "Pfizer",
+   "terms": [
+    "tegtociclib",
+    "PF-07104091"
+   ]
+  },
+  {
+   "name": "Prifetrastat",
+   "company": "Pfizer",
+   "terms": [
+    "prifetrastat",
+    "PF-07248144"
+   ]
+  },
+  {
+   "name": "Lasofoxifene",
+   "company": "LeonaBio / Sermonix",
+   "terms": [
+    "lasofoxifene"
+   ]
+  },
+  {
+   "name": "Zovegalisib",
+   "company": "Relay Therapeutics",
+   "terms": [
+    "zovegalisib",
+    "RLY-2608"
+   ]
+  },
+  {
+   "name": "JS105",
+   "company": "Junshi Biosciences",
+   "terms": [
+    "JS105",
+    "RP903"
+   ]
+  },
+  {
+   "name": "SNV4818",
+   "company": "Novartis",
+   "terms": [
+    "SNV4818"
+   ]
+  },
+  {
+   "name": "ECI830",
+   "company": "Novartis",
+   "terms": [
+    "ECI830"
+   ]
+  },
+  {
+   "name": "ARTS-021",
+   "company": "Avenzo Therapeutics",
+   "terms": [
+    "AVZO-021",
+    "ARTS-021",
+    "ARTS021"
+   ]
+  },
+  {
+   "name": "Samuraciclib",
+   "company": "Carrick Therapeutics",
+   "terms": [
+    "samuraciclib",
+    "CT7001"
+   ]
+  },
+  {
+   "name": "TOS-358",
+   "company": "Totus Medicines",
+   "terms": [
+    "TOS-358"
+   ]
+  },
+  {
+   "name": "GenSci145",
+   "company": "GenSci",
+   "terms": [
+    "GenSci145"
+   ]
+  },
+  {
+   "name": "BG-75202",
+   "company": "BeOne Medicines",
+   "terms": [
+    "BG-75202"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "216980d6ee31f35f",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Presents Positive Preliminary Results from the Phase 1 Study of AVZO-1418, a Potentially Best-in-Class EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium",
+   "summary": "November 18, 2026 The post Avenzo Therapeutics Presents Positive Preliminary Results from the Phase 1 Study of AVZO-1418, a Potentially Best-in-Class EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium first appeared on Avenzo Therapeutics .",
+   "link": "https://avenzotx.com/press-releases/avenzo-therapeutics-presents-positive-preliminary-results-from-the-phase-1-study-of-avzo-1418-a-potentially-best-in-class-egfr-her3-bispecific-antibody-drug-conjugate-at-the-38th-eortc-nci-aacr-symp/",
+   "published": "2026-11-18T08:27:37Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "2b038ee235511c3e",
+   "company": "Novartis",
+   "title": "Novartis showcases hematology momentum and continued breast cancer leadership at ASH and SABCS",
+   "summary": "",
+   "link": "https://www.novartis.com/news/media-releases/novartis-showcases-hematology-momentum-and-continued-breast-cancer-leadership-ash-and-sabcs",
+   "published": "2026-11-18T06:06:02Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "404e7c6210845b58",
+   "company": "Genentech (Roche US)",
+   "title": "FDA Approves Genentech’s WILSERDLY (Giredestrant), a Next-Generation Oral SERD, for ER-Positive, ESR1-Mutated Advanced Breast Cancer",
+   "summary": "",
+   "link": "https://www.gene.com/media/press-releases/15144/2026-11-16/fda-approves-genentechs-wilserdly-girede",
+   "published": "2026-11-16T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "a1565d856f4bf373",
+   "company": "Roche",
+   "title": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer - Roche",
+   "summary": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer Roche",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BQ2RoeXRvQ1o0TTh5aUJwaXNrUVFEeHViMlk5aGpDQjlmbjQybGExd1A0cktCRlR3dmlnaUVlcUZwM1NyME42X0paXzlqcmhFN3hrN2pxa0p1NmdEQlRBREVNZzZzVkk?oc=5",
+   "published": "2026-11-15T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b17f9107dde70f47",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Corporate Presentation – Nov 2026",
+   "summary": "https://avenzotx.com/wp-content/uploads/Avenzo-Therapeutics-Corporate-Presentation-November-2026.pdf The post Avenzo Therapeutics Corporate Presentation – Nov 2026 first appeared on Avenzo Therapeutics .",
+   "link": "https://avenzotx.com/2026/avenzo-therapeutics-corporate-presentation-nov-2026/",
+   "published": "2026-11-11T18:55:52Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "7631326f38c12357",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
+   "summary": "November 9, 2026 The post Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London first appeared on Avenzo Therapeutics .",
+   "link": "https://avenzotx.com/press-releases/avenzo-therapeutics-to-participate-in-the-2026-jefferies-global-healthcare-conference-in-london/",
+   "published": "2026-11-09T20:42:13Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "1e59d30985cb03b8",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics to Participate at Upcoming Investor Conferences",
+   "summary": "November 3, 2026 The post Avenzo Therapeutics to Participate at Upcoming Investor Conferences first appeared on Avenzo Therapeutics .",
+   "link": "https://avenzotx.com/press-releases/avenzo-therapeutics-to-participate-at-upcoming-investor-conferences/",
+   "published": "2026-11-03T23:13:53Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "a8d044c90d93a1c5",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics to Present Preliminary Phase 1 Results from ORION-1 Study of AVZO-023, a Selective CDK4 Inhibitor, at the 2026 San Antonio Breast Cancer Symposium",
+   "summary": "October 30, 2026 The post Avenzo Therapeutics to Present Preliminary Phase 1 Results from ORION-1 Study of AVZO-023, a Selective CDK4 Inhibitor, at the 2026 San Antonio Breast Cancer Symposium first appeared on Avenzo Therapeutics .",
+   "link": "https://avenzotx.com/press-releases/avenzo-therapeutics-to-present-preliminary-phase-1-results-from-orion-1-study-of-avzo-023-a-selective-cdk4-inhibitor-at-the-2026-san-antonio-breast-cancer-symposium/",
+   "published": "2026-10-30T17:46:10Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "cdf80902a615464e",
+   "company": "AstraZeneca",
+   "title": "Medicines: Oncology Portfolio and Pipeline - AstraZeneca",
+   "summary": "Medicines: Oncology Portfolio and Pipeline AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTFRUVBzRldOc3lZZi1aUXB1YmFQcnhGVTE2bGhRMzNybjVWLWpuNDRreUtkZ1BzV1VfS2RHRnpyR2ZYaVVYaXJsSTUwY0tLbDBOTkVTRklZN0R5dkItdFNNYndYUWFnTkdGZ0tEMHNoT1IzNjhRUlhZNzhKeVhnT0pGMjRvNngzaGpfTDhQeEUyVENncEYxWWxHZw?oc=5",
+   "published": "2026-10-19T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c996f3a89019db39",
+   "company": "AstraZeneca",
+   "title": "Externally Sponsored Scientific Research - AstraZeneca",
+   "summary": "Externally Sponsored Scientific Research AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcm90QVJHTXNfRVI4Q2dtSGVtdHpBSEJGS2R0am5ZT2ZDcVVPVEtIUmcyLXFaaHotaC03QUw0dzhqWkk3VnVDeTdEWGh5WU9DMXpFSXZSdG9vcjE3NV9KZU1hNHRyT21GSWVQYVJfZlczblF0S2RRYjRNcVFIMTFoRWlidlpPWGhEOG0tMw?oc=5",
+   "published": "2026-10-19T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6c3a6b521608e980",
+   "company": "Roche",
+   "title": "Roche to present pivotal data at ESMO 2026, showcasing advances across its lung and breast cancer late-stage portfolio - Roche",
+   "summary": "Roche to present pivotal data at ESMO 2026, showcasing advances across its lung and breast cancer late-stage portfolio Roche",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0SWxpVGljeGxVbGRKTHd2OFhmOVpBSVZMa0ZYeFJON3ozY0J6OE0xYktPelV2VHNBczRCeDg4OFVpanBKbkJkWTZyaWVZOEhqQVRNOE1PU1ZxVGtuV2E0M3VpTUlYUQ?oc=5",
+   "published": "2026-10-18T07:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "59b841a94a5ad4d8",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Announces Oral Presentation of Phase 1 Data for VBC103 (AVZO-103), a Potentially Differentiated Nectin-4/TROP2 Bispecific Antibody-Drug Conjugate, by Partner VelaVigo at ESMO Asia Congress 2026",
+   "summary": "October 13, 2026 The post Avenzo Therapeutics Announces Oral Presentation of Phase 1 Data for VBC103 (AVZO-103), a Potentially Differentiated Nectin-4/TROP2 Bispecific Antibody-Drug Conjugate, by Partner VelaVigo at ESMO Asia Congress 2026 first appeared on Avenzo Therapeutics .",
+   "link": "https://avenzotx.com/press-releases/avenzo-therapeutics-announces-oral-presentation-of-phase-1-data-for-vbc103-avzo-103-a-potentially-differentiated-nectin-4-trop2-bispecific-antibody-drug-conjugate-by-partner-velavigo-at-esmo-asia/",
+   "published": "2026-10-13T18:44:33Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "9b34e43e07fbdbaa",
+   "company": "Pfizer",
+   "title": "Pfizer’s TUKYSA Regimen Receives FDA Approval as Front-Line Maintenance Treatment for HER2+ Metastatic Breast Cancer",
+   "summary": "",
+   "link": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-tukysa-regimen-receives-fda-approval-front-line",
+   "published": "2026-10-07T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "c9925b2e28fd5eea",
+   "company": "Genentech (Roche US)",
+   "title": "Genentech’s Giredestrant Combination Significantly Improved Progression-Free Survival in ER-Positive Advanced Breast Cancer in Phase III evERA Data Published in The New England Journal of Medicine",
+   "summary": "",
+   "link": "https://www.gene.com/media/press-releases/15132/2026-09-30/genentechs-giredestrant-combination-sign",
+   "published": "2026-09-30T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "90d24182b16378d5",
+   "company": "Roche",
+   "title": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine - Roche",
+   "summary": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine Roche",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82UlFuRkhfME8zT3VpZlI3R3MtLWY4RE9ENlFodkVtdlNrM2ljdXlTa21NR3RmRGtnMGVpaC1NaVpLd0lHZFhaQi0zbmUyZ2gtby1kY2JEdWc1dW1rOUJLRTJfZkVldw?oc=5",
+   "published": "2026-09-30T07:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "55d1193467a6993d",
+   "company": "Roche",
+   "title": "Clinical trial for Early Breast Cancer, Estrogen Receptor... - ForPatients",
+   "summary": "Clinical trial for Early Breast Cancer, Estrogen Receptor... ForPatients",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMy1jdmtKc1lPTF9BSXJWV2Y5SUlCM3Q0aF9BLVRZcEhfOEJNOVpjZGZaaDdtNEV5VFZBY3pkUnRORUp2NGgxQnRJSHJJNkpJb2I5SGdUaVpYUmVDbzFjNVJZS1pZNVpIc3pVV0tqRmItNms3Rm12S19STzFVTUhzMWZBQnBFeEFqd2Nsc3Nja29rYVQ2X1FMelItSS02YWc0WWRNMVc1R1dPUEd4dDhzM0ZuWFdPZTQ?oc=5",
+   "published": "2026-09-25T11:01:18Z",
+   "outlet": "ForPatients",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "42e33865c6ca7679",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Expands Leadership Team",
+   "summary": "September 28, 2026 The post Avenzo Therapeutics Expands Leadership Team first appeared on Avenzo Therapeutics .",
+   "link": "https://avenzotx.com/press-releases/avenzo-therapeutics-expands-leadership-team/",
+   "published": "2026-09-24T18:40:10Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "d73028810d2fb916",
+   "company": "AstraZeneca",
+   "title": "Update on SERENA-4 Phase III trial of Etcamah in combination with palbociclib in upfront 1st-line advanced ER-positive breast cancer - AstraZeneca",
+   "summary": "Update on SERENA-4 Phase III trial of Etcamah in combination with palbociclib in upfront 1st-line advanced ER-positive breast cancer AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWhSaDhaTjlmSXpwNVZTRWg3ZWlRTmhzWmY1cjZuellfcHRsSVMyVkZESm5IY2RBSjdxNGJSNEpxYThwR0FvS1ppLXdJaXRKNTlwdC1CTlpWTU1oUjlLam9ZN1VNZXdXOUlXYzl3bFZsM0dvbDF2cHlwSjBXbUFjT0FVMkhnZ0s3OE9FamhJaEY2bl9fb1pxVDlYcnJkdw?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "af149f4e9cce627f",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics to Present Preliminary Phase 1 Study Results of AVZO-1418, a Potentially Differentiated EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium",
+   "summary": "September 10, 2026 The post Avenzo Therapeutics to Present Preliminary Phase 1 Study Results of AVZO-1418, a Potentially Differentiated EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium first appeared on Avenzo Therapeutics .",
+   "link": "https://avenzotx.com/press-releases/avenzo-therapeutics-to-present-preliminary-phase-1-study-results-of-avzo-1418-a-potentially-differentiated-egfr-her3-bispecific-antibody-drug-conjugate-at-the-38th-eortc-nci-aacr-symposium/",
+   "published": "2026-09-09T21:46:27Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "67a6320ff670772b",
+   "company": "AstraZeneca",
+   "title": "Etcamah in combination with a CDK4/6 inhibitor approved in the US for 1st-line advanced HR-positive breast cancer - AstraZeneca",
+   "summary": "Etcamah in combination with a CDK4/6 inhibitor approved in the US for 1st-line advanced HR-positive breast cancer AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVFDelk3aXVrNHhvWWhOdWFkS2dZZkVONUVRdGJlMzhRNG5BYWpERVM4Rjdrck84ellNbmdOVzNxOFhQUlp4azZQY0otWlgzWDZNMTAyZHFJQWVjMVlId2pnNWxUaEVIendLY294bVhtSTAwS1NhbWRxVEtxYmV2V2VTc0tSNWlCU0RDX2NtSGpXeTl3NHdFcG90ZGZYSmhITnNrOEdnbmxEZw?oc=5",
+   "published": "2026-09-04T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "78d0dccf0cd04e3d",
+   "company": "Roche",
+   "title": "Country Medical Manager (Giredestrant) — 上海, 中国大陆 | 罗氏医学事务 - Roche",
+   "summary": "Country Medical Manager (Giredestrant) — 上海, 中国大陆 | 罗氏医学事务 Roche",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTzZmR3RNNXVDTWp6X25ZTWV0ejdmYUNzZGNKZjA3ZEZDUlZhb2RoeTZuYmx1T0ktbXpaTXNrWGEzZDcxUFZCcVZNWUJWeXh1ZERVNUpVWHJYQWFKSmttRHh2eEdTa3BjSG41LTZGaktoOWpvakNYWElxMXZxeHlPcnBHOWVGX1hDN1pBX3d1Zw?oc=5",
+   "published": "2026-08-13T18:54:39Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "4bc157ecf64e3e22",
+   "company": "Rigel Pharmaceuticals (Veppanu commercial rights)",
+   "title": "Rigel Announces Availability of VEPPANU™ (vepdegestrant) for Patients with ER+/HER2-, ESR1-Mutated Advanced or Metastatic Breast Cancer",
+   "summary": "",
+   "link": "https://www.rigel.com/investors/news-events/press-releases/detail/445/rigel-announces-availability-of-veppanu-vepdegestrant",
+   "published": "2026-08-13T12:05:00Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "744cb1b1d48d1e62",
+   "company": "Roche",
+   "title": "Country Medical Manager (Giredestrant) in Shanghai, Shanghai, China's Mainland | Medical Affairs at Roche - Roche",
+   "summary": "Country Medical Manager (Giredestrant) in Shanghai, Shanghai, China's Mainland | Medical Affairs at Roche Roche",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEN4Z0J5cVFZbS0zVERUVS1LV2F2bWtpWk52bmJydVBZVUFBQ3RKRUdVbHZxY2M5ZTFjNlhxaHVQbGZaaDVSZXdJTWEwMTR0R0cyT3Iyd3RxZUcyaU5sSVlPTnlXeXJza1RBZDZEb09HalZjMC0tdGlVZXhwMDV6X2xLU2x5aG5PWWNaSWhhOU1Td2hmendOcEotZVUwVmFoYi04SXVZenFQOEFLM21iOVoxd1A5UQ?oc=5",
+   "published": "2026-08-13T10:53:15Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "43ea269fddad3de7",
+   "company": "AstraZeneca",
+   "title": "Datroway approved in the EU as only TROP2-directed medicine with overall survival benefit for the 1st-line treatment of patients with metastatic TNBC who are not candidates for immunotherapy - AstraZeneca",
+   "summary": "Datroway approved in the EU as only TROP2-directed medicine with overall survival benefit for the 1st-line treatment of patients with metastatic TNBC who are not candidates for immunotherapy AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkMtVmt5U1Z1VVVZa2VhRk44Y1huQTFJZHY5bWhCRkhFMkhHS29ILTE2ek1nZjRueEhNSFVHdXRYS2VnQlMzV2V2a2dPYWFqMi1tMmowSHhzZ0pCTWdYSnowSTlfV2l3SWxHSXFFY1ZrSnJSZ0F5VkNVcGc0M2hPNXREZjVPYktHdFlMbEtzclZpSnl2aS1JRGFqUE9lNFk?oc=5",
+   "published": "2026-07-31T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "3f41e17f8d6c8eca",
+   "company": "AstraZeneca",
+   "title": "Etcamah (camizestrant) in combination with a CDK4/6 inhibitor approved in the EU for 1st-line advanced ER-positive breast cancer - AstraZeneca",
+   "summary": "Etcamah (camizestrant) in combination with a CDK4/6 inhibitor approved in the EU for 1st-line advanced ER-positive breast cancer AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNG5WS3d0QlhQM29JMEJjN2VFWkE0ZGxFaUpkNFMyTklycF9QV0hBUUt6LTlteDBwdTJ0cHhwdTNyWE9vZzZndkdiemMwaFhGS3BzZkZQNmhLanV5Ykg0Z0pLRTBzRjMzRTExY3paby1ObjRiaFBaQzNOVHZSX1F2MVdOaG1oQUx2SnhvekNRNkpCejBhZ0M0WkFycDRHZnpwZ1Q4VVFYcW9WaDA2bEVlUkFBOTZVM2syTzVSVWYwRnBRVlRpZGJCc0pmbG9CSzd1MmhvMlQzN2ktSXE0XzdtMEY1aDB1VkdqdUJVNUxDYzRlWTFzd0hv?oc=5",
+   "published": "2026-07-23T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "a9709e6c9fe9d8ef",
+   "company": "Roche",
+   "title": "Product Monograph Including Patient Medication Information - Roche",
+   "summary": "Product Monograph Including Patient Medication Information Roche",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PNzROM1FxVllxZmVwSWY5S0l2dTlnTDBKbHpMZUFMZEZBOHYtUno0UGtPSGgxaExxT0VTZGNzN0FiWXdtbmc?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "cf5b9b3256d75f5a",
+   "company": "AstraZeneca",
+   "title": "Datroway recommended for approval in the EU by CHMP as 1st-line treatment for patients with metastatic triple-negative breast cancer who are not candidates for immunotherapy - AstraZeneca",
+   "summary": "Datroway recommended for approval in the EU by CHMP as 1st-line treatment for patients with metastatic triple-negative breast cancer who are not candidates for immunotherapy AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHNENFNZTjVfR3R0d2p6VWR3TWhuTVU5VEJjUVhFdWN0eXVrN3hfdF9qdXVxZVgwMXVkLTFfTEJFYjZmMjI0MGxyQ2dNdlRrTXlZZXdpQVdBTEpvelM4WVB2QVItTld5ZWxYU3JQYnJOSk55TXp2QUxHY2FVZ1JXWFBmZnJFTDQ0b2pVUFNYMVVMSmE3X2xFOEk4aFl6TWZZaXJCMUQ4ZFNkWV94M0Z1VkxiaW0?oc=5",
+   "published": "2026-06-26T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "48636b0536817bec",
+   "company": "Roche",
+   "title": "Roche’s Investor Event at ASCO 2026 - Roche",
+   "summary": "Roche’s Investor Event at ASCO 2026 Roche",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LNTREMll0a1pEZlA1VHljdGRaZVNlUFFMVGVSTERmVUdscnhhZG1wSHlNckdtZ2dndFRMSExldktaaWM5aXBENkNQdWZNRzB1YmxrWjg1eFQzc25p?oc=5",
+   "published": "2026-06-02T18:13:10Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "99cbb96e7682485a",
+   "company": "AstraZeneca",
+   "title": "Camizestrant combination delayed time to first progression by 55% and to second progression by 37% in patients with advanced HR-positive breast cancer with an emergent ESR1 tumour mutation in SERENA-6 trial - AstraZeneca",
+   "summary": "Camizestrant combination delayed time to first progression by 55% and to second progression by 37% in patients with advanced HR-positive breast cancer with an emergent ESR1 tumour mutation in SERENA-6 trial AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNTldzbXROTjZwcE5kdV9WMDBUd243ZGpjRm9odmFOaGdMUVlIbXhTYlRZMUw5enQ3anVYRUZ1ZmVZdzBPOXpybE5RRDVfeFlHSzFwMU92Rlg1S3ktTkxITTZWZTNjelBqeHQ4Y1k5S0pkdU5UWG1DUmxxUUZxdnVQNlgtcnAzVi1FbUJmWUlTSi0wYVFEeTNsRkxJSUtWU3F6UlVPejdiTG01cHh5Y0FVZE5rVExaUFhrVl9SQmFfeENoYkZ1NHFWejlabm02cWtIcUwycmxrenBBaVpmVlkzdUhUSDlKd2ZUa3BvNmdXVmtmRUt2RXJNRXB5TEM4aVl2WjJ6RnNadnlVSDU2R0FDaGNiZjhUdEQ0TFJ2dHk3ZEliN2JYNW9OUlcxa3NxQQ?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "28b40bea80e503ec",
+   "company": "Genentech (Roche US)",
+   "title": "FDA Accepts New Drug Application for Genentech’s Giredestrant in ER-Positive Early-Stage Breast Cancer, the First and Only Oral SERD With Positive Phase III Results in the Curative Setting",
+   "summary": "",
+   "link": "https://www.gene.com/media/press-releases/15115/2026-06-01/fda-accepts-new-drug-application-for-gen",
+   "published": "2026-06-01T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "de830b50c3a1a008",
+   "company": "Roche",
+   "title": "FDA accepts New Drug Application for Roche’s giredestrant in ER-positive early-stage breast cancer, the first and only oral SERD with positive phase III results in the curative setting - Roche",
+   "summary": "FDA accepts New Drug Application for Roche’s giredestrant in ER-positive early-stage breast cancer, the first and only oral SERD with positive phase III results in the curative setting Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBudmhzT2NVc2pGd3FfZl9yUlVrdHJBcHQxcXZJajVUWmpVeEJUMEF4MVZfcnNEdmhtTmJOZ0ZMbTFIUFFTbnJUam1XVWM4Z3RiNUJYeUNhS2M2UlNsZUpfVUpyajBMeDNoVWk0N0F3?oc=5",
+   "published": "2026-06-01T07:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "69b37c728e65517d",
+   "company": "AstraZeneca",
+   "title": "US FDA decision date extended for SERENA-6 filing of camizestrant to enable review of additional data - AstraZeneca",
+   "summary": "US FDA decision date extended for SERENA-6 filing of camizestrant to enable review of additional data AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOenRJS1dmY1JYTG1zVEVQUmhRUmtBQzRTMEo2OTJBRE5uWk5xTEo4dXgzaUxzWFZ1cEIxX21FWjk1VElOcmFGVmNRQUNjSjF4eU8xQnJNdjJOMmw4TktTT05ETzFKZW5ubG1qcnVCZW43Tnlrdko0cVI5UU9vVVFnZTJibU9YOEZnZTNpTFF0dEdUQ3VGMVpkMXZLQWI5bEtMUmw5Zi1EV3JqY3M5?oc=5",
+   "published": "2026-05-27T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "9fe9c2496d717db7",
+   "company": "AstraZeneca",
+   "title": "Camizestrant in combination with a CDK4/6 inhibitor recommended for approval in the EU by CHMP for 1st-line advanced ER-positive breast cancer - AstraZeneca",
+   "summary": "Camizestrant in combination with a CDK4/6 inhibitor recommended for approval in the EU by CHMP for 1st-line advanced ER-positive breast cancer AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEM3ZkZiT0NHMlNnQjEzcWRUR0dQQWdUdUFfeGY2NV9kcGJUa21DVWlSdUhMUDdVN29RaW5JeFR1TDZhV1ZCRWVqT1Q0ZDdZZnZGSC1aTUx2OE5HMXkwU1hSRDZlTkpFVFluUTNOZHVjekUzaTFISmRmT1BwTjRMWExxLWVDZS12MENpNjZpcmVYRDMwVDlhS1BPMDBXU05vRmNmNlQ1aldoUDlrS280b3J2OEo?oc=5",
+   "published": "2026-05-22T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1981bcc5040d58c1",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca to showcase Phase III data in liver, breast and bladder cancers and potential first-in-class rare disease therapy at ASCO 2026 - AstraZeneca",
+   "summary": "AstraZeneca to showcase Phase III data in liver, breast and bladder cancers and potential first-in-class rare disease therapy at ASCO 2026 AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOG5RQU1PMU1IMzExRElkamliMFV0R2wtcUhjN3F0WTdwbzVHMVpMcFlUbER3aEZoeEhlbzdHazN5V2RHTmtFcXNsYnU5VkJRdGhGVEl1UGQ3cWdHS2pCU2g1dFBfVTlTb0F5dmxwQkF4S0RUV0E1WXB6ZTJJb1ozS3N3NTVaaEF0LWszWkpabTd4YkR5Q2lOaUJWdzkzSUNJQ3NjRVFoVUlXbHZmOTZPTlpmNms5a0dS?oc=5",
+   "published": "2026-05-22T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ae29e057a49b9926",
+   "company": "AstraZeneca",
+   "title": "Datroway approved in the US as first TROP2-directed antibody drug conjugate for 1st-line treatment of patients with metastatic triple-negative breast cancer who are not PD-1/PD-L1 inhibitor candidates - AstraZeneca",
+   "summary": "Datroway approved in the US as first TROP2-directed antibody drug conjugate for 1st-line treatment of patients with metastatic triple-negative breast cancer who are not PD-1/PD-L1 inhibitor candidates AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEpYdWUtelUxSkhNVTdFaDZKdUxlRUt4OXVlTnZNNFNHODFqMmxWbkZWcHpBVzhuU3ViUFEySHJaa29SMnRzeThZdDA1LXhVLW13OXhORU05R2cyaE5wbFZxbkF6NmQ0RWdzcmx0SWRyQnpuMGtfWjRtR29ZM3l3dTUyZDgyQ2VpQk5uZExpUkFZdmd3blR1YWlfblg2OFhnTVhZU0dfR0VuMGpaeGlJUGVxR0VnUQ?oc=5",
+   "published": "2026-05-22T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "51ba8d6c32488e75",
+   "company": "Genentech (Roche US)",
+   "title": "Genentech to Present New Data at ASCO 2026, Reinforcing Giredestrant's Potential to Transform the Treatment Paradigm in Early Breast Cancer",
+   "summary": "",
+   "link": "https://www.gene.com/media/press-releases/15113/2026-05-18/genentech-to-present-new-data-at-asco-20",
+   "published": "2026-05-18T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "f1054352b95370e0",
+   "company": "Roche",
+   "title": "Roche to present new data at ASCO 2026, reinforcing giredestrant's potential to transform the treatment paradigm in early breast cancer - Roche",
+   "summary": "Roche to present new data at ASCO 2026, reinforcing giredestrant's potential to transform the treatment paradigm in early breast cancer Roche",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54Q29oZm5qb2lRTVZ1cW1WczZSUUdsM25QRkRBZTZ4TXhfQlA4Ti16WVF2cXJHUXlNNXY2RWMzTnhQQnYwaXN2Uk44WFZwNU1HQ0tlbkxnY2hNU1lxazFqeVF1Y0E0UQ?oc=5",
+   "published": "2026-05-18T07:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "359415e50417ca01",
+   "company": "AstraZeneca",
+   "title": "Enhertu approved in the US for two new indications for patients with HER2-positive early breast cancer - AstraZeneca",
+   "summary": "Enhertu approved in the US for two new indications for patients with HER2-positive early breast cancer AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalJnZlRESGE0enQ3eEcwTnk4RzNLeFZjZEN3dzRIVnpYWldQeWpaZi05Q2Y1YXgwWmtxM2ctaklTMzFueWhxYWdvbGtYSnFPV3lZSjJSeEhYYVR4N1p6dl8zb1BWbFBDLXdNczRXby1RUy16QWh0WFRvcWpYNWVGcHR5OGgzTHQ1d2NSVVpTSEg4Z0d4bThrVVZmLTRCMjhFanE5azBZWEFiNHZnYUtTcHdB?oc=5",
+   "published": "2026-05-15T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "f1541ac8abe865f9",
+   "company": "Totus Medicines",
+   "title": "Totus Medicines Presents Early Phase 1b Clinical Data Demonstrating 100% Disease Control Rate and Class-Leading Safety for TOS-358 + Fulvestrant Doublet Therapy in HR+/HER2- Breast Cancer at ESMO Breast Cancer Annual Congress 2026",
+   "summary": "",
+   "link": "https://www.totusmedicines.com/article?url=totus-medicines-presents-early-phase-1b-clinical-data-demonstrating-100-disease-control-rate-and-class-leading-safety-for-tos-358-fulvestrant-doublet-therapy-in-hr-her2-breast-cancer-at-esmo-breast-cancer-annual-congress-2026",
+   "published": "2026-05-06T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "4c4c375109797813",
+   "company": "Totus Medicines",
+   "title": "Totus Medicines to Present Interim Phase 1b Clinical Data for TOS-358 + Fulvestrant Doublet Therapy in HR+/HER- Breast Cancer Patients at ESMO Breast Cancer Annual Congress 2026",
+   "summary": "",
+   "link": "https://www.totusmedicines.com/article?url=totus-tos-358-fulvestrant-breast-cancer-data",
+   "published": "2026-04-30T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "addbb2a9ebe2e003",
+   "company": "AstraZeneca",
+   "title": "Update on FDA Advisory Committee vote on camizestrant in combination with a CDK4/6 inhibitor for advanced HR-positive breast cancer - AstraZeneca",
+   "summary": "Update on FDA Advisory Committee vote on camizestrant in combination with a CDK4/6 inhibitor for advanced HR-positive breast cancer AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFluT3huVUl2bXBBdGRlUTFKUlZHOUt6THcwQjg5MThhVmctYmJ0cE9DVGZyQ1QzbDFkSmJXVmlsNzRQQkprd1RNMjZXb21FUEVvYTlqZHg0eE9pT1A1OU5Bdy1JYnZpR0NYakNtWG0xWVdjVHVTZmEzbGpwXzJUT0R3TlZCUGxUQ2ZQWTBoRUtfcm5WVzc0b0RRWWFCWGloQU5rZ3JYRTNTbXc1YVE?oc=5",
+   "published": "2026-04-30T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "05b157b8b6657dc8",
+   "company": "Roche",
+   "title": "ITOVEBI® - Roche",
+   "summary": "ITOVEBI® Roche",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMldEVV8yY1RGR2ljdFotZEU5TGpHRDBOemE3Nld3VUczTjlUcGJheHpyWVVscXVnX01kRVpSenJBTkVEajVGbmU0V3VxUzZXQ1p5c0k3eFViYV9wc3ZMeXcwUV9zdXBXNDByOFd6azNfZTFRT1J0MGtTTDBoUUktLUttVUp5dw?oc=5",
+   "published": "2026-04-21T17:15:53Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "923d31ac582df427",
+   "company": "Totus Medicines",
+   "title": "Totus Medicines to Present First-in-Class Covalent IRF5 Inhibitor Data at AAI IMMUNOLOGY2026",
+   "summary": "",
+   "link": "https://www.totusmedicines.com/article?url=totus-medicines-to-present-first-in-class-covalent-irf5-inhibitor-data-at-aai-immunology2026",
+   "published": "2026-04-16T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "c543261b73780418",
+   "company": "Totus Medicines",
+   "title": "Totus Medicines Presents Phase 1a Clinical Data for TOS-358, a Covalent PI3Ka Inhibitor, at ESMO TAT 2026",
+   "summary": "",
+   "link": "https://www.totusmedicines.com/article?url=totus-medicines-presents-phase-1a-clinical-data-for-tos-358-a-covalent-pi3ka-inhibitor-at-esmo-tat-2026",
+   "published": "2026-03-18T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "8f8d607ea0cb956c",
+   "company": "AstraZeneca",
+   "title": "Enhertu granted Priority Review in the US as post-neoadjuvant treatment for patients with HER2-positive early breast cancer - AstraZeneca",
+   "summary": "Enhertu granted Priority Review in the US as post-neoadjuvant treatment for patients with HER2-positive early breast cancer AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNLV9LUUxjQ052aS03OHU1bkNRc2h1eTE0NlpUY2FFRDZ5bWVDT3E2Q2YyZVRXYUlEMnVwc0VRY090dGloTDQwN2NCT3NCT1pzWURVd1pNd0szODFoODhYVUVYckE3QUlkTHA1Tkd3RzNVdDNGUjlWbG5xUlQyMEgyMHBfdFhDbzUzTHNPTmw1RlRLa3hlYW56emF3alFwQmJtZUJPNENtUWNCcjBQY1dlVWZkWlBJck5oVHc5aC1ERnEweXYwX0V5ODhmV0YweFNfc3pQbG1xaVU1Q3g1c2NCWDhJcnpnZERCSUthSDkyYzEtTU42dGFoS1l2cFl4NHVrX3hVUGM0TVk2VUNnTjZGT0djMTN3Um9E?oc=5",
+   "published": "2026-03-09T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e9a8d6e0b15a0e88",
+   "company": "Genentech (Roche US)",
+   "title": "Genentech Provides Update on Phase III persevERA Study in ER-Positive Advanced Breast Cancer",
+   "summary": "",
+   "link": "https://www.gene.com/media/press-releases/15106/2026-03-08/genentech-provides-update-on-phase-iii-p",
+   "published": "2026-03-08T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "10b2e08a063a8b8f",
+   "company": "Roche",
+   "title": "[Ad hoc announcement pursuant to Art. 53 LR] Roche provides update on phase III persevERA study in ER-positive advanced breast cancer - Roche",
+   "summary": "[Ad hoc announcement pursuant to Art. 53 LR] Roche provides update on phase III persevERA study in ER-positive advanced breast cancer Roche",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wNmE3RkZnd01VOFZFRnFfb251WmtsMVNZblZmdHo5a2ZvWXp0Z0JrVVFjaXBqTkc0bEhzWWowV0E3MnV6ZDZ3ZENTS0t2eHRFZ2NGWTJ4NklOZkpTLUJ6UzE4ZEZKZw?oc=5",
+   "published": "2026-03-08T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "4b733f2088d8d468",
+   "company": "AstraZeneca",
+   "title": "We follow the science and put patients first - AstraZeneca",
+   "summary": "We follow the science and put patients first AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONG55UnM2MVF0YlVYVlJ1dXBHVTJoMFJseWp2ZzNFa1FtOWxOSENYTF9hOV9kVWxqYnpka1VwRTlQc0dON2F2aC1aV21zbU5aTjZxT1ZsVXRKUXpUQUl0WWJEMUg0Z1BscWtyS3NiTThpT3FvZDJXbjlOTGVTMTVGVjlPV0dpR20yNmJ2VlZCTUE2ZGFDLUE2RFQtNkx0V2pBSEI2YXhSUWNTdjVTdjBMbktaSDBZOC1DbUV3cW5XOEVRZkk3?oc=5",
+   "published": "2026-02-24T16:31:24Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "0a9e6da09d08ee9d",
+   "company": "Roche",
+   "title": "FDA accepts New Drug Application for Roche’s giredestrant in ESR1-mutated, ER-positive advanced breast cancer - Roche",
+   "summary": "FDA accepts New Drug Application for Roche’s giredestrant in ESR1-mutated, ER-positive advanced breast cancer Roche",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MZnJhalFrbmp3Q1lxV3ZyS3lqZHFtd3VYdGo4ZnFwNTgwekNlQ0xjNV92Z2kzd1FuYVBaTUxIbTFKMU83NGNNSVp6dEpTSDFWVUZxRnljV25zcFg4bW1jLUdqVFNUZw?oc=5",
+   "published": "2026-02-19T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1e9340d0910d3c52",
+   "company": "Totus Medicines",
+   "title": "Totus Medicines to Present Updated Phase 1 Clinical Data for TOS-358 at ESMO Targeted Anticancer Therapies Congress 2026",
+   "summary": "",
+   "link": "https://www.totusmedicines.com/article?url=totus-medicines-to-present-updated-phase-1-clinical-data-for-tos-358-at-esmo-targeted-anticancer-therapies-congress-2026",
+   "published": "2026-02-12T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "5ac51af166c8f087",
+   "company": "AstraZeneca",
+   "title": "IR Results Presentation - AstraZeneca",
+   "summary": "IR Results Presentation AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlo0bThmdnlKbmpmeUZwUUVwOXpBZjR1NjV0Q3Z4aEE1Mm5Ma1JzMnV5eVVVal9yVHBRTTlLZ3hsLWIydnlTN2RfR2RVWjV3S0RDX0Z6VHcwOXdCUkZnMjAtenF2ZlF5UWZKMGt6UlZvWGxfcWZ0eld5ZU9Ld0FJaDBQNW0tZTFHa042VHU5aU5mNG9mM0FwaFYwUlpIVXdMN3c?oc=5",
+   "published": "2026-02-10T08:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1c1f55cad9d104b7",
+   "company": "Roche",
+   "title": "Roche’s Annual Report 2025 - Roche",
+   "summary": "Roche’s Annual Report 2025 Roche",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdGt2YUhicHZ2aEo3ZzBYNXFXQ05QMU1XdENvckd4QjJYdFdlVUgzY0lSRDR3OHdKQlNGOWdPYWpMU05tQUszTjR0bU5DZm0tdzJJZXV0V3ZGQQ?oc=5",
+   "published": "2026-01-29T06:11:26Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "a34ed47f6492d8b7",
+   "company": "Roche",
+   "title": "Untitled - Roche",
+   "summary": "Untitled Roche",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTUTVxbXBQYTV6dGViTXVreDFxQ0JHa3hxYVI1TnR1Yy1Ud2VKaDVvUFRBWjVTd210bkd4TTZpUXlzYkFNUmg5OFZNZUlBaEYtbk00aVpTN1piNXV1WlRFZEZmUVJ1UGp0X0x1U0RJdWpGOHhBeXlBNGdn?oc=5",
+   "published": "2026-01-12T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6212f6ac64888ca5",
+   "company": "Sermonix Pharmaceuticals",
+   "title": "Athira Pharma Announces Name Change to LeonaBio, Inc. with New Ticker “LONA”",
+   "summary": "",
+   "link": "https://sermonixpharma.com/athira-pharma-announces-name-change-to-leonabio-inc-with-new-ticker-lona/",
+   "published": "2026-01-09T19:12:42Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "88445612fc37b7b3",
+   "company": "Totus Medicines",
+   "title": "Totus Medicines to Present at the 44th Annual J.P. Morgan Healthcare Conference",
+   "summary": "",
+   "link": "https://www.totusmedicines.com/article?url=totus-medicines-to-present-at-the-44th-annual-j-p-morgan-healthcare-conference",
+   "published": "2026-01-06T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": null
+  },
+  {
+   "id": "6903667f77a4252d",
+   "company": "AstraZeneca",
+   "title": "Enhertu granted Breakthrough Therapy Designation in the US as post-neoadjuvant therapy for patients with HER2-positive early breast cancer - AstraZeneca",
+   "summary": "Enhertu granted Breakthrough Therapy Designation in the US as post-neoadjuvant therapy for patients with HER2-positive early breast cancer AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnhfMUFZUTROSC11bWUxUHZoN3hneExFTGZHRDhkZmNKSTdSd0lCSUJqZnFhU0Y1ZmpfdnpTcTl4aTlua1FJRGJuOXBCWG5VMXBGZVF2OGV3VDlLTlYxazNPUzdjcF9TVFlCRHBNTEx6bDB0MWFRQ3FIb3UzWmN3TnRoYkFQYmpZWkNGYUNzU3k1TDduaHJiNG9EeVdlN205a2Z1NUhlVmpFNjkyOUFKaENvMDdZZw?oc=5",
+   "published": "2025-12-22T08:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "10aa037f6789c79f",
+   "company": "Sermonix Pharmaceuticals",
+   "title": "Athira Pharma Announces Exclusive License to Lasofoxifene Phase 3 Development Program for Metastatic Breast Cancer Candidate and a Financing for up to $236 Million",
+   "summary": "",
+   "link": "https://sermonixpharma.com/athira-pharma-announces-exclusive-license-to-lasofoxifene-phase-3-development-program-for-metastatic-breast-cancer-candidate-and-a-financing-for-up-to-236-million/",
+   "published": "2025-12-18T21:21:03Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "b0dd46b5d74f45bc",
+   "company": "Carrick Therapeutics",
+   "title": "Carrick Therapeutics Announces Positive Results from Phase 2 Randomized Trial of Samuraciclib in Combination with Fulvestrant in Patients with Hormone Receptor Positive, HER2 Negative Advanced Breast Cancer",
+   "summary": "",
+   "link": "https://www.carricktherapeutics.com/news-media/press-releases/detail/27/carrick-therapeutics-announces-positive-results-from-phase",
+   "published": "2025-12-10T18:30:00Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": null
+  },
+  {
+   "id": "6e4a293277352d20",
+   "company": "Roche",
+   "title": "Roche’s giredestrant reduced risk of invasive disease recurrence or death by 30% in ER-positive early-stage breast cancer - Roche",
+   "summary": "Roche’s giredestrant reduced risk of invasive disease recurrence or death by 30% in ER-positive early-stage breast cancer Roche",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vbWRqd19td1VPUll2Uk9LNkt2WUFXT08wM0ZCa2V1MG1ua01ENUpkMVlWOVZHZVhVUnRWbF9jcUJsWFAzOXNYQkVWaWxmMU1KM2ExdXZkZU1fVG1FMnVSLTNUR2pEQQ?oc=5",
+   "published": "2025-12-09T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  }
+ ]
+}
