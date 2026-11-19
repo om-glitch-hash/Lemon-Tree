@@ -2,7 +2,7 @@ name: Update competitor news
 
 on:
   schedule:
-    - cron: "*/15 * * * *"     # every 15 minutes (GitHub can delay scheduled runs at busy times)
+    - cron: "*/5 * * * *"      # every 5 minutes, GitHub's shortest schedule (it can delay or skip runs at busy times)
   workflow_dispatch:           # "Run workflow" button for an immediate refresh
   push:
     branches: [main]
