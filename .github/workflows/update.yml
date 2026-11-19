@@ -45,8 +45,10 @@ jobs:
             echo "No changes"
           else
             git commit -q -m "News update $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull -q --rebase --autostash -X theirs   # if two runs overlap, keep this run's data
-            git push -q
+            for i in 1 2 3; do   # retry if someone pushed in the meantime; if two runs overlap, keep this run's data
+              git pull -q --rebase --autostash -X theirs && git push -q && break
+              sleep 5
+            done
           fi
 
       # Publish the site (index.html + data/) to GitHub Pages
