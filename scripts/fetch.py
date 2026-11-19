@@ -546,8 +546,10 @@ def main() -> int:
 
     cutoff = iso(now - timedelta(days=KEEP_DAYS))
     known = {c["name"] for c in companies}
+    excl = {c["name"]: [x.lower() for x in (c.get("exclude") or []) + DEFAULT_EXCLUDE] for c in companies}
     items = [i for i in existing.values()
-             if i["company"] in known and (i["published"] or i.get("first_seen") or stamp) >= cutoff]
+             if i["company"] in known and (i["published"] or i.get("first_seen") or stamp) >= cutoff
+             and not any(x in i["title"].lower() for x in excl[i["company"]])]   # exclude words also clear old items
     items.sort(key=lambda i: i["published"] or i.get("first_seen") or "", reverse=True)
 
     meta = {c["name"]: {"site": c.get("site"), "lists": c.get("lists", []),
