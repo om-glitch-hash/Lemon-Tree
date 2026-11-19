@@ -1,0 +1,188 @@
+# Competitor newsroom tracker: master company and asset list
+#
+# Company fields
+#   name      Company name shown on the dashboard
+#   site      Company website / newsroom URL. The fetcher looks here for an RSS/Atom feed.
+#   rss       (optional) Exact feed URL. Used first when set.
+#   scrape    (optional) For newsrooms with no RSS: read the newsroom page itself.
+#             url = the press-release list page, pattern = text that every press-release link contains
+#   search    (optional) Google News query, used for small companies whose newsroom isn't indexed
+#   keywords  (optional) Only keep items that mention one of these words. Use for big,
+#             diversified companies so the feed only shows the tracked assets / indication.
+#   exclude   (optional) Drop items whose title contains one of these words
+#   verify    true = website not confirmed when the list was built; check the Sources tab
+#   lists     Where the company appears: program, list, priority (1 = High, 2 = Medium, 3 = Low), assets
+#
+# Asset fields (the `assets:` section at the bottom, used for the Trials tab)
+#   name      Asset name shown on the dashboard
+#   company   Company that owns or develops it
+#   terms     Names and codes searched as interventions on ClinicalTrials.gov
+#
+# To add a company or asset: copy a block, edit it, commit. The next run (within 15 min) picks it up.
+
+companies:
+
+# ---------------- Lemon Tree: List A ----------------
+- name: Celcuity
+  site: https://ir.celcuity.com/
+  rss: https://ir.celcuity.com/rss/news-releases.xml
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Gedatolisib"}
+
+- name: Eli Lilly
+  site: https://investor.lilly.com/
+  rss: https://investor.lilly.com/rss/news-releases.xml
+  keywords: [imlunestrant, Inluriyo, tersolisib, LY4064809, STX-478, Scorpion, EMBER, PI3K, SERD, HR+, HR-positive, ER+, ER-positive, ESR1, PIK3CA]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Imlunestrant, Tersolisib (LY4064809 / STX-478)"}
+
+- name: Roche
+  site: https://www.roche.com/media/releases
+  keywords: [giredestrant, Wilserdly, inavolisib, Itovebi, GDC-4198, RGT-419B, evERA, lidERA, persevERA, INAVO, HR-positive, ESR1, PIK3CA]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Giredestrant, Inavolisib (Itovebi)"}
+    - {program: Lemon Tree, list: List A, priority: 2, assets: "GDC-4198"}
+
+- name: Genentech (Roche US)
+  site: https://www.gene.com/media/press-releases
+  scrape: {url: "https://www.gene.com/media/press-releases", pattern: "/media/press-releases/\\d+/"}
+  keywords: [giredestrant, Wilserdly, inavolisib, Itovebi, GDC-4198, RGT-419B, evERA, lidERA, persevERA, INAVO, HR-positive, ER-positive, ESR1, PIK3CA]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Giredestrant, Inavolisib (Itovebi)"}
+    - {program: Lemon Tree, list: List A, priority: 2, assets: "GDC-4198"}
+
+- name: Olema Oncology
+  site: https://ir.olema.com/
+  rss: https://ir.olema.com/rss/news-releases.xml
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Palazestrant"}
+    - {program: Lemon Tree, list: List A, priority: 3, assets: "OP-3136"}
+
+- name: Menarini Group / Stemline Therapeutics
+  site: https://www.menarini.com/en-us/news.html
+  scrape: {url: "https://www.menarini.com/en-us/news.html", pattern: "news-detail/"}
+  keywords: [elacestrant, Orserdu, MEN2312, KAT6, ELEVATE, ELECTRA, ELCIN, ADELA, breast]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Elacestrant"}
+    - {program: Lemon Tree, list: List A, priority: 3, assets: "MEN2312"}
+
+- name: AstraZeneca
+  site: https://www.astrazeneca.com/media-centre/press-releases.html
+  keywords: [camizestrant, Etcamah, SERENA, HR-positive, ER-positive, ESR1]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Camizestrant"}
+
+- name: Pfizer
+  site: https://www.pfizer.com/newsroom/press-releases
+  scrape: {url: "https://www.pfizer.com/newsroom/press-releases", pattern: "press-release-detail/"}
+  keywords: [vepdegestrant, Veppanu, atirmociclib, tegtociclib, prifetrastat, PF-07220060, PF-07104091, PF-07248144, CDK4, CDK2, KAT6, breast]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Atirmociclib, Prifetrastat, Vepdegestrant (development, with Arvinas)"}
+    - {program: Lemon Tree, list: List A, priority: 2, assets: "Tegtociclib"}
+
+- name: Rigel Pharmaceuticals (Veppanu commercial rights)
+  site: https://www.rigel.com/investors/news-events/press-releases
+  rss: https://www.rigel.com/investors/news-events/press-releases/rss
+  keywords: [Veppanu, vepdegestrant, breast, ESR1]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Vepdegestrant (Veppanu)"}
+
+- name: Arvinas
+  site: https://ir.arvinas.com/
+  rss: https://ir.arvinas.com/rss/news-releases.xml
+  keywords: [vepdegestrant, Veppanu, VERITAC, TACTIVE, breast, estrogen receptor, ER+, Rigel]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Vepdegestrant (Veppanu)"}
+
+- name: LeonaBio (ex-Athira; lasofoxifene licensee)
+  site: https://leonabio.gcs-web.com/
+  rss: https://leonabio.gcs-web.com/rss/news-releases.xml
+  keywords: [lasofoxifene, ELAINE, breast, Sermonix]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Lasofoxifene (rights outside Asia)"}
+
+- name: Sermonix Pharmaceuticals
+  site: https://sermonixpharma.com/
+  rss: https://sermonixpharma.com/feed/
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Lasofoxifene (originator; Asia rights)"}
+
+- name: Relay Therapeutics
+  site: https://ir.relaytx.com/
+  rss: https://ir.relaytx.com/rss/news-releases.xml
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "Zovegalisib (RLY-2608)"}
+
+- name: Junshi Biosciences (TopAlliance)
+  site: https://www.junshipharma.com/en/news-center/
+  rss: https://www.junshipharma.com/en/feed/
+  keywords: [JS105, RP903, PI3K, breast, Risen]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 1, assets: "JS105 (with Risen Pharma)"}
+
+- name: Novartis
+  site: https://www.novartis.com/news/newsroom
+  scrape: {url: "https://www.novartis.com/news/newsroom"}
+  keywords: [SNV4818, ECI830, Pikavation, Synnovation, PI3K, CDK2, Kisqali, ribociclib, HR+, HR-positive, breast]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 2, assets: "SNV4818 (from Synnovation / Pikavation), ECI830"}
+
+- name: Avenzo Therapeutics
+  site: https://avenzotx.com/
+  rss: https://avenzotx.com/feed/
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 2, assets: "ARTS-021 / AVZO-021"}
+
+- name: Carrick Therapeutics
+  site: https://www.carricktherapeutics.com/news-media/press-releases
+  rss: https://www.carricktherapeutics.com/news-media/press-releases/rss
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 2, assets: "Samuraciclib"}
+
+- name: Totus Medicines
+  site: https://www.totusmedicines.com/news
+  scrape: {url: "https://www.totusmedicines.com/news", pattern: "article\\?url="}
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 3, assets: "TOS-358"}
+
+- name: GenSci (Changchun GeneScience)
+  site: null
+  search: '"GenSci145" OR ("GeneScience" ("PI3K" OR "breast cancer")) OR ("GenSci" "PI3K")'
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 3, assets: "GenSci145"}
+
+- name: BeOne Medicines (ex-BeiGene)
+  site: https://beonemedicines.com/newsroom/
+  scrape: {url: "https://beonemedicines.com/newsroom/", pattern: "ir\\.beonemedicines\\.com/news/"}
+  keywords: [BG-75202, CDK2, CDK4, breast]
+  lists:
+    - {program: Lemon Tree, list: List A, priority: 3, assets: "BG-75202"}
+
+
+# ---------------- Assets searched on ClinicalTrials.gov (Trials tab) ----------------
+assets:
+- {name: Gedatolisib, company: Celcuity, terms: [gedatolisib, PF-05212384]}
+- {name: Imlunestrant, company: Eli Lilly, terms: [imlunestrant, LY3484356]}
+- {name: Tersolisib, company: Eli Lilly, terms: [tersolisib, LY4064809, STX-478]}
+- {name: Giredestrant, company: Roche, terms: [giredestrant, GDC-9545]}
+- {name: Inavolisib, company: Roche, terms: [inavolisib, GDC-0077]}
+- {name: GDC-4198, company: Roche, terms: [GDC-4198, RGT-419B, RO7840734]}
+- {name: Palazestrant, company: Olema Oncology, terms: [palazestrant, OP-1250]}
+- {name: OP-3136, company: Olema Oncology, terms: [OP-3136]}
+- {name: Elacestrant, company: Menarini Group / Stemline Therapeutics, terms: [elacestrant, RAD1901]}
+- {name: MEN2312, company: Menarini Group / Stemline Therapeutics, terms: [MEN2312]}
+- {name: Camizestrant, company: AstraZeneca, terms: [camizestrant, AZD9833]}
+- {name: Vepdegestrant, company: Pfizer / Arvinas / Rigel, terms: [vepdegestrant, ARV-471, PF-07850327]}
+- {name: Atirmociclib, company: Pfizer, terms: [atirmociclib, PF-07220060]}
+- {name: Tegtociclib, company: Pfizer, terms: [tegtociclib, PF-07104091]}
+- {name: Prifetrastat, company: Pfizer, terms: [prifetrastat, PF-07248144]}
+- {name: Lasofoxifene, company: LeonaBio / Sermonix, terms: [lasofoxifene]}
+- {name: Zovegalisib, company: Relay Therapeutics, terms: [zovegalisib, RLY-2608]}
+- {name: JS105, company: Junshi Biosciences, terms: [JS105, RP903]}
+- {name: SNV4818, company: Novartis, terms: [SNV4818]}
+- {name: ECI830, company: Novartis, terms: [ECI830]}
+- {name: ARTS-021, company: Avenzo Therapeutics, terms: [AVZO-021, ARTS-021, ARTS021]}
+- {name: Samuraciclib, company: Carrick Therapeutics, terms: [samuraciclib, CT7001]}
+- {name: TOS-358, company: Totus Medicines, terms: [TOS-358]}
+- {name: GenSci145, company: GenSci, terms: [GenSci145]}
+- {name: BG-75202, company: BeOne Medicines, terms: [BG-75202]}
