@@ -147,7 +147,7 @@ companies:
 
 - name: GenSci (Changchun GeneScience)
   site: null
-  search: '"GenSci145" OR ("GeneScience" ("PI3K" OR "breast cancer")) OR ("GenSci" "PI3K")'
+  search: '"GenSci145" OR ("GeneScience" "PI3K") OR ("GenSci" "PI3K")'
   lists:
     - {program: Lemon Tree, list: List A, priority: 3, assets: "GenSci145"}
 
