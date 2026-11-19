@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:26:04Z",
+ "updated": "2026-11-19T18:55:28Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -820,6 +820,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "90d24182b16378d5",
+   "company": "Roche",
+   "title": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine - Roche",
+   "summary": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine Roche",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82UlFuRkhfME8zT3VpZlI3R3MtLWY4RE9ENlFodkVtdlNrM2ljdXlTa21NR3RmRGtnMGVpaC1NaVpLd0lHZFhaQi0zbmUyZ2gtby1kY2JEdWc1dW1rOUJLRTJfZkVldw?oc=5",
+   "published": "2026-10-01T07:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c9925b2e28fd5eea",
    "company": "Genentech (Roche US)",
    "title": "Genentech’s Giredestrant Combination Significantly Improved Progression-Free Survival in ER-Positive Advanced Breast Cancer in Phase III evERA Data Published in The New England Journal of Medicine",
@@ -828,17 +839,6 @@
    "published": "2026-09-30T12:00:00Z",
    "outlet": "",
    "method": "newsroom page (scraped)",
-   "first_seen": null
-  },
-  {
-   "id": "90d24182b16378d5",
-   "company": "Roche",
-   "title": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine - Roche",
-   "summary": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine Roche",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82UlFuRkhfME8zT3VpZlI3R3MtLWY4RE9ENlFodkVtdlNrM2ljdXlTa21NR3RmRGtnMGVpaC1NaVpLd0lHZFhaQi0zbmUyZ2gtby1kY2JEdWc1dW1rOUJLRTJfZkVldw?oc=5",
-   "published": "2026-09-30T07:00:00Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -1711,17 +1711,6 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
-   "id": "a34ed47f6492d8b7",
-   "company": "Roche",
-   "title": "Untitled - Roche",
-   "summary": "Untitled Roche",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51d2Q2SUZTOVhIZWsyVDBWZmlid1RoSXFSNXBGVFFrR0JSVjJ5MTlIVWxlZUxuSndHbjB0aUFvblNqRW5sMDIxSQ?oc=5",
-   "published": "2026-04-23T07:00:00Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cfff5001d0059444",
    "company": "Celcuity",
    "title": "0001493152-26-012801 | 10-K | Celcuity - Celcuity",
@@ -2138,6 +2127,17 @@
    "outlet": "Lilly Trials",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "a34ed47f6492d8b7",
+   "company": "Roche",
+   "title": "Untitled - Roche",
+   "summary": "Untitled Roche",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTUTVxbXBQYTV6dGViTXVreDFxQ0JHa3hxYVI1TnR1Yy1Ud2VKaDVvUFRBWjVTd210bkd4TTZpUXlzYkFNUmg5OFZNZUlBaEYtbk00aVpTN1piNXV1WlRFZEZmUVJ1UGp0X0x1U0RJdWpGOHhBeXlBNGdn?oc=5",
+   "published": "2026-01-12T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
   },
   {
    "id": "6212f6ac64888ca5",
