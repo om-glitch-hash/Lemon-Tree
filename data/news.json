@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:19:14Z",
+ "updated": "2026-11-19T18:21:53Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,17 @@
  ],
  "items": [
   {
+   "id": "9d9cd90051884637",
+   "company": "Eli Lilly",
+   "title": "What is the mechanism of action of Inluriyo® (imlunestrant)? - Eli Lilly",
+   "summary": "What is the mechanism of action of Inluriyo® (imlunestrant)? Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUlZaWFlYXVJa0ZublktdHgtanJLVEhKX0FBbUYyNWNULUx6bjdPRUNiZ1JKdU9FR29XZUk4a2RHakFkN2Rlb2NSRVpXbFRpTXdDRndSLWZyWTRjLVAwNlh4VlZ5cHpmb3diazM1XzJVUmNROFQxa1pwSmgtR1pGSFh5QzR1bjlTamh0dEFxMEJRUV96VXdyZ1JUUVVOaXN5M0djRmdRNDBIb0dQRkVoajh4ZjBIUmla?oc=5",
+   "published": "2026-11-19T14:20:07Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "216980d6ee31f35f",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics Presents Positive Preliminary Results from the Phase 1 Study of AVZO-1418, a Potentially Best-in-Class EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium",
@@ -622,6 +633,28 @@
    "first_seen": null
   },
   {
+   "id": "0b444341aebd6ace",
+   "company": "Eli Lilly",
+   "title": "ER+, HER2- Metastatic Breast Cancer Hypothetical Patient Case: BreastResistance-Sim - Eli Lilly and Company",
+   "summary": "ER+, HER2- Metastatic Breast Cancer Hypothetical Patient Case: BreastResistance-Sim Eli Lilly and Company",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnJieTJQbWE0NHVlUzBTR0lsUUxnc256S3pmX0hlSElxenJvVnBSNWNWRnlVclhhSE9vMHc4R1ZWSzhCNzRlVDZtT0YyTUpMbVItakg2QWJyZXV1eUE1bEVBZ05oUUtvaVFpMjV0UEhiLVBUVXJqOFVfZlU0U0ZRR1ZGQ1RZX3E1SnNoMlZ4MHc5ejVfMmp3Nm5KeUh5V1lEb3dBUDQ4UmJYN2pRazVNQ0dYcE9Tb041NE9fT1dQNDczdHhSeXBpRXhyVW83dw?oc=5",
+   "published": "2026-11-16T05:52:10Z",
+   "outlet": "Eli Lilly and Company",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "17ac6bccd17c16ba",
+   "company": "Eli Lilly",
+   "title": "Supporting Adherence to Adjuvant Therapy in HR+, HER2– EBC - Eli Lilly",
+   "summary": "Supporting Adherence to Adjuvant Therapy in HR+, HER2– EBC Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkJ5UkFiX0lJQTBNc0laU2ExTGR5WEZxOUZDX3U4cGN3cUpFLVBLaDJWQVF1M1ljaGQ4ZG5zNjI4aG9zM0R0VXlRR2dYbzJxSjBRWE12YVBmaUNodHFTVEJPa3VrVFlzWmtJdmhfanhFeTJUN3p5WDI0MGhHVmhVUGU3MUJVa0cyRFJVRENGY245Z09BbWRBdEEwbmlCNk92X2JRWEU5ZlUwLVZhcDZHTFZfV0g?oc=5",
+   "published": "2026-11-15T08:30:16Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "a1565d856f4bf373",
    "company": "Roche",
    "title": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer - Roche",
@@ -631,6 +664,28 @@
    "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "0224a4b2042f659c",
+   "company": "Eli Lilly",
+   "title": "Deck: CDK4/6 Inhibitors + Endocrine Therapy in HR+, HER2- Early Breast Cancer - Eli Lilly",
+   "summary": "Deck: CDK4/6 Inhibitors + Endocrine Therapy in HR+, HER2- Early Breast Cancer Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOekh3UTNxS1R0WlJleVNvWUY3N3QzejdhZlUzeWp5XzBFaDhMdXpzT0dycUp3Wk9GblhwVUpvSkJWb0diLXRublc5TU44SjZvNTZNQzM0SU0wbU1FcjBid2ZnNUlCMUFCY01mRzlha1JrbVQ4U1Z6Q2FkNzFXYjFiYmJTeHNjNXRKbndyZ3VDNDJpeEN1Rkg0WHBKckVsalhJSUVGSEliRTB0UHg3WTdWdGptWTB2dnR3Zm90bFl0YnhBaEF1VUQ0?oc=5",
+   "published": "2026-11-15T06:58:39Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "e96e0f205a3f8820",
+   "company": "Eli Lilly",
+   "title": "Breast Cancer Medical Education for HCPs | Lilly - Eli Lilly",
+   "summary": "Breast Cancer Medical Education for HCPs | Lilly Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBNlkzaWlBRjJHdTk3Y3JqeGlTelUtb0p6OGRvVktid3oyckV3bXdLZFQ5dnU0YWJKRjNKekUtRTBIUnFoV25PbGFnRGdEelJiUTJ5Y0ZuNkl4ZVc1SXhLZkJ5YjdWSXZzUHRlcklLYmpEcTk5?oc=5",
+   "published": "2026-11-14T13:28:22Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "b17f9107dde70f47",
@@ -655,6 +710,28 @@
    "first_seen": null
   },
   {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "c08f26a46cb289c8",
+   "company": "Celcuity",
+   "title": "Celcuity Inc. Reports Third Quarter 2026 Financial Results and Provides Corporate Update - Celcuity",
+   "summary": "Celcuity Inc. Reports Third Quarter 2026 Financial Results and Provides Corporate Update Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXh6UDY4U1g5X0c5dkhDM2doYmctVDQycmNaSWQtMlU0RldPYnhaWXZYZW83akRYeVRiNm9nbHRLOGFqbVFNcHdWTEs5X3U4WjJRVXN6R1E0bkJhckhIOUIxOFF4cmxsSU01T3pKVjF5YmZuVnlmMUZVNmR0d3VpdzVkX01sYTAyTFZzLUhuY3VTME9zVG1ZVC1lVlFQbldiaDV2c3pDSUtCYTNtazlDdkYzOUtEVWw2RzlMNw?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "1e59d30985cb03b8",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate at Upcoming Investor Conferences",
@@ -666,6 +743,17 @@
    "first_seen": null
   },
   {
+   "id": "74181b7bffbc2690",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics to Participate in Three Upcoming Investor Conferences in November - Relay Therapeutics",
+   "summary": "Relay Therapeutics to Participate in Three Upcoming Investor Conferences in November Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1JQeDNtYXhHdU15UU5VX1lxdXRjanNjN0JQaWE0U1JGdXJpT0VwcTROTmdGTXB3R2hySFZDZ25BTFdrcDRYTzdDcGVlQllIamptZGRwYm1KSzV4ODBCTnlaSHlPdmszXzRyek1HSkxQZC1xRjZFX2hDUlRqRFh4dkxuMHJxeXhkMTZsNWNpWWRjcllYU0VTVkFldVdmanIzeGp1anVBRmtEU1lvS19HWkNhLWp6UQ?oc=5",
+   "published": "2026-11-02T08:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "a8d044c90d93a1c5",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Present Preliminary Phase 1 Results from ORION-1 Study of AVZO-023, a Selective CDK4 Inhibitor, at the 2026 San Antonio Breast Cancer Symposium",
@@ -675,6 +763,39 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "fff7db88dffa9c19",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics to Announce Third Quarter 2026 Financial Results and Corporate Highlights on November 4, 2026 - Relay Therapeutics",
+   "summary": "Relay Therapeutics to Announce Third Quarter 2026 Financial Results and Corporate Highlights on November 4, 2026 Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmsxNjVVd2p2S1pZQkVudHV4dFlwbS1qVVlOOWtDc281OUdQZmNRTGliRDFIN19QOG5PSkVQUmV5WW9hME9qbXY3OG1SV1ZyU2t5X1ljRUg1eDFQai1fVl9KWFZydzRrc3o3UkY3eEx2YjNJSC02RDVHVEI1bFhyRzlDUnJjUy1zdnVKSi1JVE9XQnBwNDlVVFE3SnRIOWdzU3dPcUl3WWFmLWE1c0tyU0t6dks5YjNRNDlTc3pGc2w?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "26b257f74fe89cc7",
+   "company": "Celcuity",
+   "title": "Celcuity Presents Updated Results from the PIK3CA MT Cohort of the Phase 3 VIKTORIA-1 Study in Patients with HR+/HER2- Advanced Breast Cancer at the ESMO Congress 2026 - Celcuity",
+   "summary": "Celcuity Presents Updated Results from the PIK3CA MT Cohort of the Phase 3 VIKTORIA-1 Study in Patients with HR+/HER2- Advanced Breast Cancer at the ESMO Congress 2026 Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDlPZmFCQlp3ZFhKeXJ3MDhSQ0lfWXA4Q0k2NmRlWDA3bm9scnowR3hJZnBOVU9GTldSSzFRM1hpUkFCNFlOR1NGUEZmX3BhNDJvVVFXRmRDa0FaN2pBZm90aDRUSUNLekw4RDVLV21LQmVZZFhnTEFQNUhWX1AyMk56aE9uZnVjVzFVSTFUNWZKaVY5Z1BCOFV5a0lTN1liTzgwOHFIY3hQak9jVUFmWUtMZHdUZi1Y?oc=5",
+   "published": "2026-10-24T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "9bba2086b3784d58",
+   "company": "Celcuity",
+   "title": "Celcuity Presents Updated Data from a Phase 1b/2 Study Evaluating Gedatolisib Plus Darolutamide in Men with Metastatic Castration-Resistant Prostate Cancer at the ESMO Congress 2026 - Celcuity",
+   "summary": "Celcuity Presents Updated Data from a Phase 1b/2 Study Evaluating Gedatolisib Plus Darolutamide in Men with Metastatic Castration-Resistant Prostate Cancer at the ESMO Congress 2026 Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlFVeklrUkRRRDRVb0M0WkJLdnNjd04xZldGcWkyelpORlVfdE9xQnZ5a2lwVzRiazVYTmJJaF9INnRjMTJGUm1EMjZTREFJeF9Vdk5vMk9lWHhsWWREMFFFOHd6VFdrZUswSnJ2M3VTWXJZSjF5VF9oV2FPdllYeGV4QjVkaHV4RFUtZGlsRkFsSFFBak9pVl94MTNjSXpkSXJGMGhJUThST1ROTl9GQWV2azh5NmM?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "cdf80902a615464e",
@@ -732,6 +853,39 @@
    "first_seen": null
   },
   {
+   "id": "a242ca1acc57cbdd",
+   "company": "Arvinas",
+   "title": "TACTIVE-U: phase 1b/2 umbrella study of ARV-471, a PROteolysis TArgeting Chimera (PROTAC) estrogen receptor (ER) degrader, combi - Arvinas",
+   "summary": "TACTIVE-U: phase 1b/2 umbrella study of ARV-471, a PROteolysis TArgeting Chimera (PROTAC) estrogen receptor (ER) degrader, combi Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaT0JQbGJDQUdWczRqaTNja0JXZzRTNWhnZGlqQ3RrcUpPUnJxc1FLRlFxV0pCMGVfckFqdGFBbGhsWFRlWnFjYnlzYmVpMTJCZ1JpZEdGWlBCVFc0NEU2YWFMMk4?oc=5",
+   "published": "2026-10-06T07:39:21Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "486f64618fbd15e9",
+   "company": "Celcuity",
+   "title": "Associate Director, Drug Safety and Pharmacovigilance - Celcuity",
+   "summary": "Associate Director, Drug Safety and Pharmacovigilance Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0N0bUMtMUZTVzNJNFlLT3N0WU9Hc3NENTJoYTUtam5qV0w0bXBwM1JZMmFVN3VJUmlTaE5MSC0wMGtWQ1hXTHJiRS04Tm9pbk0zMV85X3FGcmhkbFptRmRnYU1xcGlocXNCaE9oMy1SM25LRWh5XzRxa1l4X3I4eF9MNkdYcGxnRFNSTnVfaw?oc=5",
+   "published": "2026-10-04T04:47:18Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "01a1c742c0821612",
+   "company": "Olema Oncology",
+   "title": "Olema Oncology Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Olema Oncology",
+   "summary": "Olema Oncology Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdHk5TUNWVFN5N0dOSlc5WFlVTnZoaUxQd2J6RUtSaFhFMjhnN0p4cEhOMkZEaWZwWUEzZnF1aW5jdTBWQjhCbElOSm1tRFBHOXpOdlEzcnRjb0h6Z3JoOWpTMTZGOWx6MGZMd3lRSzRHWm5vQVdCRzZtMnB6Y21yT1duT2dVOEItSDVsZ2xPRHpCYXBxV3pMZW5Dc2QxdW1iQjh2TzVUOG9TcjdiS2ZDN1IxRU5DN2tqY1d2TGZ3?oc=5",
+   "published": "2026-10-02T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "c9925b2e28fd5eea",
    "company": "Genentech (Roche US)",
    "title": "Genentech’s Giredestrant Combination Significantly Improved Progression-Free Survival in ER-Positive Advanced Breast Cancer in Phase III evERA Data Published in The New England Journal of Medicine",
@@ -754,6 +908,17 @@
    "first_seen": null
   },
   {
+   "id": "8a4e54feb6cc031d",
+   "company": "Celcuity",
+   "title": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States - Celcuity",
+   "summary": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B2SnQzM256eE52MXk1c0lwNjlUaFdNUkptOEpMRi0yNVIzSG9xRTlGaVUwT1ZRT3NnWHgzNTYxUTlJU2ltUjJZZzRseVhfOFlFUkdiUUd4NDA4OUwxY3dpVVZsYndSWTlfc21KSFhjS2pTS2pHZkMxeDdJODZJRHM4X25Hb1l4el9RRDExbnFJbWc0YTFlS3lnOUlnTEtaTmhNVktWMmFFdXNiSU1aSTJnazRYSURlMFE?oc=5",
+   "published": "2026-09-30T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "55d1193467a6993d",
    "company": "Roche",
    "title": "Clinical trial for Early Breast Cancer, Estrogen Receptor... - ForPatients",
@@ -774,6 +939,39 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "7fd289f1107e70ae",
+   "company": "Eli Lilly",
+   "title": "TS-LI-06839-004_Lilly SABCS EMBER PLS_V18 - Lilly Medical",
+   "summary": "TS-LI-06839-004_Lilly SABCS EMBER PLS_V18 Lilly Medical",
+   "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOSmlaVWZUZFlUUGJTRERUSFdSdnBYRVd6MnNTTHJyWklsYlZSb3doVzZQSXZzVDktLXgyMENuSHhRbmQybGFncnNpSGNfek1DQjhFaWxnUDdZSTRFSjR1US0xUUJuVHNSNDd5SXlqekdBODB3RG4zdi1hZV9wb2tFNW1RYVdZM2IwNEJ6YTRYSG9XOXB5YjN4TVhtVGFGWkkxWGwxdFNhTjZJcXllUnpjXzRZclMzdXlVR09GX3MyM1lLR09sWVBIeFJRamVzQklidXVqZUVDdjRPeVliOHhCX1YxT3U1SkNNbDdYNmFPZzZ3b25ELW9Xc1hCVWUyTWpROEFMeDJnNjRBZFQ4VURpb2lCUzhoYTVlOENBSWtyOG1HYnhkTVZnZElGWEpGeFl0czF6QjBYYy15MHdKS3pQbF9lcld6TDFaeUV5YUhhbER6V3h6UzhiQVExd1otM2VxNFZoaURTZVhjNHVSWi1zU3I2VzV1THoyMm5GSlBfQUdzbk5Ba2tOSlkyR2lzeTlpRlpMbWhUVEJ4YmxhOGFDN3NSb0dENUZycHlHcjJEdXlUUQ?oc=5",
+   "published": "2026-09-19T17:31:28Z",
+   "outlet": "Lilly Medical",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "dbe34e3644a212f9",
+   "company": "Eli Lilly",
+   "title": "U.S. FDA approves Inluriyo (imlunestrant) in combination with Verzenio (abemaciclib) for adults with ER+, HER2-, ESR1-mutated ad - Eli Lilly",
+   "summary": "U.S. FDA approves Inluriyo (imlunestrant) in combination with Verzenio (abemaciclib) for adults with ER+, HER2-, ESR1-mutated ad Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55NHVFTnBPWEFQcUNqMms0a0NCRjdweWNHUWxCSVJySTc0Z3B4VHRPd1p2VU1aZTN2NGRGSWpMbUpRaWJwSmR1THdCdTFUVnNNYmFB?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "83137e9c3ac13062",
+   "company": "Eli Lilly",
+   "title": "U.S. FDA approves Inluriyo (imlunestrant) in combination with Verzenio (abemaciclib) for adults with ER+, HER2-, ESR1-mutated advanced or metastatic breast cancer - Eli Lilly",
+   "summary": "U.S. FDA approves Inluriyo (imlunestrant) in combination with Verzenio (abemaciclib) for adults with ER+, HER2-, ESR1-mutated advanced or metastatic breast cancer Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVpINWx0ME9xOS16YmxEajV6Z3dqSDliT2VNdUVQSU43NGZIbm5pYUc1b2JyVzJONlRKWEcwbU9zRG5JcjFyS3lvcFJBcHFGZDZpR2xpMmhmd0xlTGxQcnJLVXltSUhUZXRjZzJZbFk4ZXRIV09nbUpiVlJpaWotZFZCd2JpZnJtczI4MTV3SGVMZ2FoLVZQWEp2OFE4cjliV2lndENmWFdvbUFUYnZyODZoaEpRQ3NQbHhCUQ?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "d73028810d2fb916",
@@ -809,6 +1007,94 @@
    "first_seen": null
   },
   {
+   "id": "514a3085d859cbaa",
+   "company": "Celcuity",
+   "title": "Celcuity Submits sNDA to FDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Submits sNDA to FDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVjgxZG9zbFBTYkZobnV0UUFlbzFLVmZaQ1czNGFiczVqMlc0SS1qUjA1WjZ4WXpvckw2N3ZhQzZTTnM1NUJiVWNTME02eWU4cEVuWkloTzVTNjE0bUF6ckVpZkhUS1BCelBNZGROMEpXMVE0R3pOTTZFT0RNRE9HR2FKTXhGaFpoVjJlUk9TbURROEFUaGdnWm5OMXgyS054dG5UdUZRSHZ1MUVyM195RWZ5NU5VenJ4OHZpcXJQRQ?oc=5",
+   "published": "2026-08-26T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "59c48fcddd26077d",
+   "company": "Celcuity",
+   "title": "Targeted Cancer Therapies | REVTORPYK™ | About - Celcuity",
+   "summary": "Targeted Cancer Therapies | REVTORPYK™ | About Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RR2tzZ0RQank0QnBId1FON09xaUd4bW5vdnlzM3J4SDlWTzBKTTZNV0FyX3RBUk1qT3M4MHUxVDd0TjhSMmE4Qg?oc=5",
+   "published": "2026-08-21T09:07:49Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "99276e4c81454776",
+   "company": "Celcuity",
+   "title": "Targeted Cancer Therapies | Job Openings - Celcuity",
+   "summary": "Targeted Cancer Therapies | Job Openings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxTy1wbGwzOHJDeGFTUWFWVXQ5WkFHcEpLajcwWEZVUGJQVGIzTk9OLUVwQkdPaVNXRGdTcU1vQVV1aFV0SUpSMWp5Q1dwUlk?oc=5",
+   "published": "2026-08-21T04:46:17Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "05a4945a76fb54e3",
+   "company": "Celcuity",
+   "title": "Targeted Cancer Therapies | Our Culture - Celcuity",
+   "summary": "Targeted Cancer Therapies | Our Culture Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ObUNCcEZSTVpQXzcxUHkzWGJLUURUb3kzZ2psUTlrNGxjOER0a2pWYXUwNlRUTVVpWHBYdXFRQnNnTFpYSGs1blNzSXpkZw?oc=5",
+   "published": "2026-08-21T02:47:57Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "1d74c08007b1c377",
+   "company": "Celcuity",
+   "title": "Targeted Cancer Therapies | Clinical Pipeline - Celcuity",
+   "summary": "Targeted Cancer Therapies | Clinical Pipeline Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12OEVtWXJGNnNMNVBUNnVsY3ZfN20tREhXM1VUYm8wZzViTGJBQnN6TC1uZ09RQUFldnA4YXBma2ZTSkZmRXBCdDBn?oc=5",
+   "published": "2026-08-21T00:30:06Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "b68cfdc5f4fcd5ab",
+   "company": "Celcuity",
+   "title": "Cancer Therapies | PAM (PI3K/AKT/mTOR) Pathway - Celcuity",
+   "summary": "Cancer Therapies | PAM (PI3K/AKT/mTOR) Pathway Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tZExCRDdfREJRWExVVGIzSlo1dHEzSzJVUVZOY2NzaVl3dTVpQWVLUDZrODlabE1vUTNHckkzcXVOTC1OWnpnaXNuWjZpQQ?oc=5",
+   "published": "2026-08-20T23:14:37Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "35a38335676e472c",
+   "company": "Celcuity",
+   "title": "Targeted Therapies for Cancer | Leadership - Celcuity",
+   "summary": "Targeted Therapies for Cancer | Leadership Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84b3FJV19kZlNIaTlDZTlyYVpuNWFqNWVLNDNoRWdNbFNQTUt4ZmpxclhVRjQzWDZ0cS1YMmpUbFQyQzB4QTF4QWhqQ24?oc=5",
+   "published": "2026-08-20T22:38:39Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "fd79b9ebf9fe012a",
+   "company": "Eli Lilly",
+   "title": "Preclinical characterization of imlunestrant, an oral brain-penetrant selective estrogen receptor degrader with activity in a b - Eli Lilly and Company",
+   "summary": "Preclinical characterization of imlunestrant, an oral brain-penetrant selective estrogen receptor degrader with activity in a b Eli Lilly and Company",
+   "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNUWlBUUltT2V1YVgzeGxvVEg3eEVYY2JCU3hZM0xKeVd4MVZIb1NicXMtTUw3bU5uRU1KNjRmUGdkdnVxX0ZRamMwbUtfVUg1VUptYmpZNzFLTTdqWFNyZDYxS0t5aFV0MmxrRWtsMXhWbGg0cHBGWFJ6UkRRQUhmcXJ6MDBDek9XUXZQUmJFcktORjF1RWpya0VCdXN1RlZIdDJrSk1DUjVJa3VsMVJGUjBBRl9SZGZjamxoWGoyWXJVOHVsRTNYeTh1Nk5DX3ZBdkhYWlVwVVJmTlJFYy0tWXBYMndKclpzNFhBVV9pMkRrN1ZINzlCN21yVnJaSjJXdnhTY1h5QllzOGU2cVhwR2NRNUlzT2dqTW0wRUI4Z3Iyczc4YXAwSFJubmJIcGFCOVNIeTUtc0tjVFVWYXpSSGF6bmIyYV9fQzR1MmtBVkZjSy00RUVZaVN6cVhFempHeGtHWWxQUTVQbXA0V0tkZ3hWZV9qbV9XQU8yWE16bnlBd1BRU0xr?oc=5",
+   "published": "2026-08-15T06:49:39Z",
+   "outlet": "Eli Lilly and Company",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "78d0dccf0cd04e3d",
    "company": "Roche",
    "title": "Country Medical Manager (Giredestrant) — 上海, 中国大陆 | 罗氏医学事务 - Roche",
@@ -842,6 +1128,127 @@
    "first_seen": null
   },
   {
+   "id": "a2300f0e823395e7",
+   "company": "Celcuity",
+   "title": "Celcuity Inc. Reports Release of Second Quarter 2026 Financial Results and Provides Corporate Update - Celcuity",
+   "summary": "Celcuity Inc. Reports Release of Second Quarter 2026 Financial Results and Provides Corporate Update Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbm4tT0lzYjlCZWZSa0NSYXJSNWZtSno4eU1jRUZCdEVPQzcxMWQ4YWY1UGVITU44Z1RhTkMtR0pBLUd5ZzlTS3ZzTjJvdDhwQ3owZjlLeDZHQXpHQzJQcUdnOUFpX3BYY2EwQlNIa3Q4OUJoN1ByNU0xaFZSZmVuaF9xOEhuRC1obTFXRHFfdkhjX1k3RWpLam1nc0VxWWRDanV1T0xUMU1PM2dfdzF0WTFobGFxMVFB?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "ebd03e1ba06f3e58",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – Olema Oncology Appoints Jason O’Byrne as Chief Financial Officer - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – Olema Oncology Appoints Jason O’Byrne as Chief Financial Officer Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdURreld3QXd1YVgwMnQxWTlveUxMem9aMHNQTnMwTHl3Sms3blZYYXlSVS1wV2FWXzg1eGl3TmFETGM5elVCeHFpb0NySkVLLW90Ym5KOWlYRHI3NmtiMGQ1NkJjVS1vbmRpdDVRSW9QNTFwNVp3d0dVVEpqZnc2Q0dScS13eXN0TGtYOVBZbVdtNjBCWFVScWhWdlBVR1ZpNERtcFU5c0dXTjJSMlNucE1HZC1SWXFX?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "b71582c8301e7ca5",
+   "company": "LeonaBio (ex-Athira; lasofoxifene licensee)",
+   "title": "LeonaBio to Highlight Lasofoxifene in ER-positive (ER+), HER2-negative, ESR1-mutated Metastatic Breast Cancer at DAVA Oncology’s 4th Summit on Breast Cancer - LeonaBio",
+   "summary": "LeonaBio to Highlight Lasofoxifene in ER-positive (ER+), HER2-negative, ESR1-mutated Metastatic Breast Cancer at DAVA Oncology’s 4th Summit on Breast Cancer LeonaBio",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeDB3WXRnRERmbVJXTEFPNUdyalg4aFM0WkdEei10TkRJV0JLUnd0VUpmVFFCSjh0bUg4d1VWSlVvMFZWRFNzVHZlVzdkX3dvajJ2RzFuZExPTUNRRHpMVDVaWC1NMGZZRkk5cUpUQUhIUjk5ZDBMaHlFOVFsSXBCRHg1SENIOUhkOFBSOENJZGNyTl9DbWROZXpaWWJrNFNCY1BmV2NjM1pYeEEtTXVzWTBoLXBacTVRTDdiWUpURXJkZHc?oc=5",
+   "published": "2026-08-12T07:00:00Z",
+   "outlet": "LeonaBio",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "0f7be969e33daff2",
+   "company": "Olema Oncology",
+   "title": "Olema Oncology Reports Second Quarter 2026 Financial and Operating Results - Olema Oncology",
+   "summary": "Olema Oncology Reports Second Quarter 2026 Financial and Operating Results Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGVnU0IyWDhpUFlQSnhKM3RMX2h1SS11U3lZTmVmRGZZNUhnUFVFaFRhZU1NTGZhTl9GSEYzSmhUYmxIdU9IYndDT1FlX1VZel8tQmVoYkxickNtZUxXYTBKdDVaaEprd1RhTjFLMDA3bFhabVU4RnlBRTk2MS1zbXdKcURXMmhZMjRhME5LNHVIV0ZETUJFMjN2ZnBzc19temZaM2s1VXpaMF85dnlBUmk3bw?oc=5",
+   "published": "2026-08-10T23:49:27Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "e00ac8ceded5a277",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics Reports Second Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
+   "summary": "Relay Therapeutics Reports Second Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOblN4TWhKTjBuYjZXMkZSTU9vX3IwSXhPSUs1TlcwYUN6RlBWN25rSm1USFpmaGIwVjdUaWZ2YmhOaElpR3l3ZE4wWm1BdkxhSXlJenlsZ1JsNURsVnZ1VHpmY2JQLXpJN0dsT05WTnBkdU1lS1pFMDdpUVc5Sm9BQmR0OHhQa2J1aDE1dUdzQTIxdW05NDZEb01NMkU4NTF0Y25yVFZpeG1uWFBWNUZpZkhNaHJFZmhWTzc1aHVPVnA?oc=5",
+   "published": "2026-08-07T14:21:32Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "46592a3a783dfc41",
+   "company": "Eli Lilly",
+   "title": "Can Inluriyo™ (imlunestrant) be taken with or without food?undefined - Lilly Medical",
+   "summary": "Can Inluriyo™ (imlunestrant) be taken with or without food?undefined Lilly Medical",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU03TThuTmFxWWdLR2ZQT0JVODZFT2VWbXI3Sk9zSWpIQ21XWmxNUUsydlB5UHBld243dC1ybGwtWFQ3c1hlQzlJaHN4QkNQNVFWNGJfMjVQekpLeXJnQUVLQWJwS3dkOXRGeXJyRTIydUlZNVQzYzhEcjVkRUt6RldIS184amtMc2tCQ1haNkQyRkZGYmM5MVlxMjBSS21ucEJETjNxeEN2OHFC?oc=5",
+   "published": "2026-08-07T04:29:26Z",
+   "outlet": "Lilly Medical",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "96fd690930657cc8",
+   "company": "Arvinas",
+   "title": "VERITAC-2: a global, randomized phase 3 study of ARV-471, a PROteolysis TArgeting Chimera (PROTAC) estrogen receptor (ER) degrad - Arvinas",
+   "summary": "VERITAC-2: a global, randomized phase 3 study of ARV-471, a PROteolysis TArgeting Chimera (PROTAC) estrogen receptor (ER) degrad Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUWExeW8yaDFWWWswdUJ3RHhKT3hDUU1BeldzZ0poNHRGVi1lc2RfblJYRDVzaTdaa2tUZGpGNlVLX3dVN0habUo3b3JNcEJEVWp0NmJkRWdSYnUwTUcwV1FhZmozU29TaEUtdWdtc2hmdmx6SGkzZXo5ZklHVkZUTnVn?oc=5",
+   "published": "2026-08-06T15:30:24Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "8dce1d7a3a923bb4",
+   "company": "Arvinas",
+   "title": "Mechanisms of Acquired Resistance to Vepdegestrant (ARV-471), a Novel PROTAC Estrogen Receptor (ER) Degrader - Arvinas",
+   "summary": "Mechanisms of Acquired Resistance to Vepdegestrant (ARV-471), a Novel PROTAC Estrogen Receptor (ER) Degrader Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10QmlscDFJUzBFRVhOeW9pOEdBNkdRRXJ2WVRqSEs3SHdybkN6UXBCRnJ4bHR5YXlXZVNGemZ5RFI4djI0MXpuUk1MVHQ5blNkeWFFRVkyY1lRbEtiSHpGUDdwa1JhNzU0T1Z5R3hHM1lCV2FMeGcxcHZ3?oc=5",
+   "published": "2026-08-06T14:50:37Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "8f61e09942a541e2",
+   "company": "Celcuity",
+   "title": "Celcuity Schedules Release of Second Quarter 2026 Financial Results and Webcast/Conference Call - Celcuity",
+   "summary": "Celcuity Schedules Release of Second Quarter 2026 Financial Results and Webcast/Conference Call Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZm5UeVBKeUVmbmd5TEtGWjRqb1hoUGpUMHJQWVBMbXFMVHg5T29teGdLb20yRUNETGtVS0NFcE1hZmlDcFVaSURaclJMSmRoRFhmN0NEWFE0M0Z2azNvLWVGZi1Ud0lPVVlONjg0TVZwRlhSUWx5X2xuc1RtUERXT3B1a0FueWQ2MklDOFdhclNtN1VBQ1JJMVFieGcxQXZMOW5uT2NhSk5reHc1TmNkS20zS1A5QTYzelpKeTlFTEc?oc=5",
+   "published": "2026-08-06T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "10a75d636a826d21",
+   "company": "Arvinas",
+   "title": "Arvinas Reports Second Quarter 2026 Financial Results and Provides Corporate Update - Arvinas",
+   "summary": "Arvinas Reports Second Quarter 2026 Financial Results and Provides Corporate Update Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnJ6U210RXRxaGlRQWFmdEFTV0RWRTl2WmJHMFZDeHlYM2w2TXplY0kzc04zUTlqVEM0YnY1QlBLM0xtMmM1QjhxY00yeVA1QWFRVFJTZzFDX0VTUWVyMV81N2d4cDctMnF0SU40SGhLV0g2UTZyYi0zSTdzZnF1dUpiRXMwRXBRZEVqWnhQR1ZQeXlvVHJIa0F5Rkxaal9vdnBvRXpkdVNNbF90ZFZrby1XZS01SWM?oc=5",
+   "published": "2026-08-04T07:00:00Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "158ef3a520d3c9db",
+   "company": "Arvinas",
+   "title": "Enhanced Efficacy of Vepdegestrant (ARV-471), a Novel PROTAC® Estrogen Receptor Degrader, in Combination with Targeted Agents i - Arvinas",
+   "summary": "Enhanced Efficacy of Vepdegestrant (ARV-471), a Novel PROTAC® Estrogen Receptor Degrader, in Combination with Targeted Agents i Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84djR4OTA0VXZqVnFnTTFFUWprd28wSGJNV2E4UTF6dzFvTW5teWpNZDlnMmJzaHJQdVhBZTBMMGhGTW83TGF1MWh6Qm1vVlFJWm5sR3pDT3FELVRWQ1VURWlxLXE0anluaXloVVNpSTRYX1lRbEZteWZB?oc=5",
+   "published": "2026-08-02T14:14:43Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "43ea269fddad3de7",
    "company": "AstraZeneca",
    "title": "Datroway approved in the EU as only TROP2-directed medicine with overall survival benefit for the 1st-line treatment of patients with metastatic TNBC who are not candidates for immunotherapy - AstraZeneca",
@@ -851,6 +1258,39 @@
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "95d19585ce45c2e7",
+   "company": "Arvinas",
+   "title": "Vepdegestrant (vep-DEG-eh-strent), a PROTAC ER degrader, in combination with PF-07220060 in people living with ER+/HER2- advanc - Arvinas",
+   "summary": "Vepdegestrant (vep-DEG-eh-strent), a PROTAC ER degrader, in combination with PF-07220060 in people living with ER+/HER2- advanc Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHMWlmOXZ1cjBwcHdWR001aWRtUmR2eHJ1ZFFpMUJIQ2dRQXFfNTJKbTY5Sy1IbUsxUVdYTFVQNU1KOEdMRGF5UFpMcVU0aXFLVldZekh1WWJyYjY2ekVtLTE0elAzaER6d0V4YlVqODREZUs1WVBvdVpUaVo2VFE?oc=5",
+   "published": "2026-07-28T19:43:54Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "d03489ddc03c3e7f",
+   "company": "Arvinas",
+   "title": "Evaluation of the Effect of Vepdegestrant, a PROteolysis TArgeting Chimera (PROTAC) Estrogen Receptor Degrader, on Rosuvastatin - Arvinas",
+   "summary": "Evaluation of the Effect of Vepdegestrant, a PROteolysis TArgeting Chimera (PROTAC) Estrogen Receptor Degrader, on Rosuvastatin Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdkEtVkt1VXVobzJ2cG1xbF9xY2RPZU5yaWxLdDBPSldHZ1lWY2NtWGFiZlF5SUhjZWRfaGFuQnN5cHFfeEVUZXk1V3RTVWtPSFpnckd1UExvNVdnYnJoTTJGTUF6OFphOXFBSlF1TC0ycm93YkRUV01hSG4zdENZY3JR?oc=5",
+   "published": "2026-07-28T19:14:04Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "5edb5dbbf0edbd36",
+   "company": "Arvinas",
+   "title": "VERITAC-3: A Randomized Phase 3 Study, With a Lead-in, of First-Line Vepdegestrant + Palbociclib vs Letrozole + Palbociclib in E - Arvinas",
+   "summary": "VERITAC-3: A Randomized Phase 3 Study, With a Lead-in, of First-Line Vepdegestrant + Palbociclib vs Letrozole + Palbociclib in E Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CQUcyVFJHWlV0REtSbWp4cjU3Z3EzN2lzRENSaWczQkRBaG04UnRVV2V6WGlnVUJyZ0dkQ3lMWFo1MmQ3bDkxZkotZDBFWG5OTU1hRWRNSmx6OGhSbWlqdHI3OW5iUDIxX3docm9hLU9aLTRUUjJFVk5CQW4?oc=5",
+   "published": "2026-07-25T07:50:12Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3f41e17f8d6c8eca",
@@ -875,6 +1315,17 @@
    "first_seen": null
   },
   {
+   "id": "12217695345e280a",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Approval of REVTORPYK™ (gedatolisib) for the Treatment of HR+/HER2-, PIK3CA Wild-Type Locally Advanced or Metastatic Breast Cancer | July 14, 2026 - Celcuity",
+   "summary": "Celcuity Announces FDA Approval of REVTORPYK™ (gedatolisib) for the Treatment of HR+/HER2-, PIK3CA Wild-Type Locally Advanced or Metastatic Breast Cancer | July 14, 2026 Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUwxdWs5bGRUb3BFNlhaY2ladUxZOS1WOUVpNWVZSE9jWkViUlRDQUlvUFppb1RGNWlMUnptZXZPWm9uSFZjNDlIeXh4bWhTdTZ0dk1rVk8zZWcxdU41MTB5bTA0bFF4cDREVWo1RkFnV3RubUFrOEotRnA0ajlTLXJ0cm1xLVEzWDhrT1AwODFUQUtjbG45ME8yd1ZvWlJIWlZkRE8xcjI4Mlc0T0pyNi12OWU?oc=5",
+   "published": "2026-07-14T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "cf5b9b3256d75f5a",
    "company": "AstraZeneca",
    "title": "Datroway recommended for approval in the EU by CHMP as 1st-line treatment for patients with metastatic triple-negative breast cancer who are not candidates for immunotherapy - AstraZeneca",
@@ -884,6 +1335,94 @@
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "1ebd94f78d1e97d2",
+   "company": "Celcuity",
+   "title": "Bernhard Lampert, Ph.D. - Celcuity",
+   "summary": "Bernhard Lampert, Ph.D. Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Oc0s3ajRnTzNURzRzbDE5b29zZFRZR3hLUXJjZGZncXQtQS1MSkgwYWNYc1dra2hrWXpsNS1MZHktMmZpRXk1UmFSUDNYTmVXaXZZMjcwZmNfTm5vTUZVZg?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "8e0c11f161a7acc2",
+   "company": "Celcuity",
+   "title": "Brian Sullivan - Celcuity",
+   "summary": "Brian Sullivan Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43VTVNd19YZFpLR3FON2JWeVZXMC1aX0E2Y2ZmbjRVdVg1QnBQdzlBN0RxVm5qY0wxLUU2VU1wNzhXbDlYV1NWTDJDdjV2TGFuWnRMYWEyY2M?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "1298d5f6fe9d7484",
+   "company": "Celcuity",
+   "title": "Lance Laing, Ph.D. - Celcuity",
+   "summary": "Lance Laing, Ph.D. Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6TlNDdE4xdFZNUWlQWERqZlFybms5b2pUWmF1LTlyNDBTRHlIZWJjQlRzOV9RT0x2cTd5dDFXVWU0VzdCa0gwYTB5VGFuaTh6a2d2eXpQMmllZw?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "cd0f58bb22f14895",
+   "company": "Celcuity",
+   "title": "Eldon Mayer - Celcuity",
+   "summary": "Eldon Mayer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qV2pvYldMVW9GdFVjcmJvUWloenZ0U3ZRRXRkaXRSVUpxeWtBQm9GUmMyNkRTN2J3RVdZNUNfUjVmU193SFpkMEMtUzFqdUF3QTBCVQ?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3b7593188f635cdb",
+   "company": "Celcuity",
+   "title": "Brent Eilefson, J.D. - Celcuity",
+   "summary": "Brent Eilefson, J.D. Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PYmpwdG9tU1ZaZ09lNzlrLXFrZ3dKenYxV3M4TE5STmR4d3Rqcml4SVR4VWtsLUsxUUh1OXcwQ1NpVXoyUDV6REoxazBqMkh1VktGb2JGNEE?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "6319f7797db4afdc",
+   "company": "Celcuity",
+   "title": "Igor Gorbatchevsky, M.D. - Celcuity",
+   "summary": "Igor Gorbatchevsky, M.D. Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LTjd5V1FTTWVkVkZQTGFFSWg2MFdyVVdabUdaRjN4TlplUDFjMWhaOXJnY1U2NHVFbS01YXFjc0U3V1kwdXBEck43UkFnWVZ2eWFHcGkyRjVvUlJoMW51WDFn?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "e57f2341bc4e85f8",
+   "company": "Celcuity",
+   "title": "Celcuity Inc. Announces Public Offering of Convertible Senior Notes Due 2032 - Celcuity",
+   "summary": "Celcuity Inc. Announces Public Offering of Convertible Senior Notes Due 2032 Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3d0VDBWeE5xNlowaXdXU3BDMjRSNlRjWTYtbE81eG1QbHBSNFdaTWtXUUF3RXd3QUltb25BR3I4dURDZG1naDFtX1hmUW4tOEdCOWJ2dGhRQ2RwendzeDhVZTQ3cGxuQ3hzNlJrZmFXVVl4ZF9XMmFHTHVFLVo2eVJ1c3NQbHZwNGdpYW5xVmhPWlFFNklhbEpqUG9QMmI4YlFqRGJuR3V6TWo5Z1BLb29iQTFnQnhGbHlCSFo3aw?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "ca29e100e6251579",
+   "company": "Celcuity",
+   "title": "Celcuity Inc. Announces Pricing of Upsized Public Offering of 0.250% Convertible Senior Notes Due 2032 - Celcuity",
+   "summary": "Celcuity Inc. Announces Pricing of Upsized Public Offering of 0.250% Convertible Senior Notes Due 2032 Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTdzQnBGaENGbWZtX1JzNlZDNV9OM29LVGViM0xTS1NxbFNuSHJ6OXRKbGU5S3Y2Q0IwelFaWkRucTZjaXQzSkdPbW5mTGlOV1JtaTdHQml2UmRrR2gtV3FGcXFpQ2FPOFM1NFBWM3pKa3Nqd04tNzBvRXN1cVhsd3g5Yl9kOFBuRDFTNW9IYlQtU2hkak85djJCclFxaENQQV9IcGlFRFVOM2ZsS1QyMHpGbm9mZkhtZHc?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "48636b0536817bec",
@@ -908,6 +1447,17 @@
    "first_seen": null
   },
   {
+   "id": "4aa6d8ef59b6a9ee",
+   "company": "Celcuity",
+   "title": "Celcuity’s Gedatolisib Combination Regimens Doubled the Likelihood of Survival without Disease Progression or Death Compared to Alpelisib plus Fulvestrant in the PIK3CA Mutant Cohort of the Pivotal Phase 3 VIKTORIA-1 Trial in Patients with HR+/HER2- - Celcuity",
+   "summary": "Celcuity’s Gedatolisib Combination Regimens Doubled the Likelihood of Survival without Disease Progression or Death Compared to Alpelisib plus Fulvestrant in the PIK3CA Mutant Cohort of the Pivotal Phase 3 VIKTORIA-1 Trial in Patients with HR+/HER2- Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlhpdU9FUFdWdzJydEFwSWEtaVpMaHFIZmxVekJPODRYQW42SkhXaVVTejUxUU1sOTZ4QWsyV1h4ODZ1eUVhWTZPdXk1ZnRrUjd2amViNFVvbElWa21vOG9zeWVXU1g3ZHRCbWVaZTR4aWF4cEhyQ09EdXVsQXpoajVzX2lPbUtycXhsa3JTRVZkMEc1bGZEMXlwcmpaSkJUUTVOaWt6OHlDb2FuUmlrYmdRcU53SmJ2eDZTaA?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "28b40bea80e503ec",
    "company": "Genentech (Roche US)",
    "title": "FDA Accepts New Drug Application for Genentech’s Giredestrant in ER-Positive Early-Stage Breast Cancer, the First and Only Oral SERD With Positive Phase III Results in the Curative Setting",
@@ -930,6 +1480,17 @@
    "first_seen": null
   },
   {
+   "id": "97a3f4e968062236",
+   "company": "Celcuity",
+   "title": "Celcuity To Participate in Upcoming Investor Conferences | May 28, 2026 - Celcuity",
+   "summary": "Celcuity To Participate in Upcoming Investor Conferences | May 28, 2026 Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWNaWVhVWUtoQzJBUl9IVTRUY1hsa1NTYVl0Tk4tcmRkdWt5cUY4cl9KLUJ3b1ZZVzh5SjNMZ1VBNjQxVDJaQk9wMFVfYkYxUGcxTk9kdWxEc3p4cVFQMXdQN2xUMWNISWdHYmZiY2RMdFk0S1RPb01mWWkySU1ZZ1NoVGtYQVQ2SkM3RW8xc2RBR2JRMENqVVVudm15YVRGZDRuMkt1SVNuU011ZzlGYQ?oc=5",
+   "published": "2026-05-28T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "69b37c728e65517d",
    "company": "AstraZeneca",
    "title": "US FDA decision date extended for SERENA-6 filing of camizestrant to enable review of additional data - AstraZeneca",
@@ -939,6 +1500,17 @@
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "9fed6d005e01f178",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – Olema Oncology Announces Clinical Trial Collaboration and Supply Agreement with Bayer to Evaluate OP-3136 in Combination with NUBEQA® (darolutamide) in Metastatic Castration-Resistant Prostate Canc - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – Olema Oncology Announces Clinical Trial Collaboration and Supply Agreement with Bayer to Evaluate OP-3136 in Combination with NUBEQA® (darolutamide) in Metastatic Castration-Resistant Prostate Canc Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWJtYmRkcG00ZE8zcFRuc1NId0FfeEwzSmpFalFycXhybDRoSTZHYkt0S0ZqY0FiTGQwaXBwX01qNmdmSWJLZVVrSGRLTzBlclFFQTZVeGlGbnluMEtxVnpJNGVYNm5GODZISUkxTVVhWmpQa2pUYmJFeG9fQm4wRDZHdmhvR1ZIYy1NUVY5dDZnZkVESlVpT2ZSNzREWFBpbEt3LWNXbkY1cHl1OFJ3bHZaZGlvTU1LVFpiblln?oc=5",
+   "published": "2026-05-26T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "9fe9c2496d717db7",
@@ -974,6 +1546,50 @@
    "first_seen": null
   },
   {
+   "id": "40d62f8a17dce7ed",
+   "company": "Eli Lilly",
+   "title": "Verzenio® (abemaciclib) Survival Data in HR+, HER2-, High-Risk Early Breast Cancer - Eli Lilly",
+   "summary": "Verzenio® (abemaciclib) Survival Data in HR+, HER2-, High-Risk Early Breast Cancer Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXBRaDFJbWx0My16WE50SWpfSUVuaU5RTnRDanY0RHJ3VjUyUjN0N0lXUFhKdVNMdV9XbFB3anQzUmFXcExnNTZtN1Y2QW1vRGM0dHI1blRxcndjMjVNN1pLeGRTZlhwbm5Fa01Ga3hjZHhTV1FBX0NpcVFZSkpGVUhjWWEtVFR4eHJieGhWR2I?oc=5",
+   "published": "2026-05-21T16:28:22Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "01dbe19c774d118a",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – Olema Oncology Announces Encouraging Initial Clinical Data from the Phase 1 Study of OP-3136, a KAT6 Inhibitor, at 2026 ASCO Annual Meeting - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – Olema Oncology Announces Encouraging Initial Clinical Data from the Phase 1 Study of OP-3136, a KAT6 Inhibitor, at 2026 ASCO Annual Meeting Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSTlXTVZLc1Z4ZWh2ZmxfUzR6YnNUWlRwMG1kOGFjZUhvQy1hd2VqS1BLSWpodFV1dF92bUQwMHRaSUR1OTNuV0lBcjM5WTZkU2dzSmhwbDRoRmFrQnJJejA3N1UxMUMwblNnLVZ1TXIzRDNBcUx2ZV92WFRQdjVwd3prTkxWa2x3cXV4YnAxSmNhNDR4MTNxLVBmN1NuZExkY0U2V2ZGc1BEQ09zSnNmakxJUnpmVDVBT2NRZkFB?oc=5",
+   "published": "2026-05-21T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "c8872418d93a7a5d",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics Announces Pricing of Public Offering of Common Stock - Relay Therapeutics",
+   "summary": "Relay Therapeutics Announces Pricing of Public Offering of Common Stock Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbl96RlRTTHd6NHZXaUREZENkdkliZnNhX3MtSTVHOW44Ny14Q2NCRTZvUkRIRGJnRGFZTkllTlFBMzlUYU9HeUhPakJBNTV2UmlPeFR1OFNuQVhVYzhiYmtaSnhNN2dpMkpqa3FxczRJOFctTFR0RDl5aVJ4eEM2Q3FOOFQycWRKV0V0SGsybEUybVdXWElwRXR2dkpsZG56alBRSXZwalZjMEo1YzdwZEVYTDRITkFTVV9DYg?oc=5",
+   "published": "2026-05-20T07:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "fe300e399a059904",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics Announces Initial Clinical Data Demonstrating That Zovegalisib Has Potential for Differentiated Safety and Efficacy in Patients with PIK3CA-Driven Vascular Anomalies - Relay Therapeutics",
+   "summary": "Relay Therapeutics Announces Initial Clinical Data Demonstrating That Zovegalisib Has Potential for Differentiated Safety and Efficacy in Patients with PIK3CA-Driven Vascular Anomalies Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFBzQXlhYWViNnB2OWdnWjZ6Zjd1ZGk3a3d6dS1uQ2lkZlBqb1lPX0UtdENtQ1NIRERvUmc1SVM4VlUzNy0wZ195VEllWlFac1E5NVl4SzdBYkRzbWhheDFqZkRYbU0ycENxY3U2OEtzTkRIN001VWNIOXIwNnhzcW9oU0VHTlc3MFpSb05HQ3htTEk4QTNZczZrVXBOb3QtMzd5aF9ZTmxvOWk3M3NxbQ?oc=5",
+   "published": "2026-05-19T07:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "51ba8d6c32488e75",
    "company": "Genentech (Roche US)",
    "title": "Genentech to Present New Data at ASCO 2026, Reinforcing Giredestrant's Potential to Transform the Treatment Paradigm in Early Breast Cancer",
@@ -1007,6 +1623,72 @@
    "first_seen": null
   },
   {
+   "id": "798539976d2f776e",
+   "company": "Celcuity",
+   "title": "Celcuity’s Phase 3 VIKTORIA-2 Trial of Gedatolisib as a First-Line Treatment for HR+/HER2- Advanced Breast Cancer Expanding to Include Endocrine-Sensitive Patients - Celcuity",
+   "summary": "Celcuity’s Phase 3 VIKTORIA-2 Trial of Gedatolisib as a First-Line Treatment for HR+/HER2- Advanced Breast Cancer Expanding to Include Endocrine-Sensitive Patients Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXVCeXNHS3RxZHVqT0xKQkNYMDYxb01VTkoyUVR1djBnZm82Y0pOdjhZLUZXcHdiSk85OVVJOVpnWlJLdWxDNlBGXzFiU3RKaGpHUkxxaGdubzVWVVJlZXlRbndod2pTVlA3WlF5MnJJMDFHSkJDRUJKejUyWmlmQVFJRXNteHZKTWs2RmRmdGFHOXQxTHRwTTlhWTVOaUxrdnVOWUxGMDFUTU5oOXhWV3JTOUpackE?oc=5",
+   "published": "2026-05-14T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "ed554ec9cf7cbbdb",
+   "company": "Celcuity",
+   "title": "Celcuity Inc. Reports Release of First Quarter 2026 Financial Results and Provides Corporate Update - Celcuity",
+   "summary": "Celcuity Inc. Reports Release of First Quarter 2026 Financial Results and Provides Corporate Update Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnVqdGRBLTNhR1dCOGNsc3ZDN0JuZ0E4WXAtQm5mWTJaYi0xdHBKcjJFNzVKbzc1SEdVelNkb1ZEeGtNRkdwSUE3czVKWHF1RVljNk0xR2hhemZ6aFdmVzAxSm9sQUhxdnBNTkZqMml2bWk2c1ZhWklmWWx4T2JFbkFXRTZraEdWb0tlT0dsZnFTNUtMSl9OUHZPSzdXc29pSDJIV2tmODkzSUNSenRPa3BXMTNfd2s?oc=5",
+   "published": "2026-05-14T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "5f817131bd4adc7c",
+   "company": "Olema Oncology",
+   "title": "Olema Oncology Reports First Quarter 2026 Financial and Operating Results - Olema Oncology",
+   "summary": "Olema Oncology Reports First Quarter 2026 Financial and Operating Results Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXJhaTVyd3hUU28yRkpoaHVMdVJpZEgxNXVvSG0tWW9zQzloRVo0VXBIRU8wbENGSUFNdUpWcEZWSE5ZalpDOGpnNWgwdmZ5a051MXdLSERiOUtaM3hySWdHV09DMnA3MVNoWTZmbzJMSGZ6X1dSWXBTbkUzWEJkcmJMLU14Qlc2Sk5iSlVUQjgtb2p4dGlGNkYtM0d6TXg5NVI5TEhINm9Cc3FCUkJUa1Rn?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "0ac7ff17cf57dfab",
+   "company": "Arvinas",
+   "title": "Arvinas Reports First Quarter 2026 Financial Results and Provides Corporate Update - Arvinas",
+   "summary": "Arvinas Reports First Quarter 2026 Financial Results and Provides Corporate Update Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckdMRVkyV1RydlBGdGdRTDd5UkJxSWFSQnIyZG9WWkdINE51MU9HaHJGcnBHZkp5b1d6SW5OdzY5dUYwTzJVdERJbHRKdEk4UjNvT0RuU1o5X1pwUXR5SzhEV01IRXpVSk9JVTd5M1BDeEtBRlJtS0ZpalVCMElndlJ5bVpNMVZRd29SRF93SjRtUDBJU09lazR6RktuaHB6S1JfLXZtQklKRWl3N3JzRjBUZ1EyZw?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "4be7e44f5fd983fb",
+   "company": "Arvinas",
+   "title": "Arvinas and Pfizer Enter into a Transaction with Rigel Pharmaceuticals for the Exclusive Global Rights of VEPPANU (vepdegestrant - Arvinas",
+   "summary": "Arvinas and Pfizer Enter into a Transaction with Rigel Pharmaceuticals for the Exclusive Global Rights of VEPPANU (vepdegestrant Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CblRLa3Q3VE02NkRibUZ2MjdkUWRlMURBRGU3dWY2MWpoeDNiMEZJTjl1LXYzYVRZcnBZX1IyaHlLOHB3bGRIWXkzSnMydw?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "d360a1a3f08d9cad",
+   "company": "Celcuity",
+   "title": "Celcuity Schedules Release of First Quarter 2026 Financial Results and Webcast/Conference Call - Celcuity",
+   "summary": "Celcuity Schedules Release of First Quarter 2026 Financial Results and Webcast/Conference Call Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXJGMlNDaDlfcUxiMThJTlZDemdrLXh3bzBiTVJ0YnlTYWUwTVJuSkxrLVlMNk5tUHVCT2M4RUlmU09EaE9jTUlZYktGbTlJZU9EZklfc0FnU0lGanhWMWdPNDJkb1IxNzZvZ3ZGNHh3Q2I0TlFheGVBdXc4dGFpZlppZjgzM252dVhDMl9uRFVGVjNScS1RVXN2ZE1fb3RYVURLbFRlcnlBZVFoX2d2QVBSZGxFamV1dE93eUZXaw?oc=5",
+   "published": "2026-05-07T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "f1541ac8abe865f9",
    "company": "Totus Medicines",
    "title": "Totus Medicines Presents Early Phase 1b Clinical Data Demonstrating 100% Disease Control Rate and Class-Leading Safety for TOS-358 + Fulvestrant Doublet Therapy in HR+/HER2- Breast Cancer at ESMO Breast Cancer Annual Congress 2026",
@@ -1016,6 +1698,50 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "c1a5a919b31ee588",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
+   "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "published": "2026-05-05T07:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "12581c80444857d4",
+   "company": "Arvinas",
+   "title": "Reference ID: 5790683 - Arvinas",
+   "summary": "Reference ID: 5790683 Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQXJIdG1oakFmSXFZbk1RLUM5VXV6WHRmcmxvSHBDWGw2ZkVxVmVnMEdncnl5MmpObm5WMkNqT0xrZi1KVmtvZGt2dUo2UEVMb3lScF9QaUkxblVuMkJfRmVGeTlrSVM2eWZocHY1MEkxUEpZY0w4enhfRDBUXzVHb25nYzJ0cEJWVUE?oc=5",
+   "published": "2026-05-01T20:13:37Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "f46db52a6a5b3849",
+   "company": "Celcuity",
+   "title": "Celcuity's Phase 3 VIKTORIA-1 Trial Achieves Primary Endpoint With Clinically Meaningful Improvement in Progression-Free Survival in PIK3CA Mutant Cohort - Celcuity",
+   "summary": "Celcuity's Phase 3 VIKTORIA-1 Trial Achieves Primary Endpoint With Clinically Meaningful Improvement in Progression-Free Survival in PIK3CA Mutant Cohort Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUhyTGZzYW5TeEtwMnctTWVma3pkejU2MURmUDlla2tvOEp1OUJDQkotWHU0cjM3UXBSVmNfN21oZ09OMHRnLTNlUWlQN1cydXdUOEp2emFRYWlTVHFBbDczOEdxUFpvYUFBa3lhWE1XdWdnSUxfeS1jcHNmV0NoMVFiaHZUMkpZYmFEc2RoMElRcktCTUxBY21QdzdBdHEtdTE2REMtRS13ZkpmQk83QnI2by1xUGZoaXBR?oc=5",
+   "published": "2026-05-01T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "13df14958a5231fe",
+   "company": "Arvinas",
+   "title": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer - Arvinas",
+   "summary": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnd3FtRi15RFYzUXljUmNNRWJPTUJtam5lNjNobjRFTUpxOUUzaWM2bjZYSzJ1cThQSG1BSjIwSjRCX21HQXMxaUh0azd0UQ?oc=5",
+   "published": "2026-05-01T07:00:00Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "4c4c375109797813",
@@ -1040,6 +1766,72 @@
    "first_seen": null
   },
   {
+   "id": "0908728f4171096f",
+   "company": "Olema Oncology",
+   "title": "Olema Oncology Appoints Prakash Raman, Ph.D., to Board of Directors - Olema Oncology",
+   "summary": "Olema Oncology Appoints Prakash Raman, Ph.D., to Board of Directors Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkQ2QUFtSEZmNDM5WmdxaHg5MTVTcXBnVm5YVzFONFlJWFJRQ0xxYk5fRFp4SHpnYWlCM2tYeU03eW0yV3ItOXJQTmFLSWRrUkF1VFZVcHBQaGx3N19nQUV2S1FvY3FsbzdfaFliQWVGSkNrY2JUeWFsTWt1QS1hQ3ZWbGRPc1ZGbWo5cnJZTG5HZlVMRF9rLXNiZkcxRDFyYkViWnExdFFGaW9Hdy1ZSU9qb0E?oc=5",
+   "published": "2026-04-29T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "7ba838d62a319444",
+   "company": "Eli Lilly",
+   "title": "A Study of Tersolisib (LY4064809/STX-478) With Other Anti-Cancer Treatments in Participants With Advanced Breast Cancer With a Genetic Change (PIK3CA) - Lilly Trials",
+   "summary": "A Study of Tersolisib (LY4064809/STX-478) With Other Anti-Cancer Treatments in Participants With Advanced Breast Cancer With a Genetic Change (PIK3CA) Lilly Trials",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42TlN5dy14bWUtTVNaaU95RnpXeEFZZ2Z3aWlnWTRNVHhkNldjVGQ3V3NWaDUtMjBlNzFBakhQWjZhMXo5S19BQ2VFRm5ZaVMtZjZ1V01B?oc=5",
+   "published": "2026-04-28T06:21:34Z",
+   "outlet": "Lilly Trials",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "c6dfa4aed2fb415e",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics Announces Clinical Data for Zovegalisib plus Atirmociclib Triplet Combination Supportive of Further Development in Frontline Metastatic Breast Cancer - Relay Therapeutics",
+   "summary": "Relay Therapeutics Announces Clinical Data for Zovegalisib plus Atirmociclib Triplet Combination Supportive of Further Development in Frontline Metastatic Breast Cancer Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2xtdjRfY2hMWG5rWjBMeERNVE1PY2ttei1aODFOSEpfR18tOU1oRXlrbmxtbF9LdkNBbEFYc1R0TnpmbWUzZmRQNGJuZHhHTEc5bi1KWFI1VllWLXU5QnB0SlBnVmlaZTRCbjdqZ3ViMEFKeFZTS1VJZGJNTUtabFJHbGhpYzJkM0JQeUNLc2pQcEcxNXBqMnN2THI5aVBabFFCZHc3QmtyTFZ3dlByenFEX1BzZzBfbFE?oc=5",
+   "published": "2026-04-27T07:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "b6a72b53f863b165",
+   "company": "Arvinas",
+   "title": "Congress Presentations - Arvinas",
+   "summary": "Congress Presentations Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yMUpoZVVTX2VzZWlwSEJuWkhKYWV1ZHFyejlyN0VKWXpNcm1QQ0VBaWdHLVRWZnBaR3JoSU43NXdGT2FadnAxbnl5aTVoWVRVTjdmeGRFTEFwVXM0V1hpS1NXM2xzWDJYQklkZE9BcWszbFZ6?oc=5",
+   "published": "2026-04-26T23:06:12Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "a34ed47f6492d8b7",
+   "company": "Roche",
+   "title": "Untitled - Roche",
+   "summary": "Untitled Roche",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51d2Q2SUZTOVhIZWsyVDBWZmlid1RoSXFSNXBGVFFrR0JSVjJ5MTlIVWxlZUxuSndHbjB0aUFvblNqRW5sMDIxSQ?oc=5",
+   "published": "2026-04-23T07:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "cfff5001d0059444",
+   "company": "Celcuity",
+   "title": "0001493152-26-012801 | 10-K | Celcuity - Celcuity",
+   "summary": "0001493152-26-012801 | 10-K | Celcuity Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43MG9Cbk9Qcno0SEFTLV90cm9OU21DQUhTRndLeEpSaGtxc3JORkRLZmhNdl9jYjRGT25ud0dXdnlMTTZqeUtaV24yeHhCaDBac3FqaTY2VDJld3U3RlVWNlBYTS1OSmdvZlNzSl9xTzZTT1JjcXZ0R25RREo?oc=5",
+   "published": "2026-04-22T15:13:20Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "05b157b8b6657dc8",
    "company": "Roche",
    "title": "ITOVEBI® - Roche",
@@ -1049,6 +1841,17 @@
    "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "f6e2d389ee7e866d",
+   "company": "Olema Oncology",
+   "title": "Olema Oncology Announces Preclinical Data for Palazestrant and OP-3136 at the 2026 AACR Annual Meeting - Olema Oncology",
+   "summary": "Olema Oncology Announces Preclinical Data for Palazestrant and OP-3136 at the 2026 AACR Annual Meeting Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQld4U3lUOWZFSkJJRkpmWDRYQk4wT041T1ZnTzc4amsxYWNMUWowaHBJY0ZXVVlvQW5wTUtRcnJkSzFrS2t4bmVIODRjUmlRT1I1M0k1VVlKdXBlRzF5VkZTb0syc1BTUmliTTlmXzdaSy1rSExHOTFQNFgybV9qQWlFdlFmVnBuSnJ2ek5nVzBQMjV2QmdabW1CbE1yTnZUa2ZMcE1xSkIwMl9ZTEV5MFZZalRxRXR0Z2c?oc=5",
+   "published": "2026-04-17T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "923d31ac582df427",
@@ -1062,6 +1865,61 @@
    "first_seen": null
   },
   {
+   "id": "93a512bcabf2e47b",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics to Present Initial Clinical Data on Zovegalisib in Vascular Anomalies at the International Society for the Study of Vascular Anomalies World Congress 2026 - Relay Therapeutics",
+   "summary": "Relay Therapeutics to Present Initial Clinical Data on Zovegalisib in Vascular Anomalies at the International Society for the Study of Vascular Anomalies World Congress 2026 Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0JVZmtrd25BU2k3bjJXajBieFRuNThHNlcxVVR5VEFVMkpRMXkyNHdvdG9uMDBFM0ZGM2VXVXpCUExad2xaenJobEljaWZQOFRnU2pmS19tVUFkeVM3NzlJbVUxRVp5OUM5WFVHSGNfLXpZWm9zdWhBTkxfcFhzNlBWXzdDRmZIalRRa0pSMENrTkRhOHh2eU92LXRRV2FSd1ZKczFFbU9DaFEyWjVqdE1IM1RGd0pKWDlB?oc=5",
+   "published": "2026-04-02T07:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "4cd7d947887b2307",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics to Present Initial Clinical Data on Zovegalisib in Vascular Anomalies at the International Society for the Study of - Relay Therapeutics",
+   "summary": "Relay Therapeutics to Present Initial Clinical Data on Zovegalisib in Vascular Anomalies at the International Society for the Study of Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UUHpHc2t0OXhrOE9QQTBIejlZaHhZR0ZYRlZCR1BZNVFRZEw4X29uQVl4RmxCWU1CLXFnVmRrYkdpOE1yYjUwLUEtYVYtQQ?oc=5",
+   "published": "2026-04-02T07:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "8cb8011b6aa28abe",
+   "company": "Eli Lilly",
+   "title": "FAQs | Inluriyo® (imlunestrant) + Verzenio® (abemaciclib) - Eli Lilly",
+   "summary": "FAQs | Inluriyo® (imlunestrant) + Verzenio® (abemaciclib) Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAwZnphM3RHTkZhWjAzVmx1c0plbmFrUmRQQURUQkViXzRLVXpER1o4NjJtSW5uV3dMbE5OZFBxLVdzZTJu?oc=5",
+   "published": "2026-03-30T16:30:20Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3f490776ee26e71b",
+   "company": "Celcuity",
+   "title": "Celcuity Inc. Reports Release of Fourth Quarter and Full Year 2025 Financial Results and Provides Corporate Update - Celcuity",
+   "summary": "Celcuity Inc. Reports Release of Fourth Quarter and Full Year 2025 Financial Results and Provides Corporate Update Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1N4X25DT3NJWS1tZmtlYkd1ZDlERTRoTUJaYzVKY01YbGE0RmQwamtBTGFucE1SeXZhQlVOWE1jM2FuX2NuXzZ4S3dWNXZtRURIZXFCamZLaFNzYWpmLTJwTWFZZ2hGLWhobzk1ZDRibmxkZW5nTXVMNG5HMm1NVGxGOFhoVGw3Sm84eGtHVUZJTTQtOFFaVzhBZk0yNjBTMEZzOEZoRGNPNS1Xam50THp3WVl3aXZWd0VydzVn?oc=5",
+   "published": "2026-03-25T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "ddd1da88f8fd0b75",
+   "company": "Eli Lilly",
+   "title": "HR+, HER2- Early Breast Cancer: - Lilly Medical",
+   "summary": "HR+, HER2- Early Breast Cancer: Lilly Medical",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzQ0ekwxckhBejg1Q29RbmxXcThjNGlMS29uN1kxeWhjVndWN0VvQ0t2ZDNHZ3RQd3RvN2FOLUQ4bWxoVHFHa0M5RlEtQzVxb3VncEp4UkZNQTJVenYtZGZLbERtc3g2alVrWE9nU2w4S2UzWGtIS0R5QWo5ekNIS1FWckYwcVd0dkhSd1VpWjI5ZzZvcXBPbjBmVDhOSFZnWXdkY1hObmE5Ukg1UGRYRTY0M1JNVTdLV2NzN0swOXp3dnQ3TFFheWh5N2tjc3cwMGxOdld5bzhCLTFvX1lRSmRSTWFKbjgyWVJWSDBPOGlfeU9DdmtoLVhB?oc=5",
+   "published": "2026-03-23T05:41:44Z",
+   "outlet": "Lilly Medical",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "c543261b73780418",
    "company": "Totus Medicines",
    "title": "Totus Medicines Presents Phase 1a Clinical Data for TOS-358, a Covalent PI3Ka Inhibitor, at ESMO TAT 2026",
@@ -1073,6 +1931,50 @@
    "first_seen": null
   },
   {
+   "id": "ddec7b7ddefaf152",
+   "company": "Olema Oncology",
+   "title": "Olema Oncology to Present Preclinical Data for Palazestrant and OP-3136 at the 2026 AACR Annual Meeting - Olema Oncology",
+   "summary": "Olema Oncology to Present Preclinical Data for Palazestrant and OP-3136 at the 2026 AACR Annual Meeting Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZE00cjljcHg4SXFfcGJaVXNKcldodkJZS0lSUGp5NlpRcUJiOEx2WVBiR2ROU3JBc3h1SDk3Q3lSVUpBcmJ6d2t2bTlEelZCTjBkY3NfSjN5Y2pGRkZ4Z21seThEaDVQaTNtdzVKeHl4RzdXUFNWN0FtZk92SWtYVlRJcnNQUFFJVlEzZzVrbVR3akg5di1udGRXNUhacmxsaExVYm03WGpWMEotQVZiNHNod3p3a2hjdDRCaWVR?oc=5",
+   "published": "2026-03-17T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "f98c1d581d12b296",
+   "company": "Olema Oncology",
+   "title": "Olema Oncology Reports Fourth Quarter and Full Year 2025 Financial and Operating Results - Olema Oncology",
+   "summary": "Olema Oncology Reports Fourth Quarter and Full Year 2025 Financial and Operating Results Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclJqdzNzQWxpMDd0dW43dl9BcUMzRDEzRjN5SzJqTUtOYUxWbUZoeV9BZm1mM3BTbzlfRkRyQTM2R1g4SDhGa0N6OFpCWi1sWGZLNHhPYUZMTVRzNVA4dVlKTHJkSXJoa2Y5R09XUThJQnVjdlFjdkZzcUpWcmlUalp3WXo1NlNrUUVKUW0wbmREb1E5TDFaclpYenJVV1dwRFpmX0pRY2E3U1VqMlBLbTZ5SQ?oc=5",
+   "published": "2026-03-16T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "8855bcca35b36f39",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – 0001193125-26-107169 – 10-K - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – 0001193125-26-107169 – 10-K Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OdER1TXJ6c0ZzRE9QSlVfbWZjaC1rdDVHaWc3NEhHbjdkU3hlclR1alpIWE1Iekt6a19mT0QtYVpSTDA1YmFZNUhxM2RQa0FLTTBzLVZjaXFmTjhjYlczNk5qQnhQaUcyb1J4RVIwOXV6c0k5SVk3QWtB?oc=5",
+   "published": "2026-03-16T07:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "a0e06016707c9224",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics Announces Data from Zovegalisib + Fulvestrant at the Phase 3 Dose of 400mg BID Fed at ESMO Targeted Anticancer Therapies Congress 2026 - Relay Therapeutics",
+   "summary": "Relay Therapeutics Announces Data from Zovegalisib + Fulvestrant at the Phase 3 Dose of 400mg BID Fed at ESMO Targeted Anticancer Therapies Congress 2026 Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkV0VFQzdFdRZ1NXNnhrTTh2X0VGRlhScW1nY2lTdWFEMkJZWjRMSkhMay1mVXdtSDhBTkVuQnFOZnpTWW1UQncteThROGxzOXlqVnlLbUFHMVlzN1lZaHBhZERnazVwZUlBbjNneFA3ZFZCenM3aXRpRDNCNXpQQ0F3em1MSDhZWnY3Wkt5VUUtWHB3TUtPb1A3c01ub005emZhbnZqSjJ0SW5weGlGZExyRnhWcm9vcXo0a3BIOA?oc=5",
+   "published": "2026-03-16T07:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "8f8d607ea0cb956c",
    "company": "AstraZeneca",
    "title": "Enhertu granted Priority Review in the US as post-neoadjuvant treatment for patients with HER2-positive early breast cancer - AstraZeneca",
@@ -1082,6 +1984,17 @@
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "caaf622acfa55745",
+   "company": "Celcuity",
+   "title": "Celcuity Announces Publication of Results from PIK3CA Wild-Type Cohort of Phase 3 VIKTORIA-1 Study of Gedatolisib Regimens in HR+/HER2- Advanced Breast Cancer in Journal of Clinical Oncology - Celcuity",
+   "summary": "Celcuity Announces Publication of Results from PIK3CA Wild-Type Cohort of Phase 3 VIKTORIA-1 Study of Gedatolisib Regimens in HR+/HER2- Advanced Breast Cancer in Journal of Clinical Oncology Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3JrZV9nQXJ5Z3Vrd1RjRnY0Vmp6LUpZVzVYQURGTGlrS25Yb1hHSlhaOE9UR3RXeWd6cFk3b1Z1NlMwSE45V3U1MTFWbC1NWHA3NG5USUczNkxYSWdQdXJiRm1hMldjNEl1dFZ5RVhZeEdRSE5OZHdZanNMb0xid0ZjSWtObmZaSjA2V1cxZXBEUGQyZTNOZlp4empRaWhxVTY3UFlFUWFlUG0zM3RMb05BeTV6Z2ROUi1peFNB?oc=5",
+   "published": "2026-03-09T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "e9a8d6e0b15a0e88",
@@ -1106,6 +2019,50 @@
    "first_seen": null
   },
   {
+   "id": "d4d3178df54854f8",
+   "company": "Olema Oncology",
+   "title": "Leadership - Olema Oncology",
+   "summary": "Leadership Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5zWGN5TVJsRzhoYzJ0TElGUzd0aUEydW51NTV3V3ZrNjB5ZHpaYjA2eGc5cld5dDlXZ3hJaWJ3ZHpTV0E?oc=5",
+   "published": "2026-03-04T16:59:05Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "a7f4a9ce8c3088e6",
+   "company": "Eli Lilly",
+   "title": "High-Risk, HR+, HER2- Early Breast Cancer: - Lilly Medical",
+   "summary": "High-Risk, HR+, HER2- Early Breast Cancer: Lilly Medical",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNW9iXzRkVnRIV05XcVljRlRpTUpFOWdqVlhtZHFCVEs4dGFoY3NzZHN4MHZsNWRpSnFRZ3RZOExkbnhkWkxrOUdMTDNWREhhVG5NbHRIZGlJSGlkMG9NUlV0NGUyOEZnQTM5MnptQ0pnV0VpOVc1Mm5Bc1MwX1NkQ2JWd2VzREhSNkU5UG1KNHY1YzdTSFRRSzhnd0cwU3otRWdhV1FSb2tpeVEzay1WeHRFbVg5dVJqc0lCU1gyUTJvVmNPbHpUdnRJYkFQbDE4SzMySVptamh6ZXRqYlJQOW15M0RSaGQ1cjRPRzY5SnUyOFVVUmc2LTFTcW5UN1hFUnpmNDVZRV9MVHZ3OWhJV05fNkhXYkE?oc=5",
+   "published": "2026-02-27T19:37:18Z",
+   "outlet": "Lilly Medical",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "05561100719ee53e",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics Reports Fourth Quarter and Full Year 2025 Financial Results and Outlines Anticipated 2026 Milestones - Relay Therapeutics",
+   "summary": "Relay Therapeutics Reports Fourth Quarter and Full Year 2025 Financial Results and Outlines Anticipated 2026 Milestones Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS09JYjVJYzFhVGZhLVZfTXF3ZXAtMWsyMDFfSXNKQmE4dGdpRWRmZ3kza0ZYcWt5ZXdJS2lkcDJTZ1h3NWlyVk9hLWU3Z3ppWkg1MDhtRFN5ZzRqYWpBN1d1QzFjc3Izdkl4RTBJMkl4VmJmNmI4SEI4TDlNLVgtY3hjeUFMYmtVMFFHY3dXQmJRczdQRWlVSTdXTmxaeWxCVnRVUmNzOTBoNXJOZE1nTEd4Mk91NmRYd21B?oc=5",
+   "published": "2026-02-26T08:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "805972c7c0372a01",
+   "company": "Celcuity",
+   "title": "Celcuity To Participate in Upcoming Investor Conferences - Celcuity",
+   "summary": "Celcuity To Participate in Upcoming Investor Conferences Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3Q0d2xtSVg3STFrQnhVdmRHTlh4SXVFMy1oZDJMOUsyZjRPTl9IMmFyQnZwdXRxNEpfWTJTbnVoX1ZNOVVSOXlIQmJybkw2NlR2SkRINTE4RFpscFl4QWItN1ptTncwSWR1cWo0bk5ZVXpUdVZJeldsZUtYODdvVksxQjRMNGhZUFdrTXc1dDUzb3JoQjVERVhhTURFNGxjNEVROTBEZGowQjdHc1E?oc=5",
+   "published": "2026-02-25T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "4b733f2088d8d468",
    "company": "AstraZeneca",
    "title": "We follow the science and put patients first - AstraZeneca",
@@ -1115,6 +2072,28 @@
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "c395282edc9a1719",
+   "company": "Arvinas",
+   "title": "Arvinas Reports Fourth Quarter and Full Year 2025 Financial Results and Provides Corporate Update - Arvinas",
+   "summary": "Arvinas Reports Fourth Quarter and Full Year 2025 Financial Results and Provides Corporate Update Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVFyWlItOWN3c0hnUDhJQ2VPUXBBXzZNN3VMT0cyZGdDNmNxUE1YSy1CV2hlODNwZjVrZmFVZFE0eXNhTF9sdXNPWF9RVDUwWEw0cDRoSGFKZVBhSjEtenA3OFBwb3phYV85ZWlSLTlBaG9DOS1MdmpPb3lIRGkxeGlpNVR0VFlqbEstSHpVLTVSMXp4NnZEOFFsZ0diazBhT05lVjBpNmtDMG5iaHdXRk9vVWp1NWdKTFE?oc=5",
+   "published": "2026-02-24T08:00:00Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "354835ce7f10cf42",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics to Participate in Two Upcoming Investor Conferences in March - Relay Therapeutics",
+   "summary": "Relay Therapeutics to Participate in Two Upcoming Investor Conferences in March Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0NtX0VhZ2ZpVE0wMGlUYlJUdDVkOVozczZjb2J5WDVsckp2MnB5dmYtdVF5QW55VVBOTGNfUmNqbE9pbjk2ZW1WNkFsdHFqTFZ4VzU1UXV4RmNBTUFoX2ViMUxKTGZEUWZFRGNaT2c2NlVuOFFTbHZ1Qm9qajI0ZDhoYy1NOXFia3UwYWtqem0xdDNpTE1rSXQyblZ1ZFY3b0xLa3RlaG8zZjlQcXl3VkhVLWg?oc=5",
+   "published": "2026-02-23T08:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "0a9e6da09d08ee9d",
@@ -1139,6 +2118,17 @@
    "first_seen": null
   },
   {
+   "id": "ad71c3a3cd05650f",
+   "company": "Celcuity",
+   "title": "Celcuity Appoints Charles Romp to its Board of Directors - Celcuity",
+   "summary": "Celcuity Appoints Charles Romp to its Board of Directors Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1Z3UGNtRW4wUTRaTFFyVS11eldRdUJHb1dHX3QtdXFIWEpqNlNjVmVOQXlZaTlfLVlNQnFPeVc5cTJNaXh3RXBQeHB0cWlIdExZNVRMdkdCVElmM1V2U1FHZFZXeVNOUHZpMmVzQlRxN0xlcEFEVWF3MFJVVWdRWU5LZWtsbmlNTnhrOFl6cGNKcDQ2MWFndmp6azZ1WUg0WUpKVldxVFNJdHJvMFE?oc=5",
+   "published": "2026-02-12T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "5ac51af166c8f087",
    "company": "AstraZeneca",
    "title": "IR Results Presentation - AstraZeneca",
@@ -1148,6 +2138,61 @@
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "20f9e63ef75c2a4d",
+   "company": "Olema Oncology",
+   "title": "Clinical Trials - Olema Oncology",
+   "summary": "Clinical Trials Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94LVVvMGdGbmtQby1pM011bDg1b0tLTWNsWUNQX2lqeHd0ZzVFWTN4U1BhQzJoLUdGcFRlWHBXMC1BNUFfZjE3YktR?oc=5",
+   "published": "2026-02-05T20:12:13Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "fa1d392550b5cad0",
+   "company": "Celcuity",
+   "title": "Celcuity to Present at Upcoming Guggenheim Emerging Outlook: Biotech Summit 2026 - Celcuity",
+   "summary": "Celcuity to Present at Upcoming Guggenheim Emerging Outlook: Biotech Summit 2026 Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5xLTMwVXY0UlRLQVhjd2gwMjBvTFgyWVpTazJDdC00UEZHMFpUZHFZYmhlWk9mLUVKYTZPbGlPUU1sUXZhbkZHOGxFVmdqTFRJWldzZzJDLWFBZHpnX2xWeFJpR2xrd0x4NjZtR1I2UjhQdVVkbmlMTmw4bXFJTjZTYmJYVXltY3c4cGxGNER3Y2cxX3FIUHdFSXFvYy1CY3UzZWR5RE5CUTVhZDhZVkF0T1F4Tlg5NV9Ecw?oc=5",
+   "published": "2026-02-04T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "709a0b728440dd3f",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – Olema Oncology to Participate in Upcoming Investor Conferences - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – Olema Oncology to Participate in Upcoming Investor Conferences Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmlFbjBzQkFsM24xZG05a3lyYU5hRDVta2hpb0h0eTV1dlBNZTFuS0lucDJ2aXNFVHYyckN5c3IwZGd3WEFLd3RrdTB2TDcyOVVJaTlWMDlqU01DOE96VktuOURCaDI4RG9PWG9ucmF1OE9XSXlORVFESVRkOWxfdjRKaFhnVzJEdlpWRFo1eE8wYkhiVWszMG5OaWZxLTZ6ckVqMmozTzlzNzctLWg5YmltUTRkdw?oc=5",
+   "published": "2026-02-04T08:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "9e6a46bfdd93aeb4",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics Announces Zovegalisib Granted Breakthrough Therapy Designation by U.S. FDA for PIK3CA-mutant, HR+/HER2- Advanced Breast Cancer - Relay Therapeutics",
+   "summary": "Relay Therapeutics Announces Zovegalisib Granted Breakthrough Therapy Designation by U.S. FDA for PIK3CA-mutant, HR+/HER2- Advanced Breast Cancer Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY0dmYVhRTnBzWnpWYlBLNUVmWVlMVVBxQ09rQ2RuOVcxdU8yUFU4UmlRajRBRzk0YWx3dVdMT2pUeHZURXlfNDQ2eE5oVDI2VW1RVFphY3JvV1NMRWFOUnVLWHdnbkUyWE5uQWFCemIzdjhva0g5NkVqUTRYb2tGaWxfSzlfb2l5d19wNXBwZVV0amdUSnFDZHE1VUZ5Y1hQekdfcFdlT1dtazJzS2pQbENLbnNKby12ZDdVcw?oc=5",
+   "published": "2026-02-03T08:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "a0668128a06a43fb",
+   "company": "Olema Oncology",
+   "title": "Olema Oncology Announces Departure of Chief Operating and Financial Officer - Olema Oncology",
+   "summary": "Olema Oncology Announces Departure of Chief Operating and Financial Officer Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkVZX1oxQ3ByMHQxNEFTeHplZjktc2tnVXMxMEVYTlI2ZTFqSFhHYVNaWEVhWWN2UmpxZFpyV0RPWVkwb21MNXA2cDdFLWsxMzNMdzJnZHZqWkxyZ192cEV0QUVyZTNSV1piVG1FQm5SMG9OQWtDeHhMYnV0Y29pZ3ZkU0FMcHdJNzcxUHJkakZnR0gtbEstQkowLWpOeWNweS1fVzdPbmplRHZGbm1POFN0NXhjZXdXYUNfQ2Fn?oc=5",
+   "published": "2026-01-30T08:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "1c1f55cad9d104b7",
@@ -1161,15 +2206,26 @@
    "first_seen": null
   },
   {
-   "id": "a34ed47f6492d8b7",
-   "company": "Roche",
-   "title": "Untitled - Roche",
-   "summary": "Untitled Roche",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTUTVxbXBQYTV6dGViTXVreDFxQ0JHa3hxYVI1TnR1Yy1Ud2VKaDVvUFRBWjVTd210bkd4TTZpUXlzYkFNUmg5OFZNZUlBaEYtbk00aVpTN1piNXV1WlRFZEZmUVJ1UGp0X0x1U0RJdWpGOHhBeXlBNGdn?oc=5",
-   "published": "2026-01-12T08:00:00Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
+   "id": "ba1523e1102105e6",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of New Drug Application for Gedatolisib in HR+/HER2-/PIK3CA Wild-Type Advanced Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of New Drug Application for Gedatolisib in HR+/HER2-/PIK3CA Wild-Type Advanced Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjlQMEFxQnhmV0lEMXM0NjR3elpGbmhoa2NYR1BJSW43Njh2ZVlGOTR1NGViWVhrclZrVHRPYjdDMnJDa1BCRWI5dHRzbzBpMTkyUFpSWk15LU85Rkp2Z2JwMDJKeG5nNk5Udll3T0NpSGlrZFp0YkJtcmxKUUJLRVp2MjVlaWpqNnVIMEw1Zmw0aE9GX1Fwa2otZklOMWd0Rnp0aDhSQ1RoQXVFaHppamxiQQ?oc=5",
+   "published": "2026-01-20T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "aa05288ad5e1b900",
+   "company": "Eli Lilly",
+   "title": "A Study of Imlunestrant (LY3484356) in Premenopausal Women With Estrogen Receptor-Positive (ER+) Human Epidermal Growth Factor Receptor 2 Negative (HER2-) Early Breast Cancer (preEMBER) - Lilly Trials",
+   "summary": "A Study of Imlunestrant (LY3484356) in Premenopausal Women With Estrogen Receptor-Positive (ER+) Human Epidermal Growth Factor Receptor 2 Negative (HER2-) Early Breast Cancer (preEMBER) Lilly Trials",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02ekZiRkNWZzVHZGVTb3NGUG0xRW9VNmpvVUZmTGdqemw4QVRvNm1GajZtWl9hXzBnQ2RHaDZJcVJmN0ZwaG9VMzBISnBaaHVtckl5VmhB?oc=5",
+   "published": "2026-01-14T15:17:00Z",
+   "outlet": "Lilly Trials",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "6212f6ac64888ca5",
@@ -1194,6 +2250,28 @@
    "first_seen": null
   },
   {
+   "id": "1633b6d680d62b58",
+   "company": "Arvinas",
+   "title": "Vepdegestrant, a PROTAC Estrogen Receptor Degrader, in Advanced Breast Cancer - Arvinas",
+   "summary": "Vepdegestrant, a PROTAC Estrogen Receptor Degrader, in Advanced Breast Cancer Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdFRELThvUnB0SDY1bHZiRkVFVnVGWDh5UXF4MnV1WEJ6Y3lTVGc5LXhvSGpGTU9faThJUk9qdjFXOERvM3lDSm9acHVOVlJoNl9BY1pLQ1dFeUpKc25PRVRfa3J0dS1yR2ZnZ0pwUEZaWkhjYnZKOFYyVUJ5TmtsXzFfRmNONEQ3c1EtWE9wY0F1c09XNGlSOFBqemNJVWRZZUduTXZONlVLeVc4SUQ1eFlB?oc=5",
+   "published": "2025-12-23T12:50:30Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "776f0ca1277a372f",
+   "company": "Arvinas",
+   "title": "Vepdegestrant (ARV-471) Archives - Arvinas",
+   "summary": "Vepdegestrant (ARV-471) Archives Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMYW9KX3pYZmswekhLSnI5SzE4Y3ljR3dNSUZESklQLXlObjM2UExEa2J5WlRlV181SXRZcnJIc0FUajJkcGNpNWFzUlFnSkhxaGhLc0dqMVkzYVRJdW9MUVE3TnlMZw?oc=5",
+   "published": "2025-12-23T00:42:33Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "6903667f77a4252d",
    "company": "AstraZeneca",
    "title": "Enhertu granted Breakthrough Therapy Designation in the US as post-neoadjuvant therapy for patients with HER2-positive early breast cancer - AstraZeneca",
@@ -1205,6 +2283,28 @@
    "first_seen": null
   },
   {
+   "id": "26448bfe46a332f0",
+   "company": "Eli Lilly",
+   "title": "Contracted Specialty Pharmacies for Inluriyo® (imlunestrant) and Verzenio® (abemaciclib) - Eli Lilly",
+   "summary": "Contracted Specialty Pharmacies for Inluriyo® (imlunestrant) and Verzenio® (abemaciclib) Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iTUFhdjBvenY1amZFYVQyTTJKS29iRURVNlB4Z3I4dVVMTllXd2dUUjBtS2Q4U3RJeFptZm8tNWlRVzkwdVcxaktCTjcwbWNCbjh3MFUxZkQ4Z0w4OXhGeVpvRUUyX1JHdXlZMUhaNGZwZUE?oc=5",
+   "published": "2025-12-20T19:37:17Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "7ec362cd205af82f",
+   "company": "Arvinas",
+   "title": "Safety and Pharmacokinetics of Vepdegestrant in Japanese Patients with ER+ Advanced Breast Cancer: A Phase 1 Study - Arvinas",
+   "summary": "Safety and Pharmacokinetics of Vepdegestrant in Japanese Patients with ER+ Advanced Breast Cancer: A Phase 1 Study Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX0pOMVV1R0lzY1JDT0hvdXNDb2ktZmtkVkVTZ2p4dEFXZVl6V1FQOENDWTFncG5ET0FYRGNEMVIweWJFQkUzbGNLQzlrNWdpT2dZczBvX0FPRDk1S2RGU1JBdng0VXZTQ3BPbEQ5TmhGdGFwd3lDamhCZEdURGxuWXFzLTJvZGxZR0VVcExicEdZS2s4bHcybkdXeUlOcF9mR1ljajU4SzR5SC1fYzZEZ242U1VHU3VoSUZ0Z1NVLVREZThCRm5fRk5xbnFPbHBabmVGT1pHeHhVSGZUNGNSRFRabw?oc=5",
+   "published": "2025-12-19T01:14:05Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "10aa037f6789c79f",
    "company": "Sermonix Pharmaceuticals",
    "title": "Athira Pharma Announces Exclusive License to Lasofoxifene Phase 3 Development Program for Metastatic Breast Cancer Candidate and a Financing for up to $236 Million",
@@ -1214,6 +2314,127 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "aa503cfe22e77132",
+   "company": "Arvinas",
+   "title": "Development of a Commercial Manufacturing Process for Vepdegestrant, an Orally Bioavailable PROTAC Estrogen Receptor Degrader for the Treatment of Breast Cancer - Arvinas",
+   "summary": "Development of a Commercial Manufacturing Process for Vepdegestrant, an Orally Bioavailable PROTAC Estrogen Receptor Degrader for the Treatment of Breast Cancer Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUURlZlFUS09YUF9mU2VjM21JV1JMUDhxSnJobU1rbXItc0NLMW5GVkk4NGZiLUZUc0pPekFPNnRnRWNidGNuMnJzNWtsNUh5eC1VcU5CakIxdHhmTDQwVEdmUGhtb1pmRnE2a1BUanRydURpbnNpWGRwVUU3aE55dGVxS1VNTkM0TThYTUlHRXBUWUF3Vng5Rms2bUJ5RXdYcXlZc05ZNVZVblhJbkQ3Nl9jVEtlN2RFWnVKZllScFMzdzI0X2J0TFl0VkZjVHdFSGpnSG5NakdXTVJmckVGdlFvVFpPSjhpTHZ1Q0x0ZjhudUYtb2RHUnoybGVueEdIWm9wSU0zVVF3RGdRQ1RTcjVubnhSM0NNVkQtbUxwMVp1UQ?oc=5",
+   "published": "2025-12-17T13:15:28Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "a7135dfff2dc845f",
+   "company": "Celcuity",
+   "title": "Corporate Governance - Celcuity",
+   "summary": "Corporate Governance Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
+   "published": "2025-12-16T08:32:44Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "9236f573fd6faf33",
+   "company": "Celcuity",
+   "title": "Email Alerts - Celcuity",
+   "summary": "Email Alerts Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1NXNod1ZXNlJfaXoySnloSUotUzdoZHlGTkxvNDhHVWtIQ1BJbEpWZzN4VlYyU2lyU3RoRF9uLXNfRXVpTll1ajBGRVJONE9FdzFxdXpJY3htaWRXSVE?oc=5",
+   "published": "2025-12-16T01:36:40Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "c7a4f06a2cbda548",
+   "company": "Celcuity",
+   "title": "Historical Price Lookup - Celcuity",
+   "summary": "Historical Price Lookup Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FVDJmVlNURXJicE92ckUxZTZJemJxN3hBcFlsT0wxRnByd2tpWV85QTRweGc5bW4wV0FTMmE3RF9KWlFJc1VNY18tQWZVSi1SaUpWdDVzWDdfVlhMUjdmb2xRby1QR2lzSXZISG5aWjd1eFU?oc=5",
+   "published": "2025-12-16T01:22:10Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "d357c739bfc7030a",
+   "company": "Celcuity",
+   "title": "Analyst Coverage - Celcuity",
+   "summary": "Analyst Coverage Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qM3Z4QmFaYVd4dGZia3FRandpX0paRXEzVW5XQ1dJSXV2UkhDUUJYR3RkM3lNRXVnbXk4T3h4VUpDLWpuX1hZTVFyRUxmQXYxLWc?oc=5",
+   "published": "2025-12-16T01:09:47Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "2f79930a6a1134bf",
+   "company": "Celcuity",
+   "title": "Events & Presentations - Celcuity",
+   "summary": "Events & Presentations Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBocDE1dGdyT290X2ZraDk3TnBxR3RLT3ktemNVUWJwdnNTcVZicnJwUFVsLTgtQnpxQkN3SW5XT0NoWkd2OUpUOEZKTWVudXNyTGxVcVIwYw?oc=5",
+   "published": "2025-12-16T01:09:39Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "db701a68ae28d7d4",
+   "company": "Celcuity",
+   "title": "Contact IR - Celcuity",
+   "summary": "Contact IR Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wamN3WVB0c0FOM05jVGZvTjV1OUY2ZmhlMWhJZUtQTXRLUFI5dXZWUWk4Z09PNnU1MEZnSnNjODNfTk1vakFlajNpMTBVcXpTdlZRX0kyTk05V2M?oc=5",
+   "published": "2025-12-16T00:47:39Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "e2b0bf0c19f822cb",
+   "company": "Eli Lilly",
+   "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
+   "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "published": "2025-12-12T08:00:00Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "84c83534a15651ad",
+   "company": "Relay Therapeutics",
+   "title": "Relay Therapeutics Announces Efficacy Subset Analysis of Zovegalisib (RLY-2608) + Fulvestrant in Breast Cancer Patients Pre-Treated with SERD or with ESR1 Mutations at SABCS 2025 - Relay Therapeutics",
+   "summary": "Relay Therapeutics Announces Efficacy Subset Analysis of Zovegalisib (RLY-2608) + Fulvestrant in Breast Cancer Patients Pre-Treated with SERD or with ESR1 Mutations at SABCS 2025 Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2J3cTZKOFFhRW9VRlF0N0NWWW1aWjNDLTdlVTN4aTM2eTFDZWhlM3docHphTlJTMnh6OURmUkJFYUlRckpxYlZxVVZXRDNYRklXR0phTk1sYUVDOGhEX1RuRGxzalVKdy1ZX2pGMk80SUZTdnFOS0RVLS1WemM0MGIxa0tKeHktOFBmZjItSEdSWG84ZVpQbm9uaHYzVjI3dkxWRlVIa2pONEU1TXkwVmZR?oc=5",
+   "published": "2025-12-12T08:00:00Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "a397eadf2a48d5e2",
+   "company": "Celcuity",
+   "title": "Celcuity Presents Updated Results from the PIK3CA Wild-Type Cohort of the Phase 3 VIKTORIA-1 Trial at the 2025 San Antonio Breast Cancer Symposium - Celcuity",
+   "summary": "Celcuity Presents Updated Results from the PIK3CA Wild-Type Cohort of the Phase 3 VIKTORIA-1 Trial at the 2025 San Antonio Breast Cancer Symposium Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQODBZY2lVSkxwTlh4QnRDTURDMGxHNEdxT2RBRTFvdzhhbnluendkcjhQVl9oRktDdHY4b2pjZUcxODBXNnVGcmR0OVN3eHBfN3JfVU9NYXhIdDNaNm1wNl84bHBpdmxjOV9GUzVOS1dSbWFxVUJYOXRZVUZ0YVhGWWs4Y3Q0ODFLbl9FSTVQNHA2d0pidUk3MWdDQVg0aU42RUY4NlMtWDh4UnJRMUNLZXI5bXhQcjVGMkxvaFVUWQ?oc=5",
+   "published": "2025-12-11T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "b0dd46b5d74f45bc",
@@ -1236,6 +2457,61 @@
    "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "26ce1f819fa5c1e6",
+   "company": "Arvinas",
+   "title": "Publications - Arvinas",
+   "summary": "Publications Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJeG5wMmNicUN4YmM3dUtBUHdLMEVUb1lhTW1UMlZTRE85NmVIZFI4V3dSV2xveUVmS0t4T3dqOFdBdTB1R0xyWHpXZmhnaF93QmRfUk5IVHExUHF2WGc?oc=5",
+   "published": "2025-12-06T22:48:22Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "d403886c7344c2e1",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – 0001162157-25-000005 – 4 - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – 0001162157-25-000005 – 4 Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wMDBMTFBRWW5GTWkwREd3NWllYWxwLTlGWmJzV1lVdTdjSGxnV2xmTnVNZ1JMdHIzRjEzQW5vOGc2d1dJRGIwTXRPTmNGTkJoVnlXSTI3dUxVeW9Gb2NtRDNWdmdVb19uRmVkNUJIeGZaZTV2VkE?oc=5",
+   "published": "2025-11-25T08:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "1eb5bb41b14c0c6c",
+   "company": "Eli Lilly",
+   "title": "Lilly to highlight progress across key programs in early and advanced hormone receptor-positive breast cancer at the 2025 San An - Eli Lilly",
+   "summary": "Lilly to highlight progress across key programs in early and advanced hormone receptor-positive breast cancer at the 2025 San An Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5taXNYQWViR1p5aXdZUE5nSUhrTHhQVzFERjdDay1uV0U4MFRVcGt4eTlGWlRNZF9sSkhLZXNaMGtIWkI1UHZnR2R5bjJTMzdqUHR3?oc=5",
+   "published": "2025-11-24T08:00:00Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "e2b4c73fa130c95a",
+   "company": "Arvinas",
+   "title": "Arvinas Announces Data Presentations from the Vepdegestrant (ARV-471) Clinical Development Program at the 2025 San Antonio Breast Cancer Symposium (SABCS) - Arvinas",
+   "summary": "Arvinas Announces Data Presentations from the Vepdegestrant (ARV-471) Clinical Development Program at the 2025 San Antonio Breast Cancer Symposium (SABCS) Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVFqRWljZ1llQmZPY0xZbWVXLV9Zb1RuMFloSE9ZTXRuSXh5allST3IzcjFZRkdWNGVWM3Vsc1N1dnM1VFEycEtndUlPQVN3QllsdmJwWXB2TmVKS2RWMTJSVFkyVFRxd0c5S2ltUHU2S0Jic3FSY3JFRzVvOGJwYUtneDNXdVNaNGN4ekNpWmFJdmQwbzBNbk1RUVhQNUY4WWRlRVFzMHY5SUw4LVZXZU1sYlItNnR0?oc=5",
+   "published": "2025-11-24T08:00:00Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "e6b361d5a110d341",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – Olema Oncology Announces Closing of $218.5 Million Public Offering of Common Stock and Full Exercise of Underwriters’ Option to Purchase Additional Shares - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – Olema Oncology Announces Closing of $218.5 Million Public Offering of Common Stock and Full Exercise of Underwriters’ Option to Purchase Additional Shares Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2xiTW5XYnlxOF9jQnl2ZzBKcmswSXpETXJKWmttTXJGZUJ0cUNLbWNKVm1nTGNrVDJZTE5Td196Vkh6TW1VM1J2ZUNXTDA1UWFacTdVWi13Z09sVFVtdlpBdlV1VjRmczFjWUp3aXRNd1BVVVdXUllyUkJaOTY2SmxaN1dsUlhGLXJ0bDEySjBYUXEtOUZRdXgtX2prcnFrOHBob29PSTVYc1dLTHhXb25UdnlGQ3ZRdXc?oc=5",
+   "published": "2025-11-20T08:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   }
  ]
 }
