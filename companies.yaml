@@ -26,6 +26,7 @@ companies:
 - name: Celcuity
   site: https://ir.celcuity.com/
   rss: https://ir.celcuity.com/rss/news-releases.xml
+  exclude: [Associate Director, Manager, Specialist]
   lists:
     - {program: Lemon Tree, list: List A, priority: 1, assets: "Gedatolisib"}
 
@@ -33,12 +34,14 @@ companies:
   site: https://investor.lilly.com/
   rss: https://investor.lilly.com/rss/news-releases.xml
   keywords: [imlunestrant, Inluriyo, tersolisib, LY4064809, STX-478, Scorpion, EMBER, PI3K, SERD, HR+, HR-positive, ER+, ER-positive, ESR1, PIK3CA]
+  exclude: [Hypothetical Patient, "Deck:", Medical Education, Lilly Medical, mechanism of action, Supporting Adherence, How should, PLS_]
   lists:
     - {program: Lemon Tree, list: List A, priority: 1, assets: "Imlunestrant, Tersolisib (LY4064809 / STX-478)"}
 
 - name: Roche
   site: https://www.roche.com/media/releases
   keywords: [giredestrant, Wilserdly, inavolisib, Itovebi, GDC-4198, RGT-419B, evERA, lidERA, persevERA, INAVO, HR-positive, ESR1, PIK3CA]
+  exclude: [Manager, ForPatients, 罗氏]
   lists:
     - {program: Lemon Tree, list: List A, priority: 1, assets: "Giredestrant, Inavolisib (Itovebi)"}
     - {program: Lemon Tree, list: List A, priority: 2, assets: "GDC-4198"}
@@ -69,6 +72,7 @@ companies:
 - name: AstraZeneca
   site: https://www.astrazeneca.com/media-centre/press-releases.html
   keywords: [camizestrant, Etcamah, SERENA, HR-positive, ER-positive, ESR1]
+  exclude: [Portfolio and Pipeline, Externally Sponsored, Manager, "Intern -"]
   lists:
     - {program: Lemon Tree, list: List A, priority: 1, assets: "Camizestrant"}
 
