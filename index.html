@@ -463,7 +463,7 @@ h2.sub{font-size:14px;margin:24px 0 8px;color:var(--ink-2)}
         fetch('data/status.json'+bust).then(r=>r.json()).catch(()=>({sources:[]})),
         fetch('data/trials.json'+bust).then(r=>r.ok?r.json():({trials:{},assets:{}})).catch(()=>({trials:{},assets:{}}))]);
       NEWS = n; STATUS = s; TRIALS = t;
-      $('#updated').textContent = `Updated ${rel(NEWS.updated)} · ${new Date(NEWS.updated).toLocaleString()} · refreshes every 15 min`;
+      $('#updated').textContent = `Updated ${rel(NEWS.updated)} · ${new Date(NEWS.updated).toLocaleString()} · refreshes every 5 min`;
       if (first) populateFilters();
       renderAll();
     }catch(e){
@@ -543,7 +543,7 @@ h2.sub{font-size:14px;margin:24px 0 8px;color:var(--ink-2)}
   };
 
   load(true);
-  setInterval(() => load(false), 5*60_000);   // pick up new runs without a page reload
+  setInterval(() => load(false), 60_000);     // pick up new runs without a page reload
 })();
 </script>
 </body>
