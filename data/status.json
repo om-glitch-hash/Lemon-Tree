@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:17:35Z",
+ "updated": "2026-11-19T18:19:14Z",
  "sources": [
   {
    "company": "Celcuity",
@@ -10,7 +10,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z",
+   "checked": "2026-11-19T18:19:14Z",
    "error": "feed unreachable or empty"
   },
   {
@@ -22,7 +22,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z",
+   "checked": "2026-11-19T18:19:14Z",
    "error": "feed unreachable or empty"
   },
   {
@@ -34,7 +34,7 @@
    "items": 18,
    "latest": "2026-11-15T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Genentech (Roche US)",
@@ -45,7 +45,7 @@
    "items": 5,
    "latest": "2026-11-16T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Olema Oncology",
@@ -56,7 +56,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z",
+   "checked": "2026-11-19T18:19:14Z",
    "error": "feed unreachable or empty"
   },
   {
@@ -68,7 +68,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "AstraZeneca",
@@ -79,7 +79,7 @@
    "items": 19,
    "latest": "2026-10-19T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Pfizer",
@@ -90,7 +90,7 @@
    "items": 1,
    "latest": "2026-10-07T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Rigel Pharmaceuticals (Veppanu commercial rights)",
@@ -101,7 +101,7 @@
    "items": 1,
    "latest": "2026-08-13T12:05:00Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Arvinas",
@@ -112,7 +112,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z",
+   "checked": "2026-11-19T18:19:14Z",
    "error": "feed unreachable or empty"
   },
   {
@@ -124,7 +124,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z",
+   "checked": "2026-11-19T18:19:14Z",
    "error": "feed unreachable or empty"
   },
   {
@@ -136,7 +136,7 @@
    "items": 2,
    "latest": "2026-01-09T19:12:42Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Relay Therapeutics",
@@ -147,7 +147,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z",
+   "checked": "2026-11-19T18:19:14Z",
    "error": "feed unreachable or empty"
   },
   {
@@ -159,7 +159,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Novartis",
@@ -170,7 +170,7 @@
    "items": 1,
    "latest": "2026-11-18T06:06:02Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Avenzo Therapeutics",
@@ -181,7 +181,7 @@
    "items": 8,
    "latest": "2026-11-18T08:27:37Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Carrick Therapeutics",
@@ -192,7 +192,7 @@
    "items": 1,
    "latest": "2025-12-10T18:30:00Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "Totus Medicines",
@@ -203,7 +203,7 @@
    "items": 6,
    "latest": "2026-05-06T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   },
   {
    "company": "GenSci (Changchun GeneScience)",
@@ -214,7 +214,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z",
+   "checked": "2026-11-19T18:19:14Z",
    "error": "feed unreachable or empty"
   },
   {
@@ -226,7 +226,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-19T18:17:35Z"
+   "checked": "2026-11-19T18:19:14Z"
   }
  ],
  "trials": {
