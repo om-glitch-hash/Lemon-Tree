@@ -1,6 +1,6 @@
 # Competitor Newsroom
 
-One page that pulls news from every tracked company's newsroom, plus the tracked assets' clinical trials, updated every 15 minutes.
+One page that pulls news from every tracked company's newsroom, plus the tracked assets' clinical trials, updated every 5 minutes.
 
 - **News** tab: one feed with filters for program, list, priority, company, date and free-text search. NEW badges, unread-only view, mark all read, CSV export. Trial numbers (NCT…) in news summaries link to ClinicalTrials.gov.
 - **Trials** tab: every ClinicalTrials.gov trial for the tracked assets, with phase, status, sponsor and primary completion date. NEW marks trials first listed, or whose status, phase or primary completion date changed, since you last looked. Filters for asset, priority, status, phase, change date and breast cancer only. CSV export.
@@ -10,7 +10,7 @@ One page that pulls news from every tracked company's newsroom, plus the tracked
 ## How it works
 
 ```
-companies.yaml  ──►  scripts/fetch.py (GitHub Action, every 15 min)  ──►  data/news.json + data/trials.json  ──►  index.html (GitHub Pages)
+companies.yaml  ──►  scripts/fetch.py (GitHub Action, every 5 min)  ──►  data/news.json + data/trials.json  ──►  index.html (GitHub Pages)
 ```
 
 For each company the fetcher uses the best source it can find:
@@ -52,7 +52,7 @@ The page has a `noindex` tag, so search engines are asked not to list it. Anyone
 
 ## Notes
 
-- **Speed:** GitHub runs scheduled jobs every 15 minutes, but can delay them by a few minutes when it's busy. The page checks for new data every 5 minutes. Google News feeds usually lag the newsroom by 15 to 60 minutes. ClinicalTrials.gov records usually change a few days after the sponsor submits an update.
+- **Speed:** GitHub runs scheduled jobs every 5 minutes (its shortest schedule), but can delay or skip runs when it's busy. The page checks for new data every minute. Google News feeds usually lag the newsroom by 15 to 60 minutes. ClinicalTrials.gov records usually change a few days after the sponsor submits an update.
 - **Scraped newsrooms** without dates on the list page show the date the item was first picked up.
 - **Read/unread** status is kept in each person's own browser. It isn't shared across the team.
 - News history is kept for 12 months in `data/news.json`. Trial change history (last 10 changes per trial) is kept in `data/trials.json`.
