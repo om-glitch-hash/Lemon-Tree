@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:30:02Z",
+ "updated": "2026-11-20T00:21:15Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -697,6 +697,28 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "263b314ccd097119",
+   "company": "Relay Therapeutics",
+   "title": "Jefferies Global Healthcare Conference - Relay Therapeutics",
+   "summary": "Jefferies Global Healthcare Conference Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3lyN29uLWpGdDZKUWJxMXVNTW1FWWlQWnZJcm1EQTVyUmxXOW5zVjdJcmVnT0N1bVVtLXQ3alp2Sm1hbEQzcVdtbW5ob2FTQmQ1dHdsamUxa0tBa0U5d3o3aWh3d01UNzdhQjV0NGlTZzBFWDJNR0lmaUNyQkxubDRzU3luX2FGejRTcjNn?oc=5",
+   "published": "2026-11-03T13:06:31Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-20T00:21:15Z"
+  },
+  {
+   "id": "a204d8d7bc234eff",
+   "company": "Relay Therapeutics",
+   "title": "UBS Global Biopharma Conference 2026 - Relay Therapeutics",
+   "summary": "UBS Global Biopharma Conference 2026 Relay Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN1VzdzVNeDJaTWhVMk02WGF0YnNmS2dHT2JsVmJhVGR1MDdKR1pHamZMVi05YzBLa0VDOHQ4bnFULVNmd3pkUU9fRVVNZ2hsdlFsZkxXNXZqY2xPSll3eDkzUllSRkFVd0xGZnpuYzBIN3dxNm96akNTblRRWnVKYTgxR3JiOUlH?oc=5",
+   "published": "2026-11-03T04:10:33Z",
+   "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-20T00:21:15Z"
   },
   {
    "id": "74181b7bffbc2690",
@@ -1660,7 +1682,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -2430,7 +2452,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
