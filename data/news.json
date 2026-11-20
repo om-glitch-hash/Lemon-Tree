@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:48:31Z",
+ "updated": "2026-11-20T08:08:08Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -588,6 +588,17 @@
   }
  ],
  "items": [
+  {
+   "id": "5781d3f298afaa62",
+   "company": "Roche",
+   "title": "Wilserdly (giredestrant) - Roche",
+   "summary": "Wilserdly (giredestrant) Roche",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHZXaXBHVlhyUHQxOUtYQ3hQb0d5clhucnQxOVhLVDRXbm9XbFl6T2M5MFlxNU9oYlRGZVJuMlpGVzlFU25PVVlLNU5pbG5MMDItOHhkaG1xd0doMFFXNk5jWHFyY3V6ODRuaEdjS01HYjJsUEVNSlRPeVUxUkxGMTJEMm5VR3RmUEkwMkpB?oc=5",
+   "published": "2026-11-20T05:31:09Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T08:08:08Z"
+  },
   {
    "id": "b5fdc0a1a31d8502",
    "company": "Roche",
@@ -1319,7 +1330,7 @@
    "company": "AstraZeneca",
    "title": "Etcamah (camizestrant) in combination with a CDK4/6 inhibitor approved in the EU for 1st-line advanced ER-positive breast cancer - AstraZeneca",
    "summary": "Etcamah (camizestrant) in combination with a CDK4/6 inhibitor approved in the EU for 1st-line advanced ER-positive breast cancer AstraZeneca",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNG5WS3d0QlhQM29JMEJjN2VFWkE0ZGxFaUpkNFMyTklycF9QV0hBUUt6LTlteDBwdTJ0cHhwdTNyWE9vZzZndkdiemMwaFhGS3BzZkZQNmhLanV5Ykg0Z0pLRTBzRjMzRTExY3paby1ObjRiaFBaQzNOVHZSX1F2MVdOaG1oQUx2SnhvekNRNkpCejBhZ0M0WkFycDRHZnpwZ1Q4VVFYcW9WaDA2bEVlUkFBOTZVM2syTzVSVWYwRnBRVlRpZGJCc0pmbG9CSzd1MmhvMlQzN2ktSXE0XzdtMEY1aDB1VkdqdUJVNUxDYzRlWTFzd0hv?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDhtU05qTWVuR2FGajFUbjhEeHRIOFZ6VnotMXh4MHNWV0lWRmRJLXd5ZG5BOVVSS2Vwb2REOTFHUjBZUWdqSW1VZndnT29Da3J4cFZNZU05b3g2VS1RYVk2b2tib0FfZEVTNlR1ajdNc1YwQWI5aHpfZ19YTjhzTjJiUWpjRUtSYTdON081NVhDLWZlNTA3Y1lTWWNncXlSVUZDTzJqeE9nQQ?oc=5",
    "published": "2026-07-23T07:00:00Z",
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
@@ -2653,17 +2664,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVFqRWljZ1llQmZPY0xZbWVXLV9Zb1RuMFloSE9ZTXRuSXh5allST3IzcjFZRkdWNGVWM3Vsc1N1dnM1VFEycEtndUlPQVN3QllsdmJwWXB2TmVKS2RWMTJSVFkyVFRxd0c5S2ltUHU2S0Jic3FSY3JFRzVvOGJwYUtneDNXdVNaNGN4ekNpWmFJdmQwbzBNbk1RUVhQNUY4WWRlRVFzMHY5SUw4LVZXZU1sYlItNnR0?oc=5",
    "published": "2025-11-24T08:00:00Z",
    "outlet": "Arvinas",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "e6b361d5a110d341",
-   "company": "Olema Oncology",
-   "title": "Better medicines for breast cancer and beyond – Olema Oncology Announces Closing of $218.5 Million Public Offering of Common Stock and Full Exercise of Underwriters’ Option to Purchase Additional Shares - Olema Oncology",
-   "summary": "Better medicines for breast cancer and beyond – Olema Oncology Announces Closing of $218.5 Million Public Offering of Common Stock and Full Exercise of Underwriters’ Option to Purchase Additional Shares Olema Oncology",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2xiTW5XYnlxOF9jQnl2ZzBKcmswSXpETXJKWmttTXJGZUJ0cUNLbWNKVm1nTGNrVDJZTE5Td196Vkh6TW1VM1J2ZUNXTDA1UWFacTdVWi13Z09sVFVtdlpBdlV1VjRmczFjWUp3aXRNd1BVVVdXUllyUkJaOTY2SmxaN1dsUlhGLXJ0bDEySjBYUXEtOUZRdXgtX2prcnFrOHBob29PSTVYc1dLTHhXb25UdnlGQ3ZRdXc?oc=5",
-   "published": "2025-11-20T08:00:00Z",
-   "outlet": "Olema Oncology",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
   }
