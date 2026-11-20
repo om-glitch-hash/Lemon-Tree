@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:43:07Z",
+ "updated": "2026-11-20T17:42:52Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1858,7 +1858,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -2481,6 +2481,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "a34ed47f6492d8b7",
+   "company": "Roche",
+   "title": "Untitled - Roche",
+   "summary": "Untitled Roche",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wSHQtdkt5ZXdUX3BHbklhT3hzSkFsUWRPOEplOGVoM0xoVl9qeWJEOENXRmpxc21oV2RLeVJGUEV1Wk05cDBTX2I0al9BYkZ1Y0lwTjVmNUZpTTYzVjBGYTlqdEg2ZnQyS0RQVzhjVQ?oc=5",
+   "published": "2026-01-29T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1c1f55cad9d104b7",
    "company": "Roche",
    "title": "Roche’s Annual Report 2025 - Roche",
@@ -2512,17 +2523,6 @@
    "outlet": "Lilly Trials",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "a34ed47f6492d8b7",
-   "company": "Roche",
-   "title": "Untitled - Roche",
-   "summary": "Untitled Roche",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTUTVxbXBQYTV6dGViTXVreDFxQ0JHa3hxYVI1TnR1Yy1Ud2VKaDVvUFRBWjVTd210bkd4TTZpUXlzYkFNUmg5OFZNZUlBaEYtbk00aVpTN1piNXV1WlRFZEZmUVJ1UGp0X0x1U0RJdWpGOHhBeXlBNGdn?oc=5",
-   "published": "2026-01-12T08:00:00Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
   },
   {
    "id": "6212f6ac64888ca5",
@@ -2743,6 +2743,17 @@
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "0cca47483b0e09c6",
+   "company": "Roche",
+   "title": "Roche’s Virtual Oncology/SABCS Investor Event - Roche",
+   "summary": "Roche’s Virtual Oncology/SABCS Investor Event Roche",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2FDT1dwdE44VGFkZW1nQlNZWndMRE9mVmpqTGR2eWlFVDkwNnN0Vml3SlAydUhLVDBKOVAwd1ppbWxwZHE1cEFBVVZ5d0ozRGFoTUJOb25GLTRCalV0M2M1TDVaNkVxMDVyZUU0X0pFSDFZQTRXUTh6NEwyaXN4S1k3SG5lWVRfMlE?oc=5",
+   "published": "2025-12-11T18:16:43Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T17:42:52Z"
   },
   {
    "id": "a397eadf2a48d5e2",
