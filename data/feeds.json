@@ -39,14 +39,14 @@
   "method": "newsroom via Google News (site:) (own feed blocked)",
   "filter": false,
   "sig": "[\"https://ir.olema.com/\", \"https://ir.olema.com/rss/news-releases.xml\", null, null, null]",
-  "checked": "2026-11-19T18:21:53Z"
+  "checked": "2026-11-20T12:31:11Z"
  },
  "Relay Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=site%3Arelaytx.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:) (own feed blocked)",
   "filter": false,
   "sig": "[\"https://ir.relaytx.com/\", \"https://ir.relaytx.com/rss/news-releases.xml\", null, null, null]",
-  "checked": "2026-11-19T18:21:53Z"
+  "checked": "2026-11-20T12:31:11Z"
  },
  "Carrick Therapeutics": {
   "feed": "https://www.carricktherapeutics.com/news-media/press-releases/rss",
