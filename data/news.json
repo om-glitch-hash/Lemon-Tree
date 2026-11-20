@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:36:01Z",
+ "updated": "2026-11-20T04:40:23Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1117,6 +1117,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "a6df5fe1a8c47f6e",
+   "company": "AstraZeneca",
+   "title": "Cell therapy in cancer | CAR T-cell therapy - AstraZeneca",
+   "summary": "Cell therapy in cancer | CAR T-cell therapy AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTGRmWEhPVHp0UzJHZTNMSGloSW9wYkQzT3VrVXZQdk9HUGhtWVNVTmpqeExvcmlnRFI0bU1BeVJ5QnJRemVHUVRTV1prbHk3VDYyOENUYWFmdlA5dnlXdGs5QXBVZEVHeExRNG5LQ1VEOTdqOXEwbmotOE80bVBvTGNBSTNMU2FsSUdrUzRqNHpkOVU0MEZiam1DaS1sZXBCS2hSd0FqendDXzBzSG9oRTBKeTJtanJQZVpYaUdudUtqcE16MUxRR01XYWI2dElaVEcyMDV3?oc=5",
+   "published": "2026-08-10T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T04:40:23Z"
+  },
+  {
    "id": "e00ac8ceded5a277",
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports Second Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
@@ -1225,6 +1236,28 @@
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "cbbe42db7c1bdd93",
+   "company": "AstraZeneca",
+   "title": "AZN IR: CTA - AstraZeneca",
+   "summary": "AZN IR: CTA AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZkVFNk5OSWVTYnV0R1VJUVdSWTd2QmY0MXZHeEVoM0s5YnRCU1IxS3JJTVIzT3FkYmpvMTFYWXlDNWctV0FDRE9GTmU3dEdXVkJjN0xIMHZoZGJZS21STThxOEViWm1GYjhKWmIzWUFhdVR4X3BKOUR0VGp6NU94NVQtSTdtY3VOYUZmV3BwQkZwV3VTbjM5MG8xbmFwZnlBNEpvckdFRDVmX3g4?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T04:40:23Z"
+  },
+  {
+   "id": "2ac052197f706946",
+   "company": "AstraZeneca",
+   "title": "H1 and Q2 2026 Results - AstraZeneca",
+   "summary": "H1 and Q2 2026 Results AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclp1WGZBekU2aTV1VFdLTmozWlk5bjZwWFJJc2ZnejBVU3BZTFQzRUpTYnJnemFOMF9wa1pCWXg3ZzNlNG1OV1ZKZ1hDUFJtS1pXQlQ5d0xZMTl2a0NERlhoMnliU0h2U3REQ0N4ZnV0VDB0bWtFSGFMRkNGdFhVTTRJcG1TLUlMdFdtYnhvSzVRNWhHLVVzOU8zWTE?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T04:40:23Z"
   },
   {
    "id": "5edb5dbbf0edbd36",
@@ -1445,6 +1478,17 @@
    "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "725bc251b853c435",
+   "company": "AstraZeneca",
+   "title": "JP Morgan Healthcare Conference - AstraZeneca",
+   "summary": "JP Morgan Healthcare Conference AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlc3WFhLUE8zVktpOVV5NHN3ZEl3UWZhUS0wMkZySk9qaGNoOHpBT1E1ekcyaF90RlpsQzY4WERVSVRPOW8tSWhHVmtPcldSb3A5eUVnbUN2OFppVjV4TXZyMGhOcldMbjgzMVg0aHpORmhaZEVlZnprWFVNRjBmS05odnBFUGpkR3lmRW4ySTVVQzM5ODluN1AySmFsUUFjZDNuZHNn?oc=5",
+   "published": "2026-06-01T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T04:40:23Z"
   },
   {
    "id": "97a3f4e968062236",
@@ -1766,6 +1810,17 @@
    "first_seen": "2026-11-19T21:00:17Z"
   },
   {
+   "id": "302fbd948e25bf6e",
+   "company": "AstraZeneca",
+   "title": "Q1 2026 Results Presentation - AstraZeneca",
+   "summary": "Q1 2026 Results Presentation AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQWhwazZWNWJSeGhlOFNpUlpOekJOQVFMc3JQR1g2WnVIYWV2NVFZLVY0UjFaVnlIeW15UGFFM1pJWTNrU01pV01NSEttYkdXYVlrOXBiTU5zOVdGZTd5STQwblZCOHh4eFRQOG9xY0o2Y0E1anBGWnQ1dzR3Mmg5QjNrRlRCV2czbW0yc055R2VDQQ?oc=5",
+   "published": "2026-04-29T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T04:40:23Z"
+  },
+  {
    "id": "7ba838d62a319444",
    "company": "Eli Lilly",
    "title": "A Study of Tersolisib (LY4064809/STX-478) With Other Anti-Cancer Treatments in Participants With Advanced Breast Cancer With a Genetic Change (PIK3CA) - Lilly Trials",
@@ -2061,6 +2116,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "418b430afe2d6429",
+   "company": "AstraZeneca",
+   "title": "97 $58.7bn - AstraZeneca",
+   "summary": "97 $58.7bn AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbEJZMEhnbDU2a2JmNHlyWnZLZThQYmtnLXp6aWhheUZuYjlOMEUyc21UYmNQcXc2Y1ZuTE5EMDhuWVFvVU5hU2F5ZVp5VUszQ3lzUVV1YWIzV2RMWDNVbTNMdDhPQnN2Nm5kOUVvRk54Sm5Xa3hES25PWk96SWFMUmQ2U0NXTkdXeGpyTWE5a284Z19QMHFqdWgwY0xfb1MwbjhhdFQtc1IzOVdCbGtWRGRWM291bjlYVFZj?oc=5",
+   "published": "2026-02-24T17:45:50Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T04:40:23Z"
   },
   {
    "id": "4b733f2088d8d468",
