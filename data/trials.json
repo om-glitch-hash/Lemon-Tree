@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:31:11Z",
+ "updated": "2026-11-20T13:52:00Z",
  "assets": {
   "Gedatolisib": {
    "company": "Celcuity",
@@ -9,7 +9,7 @@
    ],
    "ok": true,
    "count": 22,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Imlunestrant": {
    "company": "Eli Lilly",
@@ -19,7 +19,7 @@
    ],
    "ok": true,
    "count": 21,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Tersolisib": {
    "company": "Eli Lilly",
@@ -30,7 +30,7 @@
    ],
    "ok": true,
    "count": 10,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Giredestrant": {
    "company": "Roche",
@@ -40,7 +40,7 @@
    ],
    "ok": true,
    "count": 30,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Inavolisib": {
    "company": "Roche",
@@ -50,7 +50,7 @@
    ],
    "ok": true,
    "count": 37,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "GDC-4198": {
    "company": "Roche",
@@ -61,7 +61,7 @@
    ],
    "ok": true,
    "count": 4,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Palazestrant": {
    "company": "Olema Oncology",
@@ -71,7 +71,7 @@
    ],
    "ok": true,
    "count": 6,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "OP-3136": {
    "company": "Olema Oncology",
@@ -80,7 +80,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Elacestrant": {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -90,7 +90,7 @@
    ],
    "ok": true,
    "count": 43,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "MEN2312": {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -99,7 +99,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Camizestrant": {
    "company": "AstraZeneca",
@@ -109,7 +109,7 @@
    ],
    "ok": true,
    "count": 23,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Vepdegestrant": {
    "company": "Pfizer / Arvinas / Rigel",
@@ -120,7 +120,7 @@
    ],
    "ok": true,
    "count": 25,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Atirmociclib": {
    "company": "Pfizer",
@@ -130,7 +130,7 @@
    ],
    "ok": true,
    "count": 21,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Tegtociclib": {
    "company": "Pfizer",
@@ -140,7 +140,7 @@
    ],
    "ok": true,
    "count": 4,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Prifetrastat": {
    "company": "Pfizer",
@@ -150,7 +150,7 @@
    ],
    "ok": true,
    "count": 12,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Lasofoxifene": {
    "company": "LeonaBio / Sermonix",
@@ -159,7 +159,7 @@
    ],
    "ok": true,
    "count": 9,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Zovegalisib": {
    "company": "Relay Therapeutics",
@@ -169,7 +169,7 @@
    ],
    "ok": true,
    "count": 3,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "JS105": {
    "company": "Junshi Biosciences",
@@ -179,7 +179,7 @@
    ],
    "ok": true,
    "count": 3,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "SNV4818": {
    "company": "Novartis",
@@ -188,7 +188,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "ECI830": {
    "company": "Novartis",
@@ -197,7 +197,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "ARTS-021": {
    "company": "Avenzo Therapeutics",
@@ -208,7 +208,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "Samuraciclib": {
    "company": "Carrick Therapeutics",
@@ -218,7 +218,7 @@
    ],
    "ok": true,
    "count": 7,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "TOS-358": {
    "company": "Totus Medicines",
@@ -227,7 +227,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "GenSci145": {
    "company": "GenSci",
@@ -236,7 +236,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   },
   "BG-75202": {
    "company": "BeOne Medicines",
@@ -245,7 +245,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-20T12:31:11Z"
+   "checked": "2026-11-20T13:52:00Z"
   }
  },
  "trials": {
@@ -2196,7 +2196,7 @@
    "start": "2025-10-07",
    "primary_completion": "2028-08-31",
    "first_posted": "2025-08-03",
-   "last_update": "2026-10-26",
+   "last_update": "2026-11-20",
    "enrollment": 285,
    "first_seen": null,
    "changed": null,
@@ -2946,7 +2946,7 @@
    "start": "2025-11-03",
    "primary_completion": "2028-12",
    "first_posted": "2025-07-25",
-   "last_update": "2026-09-23",
+   "last_update": "2026-11-20",
    "enrollment": 1000,
    "first_seen": null,
    "changed": null,
@@ -2997,7 +2997,7 @@
    "start": "2022-08-31",
    "primary_completion": "2027-12-31",
    "first_posted": "2022-08-19",
-   "last_update": "2026-09-15",
+   "last_update": "2026-11-20",
    "enrollment": 190,
    "first_seen": null,
    "changed": null,
@@ -3026,7 +3026,7 @@
    "start": "2024-12-16",
    "primary_completion": "2027-05-30",
    "first_posted": "2025-01-20",
-   "last_update": "2026-10-05",
+   "last_update": "2026-11-20",
    "enrollment": 180,
    "first_seen": null,
    "changed": null,
@@ -4946,7 +4946,7 @@
    "start": "2024-02-23",
    "primary_completion": "2024-05-03",
    "first_posted": "2024-02-23",
-   "last_update": "2024-06-03",
+   "last_update": "2026-11-20",
    "enrollment": 12,
    "first_seen": null,
    "changed": null,
@@ -5778,7 +5778,7 @@
    "start": "2025-08-05",
    "primary_completion": "2027-07-22",
    "first_posted": "2025-07-14",
-   "last_update": "2026-10-19",
+   "last_update": "2026-11-20",
    "enrollment": 400,
    "first_seen": null,
    "changed": null,
