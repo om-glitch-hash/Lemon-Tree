@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:29:14Z",
+ "updated": "2026-11-20T22:24:20Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -588,6 +588,17 @@
   }
  ],
  "items": [
+  {
+   "id": "ffd76b9549c2a4e2",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Announces Closing of Merger with Rallybio Corporation and Previously Announced $215 Million Concurrent Private Placement",
+   "summary": "November 20, 2026 The post Avenzo Therapeutics Announces Closing of Merger with Rallybio Corporation and Previously Announced $215 Million Concurrent Private Placement first appeared on Avenzo Therapeutics .",
+   "link": "https://avenzotx.com/press-releases/avenzo-therapeutics-announces-closing-of-merger-with-rallybio-corporation-and-previously-announced-215-million-concurrent-private-placement/",
+   "published": "2026-11-20T18:45:30Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": "2026-11-20T22:24:20Z"
+  },
   {
    "id": "5781d3f298afaa62",
    "company": "Roche",
