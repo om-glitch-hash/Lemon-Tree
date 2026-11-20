@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:46:02Z",
+ "updated": "2026-11-20T06:48:31Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,17 @@
  ],
  "items": [
   {
+   "id": "b5fdc0a1a31d8502",
+   "company": "Roche",
+   "title": "U.S. Food and Drug Administration Approves FoundationOne®Liquid CDx as the First Companion Diagnostic in the U.S. for WILSERDLY (giredestrant) in Combination with Everolimus for ER-Positive, HER2- ... - Roche",
+   "summary": "U.S. Food and Drug Administration Approves FoundationOne®Liquid CDx as the First Companion Diagnostic in the U.S. for WILSERDLY (giredestrant) in Combination with Everolimus for ER-Positive, HER2- ... Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zeGdQUlV3eEZWaDBHN2QzR2twbGVTQWdzcnNDRFZnOUkxdzloU1o2T3IyaWd2VVNuczB2ajd0c3JjMExqRDNnNm5ZdWxNdHhSTGtJTU1IWEM1Yi1GZFpFSERJV215T3ZqcGVlb3R3?oc=5",
+   "published": "2026-11-20T02:51:02Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T06:48:31Z"
+  },
+  {
    "id": "fa011b2c706f00b8",
    "company": "Eli Lilly",
    "title": "Are there any drug-drug interactions with Inluriyo™ (imlunestrant)? - Eli Lilly",
@@ -875,6 +886,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "c6adcb881e157e44",
+   "company": "Eli Lilly",
+   "title": "Treatment Plan Guide - Eli Lilly",
+   "summary": "Treatment Plan Guide Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdlJ6RGJ1MTNHbkQ0ZkkzUFZhb2FyWndWNjlJcjlHVE5EQ2pLWnZycDlRVm9xbzJUcEhWUVJCd2o5d3k5YVFTcTdjTTM3SVRGRVduVHBFU0ZPNGJKcS1jYkFTUnpCWTNNSmlyZkpVNldZNHFn?oc=5",
+   "published": "2026-09-30T04:40:07Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-20T06:48:31Z"
+  },
+  {
    "id": "42e33865c6ca7679",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics Expands Leadership Team",
@@ -884,6 +906,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "a455dea73e3a7167",
+   "company": "Eli Lilly",
+   "title": "npj Breast Cancer - Eli Lilly",
+   "summary": "npj Breast Cancer Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOenNlY29idVJsRmdWM0FrQWtKYXEzbVU1U21BYnpuMVNibkUyODFOWlBoVUhNVDNGamtrVzhxZ1dFMno4dVJka3dXclVwVUpQN3hLR3ZrUVdmOWtmc2VKV2FDNHB2TWlHMER1QjVTRnlrX2lWZ2FrWnFxV2pvM3llUVJQWGNoNFhLUWczUk5EUnhJQWtDMTVjOXFVT2gwdDhlYlVqdXBIMlcxSWZsNlpCTmUtYzBGQ1MySUNYT3dIdV9YVjFRQVpRVF9zZk04enYwaHVfcUZLNWlILW05eHN6VVBFQ2tuVG80Y2dnNDVnRzNCdUNhYy1WakhWXzdXdVIxNGRlNXFvM1RDVGk0bUQzeEdhZXIxX2VxXzlyc0U5VzY5U3FTeDhQaVlRbUU3OGN6bWl3a2xIT2hQcTRLR21PMER4dS1PN3dOLXpoVC1IV1htaEc1RWYyWU43ZTBibGJHd3c?oc=5",
+   "published": "2026-09-20T19:54:19Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-20T06:48:31Z"
   },
   {
    "id": "dbe34e3644a212f9",
@@ -1139,6 +1172,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "80136a9aaebd527e",
+   "company": "Eli Lilly",
+   "title": "Amita Datta-Mannan, Elaine Shanks, Eunice Yuen, Yingying Guo, Xuejing Aimee Wang Eli Lilly and Company, Indianapolis, USA; Eli L - Eli Lilly",
+   "summary": "Amita Datta-Mannan, Elaine Shanks, Eunice Yuen, Yingying Guo, Xuejing Aimee Wang Eli Lilly and Company, Indianapolis, USA; Eli L Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPaU45NDltSU5mblJmZnZTdmJZdFFmb1FIOE90WmhnZTFJclJvVDBqTjd2YVNMdVRCZUZYbWJQUnF5a29Hc0N5Vnp2OElZQVVuSzFYd1k2YjN1cE0xekI0anJXVWJkNnNlZ2lmSzg5dFY2bTF4Nno4dTYtUTRxdGNFeWNXTTk5eVBySGRsVk1adW9FY2EzbjBOX01mM1hQUktCcmx4N1Zsdm9DSUdDR21rSjd3d19sV2RoVVFiLTRVd25Cdm52SjRBRWhUY0hwUXRTal9vRkFtUC1CMlVvdzdrMUVoZUJLZzFvMTBBQUV0SElnM2F5bHB3M3R2THlKeTZIWV9XSGNfaDJjakpLNHIyaUV4UF94NmhoWEI3eEpBLVlGRGJmMVNweHZPSXFXWDFKSUZQazVQWXpnX3BoSkppdW1ld1lCT2Q4UnQ5MjZTVTFjSUFzU0dOQmhBeFdXcmR3Ujc2ZGZ5Wkw?oc=5",
+   "published": "2026-08-07T05:29:13Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-20T06:48:31Z"
+  },
+  {
    "id": "96fd690930657cc8",
    "company": "Arvinas",
    "title": "VERITAC-2: a global, randomized phase 3 study of ARV-471, a PROteolysis TArgeting Chimera (PROTAC) estrogen receptor (ER) degrad - Arvinas",
@@ -1275,7 +1319,7 @@
    "company": "AstraZeneca",
    "title": "Etcamah (camizestrant) in combination with a CDK4/6 inhibitor approved in the EU for 1st-line advanced ER-positive breast cancer - AstraZeneca",
    "summary": "Etcamah (camizestrant) in combination with a CDK4/6 inhibitor approved in the EU for 1st-line advanced ER-positive breast cancer AstraZeneca",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDhtU05qTWVuR2FGajFUbjhEeHRIOFZ6VnotMXh4MHNWV0lWRmRJLXd5ZG5BOVVSS2Vwb2REOTFHUjBZUWdqSW1VZndnT29Da3J4cFZNZU05b3g2VS1RYVk2b2tib0FfZEVTNlR1ajdNc1YwQWI5aHpfZ19YTjhzTjJiUWpjRUtSYTdON081NVhDLWZlNTA3Y1lTWWNncXlSVUZDTzJqeE9nQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNG5WS3d0QlhQM29JMEJjN2VFWkE0ZGxFaUpkNFMyTklycF9QV0hBUUt6LTlteDBwdTJ0cHhwdTNyWE9vZzZndkdiemMwaFhGS3BzZkZQNmhLanV5Ykg0Z0pLRTBzRjMzRTExY3paby1ObjRiaFBaQzNOVHZSX1F2MVdOaG1oQUx2SnhvekNRNkpCejBhZ0M0WkFycDRHZnpwZ1Q4VVFYcW9WaDA2bEVlUkFBOTZVM2syTzVSVWYwRnBRVlRpZGJCc0pmbG9CSzd1MmhvMlQzN2ktSXE0XzdtMEY1aDB1VkdqdUJVNUxDYzRlWTFzd0hv?oc=5",
    "published": "2026-07-23T07:00:00Z",
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
@@ -1854,17 +1898,6 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
-   "id": "a34ed47f6492d8b7",
-   "company": "Roche",
-   "title": "Untitled - Roche",
-   "summary": "Untitled Roche",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51d2Q2SUZTOVhIZWsyVDBWZmlid1RoSXFSNXBGVFFrR0JSVjJ5MTlIVWxlZUxuSndHbjB0aUFvblNqRW5sMDIxSQ?oc=5",
-   "published": "2026-04-23T07:00:00Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cfff5001d0059444",
    "company": "Celcuity",
    "title": "0001493152-26-012801 | 10-K | Celcuity - Celcuity",
@@ -2314,6 +2347,17 @@
    "outlet": "Lilly Trials",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "a34ed47f6492d8b7",
+   "company": "Roche",
+   "title": "Untitled - Roche",
+   "summary": "Untitled Roche",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTUTVxbXBQYTV6dGViTXVreDFxQ0JHa3hxYVI1TnR1Yy1Ud2VKaDVvUFRBWjVTd210bkd4TTZpUXlzYkFNUmg5OFZNZUlBaEYtbk00aVpTN1piNXV1WlRFZEZmUVJ1UGp0X0x1U0RJdWpGOHhBeXlBNGdn?oc=5",
+   "published": "2026-01-12T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
   },
   {
    "id": "6212f6ac64888ca5",
