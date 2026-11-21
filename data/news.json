@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:28:18Z",
+ "updated": "2026-11-21T18:15:32Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1040,6 +1040,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "a4e43071cbac7efa",
+   "company": "AstraZeneca",
+   "title": "Update on SERENA-4 Phase III trial of Etcamah in combination with palbociclib in upfront 1st-line advanced ER-positive breast cancer",
+   "summary": "",
+   "link": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/update-serena-4-phase-iii-trial.html",
+   "published": "2026-09-11T20:15:00Z",
+   "outlet": "",
+   "method": "newsroom rss",
+   "first_seen": "2026-11-21T18:15:32Z"
+  },
+  {
    "id": "d73028810d2fb916",
    "company": "AstraZeneca",
    "title": "Update on SERENA-4 Phase III trial of Etcamah in combination with palbociclib in upfront 1st-line advanced ER-positive breast cancer - AstraZeneca",
@@ -1060,6 +1071,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "40e37796fef9907e",
+   "company": "AstraZeneca",
+   "title": "Etcamah in combination with a CDK4/6 inhibitor approved in the US for 1st-line advanced HR-positive breast cancer",
+   "summary": "",
+   "link": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/etcamah-approved-us-for-hr-breast-cancer.html",
+   "published": "2026-09-04T20:30:00Z",
+   "outlet": "",
+   "method": "newsroom rss",
+   "first_seen": "2026-11-21T18:15:32Z"
   },
   {
    "id": "67a6320ff670772b",
@@ -1436,6 +1458,17 @@
    "first_seen": null
   },
   {
+   "id": "3068bcca448eec97",
+   "company": "AstraZeneca",
+   "title": "Etcamah (camizestrant) in combination with a CDK4/6 inhibitor approved in the EU for 1st-line advanced ER-positive breast cancer",
+   "summary": "",
+   "link": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/etcamah-approved-eu-for-er-breast-cancer.html",
+   "published": "2026-07-23T01:30:00Z",
+   "outlet": "",
+   "method": "newsroom rss",
+   "first_seen": "2026-11-21T18:15:32Z"
+  },
+  {
    "id": "a9709e6c9fe9d8ef",
    "company": "Roche",
    "title": "Product Monograph Including Patient Medication Information - Roche",
@@ -1610,6 +1643,17 @@
    "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "7098ca0321920abf",
+   "company": "AstraZeneca",
+   "title": "Camizestrant combination delayed time to first progression by 55% and to second progression by 37% in patients with advanced HR-positive breast cancer with an emergent ESR1 tumour mutation in SERENA-6 trial",
+   "summary": "",
+   "link": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/camizestrant-combination-delayed-time-to-first-progression-in-patients-with-advanced-hr-positive-breast-cancer-with-an-ESR1-tumour-mutation.html",
+   "published": "2026-06-02T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom rss",
+   "first_seen": "2026-11-21T18:15:32Z"
   },
   {
    "id": "99cbb96e7682485a",
