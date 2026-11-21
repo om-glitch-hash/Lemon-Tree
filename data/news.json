@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:15:32Z",
+ "updated": "2026-11-21T19:13:56Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -622,6 +622,17 @@
    "first_seen": "2026-11-20T06:48:31Z"
   },
   {
+   "id": "9ef8fe3e1ab3abc2",
+   "company": "Roche",
+   "title": "Roche Holding (SWX:ROP) Secures FDA Nod For Wilserdly And Expands Lab Testing Reach - Yahoo! Finance Canada",
+   "summary": "Roche Holding (SWX:ROP) Secures FDA Nod For Wilserdly And Expands Lab Testing Reach Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekxvNzJTVTRwNFNENXlxNHZmTW9GS1E0anR1UlFDQWVkeTdxekdCbnBRdVhjemhDdE56Ul8zaWRVSk1SQ2NxTjVrZk00Rjc1TFNCUUQ2eWlTX0FxdkZNQ211al82NzZLOE9kQzRWYTdJMkNoakZjcHBPQ1hCMHE0Z1R4dW8?oc=5",
+   "published": "2026-11-19T23:21:31Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "fa011b2c706f00b8",
    "company": "Eli Lilly",
    "title": "Are there any drug-drug interactions with Inluriyo™ (imlunestrant)? - Eli Lilly",
@@ -644,6 +655,39 @@
    "first_seen": "2026-11-20T16:43:07Z"
   },
   {
+   "id": "8f8dc815c454e79d",
+   "company": "Roche",
+   "title": "FDA approves Roche’s new breast cancer pill - ConsumerAffairs",
+   "summary": "FDA approves Roche’s new breast cancer pill ConsumerAffairs",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZDVfT05mSWpZbkRjZUViNzNOM3BtWVAtNkFBYVh5TVNjWS1iaHNlaUF4VlRGMlRXX0sxajZtM0UzMnhidG5SMlU2WDN0RU1ZZnY3R3FCTW9UVG1rRGJmdGhBRjhoMFJMbFhhaldOVFhXY0Z1UVVMa2ZGNlRXVzB0SGJxdENIQVFhQ0NvOTZVU3Bacmd1Wnc?oc=5",
+   "published": "2026-11-18T12:11:03Z",
+   "outlet": "ConsumerAffairs",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "683cfce56708c1f6",
+   "company": "Roche",
+   "title": "Roche breast cancer pill approved by FDA - FemTech World",
+   "summary": "Roche breast cancer pill approved by FDA FemTech World",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjJvMGg5dzBCakhhVkc2Y3FPclBiNW1McV9Ca25fRnFpX25wOG1fZVE1T1phTVpVYnc0MUFla3BVcmtaSkt4b1ctb2N5ZGZTZ0dEY0tEQ3FZREZNQXdwLTJmY0MtYjJDeHdITjFHVXFSTVBjX2c1YVBDTFcwUUR2dTNXY2JETC1yZFQxRw?oc=5",
+   "published": "2026-11-18T12:05:23Z",
+   "outlet": "FemTech World",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "d52a2a9a450e0a7b",
+   "company": "Roche",
+   "title": "NICE Rejects Use of Itovebi Combination in Final Draft Guidance for Advanced Breast Cancer - NAVLIN DAILY",
+   "summary": "NICE Rejects Use of Itovebi Combination in Final Draft Guidance for Advanced Breast Cancer NAVLIN DAILY",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWh3UDB4dmliYVNrOFlJVjl3Y254bWh6enJZSF9IV3hJWmlTYnU1TlFPWEdZYWZrenRyZTlMX29qMDZGbi1xNEcxVDJKOHRNSS1UdktIZTZsbU1TbFNIZ1BSU1RNcnNlRDZGa3FHTEc4WmlNbTlpNmVFOWlKZmlPT2tybWc2eS1Da2pqR19sTi1DOEFJajl0b0gzaV9lNkZuMWRXSFhKYnMwVGI4Zi1rN29ZRUJsRGpBa0szUkg4SnpNamR3b3VMekNrY2c?oc=5",
+   "published": "2026-11-18T10:31:27Z",
+   "outlet": "NAVLIN DAILY",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "216980d6ee31f35f",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics Presents Positive Preliminary Results from the Phase 1 Study of AVZO-1418, a Potentially Best-in-Class EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium",
@@ -655,6 +699,17 @@
    "first_seen": null
   },
   {
+   "id": "08f53a64c6c33056",
+   "company": "Roche",
+   "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
+   "summary": "Roche Secures First U.S. Approval for New Breast-Cancer Pill WSJ",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
+   "published": "2026-11-18T08:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "2b038ee235511c3e",
    "company": "Novartis",
    "title": "Novartis showcases hematology momentum and continued breast cancer leadership at ASH and SABCS",
@@ -664,6 +719,325 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "bf65fa60927d07a5",
+   "company": "Roche",
+   "title": "FDA Approves Cosentyx and Wilserdly | PharmExec - Pharmaceutical Executive",
+   "summary": "FDA Approves Cosentyx and Wilserdly | PharmExec Pharmaceutical Executive",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUcXA4dkx6NlJQNVVaTTNUVGRuaXcxRUZBTkVoRDZsendtRWJVNjRVamtxWGNGb2RrcmJyOFZfOFZuRmpvOHBfLU8xeExzVXdtSUJpMWU2YkdoT05yTHhWWlhpZzA3aS1qWWd0RllsckkwWHRfelR3bQ?oc=5",
+   "published": "2026-11-17T21:43:15Z",
+   "outlet": "Pharmaceutical Executive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "9964e4c93875725f",
+   "company": "Roche",
+   "title": "Roche breast cancer pill cleared by FDA - Yahoo Finance",
+   "summary": "Roche breast cancer pill cleared by FDA Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUVIzMDUtdWprR0s4NHhkMEFFRHdUQS1sYmJ0UkpGRTFpbHVscUdwSVpGbW5OblFpSVgtbnppVjREcHBiUFZaTC1MZGthNU8yUTd4NXFkWURkZ08tREVCcC16ajFHYW5UOVBFVE9Qc19MMGg0TU50djBSWDZES3pUX0J1dW5VQThPOGgwYmIxU2s0eU1lRy13bQ?oc=5",
+   "published": "2026-11-17T17:18:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "7f356c9e58972742",
+   "company": "Roche",
+   "title": "Roche’s next major breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD - Fierce Pharma",
+   "summary": "Roche’s next major breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnNLRjNiQUxlcDVYc1FFd2JtbFJ3cWVHSHVxa1ZNNFgzVHc4Y1ZsUnNSeXhzdjZvb2xmY0hhRGVsY3U0ZDd2bFlxbFo0cm8xdGl0M1hObzZZd09yajJhN25lSDBiTEwxSXd6QUh6OVdoX3c0ZUMyOW1mdTI5dkM2aWs2a3JSaWVRSVNxVGZYbTB1eVZhZV9JUFh2c2d5UW9NYUNPVmFxMzZBR0k0RTB2N0MwTHY?oc=5",
+   "published": "2026-11-17T15:50:20Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "dbc6e7595d335289",
+   "company": "Roche",
+   "title": "Giredestrant Takes ESR1 Breast Cancer Treatment Into Oral Solid Doses - PharmTech.com",
+   "summary": "Giredestrant Takes ESR1 Breast Cancer Treatment Into Oral Solid Doses PharmTech.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkUtS2gteE1HU1J5aGtlU3lIb1lzZmhVRTBhUkNReXk2Sm11Y18yOC1qZ2JLem9fVHpqb3RoUXBnU09rOTl6dFlkVHVSTnNoMXk0Q0J2WUhjQVQ3clNJSS1kY0xMc0hFLXBOV1J0UkpGRGtaZWxvTWhTVURvZ19tS1poWDlRcVE4YWNxRmFmTXhnbjh3NWdfQUViVURmRW0wS0E?oc=5",
+   "published": "2026-11-17T15:46:12Z",
+   "outlet": "PharmTech.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "4ef5b2c70ce9a03a",
+   "company": "Roche",
+   "title": "FDA Approves Cosentyx for Polymyalgia Rheumatica, Wilserdly for ER-Positive ESR1-Mutated Advanced Breast Cancer - Pharmaceutical Executive",
+   "summary": "FDA Approves Cosentyx for Polymyalgia Rheumatica, Wilserdly for ER-Positive ESR1-Mutated Advanced Breast Cancer Pharmaceutical Executive",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTi1FZHc4aDVWLWlrdVNEQzNjVXhjSkNoa2tZWlBzSlRCQ0tKY0c2R0t6WGJqZS1QMTIzVkU0UEowQ3dtTkx2alVkSi11WW1TMzFSNFVZTkQtcTEtZGlsOTd1MkxBMWV6TG9ucmo5dTFpNDNJQk1zY21qYTk1VEdKbzZ6Z3NTbVY0OVgyRHFYNWtCOG5aQVNjQXk2SlN6QVF2Y09WaDQydVcxaVRNa0k1SS13RkxMeXp5a0RQSy1HQ2tPMm5xVnloVEFLM19LZw?oc=5",
+   "published": "2026-11-17T14:50:27Z",
+   "outlet": "Pharmaceutical Executive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "04be8303624fb632",
+   "company": "Roche",
+   "title": "FDA Approves Roche’s Breast Cancer Drug Wilserdly With FoundationOne ESR1 CDx - GenomeWeb",
+   "summary": "FDA Approves Roche’s Breast Cancer Drug Wilserdly With FoundationOne ESR1 CDx GenomeWeb",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWN4elkwTTBJREp3X1JfWEhfeHVqVDlZdjduSHllRmNuV25iUlJ6YzdoN21ucnhIYUd6RmtFV0M5cUNWYkw5M1hTR2pFM1RsWWgxajJ2TTFyeTBiQ0hjZXUwN1ZNR0ROVWdJOHg3STVQSmoyZGtiMGFkM1FPbmtZTUl4RXh1OHFaN2tKenQ3Tm9iUE5ndGVGV3BWV2VFMGo2MTBBQWhHNG9aSUlGM0wwSFRMM3A3bmtfSTMwTlhGRU9JQQ?oc=5",
+   "published": "2026-11-17T14:49:00Z",
+   "outlet": "GenomeWeb",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "95075525ef3ca880",
+   "company": "Roche",
+   "title": "Roche scores FDA win for oral SERD giredestrant in advanced stage breast cancer - pharma.economictimes.indiatimes.com",
+   "summary": "Roche scores FDA win for oral SERD giredestrant in advanced stage breast cancer pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVWVQNEo0RmRwVVQ5TTFrZGw5THg5Wmo1dUJqRHlrWEtCRGhYUDl5U095QTlDbUsxVGFhcTMtUnBpandoM2ppaW1nUGxORWt1QTNuQWZDc2JnR21rbHhkSmpnUDdKYnZyYlVIUDZESWN1V0RMdVVmWGZZelF5X3hlZjEwc0p0TmJrSGk1SVlUdDNJTEg0V3l3dS1NcC1tRU5GMlpKbndBblp2RXFwaGh1R3VkR0tqUTNoUTB4OTc5SnhjeVBEa0dENWVEYlQxVWtLZUpUUjVZUHJLb09iQVRSalhiMlQyTmI5d0MzUjFRT05xUHhySWZFYmNn0gH-AUFVX3lxTE5abWc0UERVOFJCanFhV2R6dm5oVENyckt1RzcwM3RLX2FXXy0yekJYUUhFQVFhZG0zMnAyTnF5R3ZRX0V3U2twY0JoT1hlYTh5bE9tZi1qVHd4dHVXSGFTTWlkTG4tMFkyRkt1aVdQSS1acnEyLW1ad0xHSGNoNUdxbVlmX1dTeU53Q0N4bDVSNjN4Wll1dXpVREpnR2RWbWRfTi04clBaUmtfZWxTQUY2OUhvQlJsZWtyUGhXNkNtRkctdG1WUnNLbTd3RUkxMGlSTXFqejV1V3RERVhSYUdfUnZkWVZyZ2tLbkRCVS04dEppSGZ2blFBekw4RmNn?oc=5",
+   "published": "2026-11-17T14:26:15Z",
+   "outlet": "pharma.economictimes.indiatimes.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "f012a2cbabb9befb",
+   "company": "Roche",
+   "title": "RHHBY Secures FDA Approval for Breast Cancer Treatment - Yahoo Finance",
+   "summary": "RHHBY Secures FDA Approval for Breast Cancer Treatment Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXRZck1PQ1lucndsYTBHa2tyQzg4cUZkSVZrMjNEYWE3S2dtZl9hQWZ3YS0yWVZZUVNSMEd5U0VxRUp0eW1pNmNVa0FSOGFZZGxWbjRiVkRROC1CdEhqdGVqaWRpNFppVGphN2JteXRjNXdnTmU5TVdHNWVUTy1ldlNVLUo2Wmx6V2phQzVmLWNRcHJrTnlDZ0R3?oc=5",
+   "published": "2026-11-17T14:08:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "9538da3af96a004e",
+   "company": "Roche",
+   "title": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval - Bloomberg.com",
+   "summary": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
+   "published": "2026-11-17T13:14:19Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "847fbe269c5204e5",
+   "company": "Roche",
+   "title": "Roche’s breast cancer pill Wilserdly approved in the U.S. - Seeking Alpha",
+   "summary": "Roche’s breast cancer pill Wilserdly approved in the U.S. Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnFYWVByLXl5MnZpeko2enJ5bllXTElYdVlTZGd2WVZrcXJ6dzNYUzQ5Tm0yQ21MRmN0SE8zam9wLXp3ZFVvcWtQSEV6bkxVMkdOeFU3ZGlTUFQzblF3S3JYQ1ZFbl9tRDF5SnR3SkM3TWhGX0hNc1dyM2VGVGViTQ?oc=5",
+   "published": "2026-11-17T12:36:15Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "c1603c5022bc7a5c",
+   "company": "Roche",
+   "title": "Roche enters the SERD market with FDA approval in late-stage breast cancer - Endpoints News",
+   "summary": "Roche enters the SERD market with FDA approval in late-stage breast cancer Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbmhMVGNLQzFHbjc5S28xWUUzY2pEXzFVSFU1c09XMGx5MDc4Z0RUN0FueTFnbjRlNURIZU9mdlZGZHhVbWRQSUtVTFB0VkkxQWlpbnBiaXhGdlQ0ZGRMRS05V01fcFoyVXFpeEZpYktPV20ybjhESlowNDBhUVFPeklNdU9HZENsYUstQ0xfYWhlX1NDdWk1UG9TeW9RR0U?oc=5",
+   "published": "2026-11-17T12:00:00Z",
+   "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "3b43ee0f470486bc",
+   "company": "Roche",
+   "title": "Roche wins FDA approval for Wilserdly in breakthrough advance against treatment-resistant breast cancer - Indian Pharma Post",
+   "summary": "Roche wins FDA approval for Wilserdly in breakthrough advance against treatment-resistant breast cancer Indian Pharma Post",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEhZS2Jab3dYQUpRdXJRbWxRRmhneUVoVElNdk8yMmxYQlZRX1UtRHJzLURBSmpIYzVDRFhPamtEQlZ3WlB4dTRrakdlQkJ2b0FwcFJmWXZkcWNXYlFNOEtRdGR3OEVPNFh2RzJkRHVjekdEbE9RU2tfSTlzWGFQR0otS01GOGdiWlp6Mm5IUEhhSDdEMk43d0hvakhLTDJwYlNiV0lUMGVrOU54TTRCODVldllQOEVtdS1pN0NvSVpPZ0ZHcWVIRlhfOXZWN3JLc3hkMjBGQm0xVmY3Q0FubFRWXzJhU1Uz0gHvAUFVX3lxTE5WeGdwMC1yVDRXRGdtbGJQQUNuSUJTZDE4ejU5UVphdDF1MDhCNWZvY1VBY1R1c3M4X2lKbkN5X3Rrc21IVDB2Rk9sUlNENm9iVWJuempLSEFaQ1phQzM0MFp0TXFiYXVpaG5XMHJBc21MajZ5MVIwd084b25Ld0ljV1RINEFZSW9WMHpoNGZTU1JsWjJlZmpyYXl4SXBJNFZ2cENhcXpuTVRTUHFkZURUaEhTbmh3LU9leWFFSWFHSGdoMmFUTmttMkN0cVVSMzVNb0ZZeHdyVkJFdG1WbGRiS1JXSkpBMEN4YlRwTXNN?oc=5",
+   "published": "2026-11-17T11:43:07Z",
+   "outlet": "Indian Pharma Post",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "887d7d97322ffa2e",
+   "company": "Roche",
+   "title": "Roche Secures FDA Approval for Wilserdly in Advanced Breast Cancer Treatment - Yahoo Finance",
+   "summary": "Roche Secures FDA Approval for Wilserdly in Advanced Breast Cancer Treatment Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTlWSWRRX012bGdqYVdlQ205eU8tLVRqaTNyZHhrb24zYVhtMmFIWEtGd0J4MDBxR202MGZtaFgxWjdEclJhV3BaWlFvRFprNXJFTGEteThhNm1NMm1rUnJENzdBd1RZUnZkMEJWQmdXaG9vOGxYXzlDTkdkT1FYT1BZSmk4TnBRaGZxTmhvR0ZydTJYQzJhZmdkYUZDdw?oc=5",
+   "published": "2026-11-17T11:26:43Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "037ac79a8f5de5aa",
+   "company": "Roche",
+   "title": "Roche joins the oral SERD club as FDA clears Wilserdly - pharmaphorum",
+   "summary": "Roche joins the oral SERD club as FDA clears Wilserdly pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZDFsUkZmc01HRkhJNUF5M2ljSFB1bE9SWEpVSXpkMmRjam5yWTcyem03OGxBT0o5ZU1yRVktSXdvYVpWN2RXb1YtZS1leDZ0dUxaZjl1bUNLeFdZNnlKOWVYSlhBSDJqQmdMc3hobDdWNS1lMUk3NzZCZTlPSmpwWGNHcw?oc=5",
+   "published": "2026-11-17T11:22:12Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "26400fba4f53af5c",
+   "company": "Roche",
+   "title": "Roche wins US approval for Wilserdly in advanced breast cancer - The Pharma Letter",
+   "summary": "Roche wins US approval for Wilserdly in advanced breast cancer The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXBZT0RRdThfRFFOSVAzV0RES2dXMXN5ejRFLXg4MnA5VUdnS3k1X0dNcDlLWXhNQ2dxbFVzMC14UUpFY1RBckE4MVRScWxJdWJNS1RWcEM2X0lBNDkxbnNpRnd6WGpMTUJLX1NlOVp6RTBFUWY4cUpuLUVBRTBRNG5LSzg1ODdLc1N6N2ZaX3hYa0s1SmtxVEN0ZFAycnhHRmNrRENaUDZPdw?oc=5",
+   "published": "2026-11-17T11:03:41Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "516380b9b0c91964",
+   "company": "Roche",
+   "title": "FDA approves Roche's WILSERDLY (giredestrant) for ESR1-mutated advanced breast cancer - Dealroom",
+   "summary": "FDA approves Roche's WILSERDLY (giredestrant) for ESR1-mutated advanced breast cancer Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd2RMUVBYQkFxMllZQk1NSXlFOXNMQ0xibXJDUGpXQ3VOVEYzWXFOR0Q4M21IUk53VDRUMDlybXFwektPZWdxVWZjOWY2UWZYVnNYZVQtNzUxMXlQQzFiRFg0aHplUldOX0xqZ2w1S2NsUmpYY1pTQkhUUXdObzBaYTB2VTJxMXVzMFRwM1hieDRocFViTjV1LS1iNk91Y2FoN1BGSG5acG80U3ZMQTY5Tm5ZTjFLbzdH?oc=5",
+   "published": "2026-11-17T08:20:20Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "24bc69eeb59b7cb0",
+   "company": "Roche",
+   "title": "US FDA Approves Roche's Wilserdly for Advanced Breast Cancer Treatment - Voice of Healthcare",
+   "summary": "US FDA Approves Roche's Wilserdly for Advanced Breast Cancer Treatment Voice of Healthcare",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjRJWUswaXNkOTJGZjVSQ2R3THR6ZU1zSl81RDJhQ3BSanNsMGJ4cmNoZjlYclY1VXptOXRxZGx6MTh4QU9fNmRRVVVISmliMlpNdnJleURKMHdXeXJ0c09EQWJCUUpBU1V3dlphcHpscE9DZ1pGQ0t3VXdUMS1KX1ctUzF3MWtKMG9HU0c5UjdPTjFqUlVxbzZ4Y0x4eVl1bUJ4VldnZ0I?oc=5",
+   "published": "2026-11-17T08:15:00Z",
+   "outlet": "Voice of Healthcare",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "e8b551f94c79001f",
+   "company": "Roche",
+   "title": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer - Dealroom",
+   "summary": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC1qOWhPMzVhaTRfODBjaG01VVZBV2N4bGNoNzFxYmpZMS1VWUFKcVRIaExUVmhPUEpBRU9hUG83bWlYbWQyRkM1U3ZodnhPQWsyOEZLSjVaZXNfeHBaeDNBeXZLNHkySFFxT3VXeW5TOVpMWW45MHhrUTltUFFzR2Q1eEFPYjBrQmpXdXJCNjdEeWxmamhRQzFiQ1A0UDgyTE1sYmdzczZmUnRmM05INk9uTThwZw?oc=5",
+   "published": "2026-11-17T07:22:01Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "9f524befebb04621",
+   "company": "Roche",
+   "title": "Roche: Wilserdly (girédestrant) homologué aux USA en oncologie - TradingView",
+   "summary": "Roche: Wilserdly (girédestrant) homologué aux USA en oncologie TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vQmhrNlNXWlBnOGhSbV96T3pSN1Y4WmhqOElKNWlIbF9iUTl4Q1owbVlaOEt6bHBsWG42d0QtWXZ2ZWVZRTJ5OG9rdFRWWG9Fc1RxMVhCbEpvbEJncDdvR25jTQ?oc=5",
+   "published": "2026-11-17T06:13:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "19fea32294ab6183",
+   "company": "Roche",
+   "title": "Roche wins US nod for oral SERD in ESR1-mutated breast cancer - FirstWord Pharma",
+   "summary": "Roche wins US nod for oral SERD in ESR1-mutated breast cancer FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DV2V1OUtZdExxT3lNeXFSXy1oem5XdER6d25jS3daN1Z2Q3dIYXB3b2szUFlsN2xkRW9ULWw3eGtnRnR1UnQtSnVmR0JDdENUUktJ?oc=5",
+   "published": "2026-11-17T00:41:04Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "8b2e299cbb3b0e0d",
+   "company": "Roche",
+   "title": "AMP Study Suggests ESR1 Mutations Are Only One Facet of Breast Cancer Treatment Resistance - GenomeWeb",
+   "summary": "AMP Study Suggests ESR1 Mutations Are Only One Facet of Breast Cancer Treatment Resistance GenomeWeb",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczFsdTZ1amRVYkEzZVFVaXhabjlDRG0tdFl5d0pOVEZndVY0M0dGSVZ1cU1EcXF5RDZ6NGpfZ05YQUQtOHdIWkN4UHRUa05DMkRGcjg2X1huZDl0WDVXN3VMbUgyN3BZMEg5c1d4ZkxnYTIyRER6OXByM3JzMDNMSWFPdTE0bm91SWc0cjh2N3VkLWI2cms4YkRGREVnamc?oc=5",
+   "published": "2026-11-16T22:39:00Z",
+   "outlet": "GenomeWeb",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "ed22769b30a74d29",
+   "company": "Roche",
+   "title": "US FDA approves Roche's oral treatment for advanced breast cancer - Reuters",
+   "summary": "US FDA approves Roche's oral treatment for advanced breast cancer Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSms5YU82MmpDRXFMeFduTDF3WUM5cjFIOGM4QU1lX3ZxSHBUNWY1endvNHp2bkkyODF1S0lUNDJPTE13ZDM2cGxsY0QtVVBKZWdlY1VNanEtV3U5U1hWdExMQjJnSnFISHZibWhiRWoza0JXNVRWTkR2YTZpOHJnamgyOEY3TUpwU2FTMXhTZV83Q2NqamRGNFVoNDl5UkdqRDNhYWkxWFhNTXRmWDdXQ0d4OHpIYW9oajhSdGphTmNJOHJHQkNUenRNWHQ?oc=5",
+   "published": "2026-11-16T22:32:03Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "fc82ac78340bab0f",
+   "company": "Roche",
+   "title": "FDA approves Roche's breast cancer pill giredestrant, sold as Wilserdly, for tumors with ESR1 mutations - MLQ.ai",
+   "summary": "FDA approves Roche's breast cancer pill giredestrant, sold as Wilserdly, for tumors with ESR1 mutations MLQ.ai",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2JWNEZjUUdfZEVlU2J2QmVQektOOXFoOTQxZjE1YkpTZEVJeWJ2NENaRFVZem5GNnloWUZSMFg3cjBHejNxcjVJeTdBQmZwV1NZTG12enhuckVlZU03Zi1kc0Iyc3R3Ymt4U195MVZzTzM2SnpmaUxYRkdNalltZGdGNWRIMmtVckNnRTdLR0k4OXgzQUNvUWlCR0JacGl0TWEtclRXZ0l4YnlaT3FHeTRFdHdaenIwTVhJN3VR?oc=5",
+   "published": "2026-11-16T22:27:18Z",
+   "outlet": "MLQ.ai",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "d1a6febf100e5882",
+   "company": "Roche",
+   "title": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer - Yahoo Finance UK",
+   "summary": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjBjeXNYdjFIdU5QSG1DR3FnSU94WXFvSEtpRmVObExtLWJfVms5eGNreXh6RDN1bVpBZ0haMmQtM1dieVJYdVRxSXptaWZNTVVnMmxIX0hiUkYxS1JMYUdrSy1oc0VHU2d4a0VDcDJ1aXFjcnVEZ29QZEhVNFh2R3c5WDg4SzB1MGp4SWpvQTA0djBx?oc=5",
+   "published": "2026-11-16T22:15:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "cd8082fe7431850f",
+   "company": "Roche",
+   "title": "Roche's oral treatment cut progression-or-death risk by 62% for a form of advanced breast cancer. FDA approved it. - Stock Titan",
+   "summary": "Roche's oral treatment cut progression-or-death risk by 62% for a form of advanced breast cancer. FDA approved it. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDdWRlV5blBJX3UzUk53VXpNY3d4Z2ZFZnhxUFYyRjJCcGJLclNFd1J6SDVBZkc3Y2VJbURMV1RfblBPcXNRY241TXlWcGl1WHF5Vnhha1Y4SlZBSE1TR2kzdEJyWUo5N1hrYTZhV3ZISnlMSnplNUNTa3lsdjlrSXlPcHhFQkFtNTl1TWxDc0xIRDZNbi1vd1doVjdWVGdfaWhodW93dFh1UndEenVLMVNDUHlGZUR2Vmk3RUdCNA?oc=5",
+   "published": "2026-11-16T22:15:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "00c98b044c9ecb42",
+   "company": "Roche",
+   "title": "FDA clears Roche's Wilserdly, a daily pill for advanced breast cancer - Briefs Finance",
+   "summary": "FDA clears Roche's Wilserdly, a daily pill for advanced breast cancer Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWV2VVg1M2hUMVY5RTJJNlVXYTd3cUhDZmExSnR1U0VNT1ZhX25IR2tudkhkbVZQOTNNZk5mWjhOMFNtZm92alZ1dUY4dmlNMlNUYVFfYTJhTFdvaGlPVW14QWRYWUo2NUp4a0plUllaeFVINWFoTm1TY0Y4TVUzTlhZWi10TzIxS1hCaW12WXM1dw?oc=5",
+   "published": "2026-11-16T21:50:13Z",
+   "outlet": "Briefs Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "979ebc01828d49cb",
+   "company": "Roche",
+   "title": "FDA approves new breast cancer drug, providing new option for some patients, boost for Roche - STAT",
+   "summary": "FDA approves new breast cancer drug, providing new option for some patients, boost for Roche STAT",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnN2NHJJemRBVU9jMmZ4dGxRQUFfamM0b1d4TmF1dGI0VEUyVTQyczJXckk0VTZSeW9KSzc0d3VnZ1NxUmNjQlQ0MUh2aXI3cFpfb19ZRUwwSTdCNmdubnR3YTZ1NVpWYjh1NE9hdzNHS25kN3h1NjRLWXdmNXJVRk9BRXY?oc=5",
+   "published": "2026-11-16T21:01:49Z",
+   "outlet": "STAT",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "faa44b48abc206e5",
+   "company": "Roche",
+   "title": "FDA Approves Roche's Giredestrant Combo For ESR1-Mutated Advanced Breast Cancer - TradingView",
+   "summary": "FDA Approves Roche's Giredestrant Combo For ESR1-Mutated Advanced Breast Cancer TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2VYdmFrd1lkUllHR2c4end1cXl0d011U2RsZ0EwbGdXUEd0MFpfZGpGdnJPdHVIUmtRSzJvOHFaU1JqOTdzRUdQMDNOUXhWWkU5NVhYbkVnYnBtY25yTjE3MWZXbUxuTHBYVHVNWmtnX2VoY1BrdjdHdzg3NC1PckM5VkdBZVozZTFwQ2hxSkQ4aDZxaDBKSjRqU1h4OHVEMm8yQ2pCc0QxaXlOVWowSVRWaURZZDA3U0VDZFdBR1dOeUdFNUllUE9YQ1hHcV9zNjhVTXM1WmlHN1FUU1ZPN256cw?oc=5",
+   "published": "2026-11-16T20:22:13Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "e5b95298d5700393",
+   "company": "Roche",
+   "title": "Faeth Therapeutics signs Roche supply deal for breast cancer trial - Mugglehead Investment Magazine",
+   "summary": "Faeth Therapeutics signs Roche supply deal for breast cancer trial Mugglehead Investment Magazine",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWnFPY19PZ1BjVlNZXzVLQnE2YVkzYTAxSWhyV1dpUXR1emdTREQ2NVlXbVFpUWl2UTBuelVKcWFDZ1VrZVdBSFBkalF3UUtRal9VYkNpWG8tdFVVaW15X3dwOG8zb0ZCMHlzNFp4S0ZwUTBRd05KZ2lFNy1XMEVOZGkxQ1h3UWc3RElaM1hmQ2cxdw?oc=5",
+   "published": "2026-11-16T13:22:08Z",
+   "outlet": "Mugglehead Investment Magazine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "404e7c6210845b58",
@@ -699,6 +1073,17 @@
    "first_seen": "2026-11-21T09:30:35Z"
   },
   {
+   "id": "1943c7fda38f24bd",
+   "company": "Roche",
+   "title": "Roche is planning to call its experimental breast cancer pill Wilserdly - Quartz",
+   "summary": "Roche is planning to call its experimental breast cancer pill Wilserdly Quartz",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40OEpPS3lnLWIweFNUWGNvSGl1ODJSeGEzNE1oUnphb085cTN1ZHZvdnhmR1A0QkJneExPV2tJakxHMWZHWldNX2luSXV1QXEwZWh4YXdoUlQta3gyUERQdk9Gc25jeUZ3VTJKcTN6ZEVzSklTeEc2eA?oc=5",
+   "published": "2026-11-12T14:50:37Z",
+   "outlet": "Quartz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "c6c6531c9da94ded",
    "company": "Olema Oncology",
    "title": "Better medicines for breast cancer and beyond – Olema Oncology Announces Corporate Name Change - Olema Oncology",
@@ -730,6 +1115,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "c473c10bcbcaa969",
+   "company": "Roche",
+   "title": "Roche Plans Wilserdly as Brand Name for Its Breast-Cancer Pill - Bloomberg.com",
+   "summary": "Roche Plans Wilserdly as Brand Name for Its Breast-Cancer Pill Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTFMblM0d3dvT1lDenFXMGkyNmZiOUJycGhJd1JKTXFxdUMyY3Z1OXJORnRZZ1VsTklCUHZmVm5NazN1OExWeUZ5MlllRmVhU2UtdU1kYjktMWtSNG1FekV0MUVweWVXMGVLS1FjRWRDNWQwcFVlZ0FpSDhXc2hqczZEZVNHVGFOb2toc0U3eTRRMk5uWlQ5WWdoVUYyMXJfZ3NCVEFiVjZ2d2k1anJKTk0wOA?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "7631326f38c12357",
@@ -820,6 +1216,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "6c36f052dd12210a",
+   "company": "Roche",
+   "title": "UBS sees Roche giredestrant potential priced in after 50% share rally - Investing.com",
+   "summary": "UBS sees Roche giredestrant potential priced in after 50% share rally Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzBWbVJNSEJqMzBCd0FRaElzU2kzMlJrd2ZGaW54Y0VrN290MVBKWGxES3VSOU8teDhRNm14akMtcTZ0SUVSVWdSNjBtbGJoMVJJajRxcGpCRnh0OGNyV3ZiWW5WMHpSOEhHMnpLSFVDcXA1UzliTkZ4bmFPU0R4LUpCbjNNOTc5MHQ5b2UzQUFqQlNrb1VHVHE1ZXQxakxUS2txQ0RfNGNzQVhJS2RVNW95QlpVdnh5WndxM0J3all1SFE?oc=5",
+   "published": "2026-11-02T08:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "a8d044c90d93a1c5",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Present Preliminary Phase 1 Results from ORION-1 Study of AVZO-023, a Selective CDK4 Inhibitor, at the 2026 San Antonio Breast Cancer Symposium",
@@ -851,6 +1258,17 @@
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "20ed1ea27fb37a7d",
+   "company": "Roche",
+   "title": "Roche’s changing plans show how MFN is complicating European drug launches - Endpoints News",
+   "summary": "Roche’s changing plans show how MFN is complicating European drug launches Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnExU3JDM2NoYW1KdjhGeV9YQjNVbWRDT1N0b2EzQWhCeVQxZkZxRm10UVdjc2tkSEladVNLcFdsSlZ0ZHE1TzBRT2FEU2E0bEo5NVZNa0o2RWJFd1RJakNtYjRKd09WZGFqQjI1SFJXSVB5U0VTTGtNRWFjR1VjdDJxLThPbHcyWjJnOGIzdTFNQ0gycEJWLUJ6dlZ4Zw?oc=5",
+   "published": "2026-10-26T07:00:00Z",
+   "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "26b257f74fe89cc7",
@@ -886,6 +1304,39 @@
    "first_seen": "2026-11-20T12:31:11Z"
   },
   {
+   "id": "a8b8d398c197b9cb",
+   "company": "Roche",
+   "title": "Roche Q3 2026 conference call: Fenebrutinib filing, giredestrant FDA decisions, and obesity pipeline progress - AllSci",
+   "summary": "Roche Q3 2026 conference call: Fenebrutinib filing, giredestrant FDA decisions, and obesity pipeline progress AllSci",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdndMS1Jfa2ZicEdGaGw4bFVwMHgxbWhCak1SZWw3S0VpaVB1UDZONnI4VWQ0RmJqeGEwWDFEeHRDN01KVlJJekc1NG02Q2g0SkNHQjBSWHk4cEpvNjRKcVBKbGZVUFRaQThQcEpLdEpsaEhVWGdQMkFUM0N1SkJiTm5ZREp1THNUYVE?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "ecbe790bbed6a0e9",
+   "company": "Roche",
+   "title": "Roche Teases Giredestrant Launch Details in Q3 Earnings Call - GenomeWeb",
+   "summary": "Roche Teases Giredestrant Launch Details in Q3 Earnings Call GenomeWeb",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQkk1RWRSZFE3c0pfMUliWUJ2Nlh4NG1YQUZaQV9aRWZHS05zRkgyODJyY1ktZEN1NGlWNXJrczc0YUtxb0JUV3pSVUhtaHc2dnJYR25mbVI4Nmo4aVVqemhGejB6amRWM0dUeWJhb2VYLUI5Vm9tNEs5Yi15WmRPYWlTSHJ1M3pCUDNOVjludm1FQUo0MjMwZDl4ZVdrTENpQTJKanBNNnMtUQ?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "GenomeWeb",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "22a1c2d746f34d56",
+   "company": "Roche",
+   "title": "Roche says it will help patients who are ‘anxiously awaiting’ its new breast cancer drug - Endpoints News",
+   "summary": "Roche says it will help patients who are ‘anxiously awaiting’ its new breast cancer drug Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXBZS1VKNms0Z1RudW8wUVpWVnVOb19DMFc2b2dWOTU5eHg4Z3VHQTg2MzllcU1XcUZRR09mNU5ubkhGa05udmlJb2t2Snl4QU43bzhMZmdEMWVJZEZiVXZVWnRLb2VPR1FVRDB0S1lYb0FOUTJHTzRTNk1xd2pnVXgyM19KRDlMNm53SjkwM0RwZW0ydGVmbTAwWW1wOU9rQXJjT2ROQTQwNEhqcmtz?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "6c3a6b521608e980",
    "company": "Roche",
    "title": "Roche to present pivotal data at ESMO 2026, showcasing advances across its lung and breast cancer late-stage portfolio - Roche",
@@ -895,6 +1346,28 @@
    "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "35e3baf515e7810e",
+   "company": "Roche",
+   "title": "Roche breast cancer drug Itovebi turned down by NICE - pharmaphorum",
+   "summary": "Roche breast cancer drug Itovebi turned down by NICE pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2NyZDNjd1pmT2lRQmFYd0VHMElqM1JfWnZ2WXVocE9UTFJuUFA1ZjBIcmNKUFNmcWVWb011VUNFbGYtNW9UYXY5dVlqS3VuUTBPRVpFVjZYQW9hRmdHUllaOWdTVjd2aEVKS0dIRks3bEhMQW1XUzZxT2ktMVV4aERrRktJdw?oc=5",
+   "published": "2026-10-15T07:00:00Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "b7ee18ff16024548",
+   "company": "Roche",
+   "title": "NICE Does Not Recommend Itovebi Regimen in Advanced Breast Cancer - GenomeWeb",
+   "summary": "NICE Does Not Recommend Itovebi Regimen in Advanced Breast Cancer GenomeWeb",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTRGSHB6NWVQYmtzQXhOV1hubW5nUF9mRUYyRlhkQTk0OHBhaExHWXQydkY2Y0pJaHNKaGhuU2Y0QUVMeHZ0WklRWXRzODREbHMwcVgzSDdGN3JielpGV2o1TmN0S3BJdl9BckszWFY5MzU0NUwzMTQ5TlcyX3hTdThuYVVBTl9kVXVlR05velBiUFdBLWk0b3lfWjZFY25OTlFPSGVQRQ?oc=5",
+   "published": "2026-10-15T07:00:00Z",
+   "outlet": "GenomeWeb",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "59b841a94a5ad4d8",
@@ -930,6 +1403,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "18c1e796f0f0360a",
+   "company": "Roche",
+   "title": "Giredestrant Plus Everolimus Just Cleared the Bar: What the evERA Data Actually Demands From Trial Designers - The Clinical Trial Vanguard",
+   "summary": "Giredestrant Plus Everolimus Just Cleared the Bar: What the evERA Data Actually Demands From Trial Designers The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU1A1aE5YZnFtS1MzWnVRcWs3aWgzWjRpV1BNbzZsYktTN3VSSEZLVG1hOW5qT2p3UmtDMFZQUHFneGd5SUFoNkQ2bUk2anh2YXZIanIxQWFJb2VkVEw1LVBhN2NFWjVuWDFhM29iSGYwd3E4bnptb01KeTRQQTk0aHc0blgxcHJQVnRuMERXdnlZcnVBWXlGaXNWQW5iS2MyVnNwTmlBUC1lZFNjU2hyZkFTdWFUSjdWb1dHV09qWW4yNkpOQmRMQkVROWZrbzFha1pYZEZVeUhPeTBTUkl4QWVTREhTek1HSG9CWURoT05ncEZLVzExaHJpbW1iX0RQaVE?oc=5",
+   "published": "2026-10-03T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "01a1c742c0821612",
    "company": "Olema Oncology",
    "title": "Olema Oncology Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Olema Oncology",
@@ -939,6 +1423,17 @@
    "outlet": "Olema Oncology",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "0e0a864f16adaf9e",
+   "company": "Roche",
+   "title": "Giredestrant Combo Boosts PFS in Pretreated ER+ Advanced Breast Cancer - CancerNetwork",
+   "summary": "Giredestrant Combo Boosts PFS in Pretreated ER+ Advanced Breast Cancer CancerNetwork",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWhHb3E2cHFaYTBaMk9ySm9HaDBSMTExUjdOdDF6UHljTEZzVjJFRksxQzViTGhZd0dpNDc1VTB3djdNUmp3Wm5VLXFodXdobm9iMlE4Ny1qOWFLU1BmU0xjQzczNDlmRU9IMGFLMW5rMEgyQ3NQaXY0N0ppZC1iWjZEQWxMb1NpdTFKajN2ejJsZjF1ZnFnT1FVUklRdDhKVTNRQWI5dw?oc=5",
+   "published": "2026-10-02T07:00:00Z",
+   "outlet": "CancerNetwork",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "90d24182b16378d5",
@@ -1348,6 +1843,28 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "ebaf8f874a0fdc49",
+   "company": "Roche",
+   "title": "Evexta Bio and Roche plan Phase Ib trial of rupitasertib with giredestrant - Clinical Trials Arena",
+   "summary": "Evexta Bio and Roche plan Phase Ib trial of rupitasertib with giredestrant Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LMEZMZGN2VWd0Y244d1VOSjhGUFN1d0ZtaldDaURMbnhYMENTeDY3eXZ2MWNfSFVtQ0cwWWNGMWFxc0IteU9Dd0NBdXRETm9EWGo4eU1WNUM5cmVCdFczQ01Kb2pMbG1YamxkWF9YWDRIc3hnVVRVa2h1SkRTZw?oc=5",
+   "published": "2026-08-05T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "dbdef3a4a58a0c8c",
+   "company": "Roche",
+   "title": "Evexta pairs ex-Merck drug with Roche’s giredestrant - European Biotechnology Magazine",
+   "summary": "Evexta pairs ex-Merck drug with Roche’s giredestrant European Biotechnology Magazine",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdklzdG9sLVdtbXRYSEtWb0R1TzRSbVRqZUxXYnFsMUFRdThvU2UycmlEc3AwZlNxaEktSDNSeHFyWGdrNzdsdjhERjlOSmpqMFAyQ1ktNlpQY2xleFVNSFZzQ2M3NTNHXzZpQUFycTBmcUJPNUVXQzlYbjAxb1A2bjdXTklNWGRkaVJBd3Q1R1N3RTlQellDNWtiYmMzdHlx?oc=5",
+   "published": "2026-08-05T07:00:00Z",
+   "outlet": "European Biotechnology Magazine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "10a75d636a826d21",
    "company": "Arvinas",
    "title": "Arvinas Reports Second Quarter 2026 Financial Results and Provides Corporate Update - Arvinas",
@@ -1612,6 +2129,28 @@
    "first_seen": "2026-11-20T12:31:11Z"
   },
   {
+   "id": "cf5c5447a75dc3de",
+   "company": "Roche",
+   "title": "Physician Views Preview: How quickly will oncologists adopt Roche's giredestrant in early-stage breast cancer? - FirstWord Pharma",
+   "summary": "Physician Views Preview: How quickly will oncologists adopt Roche's giredestrant in early-stage breast cancer? FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJZGZabE9LN3NsYmdwZUp6aGVvLUpaR0lQcTlHM3ZLVkN1SF9MckRBTm1JU243V0N4aWRneVVMZHpBeG5acHZ4bG1wSmRWNG5lWnF3?oc=5",
+   "published": "2026-06-16T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "cb61d59c856d159c",
+   "company": "Roche",
+   "title": "FDA Grants Priority Review to Giredestrant for ER-Positive Early Breast Cancer - OncLive",
+   "summary": "FDA Grants Priority Review to Giredestrant for ER-Positive Early Breast Cancer OncLive",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2g5M0RaNTR6UEhaV25JSnB4MHROOW1VTURhQWQ1MklJai1CU3lGZXJJRUtBSGZYLVZpRnZiOFZuUzB3ZWNtOEd1WDV3cHpBU2dTNEhkWDZKZWRiNU9NWW9RZ0JKRHJfNFVTSUN0RngtRnFwdml6aWdMaHhmVy1ZUUQtd05Ed2YydVZfNlg1RUo3d3Y4cDBNdUQyNjRVeDhSS1NnMU9ObGNRZE0?oc=5",
+   "published": "2026-06-04T07:00:00Z",
+   "outlet": "OncLive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "e57f2341bc4e85f8",
    "company": "Celcuity",
    "title": "Celcuity Inc. Announces Public Offering of Convertible Senior Notes Due 2032 - Celcuity",
@@ -1632,6 +2171,39 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "08fe35a7381d3b46",
+   "company": "Roche",
+   "title": "Roche’s giredestrant secures FDA priority review for breast cancer - Pharmaceutical Technology",
+   "summary": "Roche’s giredestrant secures FDA priority review for breast cancer Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0x5NXNEeVdzWWZfTjluZGx5MkhJSTZZM1BGN0FkelZRdFo5RDFWZWE5akwtWWRLR1V3Q0w5MmFDN2ZIWWNhRnRWeTlVVnN5OFcyREJpOWF2Q1Jkd3UzRnlEVlBSUC1uQlFjcGdlczZQOEhoNTdQYlBlYmFEcjM2THB2NmdxUnBCWUFCc1BRTzVwQWEwOXVibURVbw?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "Pharmaceutical Technology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "2c98145d11602e02",
+   "company": "Roche",
+   "title": "FDA accepts Roche's giredestrant NDA for early-stage ER-positive breast cancer adjuvant treatment - AllSci",
+   "summary": "FDA accepts Roche's giredestrant NDA for early-stage ER-positive breast cancer adjuvant treatment AllSci",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1NTcVA5RzkxRUJzaGNzZjhyOUlmU2Rsb0tYelNidVIxSURObEVUbjJIUU9SN0pDME1KTVVXVlVQbk9Bc19QbTBab05tNWpaR3BuRWJPX2FvU09yeVdVb1ZGSU56OEZ6MUd0S2NxY0gyYTNaVW9UdjFDWmQ1U2IxdXRsSTFub3QtVEthbHlxbThEd3lYZ3ZjdHlPZGRXNTF2U29EdnJMcXUwaE43RnA2clNmb1VxTi1KMzM1RDgxd182SEo2eDB6V20xMDg4ZkdJUmhDNXhaQmtBeWtJLVRVYUVn?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "34f2736ff36d09a3",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
+   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9YSkJaQk12QU5IWHAzdGhwaG9zYUxSbk9YYmE5ZWdRc2hvTDdyYy1HYzRoMnNsdXB0cmRaQV9wSkYtTWZDV2VYVndqRmUxM3hRV1dWU3N0WjktNzAySk5rc0QyUzRKMGMydVE3Qm4wNHBzbHQ4Q2VyaTBrbk5qa19FZmZxcDJsTlVSM1pzZFROdU9pdTRWa0VVSEd0V00zRmdpLWtfU211U1pSU25qdEZYS0I?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "48636b0536817bec",
@@ -1676,6 +2248,39 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "9c23979c30e18e13",
+   "company": "Roche",
+   "title": "ASCO: Roche, head held high, details oral SERD's first-line flop in breast cancer - Fierce Biotech",
+   "summary": "ASCO: Roche, head held high, details oral SERD's first-line flop in breast cancer Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0xVM1ZzQ2dnaUF4a2pTZHFpWlVZS2M1MVhtSWNSRzlOa1ZXa0MtTnhiUjZ4TnNFUkg1dzhPV3pxVzB6WVlZNjVzZGE4R181ZGVSbzlDRVZJdnFXMmhvbDI3S0JtSnFiWWZTb01LZzRnNHlZZG12bU40RE14VUl2OWNUbDQ2LUF3NFk3SDlqd3NraGJRV09TWlJCVHZvT0c4YWRfNGVNQWVLN2JkdlBVUWRYS0U0RXRzWFdv?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "cd2443e8bba35471",
+   "company": "Roche",
+   "title": "ASCO26: 'Blunting' effect of CDK4/6 inhibitor may have downed Roche's persevERA study of oral SERD - FirstWord Pharma",
+   "summary": "ASCO26: 'Blunting' effect of CDK4/6 inhibitor may have downed Roche's persevERA study of oral SERD FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTG1DYUVMcS1felI3blJhUmRSYm92WHZiNkp1dG5kcGtrVTZCX2NJQ0tzODZFRV96aHBUYlZMdlJtOFhtbzNuTElFZUg4WXBxZGhR?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "e745bf47ef259178",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Giredestrant in ER-Positive Early-Stage Breast Cancer - Pharmaceutical Executive",
+   "summary": "FDA Accepts NDA for Giredestrant in ER-Positive Early-Stage Breast Cancer Pharmaceutical Executive",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMngtbkNxTWpPMUFHY01ycDZCSTBiQzEzTkdVVk51SDVFRDNGbG1UT0poR2cxc2NKMnpaWFBWYjVrUm5rdzNvNVFZOHozLTZVUVBWcXB1c29qdHRYZE41cEl2SVJTdU9WUGNlMWx3MnQ0cVI5RlU1d3JTLWZfTHE2eFdCNTJ0TlNBc2EyTUg3WjFtSXdrdV9OSGNLcjc5QQ?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "Pharmaceutical Executive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "28b40bea80e503ec",
@@ -2085,6 +2690,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "b95bd0b92fdafc8b",
+   "company": "Roche",
+   "title": "Roche Earnings: Raising Our Valuations as Broad Giredestrant Launch in 2027 Comes Into Focus - Morningstar",
+   "summary": "Roche Earnings: Raising Our Valuations as Broad Giredestrant Launch in 2027 Comes Into Focus Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2dBNi00bzlhYVhTQjRKb252SC1MNU9FLUpEcTRYSTBtRnpSTFZZamV6OG9MdHNvWnM1YXlvMTI1bGtlX2Y3b3pWZldqWC1ZZEpxVG1Vb3BWNC1KM3YyQmtNWkZzQ2pjTGFoRHVIcF9QRllQbzR4NkdlMG5SeXB1ZWlYUlBEMk9BT29mYUpQSmlRSDFNMzhsbU85a1FMS29JT2ZBejNwVy1hRF9ubnNEd1V0ZjR3Z2hnVERkZEJDQV9seXBFaXpUZA?oc=5",
+   "published": "2026-04-24T07:00:00Z",
+   "outlet": "Morningstar",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "9182cbe338130449",
    "company": "Celcuity",
    "title": "0001493152-22-007535 | 8-K | XBRL Viewer | Celcuity INC - Celcuity",
@@ -2094,6 +2710,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-20T12:31:11Z"
+  },
+  {
+   "id": "78831eb6e7a6be2e",
+   "company": "Roche",
+   "title": "Despite data concerns, Roche’s oral SERD can still be largest product in company history: exec - Fierce Pharma",
+   "summary": "Despite data concerns, Roche’s oral SERD can still be largest product in company history: exec Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHlWbWpJbXByb1ZrazVvNkJrUzRIdUhHNGdHZWlFT2RSMXByT1hDM1A5S2U2TXlTLWFXTjVTUzJsb1MtcndjYkdiMmtfS0pzNk9QUklvYWR4RHdqUGI5ZEZuUllTSlctVkZmQlpKWjZsazRxZE5Lc1FqME5PdDlSR1NwRjlteWdpLURpeHg1bXlBU0kxN3JsNVdqVGppcjhkUFlmWEpVTW5VWGp4NjkySGtncllVRm1mSk1EYkY1dHFpZkZz?oc=5",
+   "published": "2026-04-23T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "cfff5001d0059444",
@@ -2294,6 +2921,28 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "9106a19d69425b1f",
+   "company": "Roche",
+   "title": "Roches Oral Serd Fails In Phase Iii Breast Cancer Trial - Clinical Trials Arena",
+   "summary": "Roches Oral Serd Fails In Phase Iii Breast Cancer Trial Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUmVKOHZ6VjBpVmRTeU12R1BqQ0xBNW41S1Z6aGFJeTdPQlVSNDBVSFppWmVDbmE4dzRuNi1JMmozc2c3VlptTmxKeDloYURIUnh0ZzNEeXAySGJJdW1wVy1yY3ZzM2NKREgxcWszTDRWZUlTX2Etd0VQWDdZYVRKWlJUcFphaVJ6TXA5ci1RdU9XRHFwRHFRV2lBOEFtZw?oc=5",
+   "published": "2026-03-09T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "c823c9c57f3ad554",
+   "company": "Roche",
+   "title": "Roche's oral SERD flunks phase 3 trial in 1st-line breast cancer, raising questions of mechanism's limits - Fierce Biotech",
+   "summary": "Roche's oral SERD flunks phase 3 trial in 1st-line breast cancer, raising questions of mechanism's limits Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHBmelBqVXVIdWtsekkzZVdvTktDV29MdzY3ZnN2cFd6aHEwQ0JTTzBJNVVqTkpaN3VFeVJOZTkzYm1TZ1pMdXJXb2JDRjBsTE16emNKS3R0VlU2OE50dHNIZnFqSTFubmRTTmd6aktjOGJxaVdONU9fVjNIZmlYN1M1S2ZoLWtXY3l5OVMzRHBYRjlzSDFmejc1UDFrZFFTZEE?oc=5",
+   "published": "2026-03-09T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "e9a8d6e0b15a0e88",
    "company": "Genentech (Roche US)",
    "title": "Genentech Provides Update on Phase III persevERA Study in ER-Positive Advanced Breast Cancer",
@@ -2402,6 +3051,17 @@
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "ad3d01c2b79d641f",
+   "company": "Roche",
+   "title": "Roche receives FDA acceptance for giredestrant combo NDA - Pharmaceutical Technology",
+   "summary": "Roche receives FDA acceptance for giredestrant combo NDA Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0NQS2hSSkRQS2VpcFNzVDhjTkkwV0phZjFpUWtUbE5QRGQ5VTREZEVFSmpJQnFISnJlNENocGFfVkFoMDJMeUU5Ni0zUm5fMjRtLWh2TEFIMDRwaFNiTkU1ZXd6c3REWG0tYzlKcHJtUWU0SDRBUFd2djY1TTZud0h2U1lJZ0xFUUppZlJ2UXNQQnpf?oc=5",
+   "published": "2026-02-23T08:00:00Z",
+   "outlet": "Pharmaceutical Technology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "0a9e6da09d08ee9d",
