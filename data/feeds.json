@@ -4,7 +4,7 @@
   "method": "newsroom via Google News (site:) (own feed blocked)",
   "filter": false,
   "sig": "[\"https://investor.lilly.com/\", \"https://investor.lilly.com/rss/news-releases.xml\", null, null, [\"imlunestrant\", \"Inluriyo\", \"tersolisib\", \"LY4064809\", \"STX-478\", \"Scorpion\", \"EMBER\", \"PI3K\", \"SERD\", \"HR+\", \"HR-positive\", \"ER+\", \"ER-positive\", \"ESR1\", \"PIK3CA\"]]",
-  "checked": "2026-11-21T19:13:56Z"
+  "checked": "2026-11-21T20:46:08Z"
  },
  "LeonaBio (ex-Athira; lasofoxifene licensee)": {
   "feed": "https://news.google.com/rss/search?q=site%3Aleonabio.gcs-web.com+%28%22lasofoxifene%22+OR+%22ELAINE%22+OR+%22breast%22+OR+%22Sermonix%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -46,7 +46,7 @@
   "method": "newsroom via Google News (site:) (own feed blocked)",
   "filter": false,
   "sig": "[\"https://ir.relaytx.com/\", \"https://ir.relaytx.com/rss/news-releases.xml\", null, null, null]",
-  "checked": "2026-11-21T19:13:56Z"
+  "checked": "2026-11-21T20:46:08Z"
  },
  "Carrick Therapeutics": {
   "feed": "https://www.carricktherapeutics.com/news-media/press-releases/rss",
@@ -99,7 +99,7 @@
   "method": "news search (no newsroom found)",
   "filter": false,
   "sig": "[null, null, null, \"\\\"GenSci145\\\" OR (\\\"GeneScience\\\" \\\"PI3K\\\") OR (\\\"GenSci\\\" \\\"PI3K\\\")\", null]",
-  "checked": "2026-11-21T18:15:32Z"
+  "checked": "2026-11-21T20:46:08Z"
  },
  "AstraZeneca": {
   "feed": "https://news.google.com/rss/search?q=site%3Aastrazeneca.com+%28%22camizestrant%22+OR+%22Etcamah%22+OR+%22SERENA%22+OR+%22HR-positive%22+OR+%22ER-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:01:54Z",
+ "updated": "2026-11-21T20:46:08Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1115,6 +1115,17 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "af395a21e0eceab2",
+   "company": "Eli Lilly",
+   "title": "EMERALD & EMBER-3 Efficacy and Safety - Eli Lilly",
+   "summary": "EMERALD & EMBER-3 Efficacy and Safety Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzhYc2RWRlhON01TTXNvejBvaHhLNW9iTGQzSUZtTDQtaFJ2Y01IMndsSVdCYU1ET0JVR3FBUXFNMUZnS1FoOW44TFVERHF1WHpfUVZmN1hLUVYzV1o0WUZsMGNybWdNOElLanZWVzY5bmR5U2RhREl1amNfbk9NTW9sSjZST011VVpRYTQ1T2pEejd3cWdKczhR?oc=5",
+   "published": "2026-11-15T10:34:31Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-21T20:46:08Z"
   },
   {
    "id": "a1565d856f4bf373",
