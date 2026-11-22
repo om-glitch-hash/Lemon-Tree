@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:50:41Z",
+ "updated": "2026-11-22T09:40:28Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1238,6 +1238,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
+   "published": "2026-11-09T22:00:26Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -1247,17 +1258,6 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
-  },
-  {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
-   "published": "2026-11-09T08:00:00Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "c08f26a46cb289c8",
@@ -1656,6 +1656,72 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "62ba6520540ee1de",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca: Etcamah Fails a Phase 3 Metastatic Breast Cancer Trial - Morningstar",
+   "summary": "AstraZeneca: Etcamah Fails a Phase 3 Metastatic Breast Cancer Trial Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjRVS0lPSTFld2dUTzhBQW42YnMtSDlEWFhfMmRiN1BGZ2RoUW9xTF9Ub2s1QVBCZWdKY1dyT296V1FqbzRaajYxenRVbks0Uy1NbS1aTkRCTXVTamtwbTI2TVpCVHB3YlBjUVVtSnpMTV9VQVZaREcxdEVMYTNyc2gycUpVUlpOY0VUUnA2U3NUakxqd0RGR3JVQkdxMTBMMW9qRDQ0TWxWM3JS?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "Morningstar",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "e7998388fe2c6850",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca's Etcamah misses Phase III first-line breast cancer endpoint - AllSci",
+   "summary": "AstraZeneca's Etcamah misses Phase III first-line breast cancer endpoint AllSci",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2N2MzhGVEU1c2loMXNTcXNONW1uMlRPa0JCRlpJMWhpMTdBUkpHQTZlelVPQWJpbVI5RjF2SEt4MGl4V3VmblgxY19qZF85RkIwcFdhS2RKcW9yT3RzSS1vWHpCYXRwVmhQbEt1UXVxcTFqYjV5akNjUVNFTzB3QXNLV1JCejVycVUtdQ?oc=5",
+   "published": "2026-09-14T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "beb9f74f15dd59ac",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca's oral SERD stumbles in Phase III first-line breast cancer trial - FirstWord Pharma",
+   "summary": "AstraZeneca's oral SERD stumbles in Phase III first-line breast cancer trial FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rMmNERmhBOUVGSnBEbGRxLVFLdVlsRGc2b1FHMndOY053YWlwOUI1dlo3YkZqVmdCU05DOHQ3dEZjbkoxSXZ2NDRneHFuMGt4anFV?oc=5",
+   "published": "2026-09-13T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "e184b7f52bf6bd9f",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca’s Etcamah Misses Primary Endpoint in Phase III SERENA-4 Trial - Yahoo Finance UK",
+   "summary": "AstraZeneca’s Etcamah Misses Primary Endpoint in Phase III SERENA-4 Trial Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXZuTlJUUFdrR240ckk5RmxjbmR3WHlIb0gyNUlZVFJ5NzAxX1N6TnVPLWI3dWNhMF9rUWxsOTFxNXBJY25XZDJMUklWc1dmNnNpUnFtZWNib255RFFKbVlJQUpmZWNkWVZPSkI0aHpzWEFWMUxFRFYwU291UE1mYXNZYWlmNDNRa1R5QWVuTDFyMGROWTRN?oc=5",
+   "published": "2026-09-13T07:00:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "76dc62ec39cd4d39",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca’s Etcamah flunks first-line breast cancer trial, adding to oral SERDs’ failure record - Fierce Pharma",
+   "summary": "AstraZeneca’s Etcamah flunks first-line breast cancer trial, adding to oral SERDs’ failure record Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGRoQWZMLXdrZmQ2ZG5OMlJlWnh3RDJUc3BOc2VWVk8yd3l1MS05aFFvUkJQYkJNbTNxMUZvbDlfcUozMlZpV3N4aGhEaksyUXh1OHpoVkszTXlaeGs3aTAwWDAtZEJzX0twQkx3eUxGaElnMS1qLS1jUXo3YTlpTnR5Mll2RVN2T2diTlZQU1d3OHdBMHNueHdmbEg2d0dQUDQyRm9xeTVuM08yb2twWGloS0x0dWJSei1lTmhaOTNMdTho?oc=5",
+   "published": "2026-09-12T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "530e8cbd6ce988e6",
+   "company": "AstraZeneca",
+   "title": "Breast cancer pill from AstraZeneca misses mark in pivotal trial - STAT",
+   "summary": "Breast cancer pill from AstraZeneca misses mark in pivotal trial STAT",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakVrZWtCczdqMmM5UUVJdHloMVBndEVKaXdqT2pXZkhveUo4QmVUZWtrNXQzOVBueTM0QUMzbjRBLWQzT1hGRFU1VFQ1Q0lUWFVEdjZvTjgzckZ0RXJkN1YxNVVOeDNpVXhjUmgwNGFheEFXVms1b0ZiYjNETjlmbGdYek9USVhoRG1rWUZ0S1RUdFQyVXpaVVEzX3FadU45WXVrMEtJc1dlZw?oc=5",
+   "published": "2026-09-12T07:00:00Z",
+   "outlet": "STAT",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
    "id": "a4e43071cbac7efa",
    "company": "AstraZeneca",
    "title": "Update on SERENA-4 Phase III trial of Etcamah in combination with palbociclib in upfront 1st-line advanced ER-positive breast cancer",
@@ -1678,6 +1744,28 @@
    "first_seen": null
   },
   {
+   "id": "05d814cced281c32",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca's breast cancer pill fails in late-stage trial - Reuters",
+   "summary": "AstraZeneca's breast cancer pill fails in late-stage trial Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2NSc05zS3hrYWUweWU3amhMMVk2U2x0eEx4Ny1pMWVZbkhmS1NVSkVBWU9JMDY1SjNDNTg2N1pMeElKancxNmI5TGFGaU5ORU1qbnNvakt2ZUdiczNhclpUaTJBYklfMmJqaXZHUXQ0TlRhcXRwTnJYeVUtR3ZMM0c0NC1xZTl3N2xFSTBpVFVqOUIySmRzaVV6UWVZeTJveFhiUzhERGs2UEtUTl9Db085eTltX3BtMG9EMXlvdkhyeE93?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "6d02de262da3af25",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca's Etcamah fails in late-stage trial as first-line breast cancer treatment - Seeking Alpha",
+   "summary": "AstraZeneca's Etcamah fails in late-stage trial as first-line breast cancer treatment Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2tqNFVTUVBkYTZkOXdZQ3AyV25nWXRaaHV5ZGdDbWpmZ0lQUDh2OTg3a1VmT0NHYkVyT1k0VS0yTEhUMFlwQ1FHNVlUUlo4ZFM1NHhxMlVCWEo3Q3VIam5kWWc2ZS16M2xKYWdmTnA5b2w2RWZnbzMwNlZzczFYQkhwQXRGZlk3YUFuUDQ4TEthNktjU2gyRW5faUN0dTZDeXJ2eWN1QUxDLVdHWVRSTlFwMUo0dw?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
    "id": "af149f4e9cce627f",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Present Preliminary Phase 1 Study Results of AVZO-1418, a Potentially Differentiated EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium",
@@ -1687,6 +1775,72 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "5fae8214b8b6faf4",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca’s SERD pill overcomes adcomm defeat to win FDA nod in breast cancer - BioSpace",
+   "summary": "AstraZeneca’s SERD pill overcomes adcomm defeat to win FDA nod in breast cancer BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXVjSnRzczJfQjQ5QWw5ZnBaT2JQeDRNX1RMM29JS0R0OF90bk0tX1NwWDdfbmVKZXVDZk5QREcyMlEzSjJuX2JfMXpSSlhYbVlpT1VzU3VkakZqZjJ2aWNSVkZpV0dpamdzaDBFakQ3ZGZPNWdlM05sT1NCVWdxOTg1NlpkRkFuS2wyemdSaFpYcDhqR2U0T1VkcjRJRk5PSS1IR2dGdnk4Y2s?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "60c173f50a291b49",
+   "company": "AstraZeneca",
+   "title": "FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer - Fierce Pharma",
+   "summary": "FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmw5TEpNWVZlU2ZrVlA2akR1ck50RHlnNzllRElpUGxQaC1NaTE5SUVjdjlnRlYxb2R1Y281MGRPNVJMZ2NIeVA0YXYtbVVaWDEwaXVFb2NnVGVnenVzX0hVV3FFVm5VS2M3aEVRUFhacnFBLXdhejZqTUFLbW9CRXE4c3lJNFZoNjVNQ3JQOExCSFI2RWJPelBLREU3WHJ3REJ2WFFtMy1hRjVQanFfUFJOMjRFVDJQOGNj?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "ad5c6750ff541b26",
+   "company": "AstraZeneca",
+   "title": "FDA approves AstraZeneca’s Etcamah combo for advanced breast cancer - Pharmaceutical Technology",
+   "summary": "FDA approves AstraZeneca’s Etcamah combo for advanced breast cancer Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDV4Rk1CMS1ocXpuUUpUWTBoaWNfajRKM0JPa1BYTlJId0dPLU9mSU1LaEpGSFVuaEhwRFZ6V21Sbi1pbVBtS0ExNXFuRWpZMlZib1dVcXBzR2JQRHRORHdTNHBabWlQSlpURmJvdjduR3liNnotRTZ2UUoxU3BWQVFRVHdGNlZoREY5Ui1yMA?oc=5",
+   "published": "2026-09-07T07:00:00Z",
+   "outlet": "Pharmaceutical Technology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "c8152e852d986bc8",
+   "company": "AstraZeneca",
+   "title": "Guardant wins FDA nod for diagnostic guiding use of AstraZeneca’s Etcamah - Fierce Biotech",
+   "summary": "Guardant wins FDA nod for diagnostic guiding use of AstraZeneca’s Etcamah Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZDQ2g3Snh4TW1wNzdLa3Z3X3VEWWt3ZmtJaGIzdEdVWmNpN3lTRGttWGhTVUJuWTdDM1prYnFsQkg2cnVRa19SRFNTTG1kV292RjdvNEFBUmtrQVNEVHhZREQ5NXNPX0FKbncxMThsdlhvNWV0WVBCOHUxVW1zVzhfMlJRLTBUR2Jlc0Qxa0VGWGR0NjZJMnJEVzlFaFFaOUFVUjZBNE5MUmQ4c2FmU1pVYTIxQlFBRjdZdlVtX2F5dw?oc=5",
+   "published": "2026-09-07T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "cccef33d0cff8755",
+   "company": "AstraZeneca",
+   "title": "Citi backs AstraZeneca sentiment boost after Etcamah wins accelerated FDA approval - Yahoo Finance UK",
+   "summary": "Citi backs AstraZeneca sentiment boost after Etcamah wins accelerated FDA approval Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU5LTjB2OWRNd0pOSjI3UktUME9wTm9oZmVORGxYcG8xQnd4SFptWHBMWDdsTUh3Rk10ZWdiUGtsWkFRTGlnYWJ1SmxyTXVBY09YNnh2LUdMaFRWbFRGcWZwMk1lYjZVdGhVaEE5c2E4V0ZpN1ZqNHp2c0RlQ1NXVUdscS1kX0ZoRnV3U3pZOEM?oc=5",
+   "published": "2026-09-07T07:00:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "96603784bafa3eed",
+   "company": "AstraZeneca",
+   "title": "Physician Views Preview: Can AstraZeneca's Etcamah carve out a new treatment paradigm in breast cancer? - FirstWord Pharma",
+   "summary": "Physician Views Preview: Can AstraZeneca's Etcamah carve out a new treatment paradigm in breast cancer? FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZaU1TQk5VaVAzZHhLS2JRMkRzcEx1SjBzTFNsTmtWZGlER1ZlMHBGbjNqRzhCS3d3OTd3X2lOUURIaXQzVGRoVGtUZUdzVVJ1c01F?oc=5",
+   "published": "2026-09-07T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
   },
   {
    "id": "40e37796fef9907e",
@@ -1709,6 +1863,39 @@
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "f12f553610f83e42",
+   "company": "AstraZeneca",
+   "title": "FDA backs AstraZeneca's oral SERD despite adcom concerns - FirstWord Pharma",
+   "summary": "FDA backs AstraZeneca's oral SERD despite adcom concerns FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vemFCa0RqdUU3TnJ5WUJZOVM2c2kyRkpIc1Zzc2NfSDFIU3VJbmdJcjFHT2diaS1JVXpKeXRZQTc4cnZYRjdmRE9fWDdvenRDREhz?oc=5",
+   "published": "2026-09-04T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "4bf038d817747c78",
+   "company": "AstraZeneca",
+   "title": "Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer - Yahoo Finance",
+   "summary": "Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcmkxQ2RMeVVtWks2SmxhVEVZUFViOUJkUUV6R2N4TG8wWUR5VWozeXJLZG1DajhDdWtBMm5fVmJrdmZIQnJWWjJOajZHa0tucF9kQTViNTdSVUxoQXR4X0dDdHd5R1lPWVlualhwbVdkdFR5N3NRZ0FNWVZlbXE1eHV3VkJlME9aUDIzZERlUGtFeW5uem1KRVNzdXRCQzVF?oc=5",
+   "published": "2026-09-04T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "894a87a63e5559f5",
+   "company": "AstraZeneca",
+   "title": "ETCAMAH® (camizestrant) in combination with a CDK4/6 inhibitor approved in the US for 1st-line advanced HR-positive breast cancer - Business Wire",
+   "summary": "ETCAMAH® (camizestrant) in combination with a CDK4/6 inhibitor approved in the US for 1st-line advanced HR-positive breast cancer Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPemRmanB4ZTY1SGg1bTlIaEFCRTlMOVNpY1FyVk5QRDFodGlLYVEyTzNTX1F2MEtSZzJId2hBRHNURk9VbTFlV01PQkdyS2ViM1hWZFAxM2hoTnFYQ05idGpsX1hkdGtQeG9hY2RzTmV3dWJNakEzcXhUd19CMnFqZVBWaXJKek1lTS1vM2JDaUxXd09GTkRIVWVMUmNlVkptZDV1c0pJNkp5TnJ5OG14WjNEQXY1dFRpTDlBbWx0bWlqNUo2a3dEeWgwVThMMk8xUWFOdTZBWk1uampUdjBuVWs2MUdUTDR5X0V0cFpRcmJ0TXU1Ynk3WFpib3hwWFl6V3VtY0JTUHd6Mm9yVjZR?oc=5",
+   "published": "2026-09-04T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
   },
   {
    "id": "514a3085d859cbaa",
@@ -2096,6 +2283,17 @@
    "first_seen": null
   },
   {
+   "id": "f5f4bccb1cc4d31f",
+   "company": "AstraZeneca",
+   "title": "EU Okays AstraZeneca’s Etcamah As US Wait Continues - insights.citeline.com",
+   "summary": "EU Okays AstraZeneca’s Etcamah As US Wait Continues insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekZQSFJQdHhpLVpfUURiOV9tRTB5NjhBdThqenBsVnR2RERack1rOHBNQVpIcjRjNF9Fc0kyLWJwV0FfcGd3Y1gwb0FlVzN6T3pYdk5UVS10MlctbHhBZ1A1cEctZ2hsZlcydjFKd1RLbjJ3NlhReFZ3dFYtb2JybWlnZmVBTS1aVDl0cHpGbUg5eUZOVUtjVjdmaDgtclR0bldaZ1dFd1Y5RWdGNmM4TzNJVVJFN0otWVZwOTUxOWltVU9oV1ZQRmZvSHhkUDgyMXZDMWdyREFYQ1pSQS1n?oc=5",
+   "published": "2026-07-23T07:00:00Z",
+   "outlet": "insights.citeline.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
    "id": "3068bcca448eec97",
    "company": "AstraZeneca",
    "title": "Etcamah (camizestrant) in combination with a CDK4/6 inhibitor approved in the EU for 1st-line advanced ER-positive breast cancer",
@@ -2415,6 +2613,17 @@
    "first_seen": "2026-11-21T20:01:54Z"
   },
   {
+   "id": "aab2219c95c7253e",
+   "company": "AstraZeneca",
+   "title": "ASCO26: AstraZeneca unveils data it hopes will persuade FDA to approve oral SERD - FirstWord Pharma",
+   "summary": "ASCO26: AstraZeneca unveils data it hopes will persuade FDA to approve oral SERD FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMGMwV0hCQjM3ODdYSUdfR1paTGZHczZZS2JiUXRWcXFmRnRVWHFtTjJZT2UyTFhjV1U4OUZMUDg0WGlzZGN0Y3k0ckdXRDFGTmMw?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
    "id": "28b40bea80e503ec",
    "company": "Genentech (Roche US)",
    "title": "FDA Accepts New Drug Application for Genentech’s Giredestrant in ER-Positive Early-Stage Breast Cancer, the First and Only Oral SERD With Positive Phase III Results in the Curative Setting",
@@ -2470,6 +2679,28 @@
    "first_seen": null
   },
   {
+   "id": "99820a66861dcfb1",
+   "company": "AstraZeneca",
+   "title": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote - Fierce Biotech",
+   "summary": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZGbTg0OGFKQTNTc2xfRjRnQnhVQWd4Q1lWblRNUEV3SHk0ME9WajVWVjcteWRUZTZlbC10T1BiR1dKMmpUNGVuZXZHdEgtUkxKeWVRVmV0LUd6b3dTd01jbm1tMmlPVFZNcTdJNnRmdVdjTnhXMDQ3SmdHZW9QWG40Ynl6Z2Nmb2N4VXBlMFEwcDdjRkxhc0hQWExaVE9tS29EbmF2U0hiYzRKY2hMTzFGako?oc=5",
+   "published": "2026-05-27T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "b9c9fe575b1d1896",
+   "company": "AstraZeneca",
+   "title": "FDA delays decision on AstraZeneca's camizestrant after ODAC reverse - AllSci",
+   "summary": "FDA delays decision on AstraZeneca's camizestrant after ODAC reverse AllSci",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtsUmM1UV85Y1dVbkJUblRUZU5kS1laazNSaktDQXFMYlI2LVFQREltVzd0NkNhaUFkU0Z2N3Z5S1N1MzRxVjYxOFlsZXpfNWZ3b3VFdmtrNFhvekFvV2lYdTdxRFNYMVlrcl9nbkJMUV9oNTc1b0d3N3hSdVJzZTNROHpoVnpJN3FfdUNqOFJZRFA1NklzWk5VYk5ZdG91LVpfWGdLbUxBM1MzUWlqN0I2Z0J3UUptdjVn?oc=5",
+   "published": "2026-05-27T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
    "id": "9fed6d005e01f178",
    "company": "Olema Oncology",
    "title": "Better medicines for breast cancer and beyond – Olema Oncology Announces Clinical Trial Collaboration and Supply Agreement with Bayer to Evaluate OP-3136 in Combination with NUBEQA® (darolutamide) in Metastatic Castration-Resistant Prostate Canc - Olema Oncology",
@@ -2479,6 +2710,17 @@
    "outlet": "Olema Oncology",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "f1fa7b50061f32ba",
+   "company": "AstraZeneca",
+   "title": "The FDA Said No. Europe Said Yes. Someone Is Wrong About Camizestrant. - The Clinical Trial Vanguard",
+   "summary": "The FDA Said No. Europe Said Yes. Someone Is Wrong About Camizestrant. The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGxxNm1UZE1uVmljbnhKNXpzMDhUclB2STRtSzlmdmpITjhrd2o5d1FSdXNLWTVMdzNVTVU3YlV0d0tzaHFLcUJiRXFnRDQxWmUtZWo0X1lyZV9nUko0Q09uREphOXRKZDRMZVRRQmxRazFmU3dGcnI3a1BjVTRsbWkxdmRuS1F2NFl6cUR1VUdrakJJSzRIZUVIM3p2ZDlicG1LLUh6MWRkNnRhM0c5ZkhDcDhPQ2VHRFFnWmlMXzk?oc=5",
+   "published": "2026-05-26T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
   },
   {
    "id": "ab14ac55ae53f03c",
@@ -2525,6 +2767,28 @@
    "first_seen": null
   },
   {
+   "id": "32dedbae66fb719f",
+   "company": "AstraZeneca",
+   "title": "In contrast to US counterparts, EU panel backs approval of AstraZeneca's oral SERD - FirstWord Pharma",
+   "summary": "In contrast to US counterparts, EU panel backs approval of AstraZeneca's oral SERD FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAycVMwQS1hd2hRZWRvSnRRSWJ2YlJtRW51WWxYUVhXdERsZzJTbXk4VmVzcGdHZ2tkWWFXZWRGU1U0clJ6UURJSVNTdUt5cjZ6cE9R?oc=5",
+   "published": "2026-05-22T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "3a8c858a08b5a2da",
+   "company": "AstraZeneca",
+   "title": "Europe's CHMP gives thumbs up to AZ's breast cancer drug after thumbs down from FDA adcomm - Fierce Pharma",
+   "summary": "Europe's CHMP gives thumbs up to AZ's breast cancer drug after thumbs down from FDA adcomm Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2FNdDFrNUIyeHFOM3I3X2g4YkxJOE9vcFlQZE82U3ZFVmFZQzdxVU5rMWhCVExPUVhXOU5ha0xaX1F3ZlM4SFY3YURPSmU3TUs0SFhpTWdIbDduTG5XV3JJOFA3V2J5Y1ZWY01PUjExTkdJRWFWRW1hSGphLWdYRk1BdDhTeWxaSnVUVUdDUXNzV2JQa3RjV0UzTjhrbjhkVjdpNEhxOVY1eUUya29jcUlyZw?oc=5",
+   "published": "2026-05-22T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
    "id": "40d62f8a17dce7ed",
    "company": "Eli Lilly",
    "title": "Verzenio® (abemaciclib) Survival Data in HR+, HER2-, High-Risk Early Breast Cancer - Eli Lilly",
@@ -2567,6 +2831,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-20T12:31:11Z"
+  },
+  {
+   "id": "cc74e308913d460b",
+   "company": "AstraZeneca",
+   "title": "How VEPPANU Approval Frames Expectations For AstraZeneca’s Camizestrant In ESR1 Disease - Yahoo Finance",
+   "summary": "How VEPPANU Approval Frames Expectations For AstraZeneca’s Camizestrant In ESR1 Disease Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2g1WUdGbVBMZ1c2Z3Ffc25vR2xxU3lfbm5uM3dXaWVRUThtX1dLNEotQ1M4UGpRQjBuRi02SFh6N3NyT1hlcVdfakIzWG5BWmdJNmdNVk1aclItSFpuVGtTU2RLMXdvcFlCV25RcVFCMVdXOXlZUHVyMFNGV0poUU1FN3c2SFJ5aUNLdFh6dkRuTlpONTYwYTVfQ2JyQ25MMkxmeVotZ3lSTkJqelJOYjZlSE85OUIx?oc=5",
+   "published": "2026-05-20T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
   },
   {
    "id": "fe300e399a059904",
@@ -2694,7 +2969,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -2734,6 +3009,28 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "5344087f8d0d8861",
+   "company": "AstraZeneca",
+   "title": "Spotlight On: First-line and adjuvant opportunities still beckon for AstraZeneca's camizestrant despite FDA setback - FirstWord Pharma",
+   "summary": "Spotlight On: First-line and adjuvant opportunities still beckon for AstraZeneca's camizestrant despite FDA setback FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0teE1iWWQxTjJab2Znd2x4QzJSNk1RSnhJUi1Ka3JNdlI2d3JJTDRQSVpZSUpMYlE2bWoyenF4NlhRUUdPNHJjRkF3YXVsZEJnTE9F?oc=5",
+   "published": "2026-05-01T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "d4ec263df2f6219f",
+   "company": "AstraZeneca",
+   "title": "FDA Panel Rejects AstraZeneca Camizestrant for Breast Cancer - AllSci",
+   "summary": "FDA Panel Rejects AstraZeneca Camizestrant for Breast Cancer AllSci",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalUyUjdYOENMZFBXTm1CS0hiT1JEbEdmeXVEQjFBRS1uOG03Q0ljUWs4LWdWZXA4Qm4zWVlEaW9UbkZ2YktTa1FoQkJ6cVg5dktwZkt0RlptWGZscVJPQlFmeVlwUFB1OFNNNXNSVkxYVUlMaFJHQUY0VEJKemhTSlIwc3dsa2JJNzhKOFhUTl9oaXpNZHpXZ3NGZkNNRV8zWUJnZmt1Z3Y1UQ?oc=5",
+   "published": "2026-05-01T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
    "id": "4c4c375109797813",
    "company": "Totus Medicines",
    "title": "Totus Medicines to Present Interim Phase 1b Clinical Data for TOS-358 + Fulvestrant Doublet Therapy in HR+/HER- Breast Cancer Patients at ESMO Breast Cancer Annual Congress 2026",
@@ -2754,6 +3051,17 @@
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "ad46681c0213089d",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca's camizestrant ambitions stumble as FDA panel rejects novel oral SERD proposal - Fierce Biotech",
+   "summary": "AstraZeneca's camizestrant ambitions stumble as FDA panel rejects novel oral SERD proposal Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZFFncWh0Y3NhcDRBZDhYbm1jRzQ3TFN4WVhCdHJjNnVzTkI4MDhUT2I1b2ZrSTVveDFObFlwa2Zvd1Z2VXh6VURnSzJnOWc5V2YzWW9Uc2t2OUxhdFY1NUpma011dkR6Z2dKQlZwSlRKcVdUSzNfNGFlQ3E4d0NDYzRIR214NWxiR3JudC1LNFVzeWptQWswV0tIVlk4Nmx1bGgtZjQycXUxUlFlRWljYW12dGdMVDVlSU5uLU90QnQ?oc=5",
+   "published": "2026-04-30T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
   },
   {
    "id": "0908728f4171096f",
@@ -2787,6 +3095,28 @@
    "outlet": "AstraZeneca",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T04:40:23Z"
+  },
+  {
+   "id": "70a20f7b6d4002fb",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca’s Camizestrant Faces FDA ODAC Review In ESR1-Mutated HR+/HER2− Breast Cancer - Oncodaily",
+   "summary": "AstraZeneca’s Camizestrant Faces FDA ODAC Review In ESR1-Mutated HR+/HER2− Breast Cancer Oncodaily",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUVlpdnNsZzFCOXV5eDdNR3NjdkpDcHREM3luU0xOaDFMMGpzdUN0LVZzbGtGMDk4MWxVQVd4bDhjV0RmWnZ0aV93TUYyWDE2cWU4TWpmQlhRQXdLOHFNeFpHdVo?oc=5",
+   "published": "2026-04-29T07:00:00Z",
+   "outlet": "Oncodaily",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
+  },
+  {
+   "id": "800e37a9a5df9d12",
+   "company": "AstraZeneca",
+   "title": "FDA flags concerns for AstraZeneca's camizestrant, Truqap ahead of advisory committee meeting - Fierce Biotech",
+   "summary": "FDA flags concerns for AstraZeneca's camizestrant, Truqap ahead of advisory committee meeting Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTB6Qi0zZ2ttblAwSGZoVi1kem5vMWliRERxZXRCbGVQSHRZQlNUYWlCOXNmVmhzOEJpX0liSDJZOWpGUVU2dThmcmRudlFkTEdGcU5QSlFXOGY1TTJQUVhBdVUwbjQxYjZKM3c0WFFUOFhPSmlyRDRoX0VKNDVueGJiTTZ3d28tb05RMXNUYktXVVFKOWUyRDNiYms5Y180N2xuMTlxUWUwN29mSFNyaUNnYk54Zm5mUXFDZTNR?oc=5",
+   "published": "2026-04-28T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
   },
   {
    "id": "7ba838d62a319444",
@@ -3084,6 +3414,17 @@
    "outlet": "FirstWord Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T20:01:54Z"
+  },
+  {
+   "id": "acd2ddd724b31f59",
+   "company": "AstraZeneca",
+   "title": "Two AstraZeneca Drugs To Be Scrutinized in First FDA Cancer Advisory Panel in 9 Months - BioSpace",
+   "summary": "Two AstraZeneca Drugs To Be Scrutinized in First FDA Cancer Advisory Panel in 9 Months BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0ZlTW4tX0l1ZElEZjFWb0FxLTBwZjViWktoRThpRHFyaEd0QzBnUmRTeDhjOWdtQ1lOTkwzbG5HRWU4YzNCVHZLekJ2QnRocVpVNjFUa3hPLTZhWUVhNWlxV3NnajBVLVUzcTVQd2VCYUhNeEExMVJyaXVmR19VclRENkFYbXY3MU1WUy1MSU92TlFUY0JtM09lUWZmenZ0S2lSYW5lWmRLcGhsdThzbWpScmxsZw?oc=5",
+   "published": "2026-03-09T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T09:40:28Z"
   },
   {
    "id": "e9a8d6e0b15a0e88",

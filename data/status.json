@@ -1,41 +1,38 @@
 {
- "updated": "2026-11-22T08:50:41Z",
+ "updated": "2026-11-22T09:40:28Z",
  "sources": [
   {
    "company": "Celcuity",
    "site": "https://ir.celcuity.com/",
-   "feed": "https://ir.celcuity.com/rss/news-releases.xml",
-   "method": "newsroom rss (configured)",
-   "ok": false,
-   "items": 0,
-   "latest": null,
+   "feed": "https://news.google.com/rss/search?q=site%3Acelcuity.com&hl=en-US&gl=US&ceid=US:en",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "ok": true,
+   "items": 48,
+   "latest": "2026-11-09T22:00:26Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z",
-   "error": "feed unreachable or empty"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Eli Lilly",
    "site": "https://investor.lilly.com/",
-   "feed": "https://investor.lilly.com/rss/news-releases.xml",
-   "method": "newsroom rss (configured)",
-   "ok": false,
-   "items": 0,
-   "latest": null,
+   "feed": "https://news.google.com/rss/search?q=site%3Alilly.com+%28%22imlunestrant%22+OR+%22Inluriyo%22+OR+%22tersolisib%22+OR+%22LY4064809%22+OR+%22STX-478%22+OR+%22Scorpion%22+OR+%22EMBER%22+OR+%22PI3K%22+OR+%22SERD%22+OR+%22HR%2B%22+OR+%22HR-positive%22+OR+%22ER%2B%22%29&hl=en-US&gl=US&ceid=US:en",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "ok": true,
+   "items": 13,
+   "latest": "2026-11-21T22:10:25Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z",
-   "error": "feed unreachable or empty"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Roche",
    "site": "https://www.roche.com/media/releases",
    "feed": "https://news.google.com/rss/search?q=%22Roche%22+%28%22giredestrant%22+OR+%22Wilserdly%22+OR+%22inavolisib%22+OR+%22Itovebi%22+OR+%22GDC-4198%22+OR+%22RGT-419B%22+OR+%22evERA%22+OR+%22lidERA%22+OR+%22persevERA%22+OR+%22INAVO%22+OR+%22HR-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
-   "ok": false,
-   "items": 0,
-   "latest": null,
+   "ok": true,
+   "items": 44,
+   "latest": "2026-11-21T11:25:53Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z",
-   "error": "feed unreachable or empty"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Genentech (Roche US)",
@@ -46,19 +43,18 @@
    "items": 5,
    "latest": "2026-11-16T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Olema Oncology",
    "site": "https://ir.olema.com/",
-   "feed": "https://ir.olema.com/rss/news-releases.xml",
-   "method": "newsroom rss (configured)",
-   "ok": false,
-   "items": 0,
-   "latest": null,
+   "feed": "https://news.google.com/rss/search?q=site%3Aolema.com&hl=en-US&gl=US&ceid=US:en",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "ok": true,
+   "items": 17,
+   "latest": "2026-11-12T14:00:23Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z",
-   "error": "feed unreachable or empty"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -69,19 +65,18 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "AstraZeneca",
    "site": "https://www.astrazeneca.com/media-centre/press-releases.html",
    "feed": "https://news.google.com/rss/search?q=%22AstraZeneca%22+%28%22camizestrant%22+OR+%22Etcamah%22+OR+%22SERENA%22+OR+%22HR-positive%22+OR+%22ER-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
-   "ok": false,
-   "items": 0,
-   "latest": null,
+   "ok": true,
+   "items": 32,
+   "latest": "2026-09-15T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z",
-   "error": "feed unreachable or empty"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Pfizer",
@@ -92,7 +87,7 @@
    "items": 1,
    "latest": "2026-10-07T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Rigel Pharmaceuticals (Veppanu commercial rights)",
@@ -103,31 +98,29 @@
    "items": 1,
    "latest": "2026-08-13T12:05:00Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Arvinas",
    "site": "https://ir.arvinas.com/",
-   "feed": "https://ir.arvinas.com/rss/news-releases.xml",
-   "method": "newsroom rss (configured)",
-   "ok": false,
-   "items": 0,
-   "latest": null,
+   "feed": "https://news.google.com/rss/search?q=site%3Aarvinas.com+%28%22vepdegestrant%22+OR+%22Veppanu%22+OR+%22VERITAC%22+OR+%22TACTIVE%22+OR+%22breast%22+OR+%22estrogen+receptor%22+OR+%22ER%2B%22+OR+%22Rigel%22%29&hl=en-US&gl=US&ceid=US:en",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "ok": true,
+   "items": 17,
+   "latest": "2026-10-06T07:39:21Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z",
-   "error": "feed unreachable or empty"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "LeonaBio (ex-Athira; lasofoxifene licensee)",
    "site": "https://leonabio.gcs-web.com/",
-   "feed": "https://leonabio.gcs-web.com/rss/news-releases.xml",
-   "method": "newsroom rss (configured)",
-   "ok": false,
-   "items": 0,
-   "latest": null,
+   "feed": "https://news.google.com/rss/search?q=site%3Aleonabio.gcs-web.com+%28%22lasofoxifene%22+OR+%22ELAINE%22+OR+%22breast%22+OR+%22Sermonix%22%29&hl=en-US&gl=US&ceid=US:en",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "ok": true,
+   "items": 1,
+   "latest": "2026-08-12T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z",
-   "error": "feed unreachable or empty"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Sermonix Pharmaceuticals",
@@ -138,19 +131,18 @@
    "items": 2,
    "latest": "2026-01-09T19:12:42Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Relay Therapeutics",
    "site": "https://ir.relaytx.com/",
-   "feed": "https://ir.relaytx.com/rss/news-releases.xml",
-   "method": "newsroom rss (configured)",
-   "ok": false,
-   "items": 0,
-   "latest": null,
+   "feed": "https://news.google.com/rss/search?q=site%3Arelaytx.com&hl=en-US&gl=US&ceid=US:en",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "ok": true,
+   "items": 15,
+   "latest": "2026-11-02T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z",
-   "error": "feed unreachable or empty"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Junshi Biosciences (TopAlliance)",
@@ -161,7 +153,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Novartis",
@@ -172,7 +164,7 @@
    "items": 1,
    "latest": "2026-11-18T06:06:02Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Avenzo Therapeutics",
@@ -183,7 +175,7 @@
    "items": 8,
    "latest": "2026-11-20T18:45:30Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Carrick Therapeutics",
@@ -194,7 +186,7 @@
    "items": 1,
    "latest": "2025-12-10T18:30:00Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "Totus Medicines",
@@ -205,19 +197,18 @@
    "items": 6,
    "latest": "2026-05-06T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "GenSci (Changchun GeneScience)",
    "site": null,
    "feed": "https://news.google.com/rss/search?q=%22GenSci145%22+OR+%28%22GeneScience%22+%22PI3K%22%29+OR+%28%22GenSci%22+%22PI3K%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (no newsroom found)",
-   "ok": false,
+   "ok": true,
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z",
-   "error": "feed unreachable or empty"
+   "checked": "2026-11-22T09:40:28Z"
   },
   {
    "company": "BeOne Medicines (ex-BeiGene)",
@@ -228,7 +219,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-22T08:50:41Z"
+   "checked": "2026-11-22T09:40:28Z"
   }
  ],
  "trials": {
