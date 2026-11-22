@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:29:08Z",
+ "updated": "2026-11-22T18:16:12Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -622,6 +622,17 @@
    "first_seen": "2026-11-20T22:24:20Z"
   },
   {
+   "id": "8c39505c7a532d1a",
+   "company": "AstraZeneca",
+   "title": "Sr. Associate Director, PM Strategy – Breast - AstraZeneca",
+   "summary": "Sr. Associate Director, PM Strategy – Breast AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTU2Um9kbVNKRXRWalRWTW5WdHR0RldoS0xhWTZ6WUF2RVI0b043SEV3Z2ZXOHkxUzRJQi1yUzkweFpiYmVfeUpyR0h2emx6cVRnOVZ6UmpsWEgtZkhfQXhfa2E1VGVnM1hHOGNTUEQybzZtNjBiSGZpaUZyTi1TdEF0c2JpeWp0bE1Wc0lhTlpBVFZOYXhwRkVtVkpMR2ZaV2x6OFlCbUZablk?oc=5",
+   "published": "2026-11-20T15:07:46Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T16:43:07Z"
+  },
+  {
    "id": "5e62c2855f1bd488",
    "company": "Roche",
    "title": "Metastatic Breast Cancer Market Advances as Roche's - openPR.com",
@@ -719,17 +730,6 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:25:38Z"
-  },
-  {
-   "id": "8c39505c7a532d1a",
-   "company": "AstraZeneca",
-   "title": "Sr. Associate Director, PM Strategy – Breast - AstraZeneca",
-   "summary": "Sr. Associate Director, PM Strategy – Breast AstraZeneca",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTU2Um9kbVNKRXRWalRWTW5WdHR0RldoS0xhWTZ6WUF2RVI0b043SEV3Z2ZXOHkxUzRJQi1yUzkweFpiYmVfeUpyR0h2emx6cVRnOVZ6UmpsWEgtZkhfQXhfa2E1VGVnM1hHOGNTUEQybzZtNjBiSGZpaUZyTi1TdEF0c2JpeWp0bE1Wc0lhTlpBVFZOYXhwRkVtVkpMR2ZaV2x6OFlCbUZablk?oc=5",
-   "published": "2026-11-19T08:00:00Z",
-   "outlet": "AstraZeneca",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-20T16:43:07Z"
   },
   {
    "id": "8f8dc815c454e79d",
@@ -1073,6 +1073,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "00292c6c3545dc72",
+   "company": "Roche",
+   "title": "FDA approves Roche's breast cancer pill Wilserdly a month early as a bigger decision looms - CEO Economy",
+   "summary": "FDA approves Roche's breast cancer pill Wilserdly a month early as a bigger decision looms CEO Economy",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVRWb01jdlBPcDJKenBJNDA3Nk8tVEN6eGxINlpNRDhKUkJESGp0SVo2a2lpN1hjTFRyV1dVekZjekEzMXRGb2JqbnRhT3FRczlqaFFnbEFxRFc2dXRSbUgzNFk5WlZfclktVkFUUDdINXZQM1NQNFBRbEFtTUxUMDJwMkZFOUd4NmtCM2wyVQ?oc=5",
+   "published": "2026-11-16T22:30:00Z",
+   "outlet": "CEO Economy",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T18:16:12Z"
+  },
+  {
    "id": "fc82ac78340bab0f",
    "company": "Roche",
    "title": "FDA approves Roche's breast cancer pill giredestrant, sold as Wilserdly, for tumors with ESR1 mutations - MLQ.ai",
@@ -1249,17 +1260,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -1269,6 +1269,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "c08f26a46cb289c8",
