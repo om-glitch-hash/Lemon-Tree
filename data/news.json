@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T03:36:42Z",
+ "updated": "2026-11-22T04:41:00Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -851,6 +851,17 @@
    "outlet": "Bloomberg.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "a3485fa73fcd5466",
+   "company": "Roche",
+   "title": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval - Bloomberg",
+   "summary": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
+   "published": "2026-11-17T13:14:19Z",
+   "outlet": "Bloomberg",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T04:41:00Z"
   },
   {
    "id": "191c289cf48d0ffc",
