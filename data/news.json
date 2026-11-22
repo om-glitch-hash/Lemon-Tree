@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:41:00Z",
+ "updated": "2026-11-22T05:41:18Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -653,6 +653,17 @@
    "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T06:48:31Z"
+  },
+  {
+   "id": "1f4e6c98f3844a67",
+   "company": "Roche",
+   "title": "U.S. Food and Drug Administration Approves FoundationOne®Liquid CDx as the First Companion Diagnostic in the U.S. for WILSERDLY (giredestrant) in Combination with Everolimus for ER-Positive, HER2- Negative, ESR1-Mutated Advanced Breast Cancer - Roche",
+   "summary": "U.S. Food and Drug Administration Approves FoundationOne®Liquid CDx as the First Companion Diagnostic in the U.S. for WILSERDLY (giredestrant) in Combination with Everolimus for ER-Positive, HER2- Negative, ESR1-Mutated Advanced Breast Cancer Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zeGdQUlV3eEZWaDBHN2QzR2twbGVTQWdzcnNDRFZnOUkxdzloU1o2T3IyaWd2VVNuczB2ajd0c3JjMExqRDNnNm5ZdWxNdHhSTGtJTU1IWEM1Yi1GZFpFSERJV215T3ZqcGVlb3R3?oc=5",
+   "published": "2026-11-20T02:51:02Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-22T05:41:18Z"
   },
   {
    "id": "9ef8fe3e1ab3abc2",
@@ -2789,17 +2800,6 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
-   "id": "b6a72b53f863b165",
-   "company": "Arvinas",
-   "title": "Congress Presentations - Arvinas",
-   "summary": "Congress Presentations Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yMUpoZVVTX2VzZWlwSEJuWkhKYWV1ZHFyejlyN0VKWXpNcm1QQ0VBaWdHLVRWZnBaR3JoSU43NXdGT2FadnAxbnl5aTVoWVRVTjdmeGRFTEFwVXM0V1hpS1NXM2xzWDJYQklkZE9BcWszbFZ6?oc=5",
-   "published": "2026-04-26T23:06:12Z",
-   "outlet": "Arvinas",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "b95bd0b92fdafc8b",
    "company": "Roche",
    "title": "Roche Earnings: Raising Our Valuations as Broad Giredestrant Launch in 2027 Comes Into Focus - Morningstar",
@@ -3686,6 +3686,17 @@
    "summary": "Publications Arvinas",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJeG5wMmNicUN4YmM3dUtBUHdLMEVUb1lhTW1UMlZTRE85NmVIZFI4V3dSV2xveUVmS0t4T3dqOFdBdTB1R0xyWHpXZmhnaF93QmRfUk5IVHExUHF2WGc?oc=5",
    "published": "2025-12-06T22:48:22Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "b6a72b53f863b165",
+   "company": "Arvinas",
+   "title": "Congress Presentations - Arvinas",
+   "summary": "Congress Presentations Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aFEwMmh0MDU1b3YycDJCajg5Mk9UV1RnTzlFTHgzdDRhRGFNRkJuNFBJQlBQcFcxUDYtdzN6Q0ZSaGM1Z0lHMGQwakJFbXN5eU1QVTktVVNyTk5UMVJFSnFrTWxuN1J5d013?oc=5",
+   "published": "2025-12-06T16:56:09Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
