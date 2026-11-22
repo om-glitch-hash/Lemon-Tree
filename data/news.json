@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:12:35Z",
+ "updated": "2026-11-22T13:20:07Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1478,6 +1478,17 @@
    "outlet": "GenomeWeb",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "f2a20f9ded586115",
+   "company": "Roche",
+   "title": "Negative NICE final guidance for Roche’s Itovebi - The Pharma Letter",
+   "summary": "Negative NICE final guidance for Roche’s Itovebi The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1RlRGZJMDhILUE2SlNQbDYzNFVNSEVEMDhIVUdmZ3dXVjMxaG9iRExtQ2xYUm5XVlpnNHBmTVpSYjk0NEFmS190SWsyNFNGT2tQVjc2bVBpWDBjUnpDYk5CSDdpMnBVRzJNdmYyZ0kxd3huWExfd01HYkZvUVNfV3hySUFKUUNHeUNPeHZ1SjdiRjR5VUVWaQ?oc=5",
+   "published": "2026-10-15T07:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T13:20:07Z"
   },
   {
    "id": "59b841a94a5ad4d8",
@@ -3981,7 +3992,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
