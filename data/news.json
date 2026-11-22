@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:44:51Z",
+ "updated": "2026-11-22T02:39:20Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -743,17 +743,6 @@
    "first_seen": null
   },
   {
-   "id": "08f53a64c6c33056",
-   "company": "Roche",
-   "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
-   "summary": "Roche Secures First U.S. Approval for New Breast-Cancer Pill WSJ",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
-   "published": "2026-11-18T08:00:00Z",
-   "outlet": "WSJ",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "2b038ee235511c3e",
    "company": "Novartis",
    "title": "Novartis showcases hematology momentum and continued breast cancer leadership at ASH and SABCS",
@@ -948,6 +937,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd2RMUVBYQkFxMllZQk1NSXlFOXNMQ0xibXJDUGpXQ3VOVEYzWXFOR0Q4M21IUk53VDRUMDlybXFwektPZWdxVWZjOWY2UWZYVnNYZVQtNzUxMXlQQzFiRFg0aHplUldOX0xqZ2w1S2NsUmpYY1pTQkhUUXdObzBaYTB2VTJxMXVzMFRwM1hieDRocFViTjV1LS1iNk91Y2FoN1BGSG5acG80U3ZMQTY5Tm5ZTjFLbzdH?oc=5",
    "published": "2026-11-17T08:20:20Z",
    "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "08f53a64c6c33056",
+   "company": "Roche",
+   "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
+   "summary": "Roche Secures First U.S. Approval for New Breast-Cancer Pill WSJ",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
+   "published": "2026-11-17T08:15:00Z",
+   "outlet": "WSJ",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
   },
