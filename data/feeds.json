@@ -35,11 +35,11 @@
   "checked": "2026-11-19T18:17:35Z"
  },
  "Olema Oncology": {
-  "feed": "https://ir.olema.com/rss/news-releases.xml",
-  "method": "newsroom rss (configured)",
-  "filter": true,
+  "feed": "https://news.google.com/rss/search?q=site%3Aolema.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:) (own feed blocked)",
+  "filter": false,
   "sig": "[\"https://ir.olema.com/\", \"https://ir.olema.com/rss/news-releases.xml\", null, null, null]",
-  "checked": "2026-11-22T05:41:18Z"
+  "checked": "2026-11-22T06:41:48Z"
  },
  "Relay Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=site%3Arelaytx.com&hl=en-US&gl=US&ceid=US:en",
