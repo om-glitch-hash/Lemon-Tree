@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:20:07Z",
+ "updated": "2026-11-22T14:17:49Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1077,7 +1077,7 @@
    "company": "Roche",
    "title": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer - Yahoo Finance UK",
    "summary": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjBjeXNYdjFIdU5QSG1DR3FnSU94WXFvSEtpRmVObExtLWJfVms5eGNreXh6RDN1bVpBZ0haMmQtM1dieVJYdVRxSXptaWZNTVVnMmxIX0hiUkYxS1JMYUdrSy1oc0VHU2d4a0VDcDJ1aXFjcnVEZ29QZEhVNFh2R3c5WDg4SzB1MGp4SWpvQTA0djBx?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWl83TU4zV0s5WWwxdU1ST2o3bXZPY1dLRzU1V0h6amVYd2Vzdkc0SXI0SkZ1OThJSEgtU3B2OGNJTEFnTnJUNzNyLWxSVk5GU1BRd19neVNZRk1BRXhLMkk0elZETk1vMzE2SjJCTFFSQ1h5Z1lTZDZ5RmhqeWVLYWRDLXBjNTNGc1dIeWhqNDFmSVNv?oc=5",
    "published": "2026-11-16T22:15:00Z",
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
@@ -2536,17 +2536,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "34f2736ff36d09a3",
-   "company": "Roche",
-   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
-   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9YSkJaQk12QU5IWHAzdGhwaG9zYUxSbk9YYmE5ZWdRc2hvTDdyYy1HYzRoMnNsdXB0cmRaQV9wSkYtTWZDV2VYVndqRmUxM3hRV1dWU3N0WjktNzAySk5rc0QyUzRKMGMydVE3Qm4wNHBzbHQ4Q2VyaTBrbk5qa19FZmZxcDJsTlVSM1pzZFROdU9pdTRWa0VVSEd0V00zRmdpLWtfU211U1pSU25qdEZYS0I?oc=5",
-   "published": "2026-06-03T07:00:00Z",
-   "outlet": "The Clinical Trial Vanguard",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "48636b0536817bec",
    "company": "Roche",
    "title": "Roche’s Investor Event at ASCO 2026 - Roche",
@@ -2567,6 +2556,17 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": "2026-11-21T18:15:32Z"
+  },
+  {
+   "id": "34f2736ff36d09a3",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
+   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl84S3ZOSzZFUUdIcGNLR05DRXVZa3NkVTYwU0lkRUVURDluaWY0dW9vdHRrdExQZW81bjR3VVJpQ2N2MUJ4ZTlFbFNzUXN4UWd4LVVmUzRGTHJwVEJRWG12bnEyWnFRbE9hS3FYYkhmN3hyZTRiS2RRRTdIV0RJQ21xZWhvci1nRnVnMGVaWVhXT3J5aHVyR1dQZWNVQkYwVFQ1UWJsYzVHMUhndEUzOWl3?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "99cbb96e7682485a",
