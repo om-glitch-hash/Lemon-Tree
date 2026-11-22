@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:15:32Z",
+ "updated": "2026-11-22T20:06:51Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1590,6 +1590,17 @@
    "first_seen": null
   },
   {
+   "id": "ebe5a79e0c3a8ecb",
+   "company": "Roche",
+   "title": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine - Yahoo Finance UK",
+   "summary": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU9LdmY0Qzd3Z3FncnpMT1ZfbTQ3cUlrUjNfQkhneF9sVDIyeDdBQ2lLdGx0UllmWnhfNTlBZUljT3A4TTZ4czk0RF9BdjI1d1VBZUdWM0hxdThydTUyeUluU3ZKXzRwUkxWUVhpS3ZiV085aDRsSXFGeDdYdktsWFZuaXZ2RG16bndZVVhyVnkzcmdyakt4X2JadUh5M2VXb3hzZA?oc=5",
+   "published": "2026-10-01T07:00:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T20:01:54Z"
+  },
+  {
    "id": "c9925b2e28fd5eea",
    "company": "Genentech (Roche US)",
    "title": "Genentech’s Giredestrant Combination Significantly Improved Progression-Free Survival in ER-Positive Advanced Breast Cancer in Phase III evERA Data Published in The New England Journal of Medicine",
@@ -1621,17 +1632,6 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-20T12:31:11Z"
-  },
-  {
-   "id": "ebe5a79e0c3a8ecb",
-   "company": "Roche",
-   "title": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine - Yahoo Finance UK",
-   "summary": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU9LdmY0Qzd3Z3FncnpMT1ZfbTQ3cUlrUjNfQkhneF9sVDIyeDdBQ2lLdGx0UllmWnhfNTlBZUljT3A4TTZ4czk0RF9BdjI1d1VBZUdWM0hxdThydTUyeUluU3ZKXzRwUkxWUVhpS3ZiV085aDRsSXFGeDdYdktsWFZuaXZ2RG16bndZVVhyVnkzcmdyakt4X2JadUh5M2VXb3hzZA?oc=5",
-   "published": "2026-09-30T07:00:00Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T20:01:54Z"
   },
   {
    "id": "c6adcb881e157e44",
@@ -3013,7 +3013,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4014,7 +4014,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
