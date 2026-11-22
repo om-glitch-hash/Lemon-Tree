@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:31:58Z",
+ "updated": "2026-11-22T11:23:55Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1518,7 +1518,7 @@
    "title": "Giredestrant Plus Everolimus Just Cleared the Bar: What the evERA Data Actually Demands From Trial Designers - The Clinical Trial Vanguard",
    "summary": "Giredestrant Plus Everolimus Just Cleared the Bar: What the evERA Data Actually Demands From Trial Designers The Clinical Trial Vanguard",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU1A1aE5YZnFtS1MzWnVRcWs3aWgzWjRpV1BNbzZsYktTN3VSSEZLVG1hOW5qT2p3UmtDMFZQUHFneGd5SUFoNkQ2bUk2anh2YXZIanIxQWFJb2VkVEw1LVBhN2NFWjVuWDFhM29iSGYwd3E4bnptb01KeTRQQTk0aHc0blgxcHJQVnRuMERXdnlZcnVBWXlGaXNWQW5iS2MyVnNwTmlBUC1lZFNjU2hyZkFTdWFUSjdWb1dHV09qWW4yNkpOQmRMQkVROWZrbzFha1pYZEZVeUhPeTBTUkl4QWVTREhTek1HSG9CWURoT05ncEZLVzExaHJpbW1iX0RQaVE?oc=5",
-   "published": "2026-10-03T07:00:00Z",
+   "published": "2026-10-03T07:34:59Z",
    "outlet": "The Clinical Trial Vanguard",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
@@ -2182,6 +2182,17 @@
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "c9c4825cdd32b80b",
+   "company": "Roche",
+   "title": "Roche partners with Evexta Bio to test dual-node inhibitor against resistant breast cancer - AllSci",
+   "summary": "Roche partners with Evexta Bio to test dual-node inhibitor against resistant breast cancer AllSci",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWtWSzJIZkVrNnBjTFhKRlMweFFXTnNleGhyazNSbTJwNGd5YU1Ud0ZlLXkycS1fRkxMQWJBQUcxRG80TER1dEQ1am1KdUNZampYM2RxWF9ISzViRXNmekJVbjZWSW5tUzF6eTlRa3drNU9KdENjX2FhRm5nU3Q5dFBnVHBFM05mZlA0Tw?oc=5",
+   "published": "2026-08-04T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T11:23:55Z"
   },
   {
    "id": "158ef3a520d3c9db",
