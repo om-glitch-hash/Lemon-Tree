@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:14:33Z",
+ "updated": "2026-11-23T19:25:06Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,39 @@
  ],
  "items": [
   {
+   "id": "f218eb0f5f8e482b",
+   "company": "Roche",
+   "title": "Roche's breast cancer pill wins U.S. approval for use after surgery - Quartz",
+   "summary": "Roche's breast cancer pill wins U.S. approval for use after surgery Quartz",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94bVQtQXVIanZGV2lLMzJXSE5GU0lMcVA5VW9xWGRiazZvdkhuLWxzYmRGQVFIWHpTLWlOWlVYaU1ocmRTb1lwaW8ycDBnQWJhMGxBb19heUs1RGcyN3lDMHZhSG15QzdUYVlYOUd2TWRjZw?oc=5",
+   "published": "2026-11-23T18:41:55Z",
+   "outlet": "Quartz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T19:25:06Z"
+  },
+  {
+   "id": "f93a04c9210241a6",
+   "company": "Roche",
+   "title": "Roche takes Wilserdly into early breast cancer with second FDA nod in a week - FirstWord Pharma",
+   "summary": "Roche takes Wilserdly into early breast cancer with second FDA nod in a week FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04SWZsM2dqaWdSOEhGX3Ixa0hwWTVucTM3ZmxaRVFDZC1WQWNETjZnZm0wNmZmRDBfdzVOQi1GYmhVaEJDRVJTdkhORy1Ub3lBU0g0?oc=5",
+   "published": "2026-11-23T18:28:48Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T19:25:06Z"
+  },
+  {
+   "id": "fcdd5d85be248d01",
+   "company": "Roche",
+   "title": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use - Bloomberg.com",
+   "summary": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVFyMXlhQ1p6d05PTGY3a1pfSG1DQk0wRldacmdKZTAxXzB2a3gzV1lRN19sUGlxTkVpWkR2UjY3OHM2SzBwRUlTSVRxaHhGdFhMYnZaVEJ2UGloUnlzRmprZkg4b0dDenpnUGtleER6amhJeFNwY3dPanloczlUWWhEdDAtWnBYM2lzLUpMcWJCc2dTOTF2eWlENkVIMWFOQWhwT1VqS3dScGdObXNWdkFfbVJiUQ?oc=5",
+   "published": "2026-11-23T18:10:33Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T18:14:33Z"
+  },
+  {
    "id": "b1638064a7db9c3d",
    "company": "Roche",
    "title": "Roche’s Wilserdly Nets Second FDA Approval in Adjuvant Breast Cancer - GenomeWeb",
@@ -598,6 +631,17 @@
    "outlet": "GenomeWeb",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T18:14:33Z"
+  },
+  {
+   "id": "1985c779227c4ffd",
+   "company": "Roche",
+   "title": "Roche wins second FDA approval for breast cancer pill, opening up bigger market - Endpoints News",
+   "summary": "Roche wins second FDA approval for breast cancer pill, opening up bigger market Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWF0TWRSbERjYW5OVWlFejJsQ3ZsOGxKWWVLT3JTTDk5RDdYdTMwUzdHd3NtUm0zbGFSckJXYUI5cEZ3NjRnRjNUd2pLNEN4dEJFVFlFUURrTU55RVFqVTNKSFN6MDhDVzFkdkpuWExCUHFYaWhNb3BBVmdRT1FhX2FoakZSTHZhY2hPZUk2bkhJNjZOaTlwekp3YXE3QXFwNDh0QQ?oc=5",
+   "published": "2026-11-23T17:44:00Z",
+   "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T19:25:06Z"
   },
   {
    "id": "a1c1c7022c0bee67",
@@ -631,17 +675,6 @@
    "outlet": "WSAU",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T17:12:46Z"
-  },
-  {
-   "id": "fcdd5d85be248d01",
-   "company": "Roche",
-   "title": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use - Bloomberg.com",
-   "summary": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVFyMXlhQ1p6d05PTGY3a1pfSG1DQk0wRldacmdKZTAxXzB2a3gzV1lRN19sUGlxTkVpWkR2UjY3OHM2SzBwRUlTSVRxaHhGdFhMYnZaVEJ2UGloUnlzRmprZkg4b0dDenpnUGtleER6amhJeFNwY3dPanloczlUWWhEdDAtWnBYM2lzLUpMcWJCc2dTOTF2eWlENkVIMWFOQWhwT1VqS3dScGdObXNWdkFfbVJiUQ?oc=5",
-   "published": "2026-11-23T17:03:48Z",
-   "outlet": "Bloomberg.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-23T18:14:33Z"
   },
   {
    "id": "8aba16cb3267e903",
@@ -2068,7 +2101,7 @@
    "title": "AstraZeneca’s Etcamah Misses Primary Endpoint in Phase III SERENA-4 Trial - Yahoo Finance UK",
    "summary": "AstraZeneca’s Etcamah Misses Primary Endpoint in Phase III SERENA-4 Trial Yahoo Finance UK",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXZuTlJUUFdrR240ckk5RmxjbmR3WHlIb0gyNUlZVFJ5NzAxX1N6TnVPLWI3dWNhMF9rUWxsOTFxNXBJY25XZDJMUklWc1dmNnNpUnFtZWNib255RFFKbVlJQUpmZWNkWVZPSkI0aHpzWEFWMUxFRFYwU291UE1mYXNZYWlmNDNRa1R5QWVuTDFyMGROWTRN?oc=5",
-   "published": "2026-09-14T07:00:00Z",
+   "published": "2026-09-13T07:00:00Z",
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T09:40:28Z"
