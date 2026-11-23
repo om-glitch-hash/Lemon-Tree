@@ -99,7 +99,7 @@
   "method": "news search (no newsroom found)",
   "filter": false,
   "sig": "[null, null, null, \"\\\"GenSci145\\\" OR (\\\"GeneScience\\\" \\\"PI3K\\\") OR (\\\"GenSci\\\" \\\"PI3K\\\")\", null]",
-  "checked": "2026-11-22T12:12:35Z"
+  "checked": "2026-11-23T11:21:01Z"
  },
  "AstraZeneca": {
   "feed": "https://news.google.com/rss/search?q=%22AstraZeneca%22+%28%22camizestrant%22+OR+%22Etcamah%22+OR+%22SERENA%22+OR+%22HR-positive%22+OR+%22ER-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
