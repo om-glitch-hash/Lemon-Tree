@@ -18,7 +18,7 @@
   "method": "newsroom via Google News (site:) (own feed blocked)",
   "filter": false,
   "sig": "[\"https://ir.celcuity.com/\", \"https://ir.celcuity.com/rss/news-releases.xml\", null, null, null]",
-  "checked": "2026-11-22T13:20:07Z"
+  "checked": "2026-11-23T00:01:56Z"
  },
  "Avenzo Therapeutics": {
   "feed": "https://avenzotx.com/feed/",
@@ -102,11 +102,11 @@
   "checked": "2026-11-22T12:12:35Z"
  },
  "AstraZeneca": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aastrazeneca.com+%28%22camizestrant%22+OR+%22Etcamah%22+OR+%22SERENA%22+OR+%22HR-positive%22+OR+%22ER-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:)",
+  "feed": "https://news.google.com/rss/search?q=%22AstraZeneca%22+%28%22camizestrant%22+OR+%22Etcamah%22+OR+%22SERENA%22+OR+%22HR-positive%22+OR+%22ER-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "news search (newsroom not indexed)",
   "filter": false,
   "sig": "[\"https://www.astrazeneca.com/media-centre/press-releases.html\", null, null, null, [\"camizestrant\", \"Etcamah\", \"SERENA\", \"HR-positive\", \"ER-positive\", \"ESR1\"]]",
-  "checked": "2026-11-22T13:20:07Z"
+  "checked": "2026-11-23T00:01:56Z"
  },
  "Sermonix Pharmaceuticals": {
   "feed": "https://sermonixpharma.com/feed/",
