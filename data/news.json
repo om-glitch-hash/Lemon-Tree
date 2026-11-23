@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:25:05Z",
+ "updated": "2026-11-23T13:54:36Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -605,10 +605,21 @@
    "title": "Is Inluriyo® (imlunestrant) FDA approved? - Eli Lilly",
    "summary": "Is Inluriyo® (imlunestrant) FDA approved? Eli Lilly",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXNYc2tZeWJYTEZqSmY4YnlfaXA0eE1JV2pwMjBIMlFUeXVzaTV5ZXhsVTlSdnZubEMtUFNxY3RzelR6LVNPZlRZYmVQa0lPVlQtckVrZ1JyTjdndHFIcVZheWlneTA3dkVGTEZiVzdWcW1PQ2lmTDg5OHc1cUVBT05kTDFBUFFkaHNIbGQtWDZZLUM0SGdSaFotcFlwNkE?oc=5",
-   "published": "2026-11-21T22:10:25Z",
+   "published": "2026-11-23T05:01:51Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-22T07:57:08Z"
+  },
+  {
+   "id": "82cffcffb598ff86",
+   "company": "Eli Lilly",
+   "title": "Can Inluriyo™ (imlunestrant) be taken with or without food? - Eli Lilly",
+   "summary": "Can Inluriyo™ (imlunestrant) be taken with or without food? Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEg3ek1VckZFUlJMejFSUEtMY24tcmpkeHdhMUdMdWlEc0dKTnB0NVVxR3QxSWhJZ0NwOGJST0hJbGE0WWRabU1IbVNhWEtXNXNyWmJkenIxMVBWc2E4OW1xOWpQVW9sZFVFYlp5TXRRR1BzSXpjOGZzY1I5cFhheDB6dXpLSzFma1JmZmUwWTN3ZjBTMTh4TTlDaWJnaldYWUZUQ2pZVnNDaEZSVnVGTUl2OVc0M1E?oc=5",
+   "published": "2026-11-23T01:23:14Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "e420e361e8314877",
@@ -1337,6 +1348,17 @@
    "first_seen": "2026-11-23T10:12:57Z"
   },
   {
+   "id": "d75d0ba84fb7645c",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZURkdkRhSWZPRFdueU5VRWpEd2RPUGVuOGF6X1Y0a3hYczlSekMwUjU4SXpFTW5TNVlKVXdES1lJbjVIU1Z3Q0lqNWFpS3JBOTgyaTFpTldMZmMzT0t6UVJpVUtfbEdlSDZzUW13dDRyOE9TYzRFOTJMTG1HX09BMm1jeWI5X3hTRDZmcUhpemY4eGhjLUFPRS00ejl0OEtaMDhab1V0UHdobVRnR1JCekE2eXBrRlRuZXFnN2RZcXRoQXpkenFGZVRHRG4?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
    "id": "c08f26a46cb289c8",
    "company": "Celcuity",
    "title": "Celcuity Inc. Reports Third Quarter 2026 Financial Results and Provides Corporate Update - Celcuity",
@@ -1535,6 +1557,17 @@
    "first_seen": null
   },
   {
+   "id": "87de99eeee16aceb",
+   "company": "Avenzo Therapeutics",
+   "title": "Aaron Hasnain - Avenzo Therapeutics",
+   "summary": "Aaron Hasnain Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsRW8xendCTERfMEMyd3E3Q0ptTWtJX1NIa1RIcFZxVnRPV1R6UTU3SUF1V2JDU1lFVGdUdXZHRHQxVXZxdDhaUlhCQlM1Rno4Vnc?oc=5",
+   "published": "2026-10-16T09:06:02Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
    "id": "35e3baf515e7810e",
    "company": "Roche",
    "title": "Roche breast cancer drug Itovebi turned down by NICE - pharmaphorum",
@@ -1610,6 +1643,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T10:12:57Z"
+  },
+  {
+   "id": "17a392cb1702f1cf",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXRWVEdJaTFEd0xEbFZaeHNxV3VsYlpOSmJlM3BfQmxCS0lmM0NMNHRZaGYzWk5QanVUX0NKV1k3dG1kSVo1cDZiR3hNVnMzdmNQOHoxSFBUeThVMzJva2d3ZzgwTGQ5UXMtOTBYYjVxOXc0YTYwYUIyaXZWUlRqdXRmc3hqNll3bzhBSmx3RFp2Ui00WTdHSUMySGNfbGhEcHgxRkRINlZRcWxfbTlxdWp3?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "18c1e796f0f0360a",
@@ -1720,6 +1764,17 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-20T06:48:31Z"
+  },
+  {
+   "id": "6cf92f07f3a28804",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Expands Leadership Team - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Expands Leadership Team Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc19FYUc3d0syVnhBLUF6dUlhM04wVUt6czBndk80cjJPSkdFTUU3VTVfbzJfakIyQlpPRlZSaTNCTExiaWVTOUNOOTRtZnRJVkx3aWtUR1V6Tmo4b1h6YVNmdGNOakh1SDhaQzI0eDBaYWJuV19pZkJsX1h4cjNCX2NnZE5PUnM?oc=5",
+   "published": "2026-09-28T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "42e33865c6ca7679",
@@ -1931,6 +1986,17 @@
    "first_seen": "2026-11-23T10:12:57Z"
   },
   {
+   "id": "63ea76894f0c49b8",
+   "company": "Avenzo Therapeutics",
+   "title": "Elizabeth A. Mily - Avenzo Therapeutics",
+   "summary": "Elizabeth A. Mily Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUdlp0Q0Zta1F6RVc3dlVDVjRZcEs5VmphTU9ybW9NUVJJRzJJOXNNNDVKM1B3N0ZlU1c5aTY4ZEwwWE1lNWhrTHVFTWtMUEZEbGtF?oc=5",
+   "published": "2026-09-12T03:49:03Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
    "id": "a4e43071cbac7efa",
    "company": "AstraZeneca",
    "title": "Update on SERENA-4 Phase III trial of Etcamah in combination with palbociclib in upfront 1st-line advanced ER-positive breast cancer",
@@ -2006,6 +2072,17 @@
    "outlet": "Oncology Nursing News",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T10:12:57Z"
+  },
+  {
+   "id": "abc13cbdbdfbff44",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics to Present Preliminary Phase 1 Study Results of AVZO-1418, a Potentially Differentiated EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics to Present Preliminary Phase 1 Study Results of AVZO-1418, a Potentially Differentiated EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxObjdYWDBZZlJNZTdmZy1MRFNlV2RTNEZVbmFuVzlpeE9HcDJnWjAwWGVwUTdMLWxSbmxFOFBjaGk1WjVPZVJwek1RR0tNTUN1Y1Z0X2E2dWtmcHZ0VUk5M3habm03d2RjLVhRYTlNYzBTbXJObVZYcWxwOXZNYzR1cGwzQ1Z3LURGal9OVkM3S1ByTVE4SXc3YTZqSzQtYVZ1YjFBbnVFZ1lOQllESDlUY3dqQkEySUlvVGhUQS10SFhxVmRSdUFSMGVHMTh1UkppVXZSNFg0U0NMV2pqWS1GZDhkMDVqNXYtZ0ZlZjZORldjWVpQOHFDVTF6QV85VGRFUlJGZnhfcGg2YTZYZXIwblJXRnJSQjRZTEZkemtuTDVUWjhOb1pjbXRaTk5kMUZsQXduQzJhU3ZzZzlkNXM1eUpyUDNfYnQ5?oc=5",
+   "published": "2026-09-10T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "af149f4e9cce627f",
@@ -2237,6 +2314,17 @@
    "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T10:12:57Z"
+  },
+  {
+   "id": "11f241d9326b99da",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Announces Appointment of Barbara Bodem and Elizabeth Mily to Board of Directors as Independent Directors - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Announces Appointment of Barbara Bodem and Elizabeth Mily to Board of Directors as Independent Directors Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa1pOMFVNVFhiZ1pMVU9oaUNtMjV5UHZtblpCYjVsSUNiZVlBV3ZNRmFYVGxWc09wb1Z4ZGtnSTBzZlhLQVBpY0ZGd0VPV1ZvclFXcnN1eWRfUVdNcGhRYndVeExHZnhCRHkwSldQc0NhX083UERuYWVXS0dRWGNpdVR4ZDIxT2FwdVQ0dU00RnRoUFUxUjBfZzh4dk9vZnJJanNqWUZVR3NTQm1OU1JHeFJXV1Y1QjAzUkZKd1RwWUNuWnlBQ0p6MVBDT2VIUFBrSlFFdjFwaXdENzJXRkxJaHFKVThJeDI0UGF0cEtfdnBqVDA?oc=5",
+   "published": "2026-09-03T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "514a3085d859cbaa",
@@ -3097,6 +3185,28 @@
    "first_seen": "2026-11-20T04:40:23Z"
   },
   {
+   "id": "b818e92e0d7df221",
+   "company": "Avenzo Therapeutics",
+   "title": "Rallybio Corporation and Avenzo Therapeutics Announce Merger Agreement to Advance Next-Generation Oncology Therapies and $215 Million Concurrent Private Placement - Avenzo Therapeutics",
+   "summary": "Rallybio Corporation and Avenzo Therapeutics Announce Merger Agreement to Advance Next-Generation Oncology Therapies and $215 Million Concurrent Private Placement Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQcXlLbGhTTy03R1VMd2FMdy1pUEVEYVJ5S08xemVqRmR2ejBKTWtFOGZOb2pmek9jLTE3ZHRXRUxuektudVFpU24ybGt4NXFTelFlZ1NtNGZFMUl1TXo0Z2VVcUVhdmxSNWdCSmJ5M29mXzQ4elBFZ0ZtV29lQjZnUndsUXBER3NGMUdxMFR4Um5naHh4QWVJd0RLZDBnQXQwcTZQdjVIZnRHZ0pJb0JnUk0zdXd2bGxKMkdKTVFrSVMtckVGNEhFNWtLZlAxYlVWeW45S29FTlNLakRXZEw2V3E1NXpJVGRfWm50SlVlOWtSMmtXZkRid3F3SlBkMzRlMV96VTRQaF9IWGxBUkgxRE9TTER4VXhwRU4teGFsbGRSM0VU?oc=5",
+   "published": "2026-06-01T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
+   "id": "efaef8c0626f7cda",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Presents Updated Results from the Phase 1/2 Study of AVZO-021, a Potentially Differentiated CDK2 Inhibitor, at the 2026 American Society of Clinical Oncology Annual Meeting - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Presents Updated Results from the Phase 1/2 Study of AVZO-021, a Potentially Differentiated CDK2 Inhibitor, at the 2026 American Society of Clinical Oncology Annual Meeting Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOWERIbktMUFNZM2lCV0hua194dUVxWG1HNlpVNlRQYW9lTENyMEtRMXl6R2c1YVBVNkxZUHVfQWsyOTRzaGp3T09Ka0EtTTRnYTRXbjlFZ3d5T0hiWjFoZ2s4MmFIOFVzMEpHWUZCRmVqeGhuNGk1cnc0c1ZvWGhpQ1M3QjdIM3pISmxKUjdUa1hueHJaSXU5UlRHeHhyWXNhNHkyRWVvVFJZRk45WUxGNU9UbWFQWm5sQU93N0Y3MU4yMk9BVUp1S2wtcWtJbDlhQm5KcTJIdm5rVy1fRFlFUVQ5V1JDVWtGam85cENGZ0swa204Sk9DRF9kTUw4Y3I5MmFQSEw4bkFhRjYzc1ZUQjBrSTRSYXRJWXhQWGFHVW1IWTVCS183ZXRONlRkSXZMM19XdDA5N25ZMVdzeVhZR0tZeFB4QWJ1a0xv?oc=5",
+   "published": "2026-06-01T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
    "id": "97a3f4e968062236",
    "company": "Celcuity",
    "title": "Celcuity To Participate in Upcoming Investor Conferences | May 28, 2026 - Celcuity",
@@ -3106,6 +3216,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "48b12e301ae1634d",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Announces First Patient Dosed in Combination Cohort Evaluating CDK4 Selective Inhibitor (AVZO-023) with CDK2 Selective Inhibitor (AVZO-021) In Ongoing Phase 1/2 ORION-1 Study - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Announces First Patient Dosed in Combination Cohort Evaluating CDK4 Selective Inhibitor (AVZO-023) with CDK2 Selective Inhibitor (AVZO-021) In Ongoing Phase 1/2 ORION-1 Study Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPYngxel95TGdwRVhiOTl6UjVQSEwwd0tTZUZjRUNnNW1iR1p5SXY2eFBfYlA3UnpQVnkyd0N2bkdYbF9JY0xSNFRuYjZabnpHQzViV3NscEFjbGdIU1NhWU9nc2tyZzNlaGw5c3VuU0V1LXJBWmx3Q2lWbXd5YUJQWGE5REo1MHdCLUtDNkk4VVUzVnFOSHk2YlVoRVVHYjdfUHRmWklXRjJ6UHpfWGpfSDJ2WnQxUHFHNmQwTjlVa3NjbGxNTnhKTXc1V0t0ZDFYdnp2dEtIVXZhcEtlbEtxTkpsSG5WRXJfZ21BQVFsRW5rYnhjWlNZR1ZXQnBpRUNpYkctbEtGeUk0THdIMEkwVlRETURSbHdEdk9rOEp5Wmtib25rTmVCQk80Qm5LaHJUcnF1d0trdHdnMEZ0bHZRb2dmVDBMMUZ5Q0Rj?oc=5",
+   "published": "2026-05-28T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "69b37c728e65517d",
@@ -3625,6 +3746,17 @@
    "first_seen": "2026-11-22T09:40:28Z"
   },
   {
+   "id": "3cfb83435badd712",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Advances the Combination of CDK4 Selective Inhibitor (AVZO-023) with CDK2 Selective Inhibitor (AVZO-021) in Ongoing Phase 1/2 ORION-1 Study in HR+/HER2- Breast Cancer - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Advances the Combination of CDK4 Selective Inhibitor (AVZO-023) with CDK2 Selective Inhibitor (AVZO-021) in Ongoing Phase 1/2 ORION-1 Study in HR+/HER2- Breast Cancer Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZlJVQU1WYVJrWm9EalJvZ016Z1dScmZTeUE3R2JhNzJsTjZocEdRRzJHenRBTkRJWS03N3J3a1hhVEdrVmR1X1p6TGJfQ04xQmpWQmNybHNhQ2xsNjlSWi1ZOGdhOVNsRmhPNFN1YXRTSzJaR3lWYmcxQnQ5NE9CYmtmSC1yYjNUaDNIbDlsa2VSUXBtZHI0N3BZa1c5REZJa0U0TXdHN3lDemJmVmZUbTJhM2tjNkxuYnpkQzF3dW1mNmRSQ1IzRGcxSHFfN1BVRERvdlMtVFVPMTF2WnpXaTk5bEtZU3FaVXdHT2VZOFE3SzlQUHkxblcxNDYwRFJNZHByX1Y1VE5NYlhxOGN0WF9hTDdLX1gyQlpCckpGQnllSlA0ejR3WF96eERzRWpwaEwwS01yZHpZVlE?oc=5",
+   "published": "2026-04-28T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
    "id": "7ba838d62a319444",
    "company": "Eli Lilly",
    "title": "A Study of Tersolisib (LY4064809/STX-478) With Other Anti-Cancer Treatments in Participants With Advanced Breast Cancer With a Genetic Change (PIK3CA) - Lilly Trials",
@@ -3713,6 +3845,17 @@
    "first_seen": "2026-11-19T18:26:04Z"
   },
   {
+   "id": "5504cad59d76b2e4",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics to Present Updated Results from the Phase 1 Study of AVZO-021, a Potential Best-in-Class CDK2 Inhibitor, at the 2026 American Society of Clinical Oncology Annual Meeting - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics to Present Updated Results from the Phase 1 Study of AVZO-021, a Potential Best-in-Class CDK2 Inhibitor, at the 2026 American Society of Clinical Oncology Annual Meeting Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQYjZOV0xVbE9TZG1qRUxvbGpoZl9nN0NIRTA0QmhDUmZvOTdzNGVtQWJaUHNHUmdvVDRZclpoX1BkVWc2dlVXM1VzMDdhbzVQNzhWV1B2aWtSclBIS0tYUUh2dHluWWJXVjNYcUFYbG0zbzlkMURwaEpMdjk4eG1pRnA3Uno3dW1TcFYtbGlZR2lRd0JOTWNULXNLd1pWLV9uZHBWd3hRVmRkR2s4WjYycGttMkhEQ1pQU0xFeXpBWVM5bHd0Z0VwV0JVMS1Rd1RPS0Nndk9VamlucU83XzNpLV9HeDNiZDk1YUNubms5YjBCbzBkdUFkd01CNkpBTDQ3ZFRmX0RIMFEwdXAzTjFSM0psY0RhSGJoWUc4ZUZfajh3YWhzdDZVaXQ4LVU3ZTZxU3NFSHVTWk9OM1FPa1hsaFpyZWhKOTA?oc=5",
+   "published": "2026-04-21T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
    "id": "f6e2d389ee7e866d",
    "company": "Olema Oncology",
    "title": "Olema Oncology Announces Preclinical Data for Palazestrant and OP-3136 at the 2026 AACR Annual Meeting - Olema Oncology",
@@ -3733,6 +3876,28 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "0971cf3b7b5529d1",
+   "company": "Avenzo Therapeutics",
+   "title": "TPS908 - Avenzo Therapeutics",
+   "summary": "TPS908 Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnQ2VGkzRS1LVUxfQms1X1NwWDVxc0VYb1N0NHpDRFVQZ3p2SENTT3pSU2xuSTNtVW1TTXFUbXhMS01PVTRnekdVY3hKZEgtNWp1dnFUenRKQjUwdWJwM3JydFdhQ0lvS3lxWkxlTFpZQzBnSmRRNXFEa1pYczJfdGxhd1RDLVg4WEk4cDViejF5RTQyOE10RGxiMGpJX1k3cUpvQTZRazROYTlp?oc=5",
+   "published": "2026-04-03T03:18:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
+   "id": "26c04233897f3d2a",
+   "company": "Avenzo Therapeutics",
+   "title": "BACKGROUND1-11 AVZO-1418-1001 TRIAL DESIGN10,11 KEY ELIGIBILITY CRITERIA10,11 TRIAL ENDPOINTS10,11 - Avenzo Therapeutics",
+   "summary": "BACKGROUND1-11 AVZO-1418-1001 TRIAL DESIGN10,11 KEY ELIGIBILITY CRITERIA10,11 TRIAL ENDPOINTS10,11 Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekNEY0d0X19CRkxXRldKWldrUGtWLTdMMGZ6Umh2QUs1ZkRaQk9kT00wdWtnN0dWMlNZdDFma1loVHFSUnNnTl9QV19reHJhY0M5OXZfbF9TcDNMQ0tRTnhVNmRKMnhpZnR0QmxGdkxRRlk0WTJad2tkMHpuRnpSWDRBQmxpZXhBRHRiVzlyeTZpX01WWkZXNzFqdDdUWWNW?oc=5",
+   "published": "2026-04-03T03:17:59Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "93a512bcabf2e47b",
@@ -4472,6 +4637,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "c1fbeaa49478a5a1",
+   "company": "Avenzo Therapeutics",
+   "title": "A phase 1/2, first-in-human study of AVZO-021, a selective cyclin-dependent kinase 2 inhibitor (CDK2i), as a monotherapy and in combination for patients with advanced solid tumors, including - Avenzo Therapeutics",
+   "summary": "A phase 1/2, first-in-human study of AVZO-021, a selective cyclin-dependent kinase 2 inhibitor (CDK2i), as a monotherapy and in combination for patients with advanced solid tumors, including Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DaklJWjFMMVdjNjBITmdOQ193ZGlDYjJxb2ltcnU2WUVibVBneGxraFpRTktKTUNnVmtqaloxa2hQc01KNGowYW5yLUl6X0lqaGhZX2pYVTI3S3E0S2VDOGNLTWZuU0lIU2JIazM5eHlCdXlRNHliV2hsTQ?oc=5",
+   "published": "2025-12-13T10:00:20Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
    "id": "e2b0bf0c19f822cb",
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
@@ -4514,6 +4690,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "8ac58bf8c9dc1f17",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Presents Initial Results from the Phase 1/2 Study of AVZO-021, a Potential Best-in-Class CDK2 Inhibitor, at the 2025 San Antonio Breast Cancer Symposium - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Presents Initial Results from the Phase 1/2 Study of AVZO-021, a Potential Best-in-Class CDK2 Inhibitor, at the 2025 San Antonio Breast Cancer Symposium Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPYUYtQTZqSnVvOXJzOFdsYTdnX1doWVBQeERlbXRBU2lIZ0RZbk9QTDFQMVRIZnlHbHRwMm5vLWV4bTE0U282QjBDbEFjRm1rV1JFcEZUOU1HeVU1U3k3WTdHNDBweFdOZE1DQ3hGMnpEZ0NaTWJySWJjekVtLW10aW1uZmJXR1pCV2tOaWRHRHNQLXdjUXlBM0NhM3ZKOXVFRkVJRGNqYnZDRjgxTkxSZG1aNW5BNTVWSDd5VDllT1NzRk9icDBMQ2VhRTZHbXhqNWdXQWNEdUIwd0l6V1N2S0lTamZlRG90YjhjT1FpTEhUWWdkMGVKQmlZQ1lRRE9wVVIzbTVVQ3dRRUhfZGwzMmVFcy1IbWlXLVJzNlJvR0hIUEJaQ3ZtUnBoNDRBYTht?oc=5",
+   "published": "2025-12-11T08:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "b0dd46b5d74f45bc",
@@ -4591,6 +4778,17 @@
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "0655716b37620c56",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Granted Fast Track Designation for AVZO-103, a Potential Best-in-Class Nectin4/TROP2 Bispecific Antibody-Drug Conjugate, for the Treatment of Patients with Urothelial Cancer Previously Treated with Enfortumab Vedotin - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Granted Fast Track Designation for AVZO-103, a Potential Best-in-Class Nectin4/TROP2 Bispecific Antibody-Drug Conjugate, for the Treatment of Patients with Urothelial Cancer Previously Treated with Enfortumab Vedotin Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPUjQ3TVU1VHNoOUk5Tlg0LVZiakx0U1dGRFgwTUlYalJXaklQdlI4Z2I4eDBwRUlPWjhBZG1sOFB3X3lsV3lpZVFFY1pDSnZWdkdWUDdiaWV5RG9tS05UM3pSRUFIMjZkeEJvUVFHVDZzRXkya1ZCb3VkMklpell0NEk2UDFPb2xONDI2MGthclJmREJUOUtDc2xmRzNCLUFaVWZYSy01T1d5LS1hNlBQMEVkQkRGY3hUQWYyQmFQdm5GazZkcjF2eVk4WkpoT0JFV3hhdUM5aUlXZ2ZNUkliOXhVSlRCMXFaMjdURE9iOW5Ca2t1NlBFT3drWHk3OXdUdWtVZHlOUUh6OFRCUFcxVlgyX3VrdnY5dFg4WUdFTGVmd3NYN1JKSDUtTGhPcTJfUlpJMFYtdmdRNVZZdHVzMGJlSkNBTGlGVVFISTZmcXFDMEFVaXc?oc=5",
+   "published": "2025-11-24T08:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   }
  ]
 }

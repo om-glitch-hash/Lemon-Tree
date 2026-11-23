@@ -21,11 +21,11 @@
   "checked": "2026-11-23T00:01:56Z"
  },
  "Avenzo Therapeutics": {
-  "feed": "https://avenzotx.com/feed/",
-  "method": "newsroom rss (configured)",
-  "filter": true,
+  "feed": "https://news.google.com/rss/search?q=site%3Aavenzotx.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:) (own feed blocked)",
+  "filter": false,
   "sig": "[\"https://avenzotx.com/\", \"https://avenzotx.com/feed/\", null, null, null]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-23T13:54:36Z"
  },
  "Rigel Pharmaceuticals (Veppanu commercial rights)": {
   "feed": "https://www.rigel.com/investors/news-events/press-releases/rss",

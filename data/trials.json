@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:25:05Z",
+ "updated": "2026-11-23T13:54:36Z",
  "assets": {
   "Gedatolisib": {
    "company": "Celcuity",
@@ -9,7 +9,7 @@
    ],
    "ok": true,
    "count": 22,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Imlunestrant": {
    "company": "Eli Lilly",
@@ -19,7 +19,7 @@
    ],
    "ok": true,
    "count": 21,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Tersolisib": {
    "company": "Eli Lilly",
@@ -29,8 +29,8 @@
     "STX-478"
    ],
    "ok": true,
-   "count": 10,
-   "checked": "2026-11-23T12:25:05Z"
+   "count": 11,
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Giredestrant": {
    "company": "Roche",
@@ -40,7 +40,7 @@
    ],
    "ok": true,
    "count": 30,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Inavolisib": {
    "company": "Roche",
@@ -50,7 +50,7 @@
    ],
    "ok": true,
    "count": 37,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "GDC-4198": {
    "company": "Roche",
@@ -61,7 +61,7 @@
    ],
    "ok": true,
    "count": 4,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Palazestrant": {
    "company": "Olema Oncology",
@@ -71,7 +71,7 @@
    ],
    "ok": true,
    "count": 6,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "OP-3136": {
    "company": "Olema Oncology",
@@ -80,7 +80,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Elacestrant": {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -90,7 +90,7 @@
    ],
    "ok": true,
    "count": 43,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "MEN2312": {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -99,7 +99,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Camizestrant": {
    "company": "AstraZeneca",
@@ -109,7 +109,7 @@
    ],
    "ok": true,
    "count": 23,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Vepdegestrant": {
    "company": "Pfizer / Arvinas / Rigel",
@@ -120,7 +120,7 @@
    ],
    "ok": true,
    "count": 25,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Atirmociclib": {
    "company": "Pfizer",
@@ -130,7 +130,7 @@
    ],
    "ok": true,
    "count": 21,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Tegtociclib": {
    "company": "Pfizer",
@@ -140,7 +140,7 @@
    ],
    "ok": true,
    "count": 4,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Prifetrastat": {
    "company": "Pfizer",
@@ -150,7 +150,7 @@
    ],
    "ok": true,
    "count": 12,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Lasofoxifene": {
    "company": "LeonaBio / Sermonix",
@@ -159,7 +159,7 @@
    ],
    "ok": true,
    "count": 9,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Zovegalisib": {
    "company": "Relay Therapeutics",
@@ -169,7 +169,7 @@
    ],
    "ok": true,
    "count": 3,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "JS105": {
    "company": "Junshi Biosciences",
@@ -179,7 +179,7 @@
    ],
    "ok": true,
    "count": 3,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "SNV4818": {
    "company": "Novartis",
@@ -188,7 +188,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "ECI830": {
    "company": "Novartis",
@@ -197,7 +197,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "ARTS-021": {
    "company": "Avenzo Therapeutics",
@@ -208,7 +208,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "Samuraciclib": {
    "company": "Carrick Therapeutics",
@@ -218,7 +218,7 @@
    ],
    "ok": true,
    "count": 7,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "TOS-358": {
    "company": "Totus Medicines",
@@ -227,7 +227,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "GenSci145": {
    "company": "GenSci",
@@ -236,7 +236,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   },
   "BG-75202": {
    "company": "BeOne Medicines",
@@ -245,7 +245,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-23T12:25:05Z"
+   "checked": "2026-11-23T13:54:36Z"
   }
  },
  "trials": {
@@ -884,13 +884,19 @@
     "Healthy"
    ],
    "start": "2026-11",
-   "primary_completion": "2027-08",
+   "primary_completion": "2027-11",
    "first_posted": "2026-11-05",
-   "last_update": "2026-11-05",
+   "last_update": "2026-11-23",
    "enrollment": 343,
    "first_seen": null,
-   "changed": null,
-   "events": [],
+   "changed": "2026-11-23T13:54:36Z",
+   "events": [
+    {
+     "date": "2026-11-23T13:54:36Z",
+     "type": "primary_completion",
+     "text": "Primary completion: 2027-08 → 2027-11"
+    }
+   ],
    "assets": [
     "Imlunestrant"
    ],
@@ -1719,13 +1725,19 @@
     "Breast Cancer"
    ],
    "start": "2025-09-09",
-   "primary_completion": "2027-07-31",
+   "primary_completion": "2028-08-01",
    "first_posted": "2025-07-08",
-   "last_update": "2026-10-26",
+   "last_update": "2026-11-23",
    "enrollment": 120,
    "first_seen": null,
-   "changed": null,
-   "events": [],
+   "changed": "2026-11-23T13:54:36Z",
+   "events": [
+    {
+     "date": "2026-11-23T13:54:36Z",
+     "type": "primary_completion",
+     "text": "Primary completion: 2027-07-31 → 2028-08-01"
+    }
+   ],
    "assets": [
     "Giredestrant",
     "Inavolisib"
@@ -2730,13 +2742,19 @@
     "Breast Cancer"
    ],
    "start": "2023-06-07",
-   "primary_completion": "2026-11-13",
+   "primary_completion": "2027-10-20",
    "first_posted": "2022-12-12",
-   "last_update": "2026-10-26",
+   "last_update": "2026-11-23",
    "enrollment": 420,
    "first_seen": null,
-   "changed": null,
-   "events": [],
+   "changed": "2026-11-23T13:54:36Z",
+   "events": [
+    {
+     "date": "2026-11-23T13:54:36Z",
+     "type": "primary_completion",
+     "text": "Primary completion: 2026-11-13 → 2027-10-20"
+    }
+   ],
    "assets": [
     "Inavolisib"
    ],
@@ -3838,7 +3856,7 @@
    "start": "2025-09-30",
    "primary_completion": "2027-09",
    "first_posted": "2025-04-11",
-   "last_update": "2026-09-21",
+   "last_update": "2026-11-23",
    "enrollment": 50,
    "first_seen": null,
    "changed": null,
@@ -4804,7 +4822,7 @@
    "start": "2023-08-18",
    "primary_completion": "2023-10-11",
    "first_posted": "2023-08-22",
-   "last_update": "2024-01-16",
+   "last_update": "2026-11-23",
    "enrollment": 12,
    "first_seen": null,
    "changed": null,
@@ -6506,6 +6524,36 @@
    "events": [],
    "assets": [
     "BG-75202"
+   ],
+   "listed": true
+  },
+  "NCT07954674": {
+   "nct": "NCT07954674",
+   "title": "A Study of Tersolisib (LY4064809) in Participants With Liver Impairment Compared With Participants With Normal Liver Impairment.",
+   "acronym": "",
+   "status": "Not yet recruiting",
+   "phase": "Ph1",
+   "sponsor": "Scorpion Therapeutics, a wholly owned subsidiary of Eli Lilly and Company",
+   "conditions": [
+    "Hepatic Insufficiency",
+    "Healthy Volunteers"
+   ],
+   "start": "2026-11",
+   "primary_completion": "2028-02",
+   "first_posted": "2026-11-23",
+   "last_update": "2026-11-23",
+   "enrollment": 46,
+   "first_seen": "2026-11-23T13:54:36Z",
+   "changed": "2026-11-23T13:54:36Z",
+   "events": [
+    {
+     "date": "2026-11-23T13:54:36Z",
+     "type": "new",
+     "text": "New trial listed"
+    }
+   ],
+   "assets": [
+    "Tersolisib"
    ],
    "listed": true
   }
