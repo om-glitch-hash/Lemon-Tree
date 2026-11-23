@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:16:04Z",
+ "updated": "2026-11-23T23:16:56Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -611,6 +611,17 @@
    "first_seen": "2026-11-23T22:16:04Z"
   },
   {
+   "id": "717f712c34e269e8",
+   "company": "Roche",
+   "title": "US FDA approves Roche’s breast cancer pill for early-stage patients - 101 WIXX",
+   "summary": "US FDA approves Roche’s breast cancer pill for early-stage patients 101 WIXX",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTlNMHhfS1dTV1l1b0dBb2FkX1dDUXhsVTN3LXQtWW1zcTlHcEdPeVRnOVh6U2NpZ2wwSHkxdEdNc1EtSUJCSDVhTHZ2ejNUZFBNVFItejUzU3ZZRUxPeHZjX0FPYmpZSTVscm8wdFFKN1lQTk9pdUc2SzhVMjRBT1QtRXdnT29CV3dnRDRJTms1bXdqaHU0Nkp3?oc=5",
+   "published": "2026-11-23T20:10:25Z",
+   "outlet": "101 WIXX",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T23:16:56Z"
+  },
+  {
    "id": "f218eb0f5f8e482b",
    "company": "Roche",
    "title": "Roche's breast cancer pill wins U.S. approval for use after surgery - Quartz",
@@ -631,17 +642,6 @@
    "outlet": "FirstWord Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T19:25:06Z"
-  },
-  {
-   "id": "fcdd5d85be248d01",
-   "company": "Roche",
-   "title": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use - Bloomberg.com",
-   "summary": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVFyMXlhQ1p6d05PTGY3a1pfSG1DQk0wRldacmdKZTAxXzB2a3gzV1lRN19sUGlxTkVpWkR2UjY3OHM2SzBwRUlTSVRxaHhGdFhMYnZaVEJ2UGloUnlzRmprZkg4b0dDenpnUGtleER6amhJeFNwY3dPanloczlUWWhEdDAtWnBYM2lzLUpMcWJCc2dTOTF2eWlENkVIMWFOQWhwT1VqS3dScGdObXNWdkFfbVJiUQ?oc=5",
-   "published": "2026-11-23T18:10:33Z",
-   "outlet": "Bloomberg.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-23T18:14:33Z"
   },
   {
    "id": "b1638064a7db9c3d",
@@ -697,6 +697,17 @@
    "outlet": "WSAU",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T17:12:46Z"
+  },
+  {
+   "id": "fcdd5d85be248d01",
+   "company": "Roche",
+   "title": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use - Bloomberg.com",
+   "summary": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkU1N3FIY2Ewa1ExNHlDTkJ3bklEQlRka1dVU2VZVDQwZ1EtYml0UEpuV0JwYzVHaU5jZG9tRmV6bDFYWVI0NEJTUG9hVzB6SEZhaHEyWjF3VWw3cEFRY1Mzek1PZm5qNENKY3VSaElpYnRTOVNBRjRlM1B2R0pWb185RE1mS01qQ3Fuazd3QlNkWEtiWTVnZ3piY1RrMTlkTEdraTl0TkF3X0VqSEJ4SHFFcmVtWS1IRWVqT1RybjZaUlFhckk4UVBtVEtOcnI3Wmh1ag?oc=5",
+   "published": "2026-11-23T17:03:48Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T18:14:33Z"
   },
   {
    "id": "8aba16cb3267e903",
@@ -765,15 +776,15 @@
    "first_seen": "2026-11-23T13:54:36Z"
   },
   {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
-   "published": "2026-11-22T18:13:15Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
+   "id": "c827d9dda8d48e84",
+   "company": "Roche",
+   "title": "Roche Holding AG (ROP.SW) stock price, news, quote and history - Yahoo Finance Singapore",
+   "summary": "Roche Holding AG (ROP.SW) stock price, news, quote and history Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGMkZ6TWxvWFJVaDFrUmlvZjFKaGl0VGQxbEZhWU84LWtBMzRnMHhnalhRcWJnaDg1QUl3a3dtekMyWFhpdV9tanZQZ2YteURzcEZ6Vw?oc=5",
+   "published": "2026-11-21T18:47:59Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T23:16:56Z"
   },
   {
    "id": "e420e361e8314877",
@@ -1293,6 +1304,17 @@
    "first_seen": "2026-11-22T18:16:12Z"
   },
   {
+   "id": "20b6a3c20ccabac3",
+   "company": "Roche",
+   "title": "US FDA approves Roche’s oral treatment for advanced breast cancer - Y100 WNCY",
+   "summary": "US FDA approves Roche’s oral treatment for advanced breast cancer Y100 WNCY",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcll5MGlvdDBoUGp5Y0xXeDVfb0JlMXdicjdLMHlja2RFdEVCQ1d4TWd0Vm9rc0pReDlzeWhVWWxvSUhfdF93UzlaOWt6RUUzWG5nempkXzlTUHJZRmZpRlNBNUczbTJWM1hqSGVqSl9DVVhiQzdsblhWRmxUY0NsVUZ3THJDZEZTWUx6a0NxQnQ1aE5BcDBuWg?oc=5",
+   "published": "2026-11-16T22:28:32Z",
+   "outlet": "Y100 WNCY",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T23:16:56Z"
+  },
+  {
    "id": "fc82ac78340bab0f",
    "company": "Roche",
    "title": "FDA approves Roche's breast cancer pill giredestrant, sold as Wilserdly, for tumors with ESR1 mutations - MLQ.ai",
@@ -1502,17 +1524,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -1522,6 +1533,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -3273,6 +3295,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "34f2736ff36d09a3",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
+   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9YSkJaQk12QU5IWHAzdGhwaG9zYUxSbk9YYmE5ZWdRc2hvTDdyYy1HYzRoMnNsdXB0cmRaQV9wSkYtTWZDV2VYVndqRmUxM3hRV1dWU3N0WjktNzAySk5rc0QyUzRKMGMydVE3Qm4wNHBzbHQ4Q2VyaTBrbk5qa19FZmZxcDJsTlVSM1pzZFROdU9pdTRWa0VVSEd0V00zRmdpLWtfU211U1pSU25qdEZYS0I?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "48636b0536817bec",
    "company": "Roche",
    "title": "Roche’s Investor Event at ASCO 2026 - Roche",
@@ -3293,17 +3326,6 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": "2026-11-21T18:15:32Z"
-  },
-  {
-   "id": "34f2736ff36d09a3",
-   "company": "Roche",
-   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
-   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl84S3ZOSzZFUUdIcGNLR05DRXVZa3NkVTYwU0lkRUVURDluaWY0dW9vdHRrdExQZW81bjR3VVJpQ2N2MUJ4ZTlFbFNzUXN4UWd4LVVmUzRGTHJwVEJRWG12bnEyWnFRbE9hS3FYYkhmN3hyZTRiS2RRRTdIV0RJQ21xZWhvci1nRnVnMGVaWVhXT3J5aHVyR1dQZWNVQkYwVFQ1UWJsYzVHMUhndEUzOWl3?oc=5",
-   "published": "2026-06-02T07:00:00Z",
-   "outlet": "The Clinical Trial Vanguard",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "99cbb96e7682485a",
@@ -4797,6 +4819,17 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
