@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:12:46Z",
+ "updated": "2026-11-23T18:14:33Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,39 @@
  ],
  "items": [
   {
+   "id": "b1638064a7db9c3d",
+   "company": "Roche",
+   "title": "Roche’s Wilserdly Nets Second FDA Approval in Adjuvant Breast Cancer - GenomeWeb",
+   "summary": "Roche’s Wilserdly Nets Second FDA Approval in Adjuvant Breast Cancer GenomeWeb",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUVxLUpDWmhKVlRYRG9OX05XcHQwWHBBTWhtN205aVZIdnFaQkNpLVlzZFRxQlVMaGJ4UldQZFZ4ZGNkSFhkVnpsWGlvdWE2Y2tUdjlLRlRDRmFEYzRoT294QXpPZ1lidlMzc3ZvakhST1ZCS3lMZWlTalc0dWt3aXdaNlZyR19RdEFwZWk0dVZTVmFUMjVJOWRVSHF6d2FhOGFjYzRNdGVOVElRMjlnM3BjUDZBVU0tN2lIRnBB?oc=5",
+   "published": "2026-11-23T17:59:00Z",
+   "outlet": "GenomeWeb",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T18:14:33Z"
+  },
+  {
+   "id": "a1c1c7022c0bee67",
+   "company": "Roche",
+   "title": "US FDA approves Roche breast cancer pill for early-stage patients - KFGO",
+   "summary": "US FDA approves Roche breast cancer pill for early-stage patients KFGO",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWMtNVVOX3ZRN05GNy1jNzFRS3lXaC1XbGhwX0dMUWc1dXJ6cjdmOHIxdGZwRENLdzFiWUNHM29hS0pRNThkSnZOTW1fallaX1dsbjFPN2ZGWXZ4VEdLLUhQUldSc29lVEd6RUlFMktnaTlRWGZrMWZab25kTkd4dTRlMTlqWXZGQUswOHUzTWhfTzJfX1V0eDRn?oc=5",
+   "published": "2026-11-23T17:26:15Z",
+   "outlet": "KFGO",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T18:14:33Z"
+  },
+  {
+   "id": "cf98e2c2db70922f",
+   "company": "Roche",
+   "title": "Roche opens key early-stage breast cancer market for oral SERDs with Wilserdly FDA nod - Fierce Pharma",
+   "summary": "Roche opens key early-stage breast cancer market for oral SERDs with Wilserdly FDA nod Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2RrQzBCa2lVTThuaV9GbHpCNnFpT0RxUlZwODBTbmJLU3o1X3pNSWdnWTdnc1NhRTdMblFLMHZEdVFLSkFOZmpnZjNKVEY5QXhkNVB1NVhWeGRoaEFUcFlPLXdyeVU0RUNjWGd3TGRkeG9LT1JWSzhETXFMSjhGbFVIRFNxWW1ZaVd4eF9fYmVtNkVxbVdEUFdKeENqTXQ0anJkYlNWYUc1dV9WUnYweGRnOA?oc=5",
+   "published": "2026-11-23T17:25:13Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T18:14:33Z"
+  },
+  {
    "id": "fdb2689d5e2226c8",
    "company": "Roche",
    "title": "US FDA approves Roche breast cancer pill for early-stage patients - WSAU",
@@ -600,6 +633,17 @@
    "first_seen": "2026-11-23T17:12:46Z"
   },
   {
+   "id": "fcdd5d85be248d01",
+   "company": "Roche",
+   "title": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use - Bloomberg.com",
+   "summary": "Roche’s Wilserdly Breast Cancer Pill Wins Approval for Broad Use Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVFyMXlhQ1p6d05PTGY3a1pfSG1DQk0wRldacmdKZTAxXzB2a3gzV1lRN19sUGlxTkVpWkR2UjY3OHM2SzBwRUlTSVRxaHhGdFhMYnZaVEJ2UGloUnlzRmprZkg4b0dDenpnUGtleER6amhJeFNwY3dPanloczlUWWhEdDAtWnBYM2lzLUpMcWJCc2dTOTF2eWlENkVIMWFOQWhwT1VqS3dScGdObXNWdkFfbVJiUQ?oc=5",
+   "published": "2026-11-23T17:03:48Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T18:14:33Z"
+  },
+  {
    "id": "8aba16cb3267e903",
    "company": "Roche",
    "title": "FDA approves Roche’s Wilserdly (giredestrant) for early-stage ER-positive breast cancer, making it the first new endocrine therapy in this setting in over 20 years - www.marketscreener.com",
@@ -609,6 +653,17 @@
    "outlet": "www.marketscreener.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T17:12:46Z"
+  },
+  {
+   "id": "bcabc0ef885a86f2",
+   "company": "Roche",
+   "title": "FDA approves Roche’s Wilserdly (giredestrant) for early-stage ER-positive breast cancer, making it the first new endocrine therapy in this setting in over 20 years - Yahoo Finance",
+   "summary": "FDA approves Roche’s Wilserdly (giredestrant) for early-stage ER-positive breast cancer, making it the first new endocrine therapy in this setting in over 20 years Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBMOW5XbnVaVGF5SktJS1BKaElvMHg4RGRwTzRCREtfQTUwM2lfWXhzZnA2X19mUVFmSklISzlmVEdNTnE5X0gtOU53cDRjZkdHMXVVZ2ZpaGZRcWM4alJJVEpSRUtYVml2VFBEeElKNUZvaC1ZVGhqeXJ0aUR4TUxCOTVsOGwxM0FzN1ZjY0Zoa1lDc3ZoR3Bkc1UzRHBRbXJlbg?oc=5",
+   "published": "2026-11-23T17:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T18:14:33Z"
   },
   {
    "id": "6ddec7a5c10e5ff3",
