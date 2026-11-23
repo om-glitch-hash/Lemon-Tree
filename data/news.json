@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:54:36Z",
+ "updated": "2026-11-23T14:58:04Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1936,7 +1936,7 @@
    "title": "AstraZeneca’s Etcamah Misses Primary Endpoint in Phase III SERENA-4 Trial - Yahoo Finance UK",
    "summary": "AstraZeneca’s Etcamah Misses Primary Endpoint in Phase III SERENA-4 Trial Yahoo Finance UK",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXZuTlJUUFdrR240ckk5RmxjbmR3WHlIb0gyNUlZVFJ5NzAxX1N6TnVPLWI3dWNhMF9rUWxsOTFxNXBJY25XZDJMUklWc1dmNnNpUnFtZWNib255RFFKbVlJQUpmZWNkWVZPSkI0aHpzWEFWMUxFRFYwU291UE1mYXNZYWlmNDNRa1R5QWVuTDFyMGROWTRN?oc=5",
-   "published": "2026-09-13T07:00:00Z",
+   "published": "2026-09-14T07:00:00Z",
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T09:40:28Z"
@@ -2545,6 +2545,17 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-20T06:48:31Z"
+  },
+  {
+   "id": "2793ef02c3b2e792",
+   "company": "Eli Lilly",
+   "title": "Can Inluriyo™ (imlunestrant) be taken with or without food?undefined - Eli Lilly",
+   "summary": "Can Inluriyo™ (imlunestrant) be taken with or without food?undefined Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU03TThuTmFxWWdLR2ZQT0JVODZFT2VWbXI3Sk9zSWpIQ21XWmxNUUsydlB5UHBld243dC1ybGwtWFQ3c1hlQzlJaHN4QkNQNVFWNGJfMjVQekpLeXJnQUVLQWJwS3dkOXRGeXJyRTIydUlZNVQzYzhEcjVkRUt6RldIS184amtMc2tCQ1haNkQyRkZGYmM5MVlxMjBSS21ucEJETjNxeEN2OHFC?oc=5",
+   "published": "2026-08-07T04:29:26Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T14:58:04Z"
   },
   {
    "id": "96fd690930657cc8",
