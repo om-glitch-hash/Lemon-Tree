@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:06:36Z",
+ "updated": "2026-11-23T17:12:46Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -588,6 +588,39 @@
   }
  ],
  "items": [
+  {
+   "id": "fdb2689d5e2226c8",
+   "company": "Roche",
+   "title": "US FDA approves Roche breast cancer pill for early-stage patients - WSAU",
+   "summary": "US FDA approves Roche breast cancer pill for early-stage patients WSAU",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSTZKSU0wZzRqdXRqTlpHelpTVEtaWElDN001SmJyUFRKbHo1aVJZMHFRbmR0UWNDQUpLNEFPQkpkSUpxUjZBeUFWUlZYVlo5cW92QjNaaFd5MHVsa3ZLWFpDR2VRVTd1WmhRUFg0SFN6d0REWEFzdDNWaUhqX0dVU3ZzdW4ydEctY21VU3RGVTBlVTAwWHoxQ21n?oc=5",
+   "published": "2026-11-23T17:09:10Z",
+   "outlet": "WSAU",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T17:12:46Z"
+  },
+  {
+   "id": "8aba16cb3267e903",
+   "company": "Roche",
+   "title": "FDA approves Roche’s Wilserdly (giredestrant) for early-stage ER-positive breast cancer, making it the first new endocrine therapy in this setting in over 20 years - www.marketscreener.com",
+   "summary": "FDA approves Roche’s Wilserdly (giredestrant) for early-stage ER-positive breast cancer, making it the first new endocrine therapy in this setting in over 20 years www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaEdxNzRBdkx0VExaT0xtekRxQUY3MUpEOVUtUVV0SnlHNkNad2JSQk50dVNvQUlLNHJraER3ZFVHc3RPY1R0RkcxenB5X01TN05RcWNMUjhPZU1IdGlFZlhjWlVQbXlfQlNZRGtyVldSX2pITm8wd2VrNzVZMHRFb25ZeXJDLUM0Q2JGNGcyUWR2TW1mSlZBemdoQXFMWmpTTVduclV1RUh2UEdVWnpyNzk0UklGbmcxRDNsX1hDbmdDQkNpM1hGZXh4MG9lcjEzSUdGR2xhZ1AxTXdMdkRYTk8tSQ?oc=5",
+   "published": "2026-11-23T17:00:04Z",
+   "outlet": "www.marketscreener.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T17:12:46Z"
+  },
+  {
+   "id": "6ddec7a5c10e5ff3",
+   "company": "Genentech (Roche US)",
+   "title": "FDA Approves Genentech’s WILSERDLY (giredestrant) for Early-Stage ER-Positive Breast Cancer, Making it the First New Endocrine Therapy in This Setting in Over 20 Years",
+   "summary": "",
+   "link": "https://www.gene.com/media/press-releases/15145/2026-11-23/fda-approves-genentechs-wilserdly-girede",
+   "published": "2026-11-23T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": "2026-11-23T17:12:46Z"
+  },
   {
    "id": "4d0ea200d6cc2838",
    "company": "Roche",
@@ -3097,17 +3130,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "34f2736ff36d09a3",
-   "company": "Roche",
-   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
-   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9YSkJaQk12QU5IWHAzdGhwaG9zYUxSbk9YYmE5ZWdRc2hvTDdyYy1HYzRoMnNsdXB0cmRaQV9wSkYtTWZDV2VYVndqRmUxM3hRV1dWU3N0WjktNzAySk5rc0QyUzRKMGMydVE3Qm4wNHBzbHQ4Q2VyaTBrbk5qa19FZmZxcDJsTlVSM1pzZFROdU9pdTRWa0VVSEd0V00zRmdpLWtfU211U1pSU25qdEZYS0I?oc=5",
-   "published": "2026-06-03T07:00:00Z",
-   "outlet": "The Clinical Trial Vanguard",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "48636b0536817bec",
    "company": "Roche",
    "title": "Roche’s Investor Event at ASCO 2026 - Roche",
@@ -3128,6 +3150,17 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": "2026-11-21T18:15:32Z"
+  },
+  {
+   "id": "34f2736ff36d09a3",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
+   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl84S3ZOSzZFUUdIcGNLR05DRXVZa3NkVTYwU0lkRUVURDluaWY0dW9vdHRrdExQZW81bjR3VVJpQ2N2MUJ4ZTlFbFNzUXN4UWd4LVVmUzRGTHJwVEJRWG12bnEyWnFRbE9hS3FYYkhmN3hyZTRiS2RRRTdIV0RJQ21xZWhvci1nRnVnMGVaWVhXT3J5aHVyR1dQZWNVQkYwVFQ1UWJsYzVHMUhndEUzOWl3?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "99cbb96e7682485a",
