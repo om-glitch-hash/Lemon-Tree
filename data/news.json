@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:58:04Z",
+ "updated": "2026-11-23T16:06:36Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1194,6 +1194,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "2d13e4202e70d52b",
+   "company": "Roche",
+   "title": "Roche: FDA lässt Giredestrant bei Brustkrebs mit ESR1-Mutation zu - TradingView",
+   "summary": "Roche: FDA lässt Giredestrant bei Brustkrebs mit ESR1-Mutation zu TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yZU0wVUU3Z0JEZFhBeFRtSUNhaXJEeU90QW9MZTdxZFp1YmdHN3kwRUpFMFVkMFV0TFZzdnRzSUlXWDRNX0VCMWZZTUY5OXE1MXJ4M1IzYlg0SUp6bGZtLTI1bw?oc=5",
+   "published": "2026-11-16T20:46:15Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T16:06:36Z"
+  },
+  {
    "id": "faa44b48abc206e5",
    "company": "Roche",
    "title": "FDA Approves Roche's Giredestrant Combo For ESR1-Mutated Advanced Breast Cancer - TradingView",
@@ -1225,6 +1236,17 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "a10edf8e2a059747",
+   "company": "Roche",
+   "title": "US FDA approves Roche’s oral treatment for advanced breast cancer - KWSN",
+   "summary": "US FDA approves Roche’s oral treatment for advanced breast cancer KWSN",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTdqQVJaSjN5RkNJSUtjOGpCZnN4X3ZQNDRwZ09GYnFaMlJQSkxacFBYU1dzSENDS2EyY19kSVdLWXA3YUtkSnF1eVAyWktFV19tcDQzd1pUd1dMN0dSaU1kalJHX2I2WUJiZFU5ZE1OWWo2b05vQTNTMmk1aDdrOXhtdnJmU2FlOEZGSWhNMnZpcEFxU0dQRQ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "KWSN",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T16:06:36Z"
   },
   {
    "id": "af395a21e0eceab2",
@@ -1478,6 +1500,17 @@
    "outlet": "Endpoints News",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "1a3f9b2ad281af2a",
+   "company": "Celcuity",
+   "title": "Celcuity Presents Updated Results from the PIK3CA MT Cohort of the Phase 3 VIKTORIA-1 Study in Patients with HR+/HER2- Advanced - Celcuity",
+   "summary": "Celcuity Presents Updated Results from the PIK3CA MT Cohort of the Phase 3 VIKTORIA-1 Study in Patients with HR+/HER2- Advanced Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dWZyTjB6dEZxdmR0bk4ybzBuY1A2XzNnMlV2SDE5RmEwQm8wdVFmQkhrRDZ1M1U2SXVDSFhSOVhQWE9Kd1JjbXFIQkxtYnM?oc=5",
+   "published": "2026-10-24T17:41:09Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T16:06:36Z"
   },
   {
    "id": "26b257f74fe89cc7",
@@ -1753,6 +1786,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T22:26:09Z"
+  },
+  {
+   "id": "66ff27316357b8c6",
+   "company": "Roche",
+   "title": "Genentech’s Giredestrant Combination Significantly Improved Progression-Free Survival in ER-positive Advanced Breast Cancer in Phase III evERA Data Published in The New England Journal of Medicine - Yahoo Finance",
+   "summary": "Genentech’s Giredestrant Combination Significantly Improved Progression-Free Survival in ER-positive Advanced Breast Cancer in Phase III evERA Data Published in The New England Journal of Medicine Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODc5WTBXTEwyYWtuRG1rQ0tDeEU2bVFRQnBMaXM1VDlNM1BqVDFfX1V0Vk1CRks5b0FlSXdLdHFfRk1Xa0lLTXdmbE5Ea0N3OWFrQ3k5enVoYTFTOHNpSTNpYjRrQWE2TGVKUWFsT2ZVd1ZPaVNwaUM4UnhsazFUMmZoaEZ5NkVGZzFrVmlwWVVOS0JQNy1wTWFJcEtNY3J1dm0yMFU0bWdxZklrWWwxNk5pLWVOYXNuaHc?oc=5",
+   "published": "2026-09-30T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T16:06:36Z"
   },
   {
    "id": "c6adcb881e157e44",
@@ -3053,6 +3097,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "34f2736ff36d09a3",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
+   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9YSkJaQk12QU5IWHAzdGhwaG9zYUxSbk9YYmE5ZWdRc2hvTDdyYy1HYzRoMnNsdXB0cmRaQV9wSkYtTWZDV2VYVndqRmUxM3hRV1dWU3N0WjktNzAySk5rc0QyUzRKMGMydVE3Qm4wNHBzbHQ4Q2VyaTBrbk5qa19FZmZxcDJsTlVSM1pzZFROdU9pdTRWa0VVSEd0V00zRmdpLWtfU211U1pSU25qdEZYS0I?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "48636b0536817bec",
    "company": "Roche",
    "title": "Roche’s Investor Event at ASCO 2026 - Roche",
@@ -3073,17 +3128,6 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": "2026-11-21T18:15:32Z"
-  },
-  {
-   "id": "34f2736ff36d09a3",
-   "company": "Roche",
-   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
-   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl84S3ZOSzZFUUdIcGNLR05DRXVZa3NkVTYwU0lkRUVURDluaWY0dW9vdHRrdExQZW81bjR3VVJpQ2N2MUJ4ZTlFbFNzUXN4UWd4LVVmUzRGTHJwVEJRWG12bnEyWnFRbE9hS3FYYkhmN3hyZTRiS2RRRTdIV0RJQ21xZWhvci1nRnVnMGVaWVhXT3J5aHVyR1dQZWNVQkYwVFQ1UWJsYzVHMUhndEUzOWl3?oc=5",
-   "published": "2026-06-02T07:00:00Z",
-   "outlet": "The Clinical Trial Vanguard",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "99cbb96e7682485a",
