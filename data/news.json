@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:10:05Z",
+ "updated": "2026-11-24T01:30:13Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -622,6 +622,17 @@
    "first_seen": "2026-11-23T23:16:56Z"
   },
   {
+   "id": "f93a04c9210241a6",
+   "company": "Roche",
+   "title": "Roche takes Wilserdly into early breast cancer with second FDA nod in a week - FirstWord Pharma",
+   "summary": "Roche takes Wilserdly into early breast cancer with second FDA nod in a week FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04SWZsM2dqaWdSOEhGX3Ixa0hwWTVucTM3ZmxaRVFDZC1WQWNETjZnZm0wNmZmRDBfdzVOQi1GYmhVaEJDRVJTdkhORy1Ub3lBU0g0?oc=5",
+   "published": "2026-11-23T18:52:58Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T19:25:06Z"
+  },
+  {
    "id": "f218eb0f5f8e482b",
    "company": "Roche",
    "title": "Roche's breast cancer pill wins U.S. approval for use after surgery - Quartz",
@@ -629,17 +640,6 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94bVQtQXVIanZGV2lLMzJXSE5GU0lMcVA5VW9xWGRiazZvdkhuLWxzYmRGQVFIWHpTLWlOWlVYaU1ocmRTb1lwaW8ycDBnQWJhMGxBb19heUs1RGcyN3lDMHZhSG15QzdUYVlYOUd2TWRjZw?oc=5",
    "published": "2026-11-23T18:41:55Z",
    "outlet": "Quartz",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-23T19:25:06Z"
-  },
-  {
-   "id": "f93a04c9210241a6",
-   "company": "Roche",
-   "title": "Roche takes Wilserdly into early breast cancer with second FDA nod in a week - FirstWord Pharma",
-   "summary": "Roche takes Wilserdly into early breast cancer with second FDA nod in a week FirstWord Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04SWZsM2dqaWdSOEhGX3Ixa0hwWTVucTM3ZmxaRVFDZC1WQWNETjZnZm0wNmZmRDBfdzVOQi1GYmhVaEJDRVJTdkhORy1Ub3lBU0g0?oc=5",
-   "published": "2026-11-23T18:28:48Z",
-   "outlet": "FirstWord Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T19:25:06Z"
   },
@@ -754,6 +754,17 @@
    "first_seen": "2026-11-23T08:57:24Z"
   },
   {
+   "id": "1c65a41e2f2175fa",
+   "company": "Eli Lilly",
+   "title": "Is Inluriyo® (imlunestrant) FDA approved? - Eli Lilly",
+   "summary": "Is Inluriyo® (imlunestrant) FDA approved? Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXNYc2tZeWJYTEZqSmY4YnlfaXA0eE1JV2pwMjBIMlFUeXVzaTV5ZXhsVTlSdnZubEMtUFNxY3RzelR6LVNPZlRZYmVQa0lPVlQtckVrZ1JyTjdndHFIcVZheWlneTA3dkVGTEZiVzdWcW1PQ2lmTDg5OHc1cUVBT05kTDFBUFFkaHNIbGQtWDZZLUM0SGdSaFotcFlwNkE?oc=5",
+   "published": "2026-11-23T05:01:51Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-22T07:57:08Z"
+  },
+  {
    "id": "82cffcffb598ff86",
    "company": "Eli Lilly",
    "title": "Can Inluriyo™ (imlunestrant) be taken with or without food? - Eli Lilly",
@@ -763,17 +774,6 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T13:54:36Z"
-  },
-  {
-   "id": "1c65a41e2f2175fa",
-   "company": "Eli Lilly",
-   "title": "Is Inluriyo® (imlunestrant) FDA approved? - Eli Lilly",
-   "summary": "Is Inluriyo® (imlunestrant) FDA approved? Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXNYc2tZeWJYTEZqSmY4YnlfaXA0eE1JV2pwMjBIMlFUeXVzaTV5ZXhsVTlSdnZubEMtUFNxY3RzelR6LVNPZlRZYmVQa0lPVlQtckVrZ1JyTjdndHFIcVZheWlneTA3dkVGTEZiVzdWcW1PQ2lmTDg5OHc1cUVBT05kTDFBUFFkaHNIbGQtWDZZLUM0SGdSaFotcFlwNkE?oc=5",
-   "published": "2026-11-21T22:10:25Z",
-   "outlet": "Eli Lilly",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-22T07:57:08Z"
   },
   {
    "id": "c827d9dda8d48e84",
@@ -1258,6 +1258,17 @@
    "outlet": "FirstWord Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "d46299f861b39221",
+   "company": "Roche",
+   "title": "US FDA approves Roche’s oral treatment for advanced breast cancer - KFGO",
+   "summary": "US FDA approves Roche’s oral treatment for advanced breast cancer KFGO",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORkQxV1JHX1hwYXhhSWwycXBMYWxjNjV0WHhUN3VUS1lKcHhHWU1xdTR5VzRIdThULVNBbmpkNmZqcG1UenczR3F3RUdCVUdTVjNXTWxNWlVCTmxzRFZBUkFnVjFIeVZxd1daMkNuRzJrMUxLcFFOQXBEUHVBM0ZLRTR0M2syNVY0V3hYOFFjNlUxRnhsTU1WeA?oc=5",
+   "published": "2026-11-16T23:51:57Z",
+   "outlet": "KFGO",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T01:30:13Z"
   },
   {
    "id": "1474f35cc4c5a5db",
