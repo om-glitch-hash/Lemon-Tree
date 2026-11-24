@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:26:32Z",
+ "updated": "2026-11-24T21:28:15Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1887,17 +1887,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "17a17077d00cea5c",
-   "company": "Roche",
-   "title": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer - Yahoo Finance",
-   "summary": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVBFUVdQQWdiWVFiZEs0cWdrdXhTUC1WMC1HSjAxb3FvY2hfZTVFLTZ6VE42NWlEUEVpai1TekFHOHRoVmJqTlV4cS1lVVpJbHhRWVJQSTNBNUkzSVd3N3FqYTJPaXQyMzJ5VVVRY2xjWmpQbmJPN1owYjFINW81eHNYTHlGQ1JhVnN3NmUwd29XSVFDSGt0NXc1WDN1YlJuT01LeA?oc=5",
-   "published": "2026-11-16T22:15:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-22T22:26:09Z"
-  },
-  {
    "id": "00c98b044c9ecb42",
    "company": "Roche",
    "title": "FDA clears Roche's Wilserdly, a daily pill for advanced breast cancer - Briefs Finance",
@@ -1962,6 +1951,17 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "17a17077d00cea5c",
+   "company": "Roche",
+   "title": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer - Yahoo Finance",
+   "summary": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVBFUVdQQWdiWVFiZEs0cWdrdXhTUC1WMC1HSjAxb3FvY2hfZTVFLTZ6VE42NWlEUEVpai1TekFHOHRoVmJqTlV4cS1lVVpJbHhRWVJQSTNBNUkzSVd3N3FqYTJPaXQyMzJ5VVVRY2xjWmpQbmJPN1owYjFINW81eHNYTHlGQ1JhVnN3NmUwd29XSVFDSGt0NXc1WDN1YlJuT01LeA?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T22:26:09Z"
   },
   {
    "id": "979ebc01828d49cb",
@@ -4443,7 +4443,7 @@
    "company": "Arvinas",
    "title": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer - Arvinas",
    "summary": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVctVHpsMEotc1AtNFhFNE0wR3hpRk5DdFZKWHFRR2JoYU1KNmxvLW92UFh5cnNycGt0Z0VDR0lDNFA5Tk5DbUNEZEV5dzhnY01Mb1ZaZktKUUZtSXpab3FJQzBMQmRidDhRVzQtQ0sxVlA0ODQ4SFJDTS1va285Tl9Zc1k2ek1CVm5xekpsWlRvOXVzcXRCenJEZzMzUlFSTDFiVEV2Z2k3N0JfN1lmVDJFQ3k1RW5XX2tzTmlR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnd3FtRi15RFYzUXljUmNNRWJPTUJtam5lNjNobjRFTUpxOUUzaWM2bjZYSzJ1cThQSG1BSjIwSjRCX21HQXMxaUh0azd0UQ?oc=5",
    "published": "2026-05-01T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5532,7 +5532,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
