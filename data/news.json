@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:43:38Z",
+ "updated": "2026-11-24T14:04:31Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,39 @@
  ],
  "items": [
   {
+   "id": "76c906b45dbf58df",
+   "company": "Roche",
+   "title": "Roche (RHHBF) Gains FDA Nod for Wilserdly Breast Cancer Therapy, Strengthening Dividend Appeal - GuruFocus",
+   "summary": "Roche (RHHBF) Gains FDA Nod for Wilserdly Breast Cancer Therapy, Strengthening Dividend Appeal GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONzdOSDdUZW8tdnE1TWJ2d2dac1MxdWwtT3RDaWlXQXFwWDhieUs4bVRKZ3hsTVVGQlpRYkhrV2tHdHJmUGkycEZzR1cwcWI4X3p1UTRPYUV3LXpTeWp0WDNTVFlKZGlnTGZBWk9PSVFUYXBoWlFuUDR2T29jN2VseFJ4a2dwMnA4Z2NqR1pkNFNXU3RDcEVySzlKcEt5U0E0NTZacFluN0hTbUJDMExXUFhfZWJqZHp6VVA4LWxxNllDRE0xc1VVRGdR?oc=5",
+   "published": "2026-11-24T13:15:18Z",
+   "outlet": "GuruFocus",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T14:04:31Z"
+  },
+  {
+   "id": "3686d80079a63643",
+   "company": "Rigel Pharmaceuticals (Veppanu commercial rights)",
+   "title": "Rigel to Present New Data for VEPPANU™ (vepdegestrant) in Patients with ER+/HER2-, ESR1-Mutated Advanced or Metastatic Breast Cancer at SABCS 2026",
+   "summary": "",
+   "link": "https://www.rigel.com/investors/news-events/press-releases/detail/453/rigel-to-present-new-data-for-veppanu-vepdegestrant-in",
+   "published": "2026-11-24T13:05:00Z",
+   "outlet": "",
+   "method": "newsroom rss (configured)",
+   "first_seen": "2026-11-24T14:04:31Z"
+  },
+  {
+   "id": "0fa428cc68b6650a",
+   "company": "Roche",
+   "title": "Roche Sees Blockbuster Potential in Wilserdly Breast Cancer Pill - TipRanks",
+   "summary": "Roche Sees Blockbuster Potential in Wilserdly Breast Cancer Pill TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2xzaGxDNkVwX1BZWGJXQXFMZHJkWUhYb010b3pBMk5ERlhiYVNlTUxBaHBURjFKa283UkNwZkRBT2pmRFlvUURac2NFOHJjeC1FRFBNckNEVURUZVh3c0F1Sy1CR3ltVm1VMTUteTBIWUE3MjlhcUpBdWFuRkNMX2llRzdtclBZYVpPaXFpMS04NnBVcFF2d09n?oc=5",
+   "published": "2026-11-24T13:01:25Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T14:04:31Z"
+  },
+  {
    "id": "82d1037f6c7db537",
    "company": "Roche",
    "title": "Roche wins US approval for Wilserdly in early breast cancer - The Pharma Letter",
@@ -743,17 +776,6 @@
    "first_seen": "2026-11-24T02:36:47Z"
   },
   {
-   "id": "34656d9d40642dd7",
-   "company": "Olema Oncology",
-   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
-   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01Mk9JU1JoWnIyMk91RWU5RE44R1p0SmJFMldqX2FrNVNjUEY5MTJxRnoxQXJzS0ZMS1Q5T3dwYzZqcFRyaUM5ejdfQ1VwbGg4UzN4eHBsdU9lZUJFRG1iN1Y3Q1IyZmtVbVAzRkhaeUVpS3pqdHc?oc=5",
-   "published": "2026-11-23T22:15:15Z",
-   "outlet": "Olema Oncology",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:25:38Z"
-  },
-  {
    "id": "3672bd4bff807c2d",
    "company": "Roche",
    "title": "Roche's Wilserdly FDA Broad Approval Boosts Outlook - Briefs Finance",
@@ -884,6 +906,17 @@
    "outlet": "Quartz",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T19:25:06Z"
+  },
+  {
+   "id": "5c456b99c975a1e5",
+   "company": "Roche",
+   "title": "US FDA approves Roche's breast cancer pill for early-stage patients - Reuters",
+   "summary": "US FDA approves Roche's breast cancer pill for early-stage patients Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM09SZWl3cUxkSzVnd2xIWTJQS2w2aG9ka2I0bzNhcEVsNEtyYi1IMUJUd1lYSTRTcHc4b0J0ZmlnUEVZUWJibVYzaDIwMjFXQWNBbDU1OFRnUWZwSXJyNGt0UGNaLVhnVTd3S2kzRG5kQmQweDhVR3pZVC10ekhkQ0NhQVR1Vm95VHUwYzZpRWJMX0lqNUJxQXpjVHBaWVlwSHpuVFdiNmVaVVk0dnNkMHBCR0paMmQwTGtqV25xYWdJeklRcXA3a2NHZ2k4Zw?oc=5",
+   "published": "2026-11-23T18:21:33Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T14:04:31Z"
   },
   {
    "id": "d60c68f21d121cd8",
@@ -3425,6 +3458,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "34656d9d40642dd7",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfRTJpOTZhWk12eldQN2tkWmRmajAtUUtIanh4ekxidGN2cUVQV3dSS3k1bmZvUy1aU3drdE44OXZsZ2QtdjJiZF9HbllBaHhfT0FCSmpRSUpTeEh2YUtLMEpFcUczOUNRRnY2dS0tSHRpcmJB?oc=5",
+   "published": "2026-07-10T12:46:40Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:25:38Z"
   },
   {
    "id": "cf5b9b3256d75f5a",
