@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:24:38Z",
+ "updated": "2026-11-24T17:26:27Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -842,6 +842,17 @@
    "first_seen": "2026-11-24T02:36:47Z"
   },
   {
+   "id": "34656d9d40642dd7",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01Mk9JU1JoWnIyMk91RWU5RE44R1p0SmJFMldqX2FrNVNjUEY5MTJxRnoxQXJzS0ZMS1Q5T3dwYzZqcFRyaUM5ejdfQ1VwbGg4UzN4eHBsdU9lZUJFRG1iN1Y3Q1IyZmtVbVAzRkhaeUVpS3pqdHc?oc=5",
+   "published": "2026-11-23T22:15:15Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:25:38Z"
+  },
+  {
    "id": "3672bd4bff807c2d",
    "company": "Roche",
    "title": "Roche's Wilserdly FDA Broad Approval Boosts Outlook - Briefs Finance",
@@ -994,6 +1005,17 @@
    "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T14:04:31Z"
+  },
+  {
+   "id": "6a834fdedea4719c",
+   "company": "Avenzo Therapeutics",
+   "title": "News - Avenzo Therapeutics",
+   "summary": "News Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56VW1VUnIydmROc2xVbGJqc0EyOGxYb3ZucDRDRjRlVktnazc3VXF1dktmS0NrdXlfZDNLX0c1Nng0a0ZteWd4RC1JWUZqQzFXYzVUbUxDRWdfb2VJWGNUTjMyLTkwaEhVNHc?oc=5",
+   "published": "2026-11-23T18:13:53Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T17:26:27Z"
   },
   {
    "id": "d60c68f21d121cd8",
@@ -3570,17 +3592,6 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
-   "id": "34656d9d40642dd7",
-   "company": "Olema Oncology",
-   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
-   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfRTJpOTZhWk12eldQN2tkWmRmajAtUUtIanh4ekxidGN2cUVQV3dSS3k1bmZvUy1aU3drdE44OXZsZ2QtdjJiZF9HbllBaHhfT0FCSmpRSUpTeEh2YUtLMEpFcUczOUNRRnY2dS0tSHRpcmJB?oc=5",
-   "published": "2026-07-10T12:46:40Z",
-   "outlet": "Olema Oncology",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:25:38Z"
-  },
-  {
    "id": "cf5b9b3256d75f5a",
    "company": "AstraZeneca",
    "title": "Datroway recommended for approval in the EU by CHMP as 1st-line treatment for patients with metastatic triple-negative breast cancer who are not candidates for immunotherapy - AstraZeneca",
@@ -5411,7 +5422,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
