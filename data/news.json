@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:47:07Z",
+ "updated": "2026-11-24T08:15:06Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,17 +589,6 @@
  ],
  "items": [
   {
-   "id": "5e20557183eb43de",
-   "company": "Roche",
-   "title": "Wilserdly: Roche's New Breast Cancer Pill Wins FDA Approval; Giredestrant Cuts Recurrence Risk By 30% - Health and Me",
-   "summary": "Wilserdly: Roche's New Breast Cancer Pill Wins FDA Approval; Giredestrant Cuts Recurrence Risk By 30% Health and Me",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQU9HWXhZUEp2TlVUbGxZck9RTDZxWVNGMmFZVkF5d0hOTW1sdGVLS3BGLXZqdVJCUHhSMkdUUllOelY4aThJY3RLTkY4TV9uZk9uOS04NmxuZ3dKamNMdTFDTTl3aWtReUlTR2daRlFFVjJkNDhIT2pEWG1rM3d6Wl9QdTVtNUxTVG1WM1A4X1JReEJYOUtzQXU3RFJpRUVqU2lCY05kYTZGMFpveUpMU09MS2o3Tk5FdlFPY2NpRXNQZnlyMUhic18wM04?oc=5",
-   "published": "2026-11-24T06:06:07Z",
-   "outlet": "Health and Me",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-24T06:47:07Z"
-  },
-  {
    "id": "3672bd4bff807c2d",
    "company": "Roche",
    "title": "Roche's Wilserdly FDA Broad Approval Boosts Outlook - Briefs Finance",
@@ -620,6 +609,17 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-24T03:38:13Z"
+  },
+  {
+   "id": "5e20557183eb43de",
+   "company": "Roche",
+   "title": "Wilserdly: Roche's New Breast Cancer Pill Wins FDA Approval; Giredestrant Cuts Recurrence Risk By 30% - Health and Me",
+   "summary": "Wilserdly: Roche's New Breast Cancer Pill Wins FDA Approval; Giredestrant Cuts Recurrence Risk By 30% Health and Me",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQU9HWXhZUEp2TlVUbGxZck9RTDZxWVNGMmFZVkF5d0hOTW1sdGVLS3BGLXZqdVJCUHhSMkdUUllOelY4aThJY3RLTkY4TV9uZk9uOS04NmxuZ3dKamNMdTFDTTl3aWtReUlTR2daRlFFVjJkNDhIT2pEWG1rM3d6Wl9QdTVtNUxTVG1WM1A4X1JReEJYOUtzQXU3RFJpRUVqU2lCY05kYTZGMFpveUpMU09MS2o3Tk5FdlFPY2NpRXNQZnlyMUhic18wM04?oc=5",
+   "published": "2026-11-24T01:52:23Z",
+   "outlet": "Health and Me",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T06:47:07Z"
   },
   {
    "id": "21865f9a3f371007",
@@ -697,6 +697,17 @@
    "outlet": "ARYnews.tv",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T03:38:13Z"
+  },
+  {
+   "id": "d6e98eb11b09c3c1",
+   "company": "Roche",
+   "title": "US FDA approves Roche’s breast cancer pill for early-stage patients - 93.3 The Drive",
+   "summary": "US FDA approves Roche’s breast cancer pill for early-stage patients 93.3 The Drive",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdDVXTHp3aHd3ME1XWDlDMTEtX3QzUV96Z1Zua0JrV3NZV0NSSU1DLUFxbFoyUXZlMzdleDhMdGEyYzZfblpPbDNfZkt4VEEzcnFzY3dMREJDWlVMZnhyaFVmRGNzVUwxbkNKX3JEcUJBV3lkSElSSnAyNGE4am9RU0JLSlYzQVJNb1RQWXVDVEcxRnM2djR0SHRwSlNRbEZpb3NTMGxMSDA?oc=5",
+   "published": "2026-11-23T19:01:07Z",
+   "outlet": "93.3 The Drive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T08:15:06Z"
   },
   {
    "id": "f93a04c9210241a6",
@@ -842,6 +853,17 @@
    "first_seen": "2026-11-23T08:57:24Z"
   },
   {
+   "id": "1c65a41e2f2175fa",
+   "company": "Eli Lilly",
+   "title": "Is Inluriyo® (imlunestrant) FDA approved? - Eli Lilly",
+   "summary": "Is Inluriyo® (imlunestrant) FDA approved? Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXNYc2tZeWJYTEZqSmY4YnlfaXA0eE1JV2pwMjBIMlFUeXVzaTV5ZXhsVTlSdnZubEMtUFNxY3RzelR6LVNPZlRZYmVQa0lPVlQtckVrZ1JyTjdndHFIcVZheWlneTA3dkVGTEZiVzdWcW1PQ2lmTDg5OHc1cUVBT05kTDFBUFFkaHNIbGQtWDZZLUM0SGdSaFotcFlwNkE?oc=5",
+   "published": "2026-11-23T05:01:51Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-22T07:57:08Z"
+  },
+  {
    "id": "82cffcffb598ff86",
    "company": "Eli Lilly",
    "title": "Can Inluriyo™ (imlunestrant) be taken with or without food? - Eli Lilly",
@@ -862,17 +884,6 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "1c65a41e2f2175fa",
-   "company": "Eli Lilly",
-   "title": "Is Inluriyo® (imlunestrant) FDA approved? - Eli Lilly",
-   "summary": "Is Inluriyo® (imlunestrant) FDA approved? Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXNYc2tZeWJYTEZqSmY4YnlfaXA0eE1JV2pwMjBIMlFUeXVzaTV5ZXhsVTlSdnZubEMtUFNxY3RzelR6LVNPZlRZYmVQa0lPVlQtckVrZ1JyTjdndHFIcVZheWlneTA3dkVGTEZiVzdWcW1PQ2lmTDg5OHc1cUVBT05kTDFBUFFkaHNIbGQtWDZZLUM0SGdSaFotcFlwNkE?oc=5",
-   "published": "2026-11-21T22:10:25Z",
-   "outlet": "Eli Lilly",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-22T07:57:08Z"
   },
   {
    "id": "c827d9dda8d48e84",
@@ -3438,6 +3449,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "34f2736ff36d09a3",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
+   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9YSkJaQk12QU5IWHAzdGhwaG9zYUxSbk9YYmE5ZWdRc2hvTDdyYy1HYzRoMnNsdXB0cmRaQV9wSkYtTWZDV2VYVndqRmUxM3hRV1dWU3N0WjktNzAySk5rc0QyUzRKMGMydVE3Qm4wNHBzbHQ4Q2VyaTBrbk5qa19FZmZxcDJsTlVSM1pzZFROdU9pdTRWa0VVSEd0V00zRmdpLWtfU211U1pSU25qdEZYS0I?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "48636b0536817bec",
    "company": "Roche",
    "title": "Roche’s Investor Event at ASCO 2026 - Roche",
@@ -3458,17 +3480,6 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": "2026-11-21T18:15:32Z"
-  },
-  {
-   "id": "34f2736ff36d09a3",
-   "company": "Roche",
-   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
-   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl84S3ZOSzZFUUdIcGNLR05DRXVZa3NkVTYwU0lkRUVURDluaWY0dW9vdHRrdExQZW81bjR3VVJpQ2N2MUJ4ZTlFbFNzUXN4UWd4LVVmUzRGTHJwVEJRWG12bnEyWnFRbE9hS3FYYkhmN3hyZTRiS2RRRTdIV0RJQ21xZWhvci1nRnVnMGVaWVhXT3J5aHVyR1dQZWNVQkYwVFQ1UWJsYzVHMUhndEUzOWl3?oc=5",
-   "published": "2026-06-02T07:00:00Z",
-   "outlet": "The Clinical Trial Vanguard",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "99cbb96e7682485a",
@@ -3970,7 +3981,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4052,6 +4063,17 @@
    "outlet": "pharmaphorum",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T10:12:57Z"
+  },
+  {
+   "id": "4fb6de09c500a7db",
+   "company": "AstraZeneca",
+   "title": "AstraZeneca’s Breast-Cancer Candidate Drug Loses FDA Panel Vote - WSJ",
+   "summary": "AstraZeneca’s Breast-Cancer Candidate Drug Loses FDA Panel Vote WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEdqamhHcC1YOExoaDE5dndYWU5HLUljNmN0bmEyV0s3bWhWX3NYZ3Y3clI3UExINS05cGdXbWIxVXRNNTkyd3RIeDNoaVQ1clA2Z3NrZlNrRU9HSDdUX2IxTU1mc1RkOVVvUlVZV1dmS0ZwdWlSYU1OT1hrOEx6RWNaRkZMODc3YndFYkpyWFh1R0o4WUxwY0QzLWdTS0hWWFFoamdUY1c?oc=5",
+   "published": "2026-05-01T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T08:15:06Z"
   },
   {
    "id": "4c4c375109797813",
@@ -5163,39 +5185,6 @@
    "outlet": "Olema Oncology",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "1eb5bb41b14c0c6c",
-   "company": "Eli Lilly",
-   "title": "Lilly to highlight progress across key programs in early and advanced hormone receptor-positive breast cancer at the 2025 San An - Eli Lilly",
-   "summary": "Lilly to highlight progress across key programs in early and advanced hormone receptor-positive breast cancer at the 2025 San An Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5taXNYQWViR1p5aXdZUE5nSUhrTHhQVzFERjdDay1uV0U4MFRVcGt4eTlGWlRNZF9sSkhLZXNaMGtIWkI1UHZnR2R5bjJTMzdqUHR3?oc=5",
-   "published": "2025-11-24T08:00:00Z",
-   "outlet": "Eli Lilly",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "e2b4c73fa130c95a",
-   "company": "Arvinas",
-   "title": "Arvinas Announces Data Presentations from the Vepdegestrant (ARV-471) Clinical Development Program at the 2025 San Antonio Breast Cancer Symposium (SABCS) - Arvinas",
-   "summary": "Arvinas Announces Data Presentations from the Vepdegestrant (ARV-471) Clinical Development Program at the 2025 San Antonio Breast Cancer Symposium (SABCS) Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVFqRWljZ1llQmZPY0xZbWVXLV9Zb1RuMFloSE9ZTXRuSXh5allST3IzcjFZRkdWNGVWM3Vsc1N1dnM1VFEycEtndUlPQVN3QllsdmJwWXB2TmVKS2RWMTJSVFkyVFRxd0c5S2ltUHU2S0Jic3FSY3JFRzVvOGJwYUtneDNXdVNaNGN4ekNpWmFJdmQwbzBNbk1RUVhQNUY4WWRlRVFzMHY5SUw4LVZXZU1sYlItNnR0?oc=5",
-   "published": "2025-11-24T08:00:00Z",
-   "outlet": "Arvinas",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "0655716b37620c56",
-   "company": "Avenzo Therapeutics",
-   "title": "Avenzo Therapeutics Granted Fast Track Designation for AVZO-103, a Potential Best-in-Class Nectin4/TROP2 Bispecific Antibody-Drug Conjugate, for the Treatment of Patients with Urothelial Cancer Previously Treated with Enfortumab Vedotin - Avenzo Therapeutics",
-   "summary": "Avenzo Therapeutics Granted Fast Track Designation for AVZO-103, a Potential Best-in-Class Nectin4/TROP2 Bispecific Antibody-Drug Conjugate, for the Treatment of Patients with Urothelial Cancer Previously Treated with Enfortumab Vedotin Avenzo Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPUjQ3TVU1VHNoOUk5Tlg0LVZiakx0U1dGRFgwTUlYalJXaklQdlI4Z2I4eDBwRUlPWjhBZG1sOFB3X3lsV3lpZVFFY1pDSnZWdkdWUDdiaWV5RG9tS05UM3pSRUFIMjZkeEJvUVFHVDZzRXkya1ZCb3VkMklpell0NEk2UDFPb2xONDI2MGthclJmREJUOUtDc2xmRzNCLUFaVWZYSy01T1d5LS1hNlBQMEVkQkRGY3hUQWYyQmFQdm5GazZkcjF2eVk4WkpoT0JFV3hhdUM5aUlXZ2ZNUkliOXhVSlRCMXFaMjdURE9iOW5Ca2t1NlBFT3drWHk3OXdUdWtVZHlOUUh6OFRCUFcxVlgyX3VrdnY5dFg4WUdFTGVmd3NYN1JKSDUtTGhPcTJfUlpJMFYtdmdRNVZZdHVzMGJlSkNBTGlGVVFISTZmcXFDMEFVaXc?oc=5",
-   "published": "2025-11-24T08:00:00Z",
-   "outlet": "Avenzo Therapeutics",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-23T13:54:36Z"
   }
  ]
 }
