@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:08:30Z",
+ "updated": "2026-11-24T16:24:38Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,12 +589,23 @@
  ],
  "items": [
   {
+   "id": "727311e6133e3b6c",
+   "company": "Roche",
+   "title": "U.S. FDA approves Roche’s Wilserdly for early-stage breast cancer - The Globe and Mail",
+   "summary": "U.S. FDA approves Roche’s Wilserdly for early-stage breast cancer The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkdJUWY4VWszb2lwTGdBejNBQl9LTDZfTndhTVFucUFJVFI2bHJnUHJVQ2hFTG9yenBReGwtUTBZUzB0dU9XWkxNSlc3LXZOYnhsMVp5ajJIRTY5SXNFbXVVWG5UMjl1SFVGZUQwYVIwV1Jud1FZRk9RZTd0c0pYTFJ5czFHS1VsdW1rTW1KTC11dHloTVVxQjFqcy0tZDlhNUVpTk40V0hwSXJhbU9LN0x5ZW9BVWpuS29VVQ?oc=5",
+   "published": "2026-11-24T15:01:15Z",
+   "outlet": "The Globe and Mail",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T16:24:38Z"
+  },
+  {
    "id": "3a861acecfcda679",
    "company": "Roche",
    "title": "Roche’s Genentech notches 2nd breast cancer approval for oral SERD in a week - BioSpace",
    "summary": "Roche’s Genentech notches 2nd breast cancer approval for oral SERD in a week BioSpace",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDBzalNaNTlPZTk2Qk5URDRtdEhmTDRRWDJSdktlVml4ZXpxNmpybU5OY1JYVTIwY25GdUowR2tJTjdyZGJZVGJaVE5DSDA5N0lnY0d0YXJLOENLVDhucF83S0s5SGpmdjh0NTJaWXdoNDZJOHVyNC1sdzBGLUJvZXJhemw3cEdxT0NxWnQ1aHkzUlNUakJvLS1LcUNxbU90dW96VWdQMA?oc=5",
-   "published": "2026-11-24T14:50:49Z",
+   "published": "2026-11-24T14:50:21Z",
    "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T15:08:30Z"
@@ -660,7 +671,7 @@
    "title": "Roche wins US approval for Wilserdly in early breast cancer - The Pharma Letter",
    "summary": "Roche wins US approval for Wilserdly in early breast cancer The Pharma Letter",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWJWbXZXc2NFbjA4MGNLa3JrWVRMREU4QzFBT3k4azhVcWJXZXBuWERQLUxKampXc01fQlFtQ1NiTk1IRTA0T3JiN1ZSakk4THRySEVZVzBTcHhleXZ1MjI4bGFFbXpGODFqWVNfelZvWC1wM25oUmM5UVExQUFyeDNtaEhCTWJLRVZKRHlTemh6dzdEbWNkRW0zRDZlUnJicjhPYXNn?oc=5",
-   "published": "2026-11-24T12:10:51Z",
+   "published": "2026-11-24T12:13:17Z",
    "outlet": "The Pharma Letter",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T12:43:38Z"
@@ -752,6 +763,17 @@
    "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T10:35:10Z"
+  },
+  {
+   "id": "51f60cbfaaa20933",
+   "company": "Roche",
+   "title": "FDA approves Roche’s Wilserdly for early-stage breast cancer - Investing.com",
+   "summary": "FDA approves Roche’s Wilserdly for early-stage breast cancer Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1p6RlMzc1JlQ0pYY24xSzBBcHR3N3B2Sjd3VmlvUlQwNmJtVWJYWDR5ZkpHa1FURXB2OVk1M1k1OExJV1FrTkRKMUNEMTdHTy1LMFVpNjhzU2ZZUGJlWVBUQXJjVDRvbWhNQnZpc3dUQk9sQ1g2VzJ5M2ktZTc3MHJraGhDZUltZ1o0QW5WazVmTlQwWEVqTTVzR2xKaHdfVVkxZHFCdlBqbkVCbWJMdVRQWlJoZ0tZZ2NzaA?oc=5",
+   "published": "2026-11-24T10:02:59Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T16:24:38Z"
   },
   {
    "id": "7c73cae6a6a87e6a",
@@ -917,6 +939,17 @@
    "outlet": "ARY News Pakistan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T10:35:10Z"
+  },
+  {
+   "id": "e0a2b0cb3fdf4442",
+   "company": "Avenzo Therapeutics",
+   "title": "Pipeline - Avenzo Therapeutics",
+   "summary": "Pipeline Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBING5XWDRTc0dSOFEtUXEzekFpNFdXUmNTZUdlVDdaRTQwVnc0NEQ5cWRMeVN4Ql9vaWl2RVNObVBGWG5P?oc=5",
+   "published": "2026-11-23T19:26:19Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T16:24:38Z"
   },
   {
    "id": "d6e98eb11b09c3c1",
@@ -2250,6 +2283,17 @@
    "first_seen": null
   },
   {
+   "id": "17a392cb1702f1cf",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXRWVEdJaTFEd0xEbFZaeHNxV3VsYlpOSmJlM3BfQmxCS0lmM0NMNHRZaGYzWk5QanVUX0NKV1k3dG1kSVo1cDZiR3hNVnMzdmNQOHoxSFBUeThVMzJva2d3ZzgwTGQ5UXMtOTBYYjVxOXc0YTYwYUIyaXZWUlRqdXRmc3hqNll3bzhBSmx3RFp2Ui00WTdHSUMySGNfbGhEcHgxRkRINlZRcWxfbTlxdWp3?oc=5",
+   "published": "2026-10-07T17:57:17Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
    "id": "9b34e43e07fbdbaa",
    "company": "Pfizer",
    "title": "Pfizer’s TUKYSA Regimen Receives FDA Approval as Front-Line Maintenance Treatment for HER2+ Metastatic Breast Cancer",
@@ -2281,17 +2325,6 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T10:12:57Z"
-  },
-  {
-   "id": "17a392cb1702f1cf",
-   "company": "Avenzo Therapeutics",
-   "title": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer - Avenzo Therapeutics",
-   "summary": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer Avenzo Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXRWVEdJaTFEd0xEbFZaeHNxV3VsYlpOSmJlM3BfQmxCS0lmM0NMNHRZaGYzWk5QanVUX0NKV1k3dG1kSVo1cDZiR3hNVnMzdmNQOHoxSFBUeThVMzJva2d3ZzgwTGQ5UXMtOTBYYjVxOXc0YTYwYUIyaXZWUlRqdXRmc3hqNll3bzhBSmx3RFp2Ui00WTdHSUMySGNfbGhEcHgxRkRINlZRcWxfbTlxdWp3?oc=5",
-   "published": "2026-10-05T07:00:00Z",
-   "outlet": "Avenzo Therapeutics",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "18c1e796f0f0360a",
@@ -4267,7 +4300,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
