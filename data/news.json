@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:34:19Z",
+ "updated": "2026-11-24T10:35:10Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,61 @@
  ],
  "items": [
   {
+   "id": "ab4c7cace1b18fa6",
+   "company": "Roche",
+   "title": "Roche Wins FDA Approval for Wilserdly in Early Breast Cancer - SuaraGarut.ID",
+   "summary": "Roche Wins FDA Approval for Wilserdly in Early Breast Cancer SuaraGarut.ID",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vb01tUHZwWmdVSW9SbURCTEpmN0xTVzZLeFRLQ09UQlVhQU04M2U3eDY1a0VIOHdLVG5UY3pyR1NvNkdIUWlCSzFodXliRGNRZkxocjg4RTBpUDlhVTFsUnpLWHVCMGg3V1E?oc=5",
+   "published": "2026-11-24T10:21:19Z",
+   "outlet": "SuaraGarut.ID",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T10:35:10Z"
+  },
+  {
+   "id": "657e41456245024b",
+   "company": "Roche",
+   "title": "Roche Wins FDA Approval for Wilserdly in Early Breast Cancer - cwibc.co.id",
+   "summary": "Roche Wins FDA Approval for Wilserdly in Early Breast Cancer cwibc.co.id",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TNVU3aDZCcjZUY3JEUkExaXRBWkEyYW1oNjJnVnA3T3U1WnVkR0FNbE5SMGtCeUJhYTV4VXl6NjQwdmlFdDBMQ1dvMk4zeGtUMlZxTlNteXFBLXNwR1pVelRfTVhleE9yTE1rQ2V3?oc=5",
+   "published": "2026-11-24T10:18:25Z",
+   "outlet": "cwibc.co.id",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T10:35:10Z"
+  },
+  {
+   "id": "0dad1fe3d152f7cd",
+   "company": "Roche",
+   "title": "Roche Holding stock after FDA clears Wilserdly for early breast cancer - ad-hoc-news.de",
+   "summary": "Roche Holding stock after FDA clears Wilserdly for early breast cancer ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOTZ0UzVfYUtWOXhZSFBJcW9EQVdMSFRCZHRsS0xwUXh2bjNrVDFMRlVPOFNFV19tQ3FIRVdwVmd1OUpVcmxyNzZnNVJjT3pURXJSMnN2bVhXSWpQcFdyTDB6LW1lOFNyVVJkamlNaHp1d3RwNlE0bnhlRXRJWlVzQUEtVGFwYVRHdE82MkpoZElWVlJnMzNQamwwVFdEeVg3cjlnVDg0aTVvVHhVdVNTRW94ZWJSR2EzVkxGbHViSzRKM3BaN0p4MHc0b0tqUQ?oc=5",
+   "published": "2026-11-24T10:05:47Z",
+   "outlet": "ad-hoc-news.de",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T10:35:10Z"
+  },
+  {
+   "id": "2ae6e262385ddcaa",
+   "company": "Roche",
+   "title": "FDA approves Roche’s Wilserdly for early-stage breast cancer By Investing.com - Investing.com India",
+   "summary": "FDA approves Roche’s Wilserdly for early-stage breast cancer By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWE3Q0cyQlFIeENXVkpWUm1sb0MyTkVmMU96WFcySnE5YnY4Tm9IUnRnWnVISFB3dUZUczRTWkxRUXhwaGFBbjBvUGJuSkdaYXFNU1BQaDE5ejNtaURZZU15QVFXc0FwcmlZM0JFenIxZHpoN2NhMWdMdk5QamxENVBGWFhtRmxKdTJYVVdHakoxdWYxUzh4ZHhkc1hrZ1MyZi1fdjlsSTlJa0NSckI5U2trdzBzdU4zdUNv?oc=5",
+   "published": "2026-11-24T10:04:38Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T10:35:10Z"
+  },
+  {
+   "id": "7c73cae6a6a87e6a",
+   "company": "Roche",
+   "title": "ESR1-Mutated Breast Cancer Therapeutics Market to Reach USD - openPR.com",
+   "summary": "ESR1-Mutated Breast Cancer Therapeutics Market to Reach USD openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXp0bVB2anNqdGtpMUxJNGRLTm9hblZNY1BGLUN1ckRxLXFhc3Zycno1Uk1NWmVNNENNRmliYlZpZmNhbDk4Sl93T21YbTJZZXVZQWQ4QjRqbzlnV255UEd2OEV2YXlkalFHd2lZdlVJMkgySG9nT0UyNi1YaTNrbkVGQ3VVZ2xzOS1kN3NTUEtQMGlvR2tXSlFSQQ?oc=5",
+   "published": "2026-11-24T07:29:16Z",
+   "outlet": "openPR.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T10:35:10Z"
+  },
+  {
    "id": "0fa9924557f51291",
    "company": "Roche",
    "title": "FDA Approves Roche's Wilserdly for Early Breast Cancer - Voice of Healthcare",
@@ -642,6 +697,17 @@
    "outlet": "Y100 WNCY",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T02:36:47Z"
+  },
+  {
+   "id": "34656d9d40642dd7",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01Mk9JU1JoWnIyMk91RWU5RE44R1p0SmJFMldqX2FrNVNjUEY5MTJxRnoxQXJzS0ZMS1Q5T3dwYzZqcFRyaUM5ejdfQ1VwbGg4UzN4eHBsdU9lZUJFRG1iN1Y3Q1IyZmtVbVAzRkhaeUVpS3pqdHc?oc=5",
+   "published": "2026-11-23T22:15:15Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:25:38Z"
   },
   {
    "id": "3672bd4bff807c2d",
@@ -719,6 +785,17 @@
    "outlet": "ARYnews.tv",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T03:38:13Z"
+  },
+  {
+   "id": "63f13c07f8af59c2",
+   "company": "Roche",
+   "title": "US FDA approves Roche's breast cancer pill for early-stage patients - ARY News Pakistan",
+   "summary": "US FDA approves Roche's breast cancer pill for early-stage patients ARY News Pakistan",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlM0QU45M19xWThNOG9lME5CcG1nWjBadTdNa1NmM0V3Rkt2OXVHQVhDMTR4MzQ4Y1BCclBUOUEyZ21vRlIwNnppSmhpOC1udTdIUkdEeTRhTlFUREtXU1ozZHdYaHRIcEVTeDdzd2Z0Wm12X3hFdVJkY21VTWxqYjlVeXdocTRrcnRrbWtB?oc=5",
+   "published": "2026-11-23T19:27:11Z",
+   "outlet": "ARY News Pakistan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T10:35:10Z"
   },
   {
    "id": "d6e98eb11b09c3c1",
@@ -906,6 +983,17 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
+   "published": "2026-11-22T18:13:15Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "c827d9dda8d48e84",
@@ -1115,6 +1203,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "00f5027babfaba38",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – Olema Oncology Presents Preclinical Data on Selective KAT6A Degraders in ER+/HER2- Breast Cancer Models at EORTC-NCI-AACR Symposium - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – Olema Oncology Presents Preclinical Data on Selective KAT6A Degraders in ER+/HER2- Breast Cancer Models at EORTC-NCI-AACR Symposium Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcXFUMjdjZkFVeHM0MkR0U2dzYlhUQVB4RDRIVVByU19JdEVrVTdmSkpYdmk1T1FaUlc2SE15cGtoVzhfd3VZYjR6ZnJBcXV5YWtPbzF5dHVkd0lSZnZiSkE4emdMeXlwaV9PQmRLNkRPaGtZV0Yza0FiN2ZpQkI1aVFPMDBjV3RNNncwRi0xcFE5VWxlTjdfZWhaaHAtRS1HdlpqXzllb1pQYW56YWR3VUlCOA?oc=5",
+   "published": "2026-11-18T07:30:20Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T10:35:10Z"
   },
   {
    "id": "2b038ee235511c3e",
@@ -1689,6 +1788,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
+   "published": "2026-11-09T22:00:26Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -1698,17 +1808,6 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
-  },
-  {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
-   "published": "2026-11-09T08:00:00Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -3284,17 +3383,6 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
-   "id": "34656d9d40642dd7",
-   "company": "Olema Oncology",
-   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
-   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfRTJpOTZhWk12eldQN2tkWmRmajAtUUtIanh4ekxidGN2cUVQV3dSS3k1bmZvUy1aU3drdE44OXZsZ2QtdjJiZF9HbllBaHhfT0FCSmpRSUpTeEh2YUtLMEpFcUczOUNRRnY2dS0tSHRpcmJB?oc=5",
-   "published": "2026-07-10T12:46:40Z",
-   "outlet": "Olema Oncology",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:25:38Z"
-  },
-  {
    "id": "cf5b9b3256d75f5a",
    "company": "AstraZeneca",
    "title": "Datroway recommended for approval in the EU by CHMP as 1st-line treatment for patients with metastatic triple-negative breast cancer who are not candidates for immunotherapy - AstraZeneca",
@@ -3482,17 +3570,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "34f2736ff36d09a3",
-   "company": "Roche",
-   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
-   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9YSkJaQk12QU5IWHAzdGhwaG9zYUxSbk9YYmE5ZWdRc2hvTDdyYy1HYzRoMnNsdXB0cmRaQV9wSkYtTWZDV2VYVndqRmUxM3hRV1dWU3N0WjktNzAySk5rc0QyUzRKMGMydVE3Qm4wNHBzbHQ4Q2VyaTBrbk5qa19FZmZxcDJsTlVSM1pzZFROdU9pdTRWa0VVSEd0V00zRmdpLWtfU211U1pSU25qdEZYS0I?oc=5",
-   "published": "2026-06-03T07:00:00Z",
-   "outlet": "The Clinical Trial Vanguard",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "48636b0536817bec",
    "company": "Roche",
    "title": "Roche’s Investor Event at ASCO 2026 - Roche",
@@ -3513,6 +3590,17 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": "2026-11-21T18:15:32Z"
+  },
+  {
+   "id": "34f2736ff36d09a3",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
+   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl84S3ZOSzZFUUdIcGNLR05DRXVZa3NkVTYwU0lkRUVURDluaWY0dW9vdHRrdExQZW81bjR3VVJpQ2N2MUJ4ZTlFbFNzUXN4UWd4LVVmUzRGTHJwVEJRWG12bnEyWnFRbE9hS3FYYkhmN3hyZTRiS2RRRTdIV0RJQ21xZWhvci1nRnVnMGVaWVhXT3J5aHVyR1dQZWNVQkYwVFQ1UWJsYzVHMUhndEUzOWl3?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "99cbb96e7682485a",
@@ -5028,17 +5116,6 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
-   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
