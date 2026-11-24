@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:28:47Z",
+ "updated": "2026-11-24T20:26:32Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1172,6 +1172,28 @@
    "first_seen": "2026-11-23T18:14:33Z"
   },
   {
+   "id": "77857773ba63969f",
+   "company": "Roche",
+   "title": "A trial found a breast cancer drug lowered the risk of cancer returning or death by 30% versus standard treatment. - Stock Titan",
+   "summary": "A trial found a breast cancer drug lowered the risk of cancer returning or death by 30% versus standard treatment. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDUtSE9BN1hqRWZhVFg0VTlVZWdzaDFOZ2FkU0hmXzJhMTF6YzhpbmNhdmx4eFJ6b2w3cFBxdlhPTVplc3hOME5VTzhQZ211UXVxazg1SXdlT0o1MGZlZUVhUndYQm9NV3VpTmVpRG16S1Q1X2Z4d0F5dGVzcnpKMjY4ajdRU0R0T3dWTlZmUTZ5dTVBSjlubFNZeDVCWDk4Y2Viel9NOU5zTXRzX0M5Z2RuMHJ0Ujc5NVE?oc=5",
+   "published": "2026-11-23T17:00:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T20:26:32Z"
+  },
+  {
+   "id": "489b8718836f2834",
+   "company": "Roche",
+   "title": "Roche eyes its biggest seller yet after breast cancer pill’s broader US approval - Digg",
+   "summary": "Roche eyes its biggest seller yet after breast cancer pill’s broader US approval Digg",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QRmpRcHg3WFl0aHFndWd5c2laMmh0d1V0S3I0UV9xQTdmZUF4WE16M3N0OHZMM1VrWEJmNlVWcVVHY2o2VG1tMURfNUNtQzhoZWc?oc=5",
+   "published": "2026-11-23T16:49:54Z",
+   "outlet": "Digg",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T20:26:32Z"
+  },
+  {
    "id": "6ddec7a5c10e5ff3",
    "company": "Genentech (Roche US)",
    "title": "FDA Approves Genentech’s WILSERDLY (giredestrant) for Early-Stage ER-Positive Breast Cancer, Making it the First New Endocrine Therapy in This Setting in Over 20 Years",
@@ -1469,6 +1491,17 @@
    "first_seen": "2026-11-22T22:26:09Z"
   },
   {
+   "id": "db19e2d97f08c3d9",
+   "company": "Roche",
+   "title": "Roche Wins Dual FDA Approvals for Breast Cancer and Chronic Kidney Disease Therapies - Yahoo Finance",
+   "summary": "Roche Wins Dual FDA Approvals for Breast Cancer and Chronic Kidney Disease Therapies Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnBBY2U4ZXhjSmtVMnlXUUMtbU9tVDhtRWVXRkhZcnB6dWFGTXV6YVVEcks4WXYzNmtIbnk3WFI3T2FMZi1HWlpkMEUtdTlXRWhCZk9mNlpLdlhMU3VQbzFXcmRETFdOYXREeFJTQkh1Q0Jud0NBVkZzUGdvQXdRVks3dVRpV3Y2M0M1Q3ZadVMwUDNE?oc=5",
+   "published": "2026-11-17T18:49:33Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T20:26:32Z"
+  },
+  {
    "id": "9964e4c93875725f",
    "company": "Roche",
    "title": "Roche breast cancer pill cleared by FDA - Yahoo Finance",
@@ -1599,6 +1632,17 @@
    "outlet": "Bloomberg",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T04:41:00Z"
+  },
+  {
+   "id": "1a445330438d0788",
+   "company": "Roche",
+   "title": "Roche’s New Breast Cancer Pill Wins First FDA Approval - Bloomberg.com",
+   "summary": "Roche’s New Breast Cancer Pill Wins First FDA Approval Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
+   "published": "2026-11-17T13:14:19Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T20:26:32Z"
   },
   {
    "id": "191c289cf48d0ffc",
@@ -4329,6 +4373,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "589efe82ed7a7b0b",
+   "company": "Arvinas",
+   "title": "Arvinas and Pfizer Enter into a Transaction with Rigel Pharmaceuticals for the Exclusive Global Rights of VEPPANU (vepdegestrant) - Arvinas",
+   "summary": "Arvinas and Pfizer Enter into a Transaction with Rigel Pharmaceuticals for the Exclusive Global Rights of VEPPANU (vepdegestrant) Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2Y2MjQzeFJDd01pazV2a1pQemJ5c2x5ZlRqdkt4VWRQV1Bsbl9ZOTZ5S2IwXy1KWVNmT2hJSTJXRXgwX21WMFV3eHBfZzVhN3BnNzdHOHpXWUFLYjhZTngxbzc3YXZxLVMwVXdRblNZNFhKT215SzBYU0lEbzlfMGlnU0JRZnpxNXFrN0ZHaFNQbW5OdjRKRHVoX1pVTmt2YzJNX2ktZ3R3Y2NVV2tWbHRlNUZFODBz?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T20:26:32Z"
+  },
+  {
    "id": "d360a1a3f08d9cad",
    "company": "Celcuity",
    "title": "Celcuity Schedules Release of First Quarter 2026 Financial Results and Webcast/Conference Call - Celcuity",
@@ -4355,7 +4410,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4388,7 +4443,7 @@
    "company": "Arvinas",
    "title": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer - Arvinas",
    "summary": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnd3FtRi15RFYzUXljUmNNRWJPTUJtam5lNjNobjRFTUpxOUUzaWM2bjZYSzJ1cThQSG1BSjIwSjRCX21HQXMxaUh0azd0UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVctVHpsMEotc1AtNFhFNE0wR3hpRk5DdFZKWHFRR2JoYU1KNmxvLW92UFh5cnNycGt0Z0VDR0lDNFA5Tk5DbUNEZEV5dzhnY01Mb1ZaZktKUUZtSXpab3FJQzBMQmRidDhRVzQtQ0sxVlA0ODQ4SFJDTS1va285Tl9Zc1k2ek1CVm5xekpsWlRvOXVzcXRCenJEZzMzUlFSTDFiVEV2Z2k3N0JfN1lmVDJFQ3k1RW5XX2tzTmlR?oc=5",
    "published": "2026-05-01T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
