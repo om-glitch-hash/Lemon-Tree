@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:35:17Z",
+ "updated": "2026-11-24T12:43:38Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,28 @@
  ],
  "items": [
   {
+   "id": "82d1037f6c7db537",
+   "company": "Roche",
+   "title": "Roche wins US approval for Wilserdly in early breast cancer - The Pharma Letter",
+   "summary": "Roche wins US approval for Wilserdly in early breast cancer The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWJWbXZXc2NFbjA4MGNLa3JrWVRMREU4QzFBT3k4azhVcWJXZXBuWERQLUxKampXc01fQlFtQ1NiTk1IRTA0T3JiN1ZSakk4THRySEVZVzBTcHhleXZ1MjI4bGFFbXpGODFqWVNfelZvWC1wM25oUmM5UVExQUFyeDNtaEhCTWJLRVZKRHlTemh6dzdEbWNkRW0zRDZlUnJicjhPYXNn?oc=5",
+   "published": "2026-11-24T12:10:51Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T12:43:38Z"
+  },
+  {
+   "id": "b8eb54b6af954b05",
+   "company": "Roche",
+   "title": "Roche Expects FDA-Approved Cancer Pill to Be Top-Selling Drug - Global Banking & Finance Review",
+   "summary": "Roche Expects FDA-Approved Cancer Pill to Be Top-Selling Drug Global Banking & Finance Review",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS19ESk5xMnYyY2tnVXd5NDVIaW81cjZvaUhzZmc2Q2VOZ3VqMXY5SnppZFowUVJodTZTT2JONVRZR0kydUU0X0trRFNvQ1hNX09CWll0RWFxN3dhNWFaQWlpODVVRlpab3BNeEJNbFowOE9mNmpCaUdLQjNUUzc5QTN4NDNQY0RDY3VxamRfSElkamp2bDZNamRoVlFWSDRDQXc?oc=5",
+   "published": "2026-11-24T11:24:53Z",
+   "outlet": "Global Banking & Finance Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T12:43:38Z"
+  },
+  {
    "id": "f119493b1c683bb9",
    "company": "Roche",
    "title": "Roche wins second US approval for breast cancer pill Wilserdly - PRESS Insider",
@@ -741,6 +763,17 @@
    "outlet": "Briefs Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T03:38:13Z"
+  },
+  {
+   "id": "b5e2a456fcc07491",
+   "company": "Eli Lilly",
+   "title": "Lilly highlights strength of breast cancer portfolio with new data across validated drivers of hormone receptor-positive disease at the 2026 San Antonio Breast Cancer Symposium - Eli Lilly",
+   "summary": "Lilly highlights strength of breast cancer portfolio with new data across validated drivers of hormone receptor-positive disease at the 2026 San Antonio Breast Cancer Symposium Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnl3QTRDb1dlZl9HY3R2RnhPalVUQ0UxV2w4eHN2MFJLLXIxdWJlRWlBbURvQ2s0YkI0Wi1fa0RPRXgtUmtyMXA5TkJUd3NDNGJOa2ZKYTRxbk5PMFZiSmFhUWU5MlUtMHR6eWdkUm5IdDQzMDRrWEFSX2xlNk5lb0VUbjZ2UlJvaFB3YXQxQndaSDN3QnZNaGdUNXZaeE1udFNQWXcyODBjSEVLMzJQZ1AxblVybVlVMjFGdQ?oc=5",
+   "published": "2026-11-23T21:36:42Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T12:43:38Z"
   },
   {
    "id": "9a81be690d86ea79",
@@ -1005,17 +1038,6 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T13:54:36Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
-   "published": "2026-11-22T18:13:15Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "c827d9dda8d48e84",
@@ -1810,17 +1832,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -1830,6 +1841,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -5143,6 +5165,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "9236f573fd6faf33",
    "company": "Celcuity",
    "title": "Email Alerts - Celcuity",
@@ -5224,7 +5257,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
