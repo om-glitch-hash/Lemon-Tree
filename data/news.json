@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:22:02Z",
+ "updated": "2026-11-24T19:28:47Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,17 @@
  ],
  "items": [
   {
+   "id": "ea88440859e0db49",
+   "company": "Roche",
+   "title": "Spotlight On: Roche's high hopes for Wilserdly undiminished despite question marks over size of early-stage breast cancer opportunity - FirstWord Pharma",
+   "summary": "Spotlight On: Roche's high hopes for Wilserdly undiminished despite question marks over size of early-stage breast cancer opportunity FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YRmJhSWtxd244Mk1NWVhXNWRuY0ZlOVkxOFlLV19vVXRMRFh4SmdvcmdfYTAzd0JEWDNuc2wtNWxBRmJyTUFVM3NyeTZZaHBmaFNZ?oc=5",
+   "published": "2026-11-24T18:39:37Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T19:28:47Z"
+  },
+  {
    "id": "a384b5fc7f8566f1",
    "company": "Roche",
    "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer - BioPharma Dive",
@@ -653,6 +664,17 @@
    "outlet": "GuruFocus",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T14:04:31Z"
+  },
+  {
+   "id": "19dc0eab7f1f778c",
+   "company": "Roche",
+   "title": "Roche's Wilserdly Could Reach $9B Peak - Briefs Finance",
+   "summary": "Roche's Wilserdly Could Reach $9B Peak Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT2dUSm5uV0xqZWRoRnJwbnpBYXpwekNxWk0tWllneDJlNnoxeUFVMkZWQ1YzSGI5Z04yVTVxd1VNU0ZqOU5ubjVOSjZacHBFNHZfeGFBcGdEVS1VT1dhQ3VQYk05dmpNRktGd1d0d0tmaWFGMXJhNHZpRFMtZmJqVW1ENFVDbEcxa1R4RHpTMV8?oc=5",
+   "published": "2026-11-24T13:15:00Z",
+   "outlet": "Briefs Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T19:28:47Z"
   },
   {
    "id": "3686d80079a63643",
@@ -785,6 +807,17 @@
    "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T16:24:38Z"
+  },
+  {
+   "id": "87ea8ddedee680e1",
+   "company": "Roche",
+   "title": "Roche says breast cancer pill could be best-selling drug ever - Financial Times",
+   "summary": "Roche says breast cancer pill could be best-selling drug ever Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkIyVGlIVVMxNEhjeUlNT3pVYWJoZllOaDBYdXFwT3NrZkFDREpoSnUxQnAyVVVWRjhuT2hCUVRucEhaMV9mdHVnN1BkRlhDY0YwTko1UlI3OUdRb05aejhvX2NkeElPd3JlZzI1Qk8wN2RVYkdWWDVhVkR6eWVDV1JyN1Q?oc=5",
+   "published": "2026-11-24T09:51:03Z",
+   "outlet": "Financial Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T19:28:47Z"
   },
   {
    "id": "7c73cae6a6a87e6a",
@@ -1181,17 +1214,6 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T13:54:36Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
-   "published": "2026-11-22T18:13:15Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "c827d9dda8d48e84",
@@ -2008,17 +2030,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2028,6 +2039,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -2316,17 +2338,6 @@
    "first_seen": null
   },
   {
-   "id": "17a392cb1702f1cf",
-   "company": "Avenzo Therapeutics",
-   "title": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer - Avenzo Therapeutics",
-   "summary": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer Avenzo Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXRWVEdJaTFEd0xEbFZaeHNxV3VsYlpOSmJlM3BfQmxCS0lmM0NMNHRZaGYzWk5QanVUX0NKV1k3dG1kSVo1cDZiR3hNVnMzdmNQOHoxSFBUeThVMzJva2d3ZzgwTGQ5UXMtOTBYYjVxOXc0YTYwYUIyaXZWUlRqdXRmc3hqNll3bzhBSmx3RFp2Ui00WTdHSUMySGNfbGhEcHgxRkRINlZRcWxfbTlxdWp3?oc=5",
-   "published": "2026-10-07T17:57:17Z",
-   "outlet": "Avenzo Therapeutics",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-23T13:54:36Z"
-  },
-  {
    "id": "9b34e43e07fbdbaa",
    "company": "Pfizer",
    "title": "Pfizer’s TUKYSA Regimen Receives FDA Approval as Front-Line Maintenance Treatment for HER2+ Metastatic Breast Cancer",
@@ -2347,6 +2358,17 @@
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "17a392cb1702f1cf",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Appoints Herb Cross as Incoming Chief Financial Officer Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXRWVEdJaTFEd0xEbFZaeHNxV3VsYlpOSmJlM3BfQmxCS0lmM0NMNHRZaGYzWk5QanVUX0NKV1k3dG1kSVo1cDZiR3hNVnMzdmNQOHoxSFBUeThVMzJva2d3ZzgwTGQ5UXMtOTBYYjVxOXc0YTYwYUIyaXZWUlRqdXRmc3hqNll3bzhBSmx3RFp2Ui00WTdHSUMySGNfbGhEcHgxRkRINlZRcWxfbTlxdWp3?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-23T13:54:36Z"
   },
   {
    "id": "324c2f6eeda73b5e",
@@ -5363,6 +5385,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "9236f573fd6faf33",
    "company": "Celcuity",
    "title": "Email Alerts - Celcuity",
@@ -5444,7 +5477,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
