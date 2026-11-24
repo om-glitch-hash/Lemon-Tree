@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:26:27Z",
+ "updated": "2026-11-24T18:22:02Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -588,6 +588,17 @@
   }
  ],
  "items": [
+  {
+   "id": "a384b5fc7f8566f1",
+   "company": "Roche",
+   "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer - BioPharma Dive",
+   "summary": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWF5QzBWSTlEbjduV3ctTFFpMHUwcWI5Nzl2bWFtbkFrYTctdUxYeUV3VTlyWGFfTDFxUUd3SnBxV3VRQlRSUGZwNlRJRXNPQUhGOGtKM2ZUXzE4aUJNdkZDVEQweTQ5MVItSFVmNmpEbzdoZWF5QTQwU0JwRlJKUXlFTVZJd2hadlZzUXI1MnBIQ05XQWUzMVo2ajRDZw?oc=5",
+   "published": "2026-11-24T17:30:42Z",
+   "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T18:22:02Z"
+  },
   {
    "id": "727311e6133e3b6c",
    "company": "Roche",
@@ -3700,6 +3711,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T22:16:04Z"
+  },
+  {
+   "id": "f83a5d08f833faeb",
+   "company": "Celcuity",
+   "title": "Mothaffar F. Rimawi, M.D. - Celcuity",
+   "summary": "Mothaffar F. Rimawi, M.D. Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4clJQTmIyNTk1bFFIMTFSME02b2VaSjA2ZGtqeGJ3UWwyQ0JFb2JpVWN6Y1Iyb0x4R0F6Zm9mN0t0bnpIemE0cVdmSUg3WlpEcTVQcVB0Z2lRXzBIcWpwSmNR?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T18:22:02Z"
   },
   {
    "id": "cf5c5447a75dc3de",
