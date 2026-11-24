@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:15:06Z",
+ "updated": "2026-11-24T09:34:19Z",
  "sources": [
   {
    "company": "Celcuity",
@@ -7,10 +7,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Acelcuity.com&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 47,
-   "latest": "2026-11-22T18:13:15Z",
+   "items": 46,
+   "latest": "2026-11-09T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Eli Lilly",
@@ -18,10 +18,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Alilly.com+%28%22imlunestrant%22+OR+%22Inluriyo%22+OR+%22tersolisib%22+OR+%22LY4064809%22+OR+%22STX-478%22+OR+%22Scorpion%22+OR+%22EMBER%22+OR+%22PI3K%22+OR+%22SERD%22+OR+%22HR%2B%22+OR+%22HR-positive%22+OR+%22ER%2B%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "latest": "2026-11-24T02:06:57Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Roche",
@@ -30,9 +30,9 @@
    "method": "news search (newsroom not indexed)",
    "ok": true,
    "items": 60,
-   "latest": "2026-11-24T03:18:21Z",
+   "latest": "2026-11-24T06:35:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Genentech (Roche US)",
@@ -43,7 +43,7 @@
    "items": 6,
    "latest": "2026-11-23T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Olema Oncology",
@@ -54,7 +54,7 @@
    "items": 17,
    "latest": "2026-11-12T14:00:23Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -65,7 +65,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "AstraZeneca",
@@ -73,10 +73,10 @@
    "feed": "https://news.google.com/rss/search?q=%22AstraZeneca%22+%28%22camizestrant%22+OR+%22Etcamah%22+OR+%22SERENA%22+OR+%22HR-positive%22+OR+%22ER-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 60,
-   "latest": "2026-11-09T08:00:00Z",
+   "items": 31,
+   "latest": "2026-09-15T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Pfizer",
@@ -87,7 +87,7 @@
    "items": 1,
    "latest": "2026-10-07T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Rigel Pharmaceuticals (Veppanu commercial rights)",
@@ -98,7 +98,7 @@
    "items": 1,
    "latest": "2026-08-13T12:05:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Arvinas",
@@ -106,10 +106,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Aarvinas.com+%28%22vepdegestrant%22+OR+%22Veppanu%22+OR+%22VERITAC%22+OR+%22TACTIVE%22+OR+%22breast%22+OR+%22estrogen+receptor%22+OR+%22ER%2B%22+OR+%22Rigel%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 20,
+   "items": 17,
    "latest": "2026-10-06T07:39:21Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "LeonaBio (ex-Athira; lasofoxifene licensee)",
@@ -120,7 +120,7 @@
    "items": 1,
    "latest": "2026-08-12T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Sermonix Pharmaceuticals",
@@ -131,7 +131,7 @@
    "items": 2,
    "latest": "2026-01-09T19:12:42Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Relay Therapeutics",
@@ -142,7 +142,7 @@
    "items": 18,
    "latest": "2026-11-02T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Junshi Biosciences (TopAlliance)",
@@ -153,7 +153,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Novartis",
@@ -164,7 +164,7 @@
    "items": 1,
    "latest": "2026-11-18T06:06:02Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Avenzo Therapeutics",
@@ -172,10 +172,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Aavenzotx.com&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 16,
-   "latest": "2026-11-09T08:00:00Z",
+   "items": 19,
+   "latest": "2026-11-23T21:15:53Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Carrick Therapeutics",
@@ -186,7 +186,7 @@
    "items": 1,
    "latest": "2025-12-10T18:30:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "Totus Medicines",
@@ -197,7 +197,7 @@
    "items": 6,
    "latest": "2026-05-06T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "GenSci (Changchun GeneScience)",
@@ -208,7 +208,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   },
   {
    "company": "BeOne Medicines (ex-BeiGene)",
@@ -219,7 +219,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-24T08:15:06Z"
+   "checked": "2026-11-24T09:34:19Z"
   }
  ],
  "trials": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:15:06Z",
+ "updated": "2026-11-24T09:34:19Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,15 +589,15 @@
  ],
  "items": [
   {
-   "id": "3672bd4bff807c2d",
+   "id": "0fa9924557f51291",
    "company": "Roche",
-   "title": "Roche's Wilserdly FDA Broad Approval Boosts Outlook - Briefs Finance",
-   "summary": "Roche's Wilserdly FDA Broad Approval Boosts Outlook Briefs Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0pEMXdfN25IV2pyaGgzSGdKWFFmQzVKUHI2bXZQa29qZEh2T0NMWmV0UkNHdnNqcVpQaWZuSE5uRzFuWUlXUmprWUFrS1ZfWGN6aE10UDNyOWIzVWpJQ1BjMXFXdU90LVFfR0ExZnAwR1hzZ2NrZFhUb2FqUVdvdVhhRkNjeGNkamtkbU5rR2pxUQ?oc=5",
-   "published": "2026-11-24T03:18:21Z",
-   "outlet": "Briefs Finance",
+   "title": "FDA Approves Roche's Wilserdly for Early Breast Cancer - Voice of Healthcare",
+   "summary": "FDA Approves Roche's Wilserdly for Early Breast Cancer Voice of Healthcare",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEFwR08ybURNNUlsUV9BQWs5Q1hXSU9XREc0YU9XV1RUMHVWWFJPM1l4Ui0waVJ4UUl2cmliRWdxcXJFeDNlWlY3X1pjUnIxT1ZRYzBxbklsUVpUZ0dkNkd2R0t0SEVsUGx4S1FIWmM2SG9maFlkVHpfVUQybTZ2OGhLZ3lfY1NQZmRubExHbGx3blk?oc=5",
+   "published": "2026-11-24T06:35:00Z",
+   "outlet": "Voice of Healthcare",
    "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-24T03:38:13Z"
+   "first_seen": "2026-11-24T09:34:19Z"
   },
   {
    "id": "ba33305f760b80a9",
@@ -644,6 +644,17 @@
    "first_seen": "2026-11-24T02:36:47Z"
   },
   {
+   "id": "3672bd4bff807c2d",
+   "company": "Roche",
+   "title": "Roche's Wilserdly FDA Broad Approval Boosts Outlook - Briefs Finance",
+   "summary": "Roche's Wilserdly FDA Broad Approval Boosts Outlook Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0pEMXdfN25IV2pyaGgzSGdKWFFmQzVKUHI2bXZQa29qZEh2T0NMWmV0UkNHdnNqcVpQaWZuSE5uRzFuWUlXUmprWUFrS1ZfWGN6aE10UDNyOWIzVWpJQ1BjMXFXdU90LVFfR0ExZnAwR1hzZ2NrZFhUb2FqUVdvdVhhRkNjeGNkamtkbU5rR2pxUQ?oc=5",
+   "published": "2026-11-23T22:10:49Z",
+   "outlet": "Briefs Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T03:38:13Z"
+  },
+  {
    "id": "9a81be690d86ea79",
    "company": "Roche",
    "title": "Early Breast Cancer Approval Expands Giredestrant's Oral Solid-Dose Demand - PharmTech.com",
@@ -653,6 +664,17 @@
    "outlet": "PharmTech.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T22:16:04Z"
+  },
+  {
+   "id": "c525b2e23cf78a4e",
+   "company": "Avenzo Therapeutics",
+   "title": "Investors - Events & Presentations - Avenzo Therapeutics",
+   "summary": "Investors - Events & Presentations Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNm9uM1RjMmZqaDdNT2o1OXhJZk5zQUpWTVVLV28yZldfMThXU2tQRGVmOGt3TGRNeGN5N2F0ckRIZUY0SGhjczdYd0doN3hqeVFjWm9pLUFfWUtZa3pnRTQyRk00SUp4c29FcVJpV1FDWTFtSHVQUWlUZTI4V0NJeVUtZG4?oc=5",
+   "published": "2026-11-23T21:15:53Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T09:34:19Z"
   },
   {
    "id": "6f69f4633eba4e27",
@@ -752,6 +774,17 @@
    "outlet": "GenomeWeb",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T18:14:33Z"
+  },
+  {
+   "id": "294ba1344fffb22a",
+   "company": "Avenzo Therapeutics",
+   "title": "Scientific Posters & Publications - Avenzo Therapeutics",
+   "summary": "Scientific Posters & Publications Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WanhmQmRKQVVfVU9zbmtRc2x5eGtWOGlJTFVTYW5HLTY0VzJpQU9MVjY0WEEyV0JiYVV1Y3ctMW9KYkxlUC1KRUUzcEpZTS1FUDFFQ3lVX3NiVVQwajRnbnlCWQ?oc=5",
+   "published": "2026-11-23T17:51:19Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T09:34:19Z"
   },
   {
    "id": "1985c779227c4ffd",
@@ -875,17 +908,6 @@
    "first_seen": "2026-11-23T13:54:36Z"
   },
   {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
-   "published": "2026-11-22T18:13:15Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "c827d9dda8d48e84",
    "company": "Roche",
    "title": "Roche Holding AG (ROP.SW) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -939,6 +961,17 @@
    "outlet": "openPR.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T20:01:54Z"
+  },
+  {
+   "id": "f1a675dd4ac5c9bd",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics - Investor Relations - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics - Investor Relations Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QdkVPUnVTazhiRlJoMEhFRWo1UVdwMDRCX3B6cGlHd3haWlFscFpveE43RXp4NzdEeVlkYzJ5ajFZSlRfanJnMkU3cmtVNUpPSVFmaFdJMHdBQzNUT28wSDRB?oc=5",
+   "published": "2026-11-20T08:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T09:34:19Z"
   },
   {
    "id": "c168ae4f2a92bcf0",
@@ -1656,17 +1689,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -1676,6 +1698,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -4995,6 +5028,17 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
