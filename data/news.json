@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:04:31Z",
+ "updated": "2026-11-24T15:08:30Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,39 @@
  ],
  "items": [
   {
+   "id": "3a861acecfcda679",
+   "company": "Roche",
+   "title": "Roche’s Genentech notches 2nd breast cancer approval for oral SERD in a week - BioSpace",
+   "summary": "Roche’s Genentech notches 2nd breast cancer approval for oral SERD in a week BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDBzalNaNTlPZTk2Qk5URDRtdEhmTDRRWDJSdktlVml4ZXpxNmpybU5OY1JYVTIwY25GdUowR2tJTjdyZGJZVGJaVE5DSDA5N0lnY0d0YXJLOENLVDhucF83S0s5SGpmdjh0NTJaWXdoNDZJOHVyNC1sdzBGLUJvZXJhemw3cEdxT0NxWnQ1aHkzUlNUakJvLS1LcUNxbU90dW96VWdQMA?oc=5",
+   "published": "2026-11-24T14:50:49Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T15:08:30Z"
+  },
+  {
+   "id": "37a0c67a649b5be1",
+   "company": "Roche",
+   "title": "Roche two for two with breast cancer approval for Wilserdly - pharmaphorum",
+   "summary": "Roche two for two with breast cancer approval for Wilserdly pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUM3SlR5alQ1T0xqVTgtYVY5Sk5KcERnVVl3cmFsYTVUNnRKcE51dF9MWXJ5RzlkSEEtRFRNRFNYdTRRQzRNejBZUUlXUTBDQUt6V2xsaGlOWlptWjc1X1FvenlOTlFDbHcxVjFiZ0FxYmlPUXpqNEpObndHNWlmbWh3?oc=5",
+   "published": "2026-11-24T14:14:13Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T15:08:30Z"
+  },
+  {
+   "id": "0339d8df4e9c1a5a",
+   "company": "Roche",
+   "title": "Roche's Oral Breast Cancer Drug Wilserdly Wins Dual FDA Approvals; CEO Sees It Vying for Best-Selling Drug in History - BigGo Finance",
+   "summary": "Roche's Oral Breast Cancer Drug Wilserdly Wins Dual FDA Approvals; CEO Sees It Vying for Best-Selling Drug in History BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sVGRGN09GLXVMYVpicWtpSDlJU1dwTTZibkVoU19YVTlHUngwaUdXYjM4UGM0SHJOcVd2SjQzc0k1RU1rLWtVV19kVFJQMXVYZ09hQ2FhSENXTG82Vl9kanBTWjFkRjdGQmtieVRCel9WQmNmRWc?oc=5",
+   "published": "2026-11-24T13:55:00Z",
+   "outlet": "BigGo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T15:08:30Z"
+  },
+  {
    "id": "76c906b45dbf58df",
    "company": "Roche",
    "title": "Roche (RHHBF) Gains FDA Nod for Wilserdly Breast Cancer Therapy, Strengthening Dividend Appeal - GuruFocus",
@@ -664,6 +697,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T11:35:17Z"
+  },
+  {
+   "id": "916fbfe80d598f14",
+   "company": "Roche",
+   "title": "Roche says Wilserdly could become its top-selling drug as breast cancer approval boosts outlook - Traders Union",
+   "summary": "Roche says Wilserdly could become its top-selling drug as breast cancer approval boosts outlook Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWVpSEtmcnozZXFpVG9NVEY2TnhlZWprM1c1dlVYc1hlanAxckRrLU85Nll0Yk51R25oSy1TWnlLc3N0elBBY1FQZ2tZN2hmVTNiLV8yQmRBSGozendJOHRKQ2Y5WjNhQ3FnaHRjV0RqTmZWNUV1ODZvcmxEc1BUbjQ0SXRCY0o0THljRFNFT1hhcU45U1g0?oc=5",
+   "published": "2026-11-24T11:10:32Z",
+   "outlet": "Traders Union",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T15:08:30Z"
   },
   {
    "id": "ab4c7cace1b18fa6",
@@ -1073,6 +1117,17 @@
    "first_seen": "2026-11-23T13:54:36Z"
   },
   {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
+   "published": "2026-11-22T18:13:15Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "c827d9dda8d48e84",
    "company": "Roche",
    "title": "Roche Holding AG (ROP.SW) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -1368,6 +1423,17 @@
    "outlet": "PharmTech.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "7f2e1ba970ba6910",
+   "company": "Roche",
+   "title": "FDA approves new oral breast cancer drug combo that cut progression risk 62%: 6 notes - Becker's Oncology",
+   "summary": "FDA approves new oral breast cancer drug combo that cut progression risk 62%: 6 notes Becker's Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnVDLUZYZERoNWJQMFI2YTFNREdxYk1OS2E3MTNvOXUyZEhMbWpNUWtKcHEzcFRlUEc5Rmc3Wk0wOVRBREFqbVNfVUtaQkoxLUVTYmlkY2VTVi1ySHF3MWlpbmtBcHBpY2N3VDA4QVJ0Y1lvOGRTRThic210NVlTc25aRWxWM2RZY2RnM1Jrcjc1VExFdUlrQ280YWFkY2lNeFRqMXBlY3hSWW5qdTFHdW5uQmhWeWYzTHhkNlhTVmttUGM?oc=5",
+   "published": "2026-11-17T15:10:30Z",
+   "outlet": "Becker's Oncology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T15:08:30Z"
   },
   {
    "id": "4ef5b2c70ce9a03a",
@@ -1711,17 +1777,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "979ebc01828d49cb",
-   "company": "Roche",
-   "title": "FDA approves new breast cancer drug, providing new option for some patients, boost for Roche - STAT",
-   "summary": "FDA approves new breast cancer drug, providing new option for some patients, boost for Roche STAT",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnN2NHJJemRBVU9jMmZ4dGxRQUFfamM0b1d4TmF1dGI0VEUyVTQyczJXckk0VTZSeW9KSzc0d3VnZ1NxUmNjQlQ0MUh2aXI3cFpfb19ZRUwwSTdCNmdubnR3YTZ1NVpWYjh1NE9hdzNHS25kN3h1NjRLWXdmNXJVRk9BRXY?oc=5",
-   "published": "2026-11-16T21:01:49Z",
-   "outlet": "STAT",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "2d13e4202e70d52b",
    "company": "Roche",
    "title": "Roche: FDA lässt Giredestrant bei Brustkrebs mit ESR1-Mutation zu - TradingView",
@@ -1744,6 +1799,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "51c239bfa8cc0b05",
+   "company": "Roche",
+   "title": "Faeth Therapeutics Announces Clinical Trial Collaboration and Supply Agreement with Roche to Evaluate PIKTOR in Combination with a Selective Estrogen Receptor Degrader in HR+/HER2- Advanced Breast Cancer - BioSpace",
+   "summary": "Faeth Therapeutics Announces Clinical Trial Collaboration and Supply Agreement with Roche to Evaluate PIKTOR in Combination with a Selective Estrogen Receptor Degrader in HR+/HER2- Advanced Breast Cancer BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOXR6c1ZuM0NKdWxaZkVEUmlBWmx1UmVIR2ZYeDlkd000cVUyMVFOSm9henRaUzRXSDBwWG5WZUZITDFVSFh5RlJpT3RDbVg5aDF4WWRaNUI4MjBEZ3hIWkpkZXc1cnB3ZDdpWUhMeG90V2JhRm93ZllnZTYtVWZ3Y3lxUFdVUnY1N3hyMTdvZ3RwN2tyMjYxc1gyQUdPSi1fV0VsNFpBVENsX1U1bnN2SGVrbXBzZ2tKbGJuR0lYaE93bzlNaDBwNXFlWVlyMHFpZ2VBbmdhZ3JrOHJYLV9NMkxLbDRGM3hoWjZ5UGJXQllXV1Vxbll3VVJPX0dmZnZQeFp2MHZPUzdOZUMyZjNFS2NtYXAtNkMtLW44TkFPQ05vTUw4MnRrR0xHNEIwYTAxbmZ1d1B5SnNYYk9FaVB6Y0dSelZHZHVLZk8wR1ZTRmlMUDNOaXhyWnk5SmlqQQ?oc=5",
+   "published": "2026-11-16T15:00:32Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T15:08:30Z"
+  },
+  {
    "id": "e5b95298d5700393",
    "company": "Roche",
    "title": "Faeth Therapeutics signs Roche supply deal for breast cancer trial - Mugglehead Investment Magazine",
@@ -1764,6 +1830,17 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "979ebc01828d49cb",
+   "company": "Roche",
+   "title": "FDA approves new breast cancer drug, providing new option for some patients, boost for Roche - STAT",
+   "summary": "FDA approves new breast cancer drug, providing new option for some patients, boost for Roche STAT",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnN2NHJJemRBVU9jMmZ4dGxRQUFfamM0b1d4TmF1dGI0VEUyVTQyczJXckk0VTZSeW9KSzc0d3VnZ1NxUmNjQlQ0MUh2aXI3cFpfb19ZRUwwSTdCNmdubnR3YTZ1NVpWYjh1NE9hdzNHS25kN3h1NjRLWXdmNXJVRk9BRXY?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "STAT",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "a10edf8e2a059747",
@@ -1865,6 +1942,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
+   "published": "2026-11-09T22:00:26Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -1874,17 +1962,6 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
-  },
-  {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
-   "published": "2026-11-09T08:00:00Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -4190,7 +4267,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4580,6 +4657,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "b2d026413d13d390",
+   "company": "Eli Lilly",
+   "title": "HR+, HER2- Early Breast Cancer: - Eli Lilly",
+   "summary": "HR+, HER2- Early Breast Cancer: Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzQ0ekwxckhBejg1Q29RbmxXcThjNGlMS29uN1kxeWhjVndWN0VvQ0t2ZDNHZ3RQd3RvN2FOLUQ4bWxoVHFHa0M5RlEtQzVxb3VncEp4UkZNQTJVenYtZGZLbERtc3g2alVrWE9nU2w4S2UzWGtIS0R5QWo5ekNIS1FWckYwcVd0dkhSd1VpWjI5ZzZvcXBPbjBmVDhOSFZnWXdkY1hObmE5Ukg1UGRYRTY0M1JNVTdLV2NzN0swOXp3dnQ3TFFheWh5N2tjc3cwMGxOdld5bzhCLTFvX1lRSmRSTWFKbjgyWVJWSDBPOGlfeU9DdmtoLVhB?oc=5",
+   "published": "2026-03-23T05:41:44Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T15:08:30Z"
   },
   {
    "id": "c543261b73780418",
@@ -5204,17 +5292,6 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
-   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
