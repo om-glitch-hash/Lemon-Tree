@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:30:13Z",
+ "updated": "2026-11-24T02:36:47Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,28 @@
  ],
  "items": [
   {
+   "id": "a90c2c6115f779b1",
+   "company": "Roche",
+   "title": "US FDA approves Roche’s breast cancer pill for early-stage patients - Y100 WNCY",
+   "summary": "US FDA approves Roche’s breast cancer pill for early-stage patients Y100 WNCY",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2tWdExBeVl3MEs5UDVqT2FnTUxkUFJQY0czcTFsNms4WmhLOWtKYVBCODd5MEFzNDVMSXhRT2R4T1R2akZ1LURwY1Jna1Y0bmNPbWJaV0FfVG1TV1RVSGFkVTBza05QTE02amhCYV9IMFc5UlItaGMyS0dMVEt5WEVVVGJ2ZS1MRlVZUExtMHp4cE02Y0Z0U29R?oc=5",
+   "published": "2026-11-23T22:56:07Z",
+   "outlet": "Y100 WNCY",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T02:36:47Z"
+  },
+  {
+   "id": "34656d9d40642dd7",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01Mk9JU1JoWnIyMk91RWU5RE44R1p0SmJFMldqX2FrNVNjUEY5MTJxRnoxQXJzS0ZMS1Q5T3dwYzZqcFRyaUM5ejdfQ1VwbGg4UzN4eHBsdU9lZUJFRG1iN1Y3Q1IyZmtVbVAzRkhaeUVpS3pqdHc?oc=5",
+   "published": "2026-11-23T22:15:15Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:25:38Z"
+  },
+  {
    "id": "9a81be690d86ea79",
    "company": "Roche",
    "title": "Early Breast Cancer Approval Expands Giredestrant's Oral Solid-Dose Demand - PharmTech.com",
@@ -1082,6 +1104,17 @@
    "outlet": "pharma.economictimes.indiatimes.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "107a484d22b00b82",
+   "company": "Roche",
+   "title": "Roche scores FDA win for oral SERD giredestrant in advanced stage breast cancer - ETPharma",
+   "summary": "Roche scores FDA win for oral SERD giredestrant in advanced stage breast cancer ETPharma",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVWVQNEo0RmRwVVQ5TTFrZGw5THg5Wmo1dUJqRHlrWEtCRGhYUDl5U095QTlDbUsxVGFhcTMtUnBpandoM2ppaW1nUGxORWt1QTNuQWZDc2JnR21rbHhkSmpnUDdKYnZyYlVIUDZESWN1V0RMdVVmWGZZelF5X3hlZjEwc0p0TmJrSGk1SVlUdDNJTEg0V3l3dS1NcC1tRU5GMlpKbndBblp2RXFwaGh1R3VkR0tqUTNoUTB4OTc5SnhjeVBEa0dENWVEYlQxVWtLZUpUUjVZUHJLb09iQVRSalhiMlQyTmI5d0MzUjFRT05xUHhySWZFYmNn0gH-AUFVX3lxTE5abWc0UERVOFJCanFhV2R6dm5oVENyckt1RzcwM3RLX2FXXy0yekJYUUhFQVFhZG0zMnAyTnF5R3ZRX0V3U2twY0JoT1hlYTh5bE9tZi1qVHd4dHVXSGFTTWlkTG4tMFkyRkt1aVdQSS1acnEyLW1ad0xHSGNoNUdxbVlmX1dTeU53Q0N4bDVSNjN4Wll1dXpVREpnR2RWbWRfTi04clBaUmtfZWxTQUY2OUhvQlJsZWtyUGhXNkNtRkctdG1WUnNLbTd3RUkxMGlSTXFqejV1V3RERVhSYUdfUnZkWVZyZ2tLbkRCVS04dEppSGZ2blFBekw4RmNn?oc=5",
+   "published": "2026-11-17T14:26:15Z",
+   "outlet": "ETPharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T02:36:47Z"
   },
   {
    "id": "f012a2cbabb9befb",
@@ -3108,17 +3141,6 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
-   "id": "34656d9d40642dd7",
-   "company": "Olema Oncology",
-   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
-   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfRTJpOTZhWk12eldQN2tkWmRmajAtUUtIanh4ekxidGN2cUVQV3dSS3k1bmZvUy1aU3drdE44OXZsZ2QtdjJiZF9HbllBaHhfT0FCSmpRSUpTeEh2YUtLMEpFcUczOUNRRnY2dS0tSHRpcmJB?oc=5",
-   "published": "2026-07-10T12:46:40Z",
-   "outlet": "Olema Oncology",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:25:38Z"
-  },
-  {
    "id": "cf5b9b3256d75f5a",
    "company": "AstraZeneca",
    "title": "Datroway recommended for approval in the EU by CHMP as 1st-line treatment for patients with metastatic triple-negative breast cancer who are not candidates for immunotherapy - AstraZeneca",
@@ -3838,7 +3860,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
