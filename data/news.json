@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:36:47Z",
+ "updated": "2026-11-24T03:38:13Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,28 @@
  ],
  "items": [
   {
+   "id": "3672bd4bff807c2d",
+   "company": "Roche",
+   "title": "Roche's Wilserdly FDA Broad Approval Boosts Outlook - Briefs Finance",
+   "summary": "Roche's Wilserdly FDA Broad Approval Boosts Outlook Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0pEMXdfN25IV2pyaGgzSGdKWFFmQzVKUHI2bXZQa29qZEh2T0NMWmV0UkNHdnNqcVpQaWZuSE5uRzFuWUlXUmprWUFrS1ZfWGN6aE10UDNyOWIzVWpJQ1BjMXFXdU90LVFfR0ExZnAwR1hzZ2NrZFhUb2FqUVdvdVhhRkNjeGNkamtkbU5rR2pxUQ?oc=5",
+   "published": "2026-11-24T03:18:21Z",
+   "outlet": "Briefs Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T03:38:13Z"
+  },
+  {
+   "id": "ba33305f760b80a9",
+   "company": "Eli Lilly",
+   "title": "Lilly highlights strength of breast cancer portfolio with new data across validated drivers of hormone receptor-positive disease - Eli Lilly",
+   "summary": "Lilly highlights strength of breast cancer portfolio with new data across validated drivers of hormone receptor-positive disease Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hcDhiVmg0eTVGb3l0dzU2bnRSdkJ1MlJ0ZHBxdGxnUFRsTkc0aF9adkdKSUNWQ254VXNXMjh0dUpMaWY3U0l0TU1qWmdMUmVWZnI0?oc=5",
+   "published": "2026-11-24T02:06:57Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T03:38:13Z"
+  },
+  {
    "id": "a90c2c6115f779b1",
    "company": "Roche",
    "title": "US FDA approves Roche’s breast cancer pill for early-stage patients - Y100 WNCY",
@@ -598,17 +620,6 @@
    "outlet": "Y100 WNCY",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T02:36:47Z"
-  },
-  {
-   "id": "34656d9d40642dd7",
-   "company": "Olema Oncology",
-   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
-   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01Mk9JU1JoWnIyMk91RWU5RE44R1p0SmJFMldqX2FrNVNjUEY5MTJxRnoxQXJzS0ZMS1Q5T3dwYzZqcFRyaUM5ejdfQ1VwbGg4UzN4eHBsdU9lZUJFRG1iN1Y3Q1IyZmtVbVAzRkhaeUVpS3pqdHc?oc=5",
-   "published": "2026-11-23T22:15:15Z",
-   "outlet": "Olema Oncology",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:25:38Z"
   },
   {
    "id": "9a81be690d86ea79",
@@ -633,6 +644,17 @@
    "first_seen": "2026-11-23T22:16:04Z"
   },
   {
+   "id": "cbda24b2b9f996f9",
+   "company": "Roche",
+   "title": "FDA clears Roche's Wilserdly after surgery for early breast cancer, the first new hormone therapy there in over 20 years - MLQ.ai",
+   "summary": "FDA clears Roche's Wilserdly after surgery for early breast cancer, the first new hormone therapy there in over 20 years MLQ.ai",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQam95UlhrQ3d0VzNXRGdGQ0VidXZKdnNBeXZqUEI3dm5UNXFqc1JzX3NLUnl1YWpfX3B3RHl6YTI2SkpTTmYtU1EzakotUkNEb09PV29UQ2xJb2FuaDlSODFaQTlOTVRqemljY0YzMGRVeWxlVTB4Q29ROFpkYVNNRG9JRmhfZVlwYzZBeGJqYzd1RGZqZEZMakdlX2xHNkZiR3dRUWhJdXdaeVh4UnNqNUdQNFZsSWt4WWN3SHFPYzhhclBpelJpTk1kZGRSZURhSjUyQ0l3?oc=5",
+   "published": "2026-11-23T20:57:40Z",
+   "outlet": "MLQ.ai",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T03:38:13Z"
+  },
+  {
    "id": "717f712c34e269e8",
    "company": "Roche",
    "title": "US FDA approves Roche’s breast cancer pill for early-stage patients - 101 WIXX",
@@ -642,6 +664,17 @@
    "outlet": "101 WIXX",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T23:16:56Z"
+  },
+  {
+   "id": "2fd9f446cea37ff5",
+   "company": "Roche",
+   "title": "US FDA approves Roche's breast cancer pill for early-stage patients - ARYnews.tv",
+   "summary": "US FDA approves Roche's breast cancer pill for early-stage patients ARYnews.tv",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlM0QU45M19xWThNOG9lME5CcG1nWjBadTdNa1NmM0V3Rkt2OXVHQVhDMTR4MzQ4Y1BCclBUOUEyZ21vRlIwNnppSmhpOC1udTdIUkdEeTRhTlFUREtXU1ozZHdYaHRIcEVTeDdzd2Z0Wm12X3hFdVJkY21VTWxqYjlVeXdocTRrcnRrbWtB?oc=5",
+   "published": "2026-11-23T19:27:11Z",
+   "outlet": "ARYnews.tv",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T03:38:13Z"
   },
   {
    "id": "f93a04c9210241a6",
@@ -664,6 +697,17 @@
    "outlet": "Quartz",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T19:25:06Z"
+  },
+  {
+   "id": "d60c68f21d121cd8",
+   "company": "Roche",
+   "title": "Roche’s New Breast Cancer Pill Wins Approval for Broader Use - Bloomberg.com",
+   "summary": "Roche’s New Breast Cancer Pill Wins Approval for Broader Use Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVFyMXlhQ1p6d05PTGY3a1pfSG1DQk0wRldacmdKZTAxXzB2a3gzV1lRN19sUGlxTkVpWkR2UjY3OHM2SzBwRUlTSVRxaHhGdFhMYnZaVEJ2UGloUnlzRmprZkg4b0dDenpnUGtleER6amhJeFNwY3dPanloczlUWWhEdDAtWnBYM2lzLUpMcWJCc2dTOTF2eWlENkVIMWFOQWhwT1VqS3dScGdObXNWdkFfbVJiUQ?oc=5",
+   "published": "2026-11-23T18:10:33Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T03:38:13Z"
   },
   {
    "id": "b1638064a7db9c3d",
@@ -776,17 +820,6 @@
    "first_seen": "2026-11-23T08:57:24Z"
   },
   {
-   "id": "1c65a41e2f2175fa",
-   "company": "Eli Lilly",
-   "title": "Is Inluriyo® (imlunestrant) FDA approved? - Eli Lilly",
-   "summary": "Is Inluriyo® (imlunestrant) FDA approved? Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXNYc2tZeWJYTEZqSmY4YnlfaXA0eE1JV2pwMjBIMlFUeXVzaTV5ZXhsVTlSdnZubEMtUFNxY3RzelR6LVNPZlRZYmVQa0lPVlQtckVrZ1JyTjdndHFIcVZheWlneTA3dkVGTEZiVzdWcW1PQ2lmTDg5OHc1cUVBT05kTDFBUFFkaHNIbGQtWDZZLUM0SGdSaFotcFlwNkE?oc=5",
-   "published": "2026-11-23T05:01:51Z",
-   "outlet": "Eli Lilly",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-22T07:57:08Z"
-  },
-  {
    "id": "82cffcffb598ff86",
    "company": "Eli Lilly",
    "title": "Can Inluriyo™ (imlunestrant) be taken with or without food? - Eli Lilly",
@@ -796,6 +829,17 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
+   "id": "1c65a41e2f2175fa",
+   "company": "Eli Lilly",
+   "title": "Is Inluriyo® (imlunestrant) FDA approved? - Eli Lilly",
+   "summary": "Is Inluriyo® (imlunestrant) FDA approved? Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXNYc2tZeWJYTEZqSmY4YnlfaXA0eE1JV2pwMjBIMlFUeXVzaTV5ZXhsVTlSdnZubEMtUFNxY3RzelR6LVNPZlRZYmVQa0lPVlQtckVrZ1JyTjdndHFIcVZheWlneTA3dkVGTEZiVzdWcW1PQ2lmTDg5OHc1cUVBT05kTDFBUFFkaHNIbGQtWDZZLUM0SGdSaFotcFlwNkE?oc=5",
+   "published": "2026-11-21T22:10:25Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-22T07:57:08Z"
   },
   {
    "id": "c827d9dda8d48e84",
@@ -2211,7 +2255,7 @@
    "title": "AstraZeneca’s Etcamah Misses Primary Endpoint in Phase III SERENA-4 Trial - Yahoo Finance UK",
    "summary": "AstraZeneca’s Etcamah Misses Primary Endpoint in Phase III SERENA-4 Trial Yahoo Finance UK",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXZuTlJUUFdrR240ckk5RmxjbmR3WHlIb0gyNUlZVFJ5NzAxX1N6TnVPLWI3dWNhMF9rUWxsOTFxNXBJY25XZDJMUklWc1dmNnNpUnFtZWNib255RFFKbVlJQUpmZWNkWVZPSkI0aHpzWEFWMUxFRFYwU291UE1mYXNZYWlmNDNRa1R5QWVuTDFyMGROWTRN?oc=5",
-   "published": "2026-09-14T07:00:00Z",
+   "published": "2026-09-13T07:00:00Z",
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T09:40:28Z"
@@ -3097,6 +3141,17 @@
    "first_seen": "2026-11-23T10:12:57Z"
   },
   {
+   "id": "4915758c17dffbc3",
+   "company": "AstraZeneca",
+   "title": "EU Okays AstraZeneca’s Etcamah As US Wait Continues - Scrip",
+   "summary": "EU Okays AstraZeneca’s Etcamah As US Wait Continues Scrip",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekZQSFJQdHhpLVpfUURiOV9tRTB5NjhBdThqenBsVnR2RERack1rOHBNQVpIcjRjNF9Fc0kyLWJwV0FfcGd3Y1gwb0FlVzN6T3pYdk5UVS10MlctbHhBZ1A1cEctZ2hsZlcydjFKd1RLbjJ3NlhReFZ3dFYtb2JybWlnZmVBTS1aVDl0cHpGbUg5eUZOVUtjVjdmaDgtclR0bldaZ1dFd1Y5RWdGNmM4TzNJVVJFN0otWVZwOTUxOWltVU9oV1ZQRmZvSHhkUDgyMXZDMWdyREFYQ1pSQS1n?oc=5",
+   "published": "2026-07-23T07:00:00Z",
+   "outlet": "Scrip",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T03:38:13Z"
+  },
+  {
    "id": "3068bcca448eec97",
    "company": "AstraZeneca",
    "title": "Etcamah (camizestrant) in combination with a CDK4/6 inhibitor approved in the EU for 1st-line advanced ER-positive breast cancer",
@@ -3139,6 +3194,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "34656d9d40642dd7",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – 0001785987-26-000002 – 4 Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfRTJpOTZhWk12eldQN2tkWmRmajAtUUtIanh4ekxidGN2cUVQV3dSS3k1bmZvUy1aU3drdE44OXZsZ2QtdjJiZF9HbllBaHhfT0FCSmpRSUpTeEh2YUtLMEpFcUczOUNRRnY2dS0tSHRpcmJB?oc=5",
+   "published": "2026-07-10T12:46:40Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:25:38Z"
   },
   {
    "id": "cf5b9b3256d75f5a",
@@ -3328,17 +3394,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "34f2736ff36d09a3",
-   "company": "Roche",
-   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
-   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9YSkJaQk12QU5IWHAzdGhwaG9zYUxSbk9YYmE5ZWdRc2hvTDdyYy1HYzRoMnNsdXB0cmRaQV9wSkYtTWZDV2VYVndqRmUxM3hRV1dWU3N0WjktNzAySk5rc0QyUzRKMGMydVE3Qm4wNHBzbHQ4Q2VyaTBrbk5qa19FZmZxcDJsTlVSM1pzZFROdU9pdTRWa0VVSEd0V00zRmdpLWtfU211U1pSU25qdEZYS0I?oc=5",
-   "published": "2026-06-03T07:00:00Z",
-   "outlet": "The Clinical Trial Vanguard",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "48636b0536817bec",
    "company": "Roche",
    "title": "Roche’s Investor Event at ASCO 2026 - Roche",
@@ -3359,6 +3414,17 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": "2026-11-21T18:15:32Z"
+  },
+  {
+   "id": "34f2736ff36d09a3",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
+   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl84S3ZOSzZFUUdIcGNLR05DRXVZa3NkVTYwU0lkRUVURDluaWY0dW9vdHRrdExQZW81bjR3VVJpQ2N2MUJ4ZTlFbFNzUXN4UWd4LVVmUzRGTHJwVEJRWG12bnEyWnFRbE9hS3FYYkhmN3hyZTRiS2RRRTdIV0RJQ21xZWhvci1nRnVnMGVaWVhXT3J5aHVyR1dQZWNVQkYwVFQ1UWJsYzVHMUhndEUzOWl3?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "99cbb96e7682485a",
@@ -3860,7 +3926,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
