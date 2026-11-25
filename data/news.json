@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:51:12Z",
+ "updated": "2026-11-25T17:43:02Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -604,7 +604,7 @@
    "company": "Roche",
    "title": "Once-daily breast cancer pill gets US FDA nod - India Today",
    "summary": "Once-daily breast cancer pill gets US FDA nod India Today",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa003bnhQWHhoWkFqOXV1eWtqS2Y0VDJZYmxaRkNESXFMQXFhTUN5emlxT0d0ZTNJU2Z4cTdsaHBhS2xsVmMyejlhN09YaXZPeGplczdrLVJCaXhicDFaLWlkdUYzcWc3ZWZ5cHhYQ0x2R25tNGp6VUo4TWREeUhIa25ZQnRzZUtqY3ROQWFvMlJyRzV6cDlpR084TVZrSWlPT0RTR2kwWWtHUk1ndVlhSEhTTVkxZmppbjM4RtIBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZ9IBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
    "published": "2026-11-25T10:22:48Z",
    "outlet": "India Today",
    "method": "news search (newsroom not indexed)",
@@ -1359,17 +1359,6 @@
    "first_seen": "2026-11-23T13:54:36Z"
   },
   {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
-   "published": "2026-11-22T18:13:15Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "c827d9dda8d48e84",
    "company": "Roche",
    "title": "Roche Holding AG (ROP.SW) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -1733,17 +1722,6 @@
    "first_seen": "2026-11-22T04:41:00Z"
   },
   {
-   "id": "1a445330438d0788",
-   "company": "Roche",
-   "title": "Roche’s New Breast Cancer Pill Wins First FDA Approval - Bloomberg.com",
-   "summary": "Roche’s New Breast Cancer Pill Wins First FDA Approval Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
-   "published": "2026-11-17T13:14:19Z",
-   "outlet": "Bloomberg.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-24T20:26:32Z"
-  },
-  {
    "id": "191c289cf48d0ffc",
    "company": "Roche",
    "title": "FDA Approves Roche’s Wilserdly Oral Breast Cancer Therapy - www.tokenpost.com",
@@ -1841,6 +1819,17 @@
    "outlet": "WSJ",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "1a445330438d0788",
+   "company": "Roche",
+   "title": "Roche’s New Breast Cancer Pill Wins First FDA Approval - Bloomberg.com",
+   "summary": "Roche’s New Breast Cancer Pill Wins First FDA Approval Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T20:26:32Z"
   },
   {
    "id": "24bc69eeb59b7cb0",
@@ -2228,17 +2217,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2248,6 +2226,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -4641,7 +4630,7 @@
    "company": "Arvinas",
    "title": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer - Arvinas",
    "summary": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnd3FtRi15RFYzUXljUmNNRWJPTUJtam5lNjNobjRFTUpxOUUzaWM2bjZYSzJ1cThQSG1BSjIwSjRCX21HQXMxaUh0azd0UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVctVHpsMEotc1AtNFhFNE0wR3hpRk5DdFZKWHFRR2JoYU1KNmxvLW92UFh5cnNycGt0Z0VDR0lDNFA5Tk5DbUNEZEV5dzhnY01Mb1ZaZktKUUZtSXpab3FJQzBMQmRidDhRVzQtQ0sxVlA0ODQ4SFJDTS1va285Tl9Zc1k2ek1CVm5xekpsWlRvOXVzcXRCenJEZzMzUlFSTDFiVEV2Z2k3N0JfN1lmVDJFQ3k1RW5XX2tzTmlR?oc=5",
    "published": "2026-05-01T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4842,6 +4831,17 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2xtdjRfY2hMWG5rWjBMeERNVE1PY2ttei1aODFOSEpfR18tOU1oRXlrbmxtbF9LdkNBbEFYc1R0TnpmbWUzZmRQNGJuZHhHTEc5bi1KWFI1VllWLXU5QnB0SlBnVmlaZTRCbjdqZ3ViMEFKeFZTS1VJZGJNTUtabFJHbGhpYzJkM0JQeUNLc2pQcEcxNXBqMnN2THI5aVBabFFCZHc3QmtyTFZ3dlByenFEX1BzZzBfbFE?oc=5",
    "published": "2026-04-27T07:00:00Z",
    "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "b6a72b53f863b165",
+   "company": "Arvinas",
+   "title": "Congress Presentations - Arvinas",
+   "summary": "Congress Presentations Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yMUpoZVVTX2VzZWlwSEJuWkhKYWV1ZHFyejlyN0VKWXpNcm1QQ0VBaWdHLVRWZnBaR3JoSU43NXdGT2FadnAxbnl5aTVoWVRVTjdmeGRFTEFwVXM0V1hpS1NXM2xzWDJYQklkZE9BcWszbFZ6?oc=5",
+   "published": "2026-04-26T23:06:12Z",
+   "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
   },
@@ -5649,6 +5649,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "9236f573fd6faf33",
    "company": "Celcuity",
    "title": "Email Alerts - Celcuity",
@@ -5809,17 +5820,6 @@
    "summary": "Publications Arvinas",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJeG5wMmNicUN4YmM3dUtBUHdLMEVUb1lhTW1UMlZTRE85NmVIZFI4V3dSV2xveUVmS0t4T3dqOFdBdTB1R0xyWHpXZmhnaF93QmRfUk5IVHExUHF2WGc?oc=5",
    "published": "2025-12-06T22:48:22Z",
-   "outlet": "Arvinas",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "b6a72b53f863b165",
-   "company": "Arvinas",
-   "title": "Congress Presentations - Arvinas",
-   "summary": "Congress Presentations Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aFEwMmh0MDU1b3YycDJCajg5Mk9UV1RnTzlFTHgzdDRhRGFNRkJuNFBJQlBQcFcxUDYtdzN6Q0ZSaGM1Z0lHMGQwakJFbXN5eU1QVTktVVNyTk5UMVJFSnFrTWxuN1J5d013?oc=5",
-   "published": "2025-12-06T16:56:09Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
