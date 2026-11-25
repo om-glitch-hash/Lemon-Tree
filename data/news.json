@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:53:21Z",
+ "updated": "2026-11-25T02:52:09Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -588,6 +588,17 @@
   }
  ],
  "items": [
+  {
+   "id": "c40bcd9bb2cae134",
+   "company": "Roche",
+   "title": "Roche's daily breast cancer pill wins FDA approval, prevents recurrence - FlipItMoney",
+   "summary": "Roche's daily breast cancer pill wins FDA approval, prevents recurrence FlipItMoney",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3RNem1peXNIZlJtdmhzZVVMdU5GZVBWcU9ZY3ZOdmlPUmhHOGlQLUV6aFozQmFqXzg3ekpIR19LSnlYU0M1WEFJVG1aU2VBXzFGZWk3RTVwOFRQQ2pvSXNRSS03RmN4UWs5aU9lQ0UzQy1kRVJWSVhNM2xXRjFuNXg2S0VzeWt1VnNBcGxweEFyXzFERTVrblFiaDA?oc=5",
+   "published": "2026-11-25T02:48:01Z",
+   "outlet": "FlipItMoney",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T02:52:09Z"
+  },
   {
    "id": "aaf74b427e79d9d1",
    "company": "Roche",
@@ -2050,6 +2061,17 @@
    "outlet": "KWSN",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T16:06:36Z"
+  },
+  {
+   "id": "92be2ba462acc5ea",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – 0001274173-26-000237 – SCHEDULE 13G/A - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – 0001274173-26-000237 – SCHEDULE 13G/A Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVRJaER1a3VVV0pLMDEwRlc4eV8xQjhSeUdSUU5LS01yVEJ1cUFPaUtEMmtTOWZRZE9xZE1vRFdzeWNpNjRYamZiUC12SGROZWRqMTljZWdUZWxpRTl6NDdkU3BOX0N3YjVpV2VKTUd5V3FFMGEwN2lBS1hOamlaTUxfUm5pUQ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-25T02:52:09Z"
   },
   {
    "id": "af395a21e0eceab2",
@@ -4274,6 +4296,17 @@
    "first_seen": "2026-11-22T09:40:28Z"
   },
   {
+   "id": "e57bdd6414c4dcee",
+   "company": "AstraZeneca",
+   "title": "EMA Backs Breast Cancer SERD After FDA No Vote - Medscape",
+   "summary": "EMA Backs Breast Cancer SERD After FDA No Vote Medscape",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFlfbGtJYnFpUVVsUU9rMWd1RkNzVnpqX1oydkxYRnhacm5HVEMxUGw0ajJRSF9HWl83VC1EVFJvRXk2S1pFN3FQUGpJOWVXYkhMQ1JjUG53a01QSlZ6OHNpQTNvQ1JSWnVmenMyNFYzRVNMejEtclQ1REd0R1c3MnJqUEt1LWdPemtZV0hwV3h1S2huQ1NzVzB4d1M?oc=5",
+   "published": "2026-05-22T07:00:00Z",
+   "outlet": "Medscape",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T02:52:09Z"
+  },
+  {
    "id": "40d62f8a17dce7ed",
    "company": "Eli Lilly",
    "title": "Verzenio® (abemaciclib) Survival Data in HR+, HER2-, High-Risk Early Breast Cancer - Eli Lilly",
@@ -4476,7 +4509,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5587,7 +5620,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
