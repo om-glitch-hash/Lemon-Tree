@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:52:09Z",
+ "updated": "2026-11-25T03:54:10Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -664,6 +664,17 @@
    "outlet": "BioPharma Dive",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T18:22:02Z"
+  },
+  {
+   "id": "9c3461a1540192c5",
+   "company": "Roche",
+   "title": "FDA nod expands Genentech’s Wilserdly to early breast cancer - BioWorld News",
+   "summary": "FDA nod expands Genentech’s Wilserdly to early breast cancer BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3E5X2s3TVd1WURLTWdORjBjdi1WM3d2cm11YWl2SXZEUVdyb21CQ3JsdVdSX192YWRfdW96d1Bqd0FJQXB3bFR1bzlaQUdwNEJ2eHUyNjNkal9GNk1MbklMNHptT3lJSnFNSkdDREZiSG5ocnNNS3RrblZOZlp4UzAxNWZmTlJ0N1EyUUJ6V2taRzBfVkUtLUFGc2JNcUE2SWc?oc=5",
+   "published": "2026-11-24T16:00:00Z",
+   "outlet": "BioWorld News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T03:54:10Z"
   },
   {
    "id": "727311e6133e3b6c",
@@ -3185,6 +3196,17 @@
    "first_seen": "2026-11-23T10:12:57Z"
   },
   {
+   "id": "c3a2d2ed69e382e7",
+   "company": "AstraZeneca",
+   "title": "FDA Clears AstraZeneca's Breast Cancer Pill Etcamah - Briefs Finance",
+   "summary": "FDA Clears AstraZeneca's Breast Cancer Pill Etcamah Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHBSeXMtcFRmOC1pOV93OE1iWm94NzZ3UnZLck9sZkZ0QlJVWXVtUTdsQW5ERU13aWxIWXUyZHVGYnRYbkFpT3I2ZDJSdnhpZk1JdWdPNUdIdmhiSExZdG9hMHJPOGxDUURLRkx3TF9uMFo5VDk4SEpTSjdHLXB6bmJxenE0dw?oc=5",
+   "published": "2026-09-04T07:00:00Z",
+   "outlet": "Briefs Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T03:54:10Z"
+  },
+  {
    "id": "11f241d9326b99da",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics Announces Appointment of Barbara Bodem and Elizabeth Mily to Board of Directors as Independent Directors - Avenzo Therapeutics",
@@ -4509,7 +4531,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
