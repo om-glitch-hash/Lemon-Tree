@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:39:11Z",
+ "updated": "2026-11-25T23:34:17Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -615,11 +615,22 @@
    "company": "Roche",
    "title": "Once-daily breast cancer pill gets US FDA nod - India Today",
    "summary": "Once-daily breast cancer pill gets US FDA nod India Today",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa003bnhQWHhoWkFqOXV1eWtqS2Y0VDJZYmxaRkNESXFMQXFhTUN5emlxT0d0ZTNJU2Z4cTdsaHBhS2xsVmMyejlhN09YaXZPeGplczdrLVJCaXhicDFaLWlkdUYzcWc3ZWZ5cHhYQ0x2R25tNGp6VUo4TWREeUhIa25ZQnRzZUtqY3ROQWFvMlJyRzV6cDlpR084TVZrSWlPT0RTR2kwWWtHUk1ndVlhSEhTTVkxZmppbjM4RtIBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZ9IBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
    "published": "2026-11-25T10:22:48Z",
    "outlet": "India Today",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T10:58:58Z"
+  },
+  {
+   "id": "c827d9dda8d48e84",
+   "company": "Roche",
+   "title": "Roche Holding AG (ROP.SW) stock price, news, quote and history - Yahoo Finance Singapore",
+   "summary": "Roche Holding AG (ROP.SW) stock price, news, quote and history Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGMkZ6TWxvWFJVaDFrUmlvZjFKaGl0VGQxbEZhWU84LWtBMzRnMHhnalhRcWJnaDg1QUl3a3dtekMyWFhpdV9tanZQZ2YteURzcEZ6Vw?oc=5",
+   "published": "2026-11-25T08:06:36Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T23:16:56Z"
   },
   {
    "id": "c40bcd9bb2cae134",
@@ -1370,17 +1381,6 @@
    "first_seen": "2026-11-23T13:54:36Z"
   },
   {
-   "id": "c827d9dda8d48e84",
-   "company": "Roche",
-   "title": "Roche Holding AG (ROP.SW) stock price, news, quote and history - Yahoo Finance Singapore",
-   "summary": "Roche Holding AG (ROP.SW) stock price, news, quote and history Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGMkZ6TWxvWFJVaDFrUmlvZjFKaGl0VGQxbEZhWU84LWtBMzRnMHhnalhRcWJnaDg1QUl3a3dtekMyWFhpdV9tanZQZ2YteURzcEZ6Vw?oc=5",
-   "published": "2026-11-21T18:47:59Z",
-   "outlet": "Yahoo Finance Singapore",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-23T23:16:56Z"
-  },
-  {
    "id": "e420e361e8314877",
    "company": "Roche",
    "title": "Roche Holding stock: FDA clears Wilserdly and Gazyva - ad-hoc-news.de",
@@ -1777,17 +1777,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "887d7d97322ffa2e",
-   "company": "Roche",
-   "title": "Roche Secures FDA Approval for Wilserdly in Advanced Breast Cancer Treatment - Yahoo Finance",
-   "summary": "Roche Secures FDA Approval for Wilserdly in Advanced Breast Cancer Treatment Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTlWSWRRX012bGdqYVdlQ205eU8tLVRqaTNyZHhrb24zYVhtMmFIWEtGd0J4MDBxR202MGZtaFgxWjdEclJhV3BaWlFvRFprNXJFTGEteThhNm1NMm1rUnJENzdBd1RZUnZkMEJWQmdXaG9vOGxYXzlDTkdkT1FYT1BZSmk4TnBRaGZxTmhvR0ZydTJYQzJhZmdkYUZDdw?oc=5",
-   "published": "2026-11-17T11:26:43Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "037ac79a8f5de5aa",
    "company": "Roche",
    "title": "Roche joins the oral SERD club as FDA clears Wilserdly - pharmaphorum",
@@ -1828,6 +1817,17 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
    "published": "2026-11-17T08:15:00Z",
    "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "887d7d97322ffa2e",
+   "company": "Roche",
+   "title": "Roche Secures FDA Approval for Wilserdly in Advanced Breast Cancer Treatment - Yahoo Finance",
+   "summary": "Roche Secures FDA Approval for Wilserdly in Advanced Breast Cancer Treatment Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTlWSWRRX012bGdqYVdlQ205eU8tLVRqaTNyZHhrb24zYVhtMmFIWEtGd0J4MDBxR202MGZtaFgxWjdEclJhV3BaWlFvRFprNXJFTGEteThhNm1NMm1rUnJENzdBd1RZUnZkMEJWQmdXaG9vOGxYXzlDTkdkT1FYT1BZSmk4TnBRaGZxTmhvR0ZydTJYQzJhZmdkYUZDdw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
   },
@@ -4652,7 +4652,7 @@
    "company": "Arvinas",
    "title": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer - Arvinas",
    "summary": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVctVHpsMEotc1AtNFhFNE0wR3hpRk5DdFZKWHFRR2JoYU1KNmxvLW92UFh5cnNycGt0Z0VDR0lDNFA5Tk5DbUNEZEV5dzhnY01Mb1ZaZktKUUZtSXpab3FJQzBMQmRidDhRVzQtQ0sxVlA0ODQ4SFJDTS1va285Tl9Zc1k2ek1CVm5xekpsWlRvOXVzcXRCenJEZzMzUlFSTDFiVEV2Z2k3N0JfN1lmVDJFQ3k1RW5XX2tzTmlR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnd3FtRi15RFYzUXljUmNNRWJPTUJtam5lNjNobjRFTUpxOUUzaWM2bjZYSzJ1cThQSG1BSjIwSjRCX21HQXMxaUh0azd0UQ?oc=5",
    "published": "2026-05-01T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4853,6 +4853,17 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2xtdjRfY2hMWG5rWjBMeERNVE1PY2ttei1aODFOSEpfR18tOU1oRXlrbmxtbF9LdkNBbEFYc1R0TnpmbWUzZmRQNGJuZHhHTEc5bi1KWFI1VllWLXU5QnB0SlBnVmlaZTRCbjdqZ3ViMEFKeFZTS1VJZGJNTUtabFJHbGhpYzJkM0JQeUNLc2pQcEcxNXBqMnN2THI5aVBabFFCZHc3QmtyTFZ3dlByenFEX1BzZzBfbFE?oc=5",
    "published": "2026-04-27T07:00:00Z",
    "outlet": "Relay Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "b6a72b53f863b165",
+   "company": "Arvinas",
+   "title": "Congress Presentations - Arvinas",
+   "summary": "Congress Presentations Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yMUpoZVVTX2VzZWlwSEJuWkhKYWV1ZHFyejlyN0VKWXpNcm1QQ0VBaWdHLVRWZnBaR3JoSU43NXdGT2FadnAxbnl5aTVoWVRVTjdmeGRFTEFwVXM0V1hpS1NXM2xzWDJYQklkZE9BcWszbFZ6?oc=5",
+   "published": "2026-04-26T23:06:12Z",
+   "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
   },
@@ -5831,17 +5842,6 @@
    "summary": "Publications Arvinas",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJeG5wMmNicUN4YmM3dUtBUHdLMEVUb1lhTW1UMlZTRE85NmVIZFI4V3dSV2xveUVmS0t4T3dqOFdBdTB1R0xyWHpXZmhnaF93QmRfUk5IVHExUHF2WGc?oc=5",
    "published": "2025-12-06T22:48:22Z",
-   "outlet": "Arvinas",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "b6a72b53f863b165",
-   "company": "Arvinas",
-   "title": "Congress Presentations - Arvinas",
-   "summary": "Congress Presentations Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aFEwMmh0MDU1b3YycDJCajg5Mk9UV1RnTzlFTHgzdDRhRGFNRkJuNFBJQlBQcFcxUDYtdzN6Q0ZSaGM1Z0lHMGQwakJFbXN5eU1QVTktVVNyTk5UMVJFSnFrTWxuN1J5d013?oc=5",
-   "published": "2025-12-06T16:56:09Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
