@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:27:07Z",
+ "updated": "2026-11-25T14:44:45Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -593,7 +593,7 @@
    "company": "Roche",
    "title": "Once-daily breast cancer pill gets US FDA nod - India Today",
    "summary": "Once-daily breast cancer pill gets US FDA nod India Today",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZ9IBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa003bnhQWHhoWkFqOXV1eWtqS2Y0VDJZYmxaRkNESXFMQXFhTUN5emlxT0d0ZTNJU2Z4cTdsaHBhS2xsVmMyejlhN09YaXZPeGplczdrLVJCaXhicDFaLWlkdUYzcWc3ZWZ5cHhYQ0x2R25tNGp6VUo4TWREeUhIa25ZQnRzZUtqY3ROQWFvMlJyRzV6cDlpR084TVZrSWlPT0RTR2kwWWtHUk1ndVlhSEhTTVkxZmppbjM4RtIBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
    "published": "2026-11-25T10:22:48Z",
    "outlet": "India Today",
    "method": "news search (newsroom not indexed)",
@@ -1161,6 +1161,17 @@
    "first_seen": "2026-11-24T03:38:13Z"
   },
   {
+   "id": "ed812bf08f48c7e8",
+   "company": "Roche",
+   "title": "Roche’s New Breast Cancer Pill Wins Approval for Broader Use - Bloomberg",
+   "summary": "Roche’s New Breast Cancer Pill Wins Approval for Broader Use Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVFyMXlhQ1p6d05PTGY3a1pfSG1DQk0wRldacmdKZTAxXzB2a3gzV1lRN19sUGlxTkVpWkR2UjY3OHM2SzBwRUlTSVRxaHhGdFhMYnZaVEJ2UGloUnlzRmprZkg4b0dDenpnUGtleER6amhJeFNwY3dPanloczlUWWhEdDAtWnBYM2lzLUpMcWJCc2dTOTF2eWlENkVIMWFOQWhwT1VqS3dScGdObXNWdkFfbVJiUQ?oc=5",
+   "published": "2026-11-23T18:10:33Z",
+   "outlet": "Bloomberg",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T14:44:45Z"
+  },
+  {
    "id": "b1638064a7db9c3d",
    "company": "Roche",
    "title": "Roche’s Wilserdly Nets Second FDA Approval in Adjuvant Breast Cancer - GenomeWeb",
@@ -1544,6 +1555,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "27e1d1e23adce7f3",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics Presents Positive Preliminary Results from the Phase 1 Study of AVZO-1418, a Potentially Best-in-Class EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics Presents Positive Preliminary Results from the Phase 1 Study of AVZO-1418, a Potentially Best-in-Class EGFR/HER3 Bispecific Antibody-Drug Conjugate, at the 38th EORTC-NCI-AACR Symposium Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQUzRDUEF3SnQ2Zy1nUFNHRzRQVTlfN1dHX0pqTkVUb2Z5SG54OFJGOWR0Sk9LS3JtN0Z1T181UGRvUnYxN3RyMWlGdnpFMVEzVF9jVlRUWGFsb0dnMF9VcDFvVUNNODU2ekpjcEo3ZGdXc2huRjdLOWJfUDh4c1ZkRDFRdmlWajc3bTFxZTdjRms3UEJ4TWw1Q1I0aVBOQ19oclBRTUtBR3BITDY0ZE9XNXRpR3dia0cyYnBmNWdYVnVUYUdKMTBBRW4wOVJNcjNpZGhFWHJGODZKVElkdmt2WlA5anIyZG5BTnI0UFBXbk1tVTl4U0dLY3pPVHhPT2VsdGZWc08tVkdVNEx6eXdGNkVYZGx3MlBEalpZUzQ5VTZ3QjZheXZockxhbFlEREJTWUI0alAwNzBEeUQwSzBDR3dfa3VTV1lOSzZpc0lnYmtJOGNLb0E?oc=5",
+   "published": "2026-11-18T08:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-25T14:44:45Z"
   },
   {
    "id": "00f5027babfaba38",
@@ -4575,7 +4597,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
