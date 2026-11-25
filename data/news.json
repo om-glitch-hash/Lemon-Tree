@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:44:45Z",
+ "updated": "2026-11-25T15:44:52Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,11 +589,22 @@
  ],
  "items": [
   {
+   "id": "1d543b35f32bde27",
+   "company": "Roche",
+   "title": "Roche wins FDA nod for Wilserdly in early-stage breast cancer, cuts recurrence risk by 30% - Indian Pharma Post",
+   "summary": "Roche wins FDA nod for Wilserdly in early-stage breast cancer, cuts recurrence risk by 30% Indian Pharma Post",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHJfSXExQVk1a3FpOFNwQlNfM0tlM2hycjNxdy1fMjFXaXkxQ092a1czRE1vbXQ3X215Qk93OU1TX1J1UlhacWJqME92akcyZ2VfRjE3ZWI2MndpTG5DaU9vZE5tRU9YN3dmTjhWOWJtUkM1WVFoaGZ2aE04LWpfSjJ3R0N3SFAtX3VFamhmQzJKOHgwcEdxS2NPVUJoUXZ1RWZudjNWUW1rU0RfUThPaHhlT29QbG5sSGZVY2RvLVhndWdOWEpvNk5sbkHSAdsBQVVfeXFMTlpFSjBIR0VXTkxuVlNVeTlaOEdKVEtkU2h3WkpSVlZGS25KUjVyQ1lqOF8xTHRhN1M2ZFB1alNVOUI3VVMtUFVYTWgweUdIRDZtY2RsT2VtWnVSRm85TUhxQU1uT2tQZERyQ1VYa2hhcXFOVzZ0cTkwQmQ5dGJPb2l6aEZrRWdYWkVQR2p2emZCZHdxdk1mal9ELVNVN1puS1RRZ2tlQU5iaGNJRVFPenFHRDRiLW52czRFUk0taWc5OVpFekZPdTNseHdMelN4dEJCNXBxWFJyQ2ZB?oc=5",
+   "published": "2026-11-25T13:40:41Z",
+   "outlet": "Indian Pharma Post",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T15:44:52Z"
+  },
+  {
    "id": "35c360b9fc3e1101",
    "company": "Roche",
    "title": "Once-daily breast cancer pill gets US FDA nod - India Today",
    "summary": "Once-daily breast cancer pill gets US FDA nod India Today",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa003bnhQWHhoWkFqOXV1eWtqS2Y0VDJZYmxaRkNESXFMQXFhTUN5emlxT0d0ZTNJU2Z4cTdsaHBhS2xsVmMyejlhN09YaXZPeGplczdrLVJCaXhicDFaLWlkdUYzcWc3ZWZ5cHhYQ0x2R25tNGp6VUo4TWREeUhIa25ZQnRzZUtqY3ROQWFvMlJyRzV6cDlpR084TVZrSWlPT0RTR2kwWWtHUk1ndVlhSEhTTVkxZmppbjM4RtIBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZ9IBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
    "published": "2026-11-25T10:22:48Z",
    "outlet": "India Today",
    "method": "news search (newsroom not indexed)",
@@ -1348,17 +1359,6 @@
    "first_seen": "2026-11-23T13:54:36Z"
   },
   {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
-   "published": "2026-11-22T18:13:15Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "c827d9dda8d48e84",
    "company": "Roche",
    "title": "Roche Holding AG (ROP.SW) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -1601,17 +1601,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "57ab88ffb85b61fe",
-   "company": "Roche",
-   "title": "Roche’s Wilserdly Joins Oral SERD Market, But Adjuvant Indication Still Pending - Scrip",
-   "summary": "Roche’s Wilserdly Joins Oral SERD Market, But Adjuvant Indication Still Pending Scrip",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPR3htU1hJRnJaZkppXzFlU3hJdlYteUNIM08tbmJhNE5LbjU3VWpITlpGVVV5WlBaSF9DanJENnNsa2ljM1BPdHBQTEZjTmhKTk90Snl4WWdSOFdKd3NWRkVGQ25Vd2FnZHBwOXJPa2Q0QU5iX0w5eWJCbEI1U25GcHppQXBCRTJJbFRJdjVTOHljVlNRb1R5T3lyWDBKZXh2YXdQSmpsb3Fwang0RHlNVlJCVndQc2NIM0VRdm5mVHRJMnVwaXpHSVF5M0ZDWXZ3R0YydjRNMEZ4TEljSGlUckJOREZsbWlwVGZWaHRSaWp0U0hQalNLN1daV3M0bF9lVlFxUjdHSzBDWUJWWHZmOHVHLXNENGRZ?oc=5",
-   "published": "2026-11-17T21:09:51Z",
-   "outlet": "Scrip",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-22T22:26:09Z"
-  },
-  {
    "id": "db19e2d97f08c3d9",
    "company": "Roche",
    "title": "Roche Wins Dual FDA Approvals for Breast Cancer and Chronic Kidney Disease Therapies - Yahoo Finance",
@@ -1665,17 +1654,6 @@
    "outlet": "Becker's Oncology",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T15:08:30Z"
-  },
-  {
-   "id": "4ef5b2c70ce9a03a",
-   "company": "Roche",
-   "title": "FDA Approves Cosentyx for Polymyalgia Rheumatica, Wilserdly for ER-Positive ESR1-Mutated Advanced Breast Cancer - Pharmaceutical Executive",
-   "summary": "FDA Approves Cosentyx for Polymyalgia Rheumatica, Wilserdly for ER-Positive ESR1-Mutated Advanced Breast Cancer Pharmaceutical Executive",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTi1FZHc4aDVWLWlrdVNEQzNjVXhjSkNoa2tZWlBzSlRCQ0tKY0c2R0t6WGJqZS1QMTIzVkU0UEowQ3dtTkx2alVkSi11WW1TMzFSNFVZTkQtcTEtZGlsOTd1MkxBMWV6TG9ucmo5dTFpNDNJQk1zY21qYTk1VEdKbzZ6Z3NTbVY0OVgyRHFYNWtCOG5aQVNjQXk2SlN6QVF2Y09WaDQydVcxaVRNa0k1SS13RkxMeXp5a0RQSy1HQ2tPMm5xVnloVEFLM19LZw?oc=5",
-   "published": "2026-11-17T14:50:27Z",
-   "outlet": "Pharmaceutical Executive",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "04be8303624fb632",
@@ -1861,6 +1839,28 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjRJWUswaXNkOTJGZjVSQ2R3THR6ZU1zSl81RDJhQ3BSanNsMGJ4cmNoZjlYclY1VXptOXRxZGx6MTh4QU9fNmRRVVVISmliMlpNdnJleURKMHdXeXJ0c09EQWJCUUpBU1V3dlphcHpscE9DZ1pGQ0t3VXdUMS1KX1ctUzF3MWtKMG9HU0c5UjdPTjFqUlVxbzZ4Y0x4eVl1bUJ4VldnZ0I?oc=5",
    "published": "2026-11-17T08:15:00Z",
    "outlet": "Voice of Healthcare",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "57ab88ffb85b61fe",
+   "company": "Roche",
+   "title": "Roche’s Wilserdly Joins Oral SERD Market, But Adjuvant Indication Still Pending - Scrip",
+   "summary": "Roche’s Wilserdly Joins Oral SERD Market, But Adjuvant Indication Still Pending Scrip",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPR3htU1hJRnJaZkppXzFlU3hJdlYteUNIM08tbmJhNE5LbjU3VWpITlpGVVV5WlBaSF9DanJENnNsa2ljM1BPdHBQTEZjTmhKTk90Snl4WWdSOFdKd3NWRkVGQ25Vd2FnZHBwOXJPa2Q0QU5iX0w5eWJCbEI1U25GcHppQXBCRTJJbFRJdjVTOHljVlNRb1R5T3lyWDBKZXh2YXdQSmpsb3Fwang0RHlNVlJCVndQc2NIM0VRdm5mVHRJMnVwaXpHSVF5M0ZDWXZ3R0YydjRNMEZ4TEljSGlUckJOREZsbWlwVGZWaHRSaWp0U0hQalNLN1daV3M0bF9lVlFxUjdHSzBDWUJWWHZmOHVHLXNENGRZ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Scrip",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T22:26:09Z"
+  },
+  {
+   "id": "4ef5b2c70ce9a03a",
+   "company": "Roche",
+   "title": "FDA Approves Cosentyx for Polymyalgia Rheumatica, Wilserdly for ER-Positive ESR1-Mutated Advanced Breast Cancer - Pharmaceutical Executive",
+   "summary": "FDA Approves Cosentyx for Polymyalgia Rheumatica, Wilserdly for ER-Positive ESR1-Mutated Advanced Breast Cancer Pharmaceutical Executive",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTi1FZHc4aDVWLWlrdVNEQzNjVXhjSkNoa2tZWlBzSlRCQ0tKY0c2R0t6WGJqZS1QMTIzVkU0UEowQ3dtTkx2alVkSi11WW1TMzFSNFVZTkQtcTEtZGlsOTd1MkxBMWV6TG9ucmo5dTFpNDNJQk1zY21qYTk1VEdKbzZ6Z3NTbVY0OVgyRHFYNWtCOG5aQVNjQXk2SlN6QVF2Y09WaDQydVcxaVRNa0k1SS13RkxMeXp5a0RQSy1HQ2tPMm5xVnloVEFLM19LZw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Pharmaceutical Executive",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
   },
@@ -2217,17 +2217,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2237,6 +2226,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -4597,7 +4597,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5633,6 +5633,17 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
