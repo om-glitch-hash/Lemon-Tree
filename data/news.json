@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:33:30Z",
+ "updated": "2026-11-25T19:36:47Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -588,6 +588,17 @@
   }
  ],
  "items": [
+  {
+   "id": "b690eb3f44e09629",
+   "company": "Roche",
+   "title": "Roche’s Wilserdly becomes first oral SERD FDA-approved for early-stage breast cancer - R&D World",
+   "summary": "Roche’s Wilserdly becomes first oral SERD FDA-approved for early-stage breast cancer R&D World",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzZpQVJnTlRBWVR5Z3BteU9MaVc2d3pSb0xRR2t0bkhDRlFrSDlfVnFlTEROLWlBd0Mtc1VnWHY1MEdZYlVndHJXeXVxbDl1cXdtTHBDOW42SjdCWDlJOTA3YnFRakdzMFhtNWI2OHdVMnpDTlJWbTlZaGVDc3R2UmpjOEkxVTBnWW9SbUZuY19tOHhjMHoyWWxrcm5OdVVhdklr?oc=5",
+   "published": "2026-11-25T19:03:31Z",
+   "outlet": "R&D World",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T19:36:47Z"
+  },
   {
    "id": "1d543b35f32bde27",
    "company": "Roche",
@@ -5730,7 +5741,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
