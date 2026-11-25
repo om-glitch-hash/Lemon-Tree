@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:03:05Z",
+ "updated": "2026-11-25T13:27:07Z",
  "assets": {
   "Gedatolisib": {
    "company": "Celcuity",
@@ -9,7 +9,7 @@
    ],
    "ok": true,
    "count": 22,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Imlunestrant": {
    "company": "Eli Lilly",
@@ -19,7 +19,7 @@
    ],
    "ok": true,
    "count": 21,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Tersolisib": {
    "company": "Eli Lilly",
@@ -30,7 +30,7 @@
    ],
    "ok": true,
    "count": 11,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Giredestrant": {
    "company": "Roche",
@@ -40,7 +40,7 @@
    ],
    "ok": true,
    "count": 30,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Inavolisib": {
    "company": "Roche",
@@ -50,7 +50,7 @@
    ],
    "ok": true,
    "count": 37,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "GDC-4198": {
    "company": "Roche",
@@ -61,7 +61,7 @@
    ],
    "ok": true,
    "count": 4,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Palazestrant": {
    "company": "Olema Oncology",
@@ -71,7 +71,7 @@
    ],
    "ok": true,
    "count": 6,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "OP-3136": {
    "company": "Olema Oncology",
@@ -80,7 +80,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Elacestrant": {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -90,7 +90,7 @@
    ],
    "ok": true,
    "count": 43,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "MEN2312": {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -99,7 +99,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Camizestrant": {
    "company": "AstraZeneca",
@@ -109,7 +109,7 @@
    ],
    "ok": true,
    "count": 23,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Vepdegestrant": {
    "company": "Pfizer / Arvinas / Rigel",
@@ -120,7 +120,7 @@
    ],
    "ok": true,
    "count": 25,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Atirmociclib": {
    "company": "Pfizer",
@@ -130,7 +130,7 @@
    ],
    "ok": true,
    "count": 21,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Tegtociclib": {
    "company": "Pfizer",
@@ -140,7 +140,7 @@
    ],
    "ok": true,
    "count": 4,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Prifetrastat": {
    "company": "Pfizer",
@@ -150,7 +150,7 @@
    ],
    "ok": true,
    "count": 12,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Lasofoxifene": {
    "company": "LeonaBio / Sermonix",
@@ -159,7 +159,7 @@
    ],
    "ok": true,
    "count": 9,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Zovegalisib": {
    "company": "Relay Therapeutics",
@@ -169,7 +169,7 @@
    ],
    "ok": true,
    "count": 3,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "JS105": {
    "company": "Junshi Biosciences",
@@ -179,7 +179,7 @@
    ],
    "ok": true,
    "count": 3,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "SNV4818": {
    "company": "Novartis",
@@ -188,7 +188,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "ECI830": {
    "company": "Novartis",
@@ -197,7 +197,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "ARTS-021": {
    "company": "Avenzo Therapeutics",
@@ -208,7 +208,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "Samuraciclib": {
    "company": "Carrick Therapeutics",
@@ -218,7 +218,7 @@
    ],
    "ok": true,
    "count": 7,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "TOS-358": {
    "company": "Totus Medicines",
@@ -227,7 +227,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "GenSci145": {
    "company": "GenSci",
@@ -236,7 +236,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   },
   "BG-75202": {
    "company": "BeOne Medicines",
@@ -245,7 +245,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-25T12:03:05Z"
+   "checked": "2026-11-25T13:27:07Z"
   }
  },
  "trials": {
@@ -3630,7 +3630,7 @@
    "nct": "NCT05563220",
    "title": "Open-Label Umbrella Study To Evaluate Safety And Efficacy Of Elacestrant In Various Combination In Participants With Metastatic Breast Cancer",
    "acronym": "ELEVATE",
-   "status": "Active not recruiting",
+   "status": "Recruiting",
    "phase": "Ph1/Ph2",
    "sponsor": "Stemline Therapeutics, Inc.",
    "conditions": [
@@ -3638,13 +3638,24 @@
     "Metastatic Breast Cancer"
    ],
    "start": "2023-01-24",
-   "primary_completion": "2026-12-27",
+   "primary_completion": "2027-09-27",
    "first_posted": "2022-10-03",
-   "last_update": "2026-06-12",
-   "enrollment": 435,
+   "last_update": "2026-11-25",
+   "enrollment": 370,
    "first_seen": null,
-   "changed": null,
-   "events": [],
+   "changed": "2026-11-25T13:27:07Z",
+   "events": [
+    {
+     "date": "2026-11-25T13:27:07Z",
+     "type": "status",
+     "text": "Status: Active not recruiting → Recruiting"
+    },
+    {
+     "date": "2026-11-25T13:27:07Z",
+     "type": "primary_completion",
+     "text": "Primary completion: 2026-12-27 → 2027-09-27"
+    }
+   ],
    "assets": [
     "Elacestrant"
    ],
@@ -5262,7 +5273,7 @@
    "nct": "NCT07897721",
    "title": "A Study to Learn About the Study Medicine Called PF-08165784 in People With PIK3CA-Mutated Advanced or Metastatic Solid Tumors",
    "acronym": "",
-   "status": "Not yet recruiting",
+   "status": "Recruiting",
    "phase": "Ph1",
    "sponsor": "Pfizer",
    "conditions": [
@@ -5274,11 +5285,17 @@
    "start": "2026-11-09",
    "primary_completion": "2030-03-22",
    "first_posted": "2026-10-27",
-   "last_update": "2026-11-18",
+   "last_update": "2026-11-25",
    "enrollment": 268,
    "first_seen": null,
-   "changed": null,
-   "events": [],
+   "changed": "2026-11-25T13:27:07Z",
+   "events": [
+    {
+     "date": "2026-11-25T13:27:07Z",
+     "type": "status",
+     "text": "Status: Not yet recruiting → Recruiting"
+    }
+   ],
    "assets": [
     "Atirmociclib"
    ],
@@ -6447,7 +6464,7 @@
    "start": "2023-02-15",
    "primary_completion": "2027-12",
    "first_posted": "2023-01-13",
-   "last_update": "2026-11-17",
+   "last_update": "2026-11-25",
    "enrollment": 241,
    "first_seen": null,
    "changed": null,
