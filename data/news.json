@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:35:30Z",
+ "updated": "2026-11-25T21:39:58Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -615,7 +615,7 @@
    "company": "Roche",
    "title": "Once-daily breast cancer pill gets US FDA nod - India Today",
    "summary": "Once-daily breast cancer pill gets US FDA nod India Today",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa003bnhQWHhoWkFqOXV1eWtqS2Y0VDJZYmxaRkNESXFMQXFhTUN5emlxT0d0ZTNJU2Z4cTdsaHBhS2xsVmMyejlhN09YaXZPeGplczdrLVJCaXhicDFaLWlkdUYzcWc3ZWZ5cHhYQ0x2R25tNGp6VUo4TWREeUhIa25ZQnRzZUtqY3ROQWFvMlJyRzV6cDlpR084TVZrSWlPT0RTR2kwWWtHUk1ndVlhSEhTTVkxZmppbjM4RtIBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZ9IBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
    "published": "2026-11-25T10:22:48Z",
    "outlet": "India Today",
    "method": "news search (newsroom not indexed)",
@@ -1931,17 +1931,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "19fea32294ab6183",
-   "company": "Roche",
-   "title": "Roche wins US nod for oral SERD in ESR1-mutated breast cancer - FirstWord Pharma",
-   "summary": "Roche wins US nod for oral SERD in ESR1-mutated breast cancer FirstWord Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DV2V1OUtZdExxT3lNeXFSXy1oem5XdER6d25jS3daN1Z2Q3dIYXB3b2szUFlsN2xkRW9ULWw3eGtnRnR1UnQtSnVmR0JDdENUUktJ?oc=5",
-   "published": "2026-11-17T00:41:04Z",
-   "outlet": "FirstWord Pharma",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "d46299f861b39221",
    "company": "Roche",
    "title": "US FDA approves Roche’s oral treatment for advanced breast cancer - KFGO",
@@ -2041,6 +2030,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "e929637ea716753c",
+   "company": "Olema Oncology",
+   "title": "Better medicines for breast cancer and beyond – Morgan Stanley 24th Annual Global Healthcare Conference - Olema Oncology",
+   "summary": "Better medicines for breast cancer and beyond – Morgan Stanley 24th Annual Global Healthcare Conference Olema Oncology",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlo5Tm1OQkI3bFpSRjFIV3JvejlsSnpNSEJZNnJuMXRnVUxQOC05MjQ1R00wZ3I3T2tjNXFFUTFmYU8wN25QVDdZUV82ek1kcnhCVGdpdFdKQjhpQWozeUZjZnlndHVSclNxY3NMMGNKNGxRMk10N0hZTEQ2WjUwU3ZRbEd3YW1fd28zOThRdGxLTVlyQ1pFZTVYYU1KNlk?oc=5",
+   "published": "2026-11-16T21:23:04Z",
+   "outlet": "Olema Oncology",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-25T21:39:58Z"
+  },
+  {
    "id": "2d13e4202e70d52b",
    "company": "Roche",
    "title": "Roche: FDA lässt Giredestrant bei Brustkrebs mit ESR1-Mutation zu - TradingView",
@@ -2094,6 +2094,17 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "19fea32294ab6183",
+   "company": "Roche",
+   "title": "Roche wins US nod for oral SERD in ESR1-mutated breast cancer - FirstWord Pharma",
+   "summary": "Roche wins US nod for oral SERD in ESR1-mutated breast cancer FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DV2V1OUtZdExxT3lNeXFSXy1oem5XdER6d25jS3daN1Z2Q3dIYXB3b2szUFlsN2xkRW9ULWw3eGtnRnR1UnQtSnVmR0JDdENUUktJ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "8b2e299cbb3b0e0d",
@@ -4652,7 +4663,7 @@
    "company": "Arvinas",
    "title": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer - Arvinas",
    "summary": "Arvinas Announces FDA Approval of VEPPANU (vepdegestrant) for the Treatment of ESR1m, ER+/HER2- Advanced Breast Cancer Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnd3FtRi15RFYzUXljUmNNRWJPTUJtam5lNjNobjRFTUpxOUUzaWM2bjZYSzJ1cThQSG1BSjIwSjRCX21HQXMxaUh0azd0UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVctVHpsMEotc1AtNFhFNE0wR3hpRk5DdFZKWHFRR2JoYU1KNmxvLW92UFh5cnNycGt0Z0VDR0lDNFA5Tk5DbUNEZEV5dzhnY01Mb1ZaZktKUUZtSXpab3FJQzBMQmRidDhRVzQtQ0sxVlA0ODQ4SFJDTS1va285Tl9Zc1k2ek1CVm5xekpsWlRvOXVzcXRCenJEZzMzUlFSTDFiVEV2Z2k3N0JfN1lmVDJFQ3k1RW5XX2tzTmlR?oc=5",
    "published": "2026-05-01T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4853,17 +4864,6 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2xtdjRfY2hMWG5rWjBMeERNVE1PY2ttei1aODFOSEpfR18tOU1oRXlrbmxtbF9LdkNBbEFYc1R0TnpmbWUzZmRQNGJuZHhHTEc5bi1KWFI1VllWLXU5QnB0SlBnVmlaZTRCbjdqZ3ViMEFKeFZTS1VJZGJNTUtabFJHbGhpYzJkM0JQeUNLc2pQcEcxNXBqMnN2THI5aVBabFFCZHc3QmtyTFZ3dlByenFEX1BzZzBfbFE?oc=5",
    "published": "2026-04-27T07:00:00Z",
    "outlet": "Relay Therapeutics",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "b6a72b53f863b165",
-   "company": "Arvinas",
-   "title": "Congress Presentations - Arvinas",
-   "summary": "Congress Presentations Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yMUpoZVVTX2VzZWlwSEJuWkhKYWV1ZHFyejlyN0VKWXpNcm1QQ0VBaWdHLVRWZnBaR3JoSU43NXdGT2FadnAxbnl5aTVoWVRVTjdmeGRFTEFwVXM0V1hpS1NXM2xzWDJYQklkZE9BcWszbFZ6?oc=5",
-   "published": "2026-04-26T23:06:12Z",
-   "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
   },
@@ -5752,7 +5752,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5831,6 +5831,17 @@
    "summary": "Publications Arvinas",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJeG5wMmNicUN4YmM3dUtBUHdLMEVUb1lhTW1UMlZTRE85NmVIZFI4V3dSV2xveUVmS0t4T3dqOFdBdTB1R0xyWHpXZmhnaF93QmRfUk5IVHExUHF2WGc?oc=5",
    "published": "2025-12-06T22:48:22Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "b6a72b53f863b165",
+   "company": "Arvinas",
+   "title": "Congress Presentations - Arvinas",
+   "summary": "Congress Presentations Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aFEwMmh0MDU1b3YycDJCajg5Mk9UV1RnTzlFTHgzdDRhRGFNRkJuNFBJQlBQcFcxUDYtdzN6Q0ZSaGM1Z0lHMGQwakJFbXN5eU1QVTktVVNyTk5UMVJFSnFrTWxuN1J5d013?oc=5",
+   "published": "2025-12-06T16:56:09Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
