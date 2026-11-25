@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:23:38Z",
+ "updated": "2026-11-25T01:53:21Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,17 @@
  ],
  "items": [
   {
+   "id": "aaf74b427e79d9d1",
+   "company": "Roche",
+   "title": "Roche’s once daily breast cancer pill gets US FDA nod, halts recurrence - The Indian Express",
+   "summary": "Roche’s once daily breast cancer pill gets US FDA nod, halts recurrence The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2NrblNCMEc1SVZrOHVESGt2Y19QSWQ3TklHTjN5aUM1VXZOMTYxdFBYTmFteGI2YWVCdWxlWVJ6RDFSbzRlUlpucHEtWnc3MnROWS02MVhiTFFGQnlmQUxwdXBzellxWE4zQlVfcFZPdnNjT19DX1JIUDQwTTdTOEc4T29walhhRkRNQS1abmNQVEtCZmtrdGVzaGxUUUJyVW1tT2NMOEMyWWVfTHfSAbQBQVVfeXFMT1VlamdnX3Bqc2NOVS11cGdkeENpNmZQdHhRVWxRcVg0NUhhdkRIbXV0bENZQVZFaTZ3cmtqUWJiMHVwa2lFdTBnLUQwdERDVEF5VnJhbWVQaXhVTDI3M0tVaGVUNVM5RVpmdC1hOW9jaWplajJTRkRncWU0VzNJN3VsWkI1MjBkOFYxNF9TSmxXZ19jVHNQM2tVZDNtM1RSdDk5Y2I0UGlwU1dobUVsdFAwTlBE?oc=5",
+   "published": "2026-11-25T01:30:18Z",
+   "outlet": "The Indian Express",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T01:53:21Z"
+  },
+  {
    "id": "1d9938917b438dca",
    "company": "Roche",
    "title": "FDA Approves Wilserdly, First Early Breast Cancer Hormone Pill in 20 Years; Survival Gain Unproven - Tech Times",
@@ -609,6 +620,17 @@
    "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T22:31:52Z"
+  },
+  {
+   "id": "280ec438b6f2b09a",
+   "company": "Roche",
+   "title": "Spotlight On: Roche's high hopes for Wilserdly undiminished despite question marks over size of market - FirstWord Pharma",
+   "summary": "Spotlight On: Roche's high hopes for Wilserdly undiminished despite question marks over size of market FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YRmJhSWtxd244Mk1NWVhXNWRuY0ZlOVkxOFlLV19vVXRMRFh4SmdvcmdfYTAzd0JEWDNuc2wtNWxBRmJyTUFVM3NyeTZZaHBmaFNZ?oc=5",
+   "published": "2026-11-24T18:43:50Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T01:53:21Z"
   },
   {
    "id": "ea88440859e0db49",
@@ -862,6 +884,17 @@
    "outlet": "Voice of Healthcare",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T09:34:19Z"
+  },
+  {
+   "id": "f452042f853690b6",
+   "company": "Roche",
+   "title": "US FDA Approves Roche Breast Cancer Pill for Early-Stage Patients - Voice of Healthcare",
+   "summary": "US FDA Approves Roche Breast Cancer Pill for Early-Stage Patients Voice of Healthcare",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEFwR08ybURNNUlsUV9BQWs5Q1hXSU9XREc0YU9XV1RUMHVWWFJPM1l4Ui0waVJ4UUl2cmliRWdxcXJFeDNlWlY3X1pjUnIxT1ZRYzBxbklsUVpUZ0dkNkd2R0t0SEVsUGx4S1FIWmM2SG9maFlkVHpfVUQybTZ2OGhLZ3lfY1NQZmRubExHbGx3blk?oc=5",
+   "published": "2026-11-24T06:35:00Z",
+   "outlet": "Voice of Healthcare",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T01:53:21Z"
   },
   {
    "id": "ba33305f760b80a9",
@@ -4443,7 +4476,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5554,7 +5587,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
