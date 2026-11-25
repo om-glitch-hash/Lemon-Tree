@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:58:58Z",
+ "updated": "2026-11-25T12:03:05Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1612,17 +1612,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "f6ab33cbee69d632",
-   "company": "Roche",
-   "title": "Roche’s oral SERD, Wilserdly, gets FDA nod in breast cancer - BioWorld News",
-   "summary": "Roche’s oral SERD, Wilserdly, gets FDA nod in breast cancer BioWorld News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1dJNDhPV1ExZUlCaWg2dWpfNzI4eHdYVDJJdktrT1A1cHE4YjVNeUZ3YjdmOTlfaVVBNG01WFNvYjJFemNZS0FmcktaaTdTWFVVb3kzeWpmd3NXVjZCcFFvQkt2THJqXzNGbzNTSWxBUDF0MlRfZmhZYV9yRWdRQzluUElQbUVla3RTQ3JqY2hwYXJuVm5pTWdkbmNodw?oc=5",
-   "published": "2026-11-17T16:00:00Z",
-   "outlet": "BioWorld News",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-22T22:26:09Z"
-  },
-  {
    "id": "7f356c9e58972742",
    "company": "Roche",
    "title": "Roche’s next major breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD - Fierce Pharma",
@@ -1852,6 +1841,28 @@
    "outlet": "Voice of Healthcare",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "f6ab33cbee69d632",
+   "company": "Roche",
+   "title": "Roche’s oral SERD, Wilserdly, gets FDA nod in breast cancer - BioWorld News",
+   "summary": "Roche’s oral SERD, Wilserdly, gets FDA nod in breast cancer BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1dJNDhPV1ExZUlCaWg2dWpfNzI4eHdYVDJJdktrT1A1cHE4YjVNeUZ3YjdmOTlfaVVBNG01WFNvYjJFemNZS0FmcktaaTdTWFVVb3kzeWpmd3NXVjZCcFFvQkt2THJqXzNGbzNTSWxBUDF0MlRfZmhZYV9yRWdRQzluUElQbUVla3RTQ3JqY2hwYXJuVm5pTWdkbmNodw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "BioWorld News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T22:26:09Z"
+  },
+  {
+   "id": "23926df1e65655b9",
+   "company": "Roche",
+   "title": "Roche’s New Breast Cancer Pill Wins First FDA Approval - Bloomberg",
+   "summary": "Roche’s New Breast Cancer Pill Wins First FDA Approval Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Bloomberg",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T12:03:05Z"
   },
   {
    "id": "e8b551f94c79001f",
@@ -5686,7 +5697,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
