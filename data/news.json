@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:40:22Z",
+ "updated": "2026-11-26T19:50:12Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -598,6 +598,17 @@
    "outlet": "FirstWord Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T16:50:44Z"
+  },
+  {
+   "id": "2b796de55b29bce3",
+   "company": "Roche",
+   "title": "Roche’s new breast cancer treatment Wilserdly is approved for broader use | Los Angeles Times - newspaper - Magzter",
+   "summary": "Roche’s new breast cancer treatment Wilserdly is approved for broader use | Los Angeles Times - newspaper Magzter",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTBKWGI5Uk1Bb2hhRFJGMmNxMlREOXM3dExBcml3QXVWSHVLaHhrZUt2cl83VlUzWUJycDFHZ1hGNWtlclBMSmU1Zm5xVElpYzZHUUYxSi1XUlNTMUw4RUdRbmQ0MkZpSmhDSzJiQmk2b0NFMGV2emJ3VW94TW9JTnQwZ1VZdmRBWDhKQmFyTWRBRWZtRE91T0gweGxkUWNia1JkeWw2RWJmaHFpRENJT3FUUm40c2hSZjg1akJuSjExb2tpUkJ2enoxdFo?oc=5",
+   "published": "2026-11-26T16:21:36Z",
+   "outlet": "Magzter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T19:50:12Z"
   },
   {
    "id": "b690eb3f44e09629",
@@ -1423,17 +1434,6 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T13:54:36Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
-   "published": "2026-11-22T18:13:15Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "e420e361e8314877",
@@ -2327,17 +2327,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2347,6 +2336,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -2602,6 +2602,17 @@
    "first_seen": "2026-11-25T09:58:51Z"
   },
   {
+   "id": "53c182e01c4eb85b",
+   "company": "AstraZeneca",
+   "title": "Senior Director, Global Diagnostics - AstraZeneca",
+   "summary": "Senior Director, Global Diagnostics AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVko4b0pfQnUzcURTUm9XQXloUWVYd2xpRlAyRy1IUFN1cXNycy1LZnVrYzBZNVNvY2pScTZ5ODdRdEpQcDRHR0xYZWdqci1qa2xSQ1p6d3ZJdGFMaWNpUUNTclUxN2p0c0NLc0V2aUJBT0xINUc3d1E0bjZta2s2bmJnRFBNTHRnNzk5eG12YjFsNWcxb1ZGenF6UnhFd2dDb0I0?oc=5",
+   "published": "2026-10-15T23:51:32Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-26T19:50:12Z"
+  },
+  {
    "id": "35e3baf515e7810e",
    "company": "Roche",
    "title": "Roche breast cancer drug Itovebi turned down by NICE - pharmaphorum",
@@ -2760,7 +2771,7 @@
    "company": "Celcuity",
    "title": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States - Celcuity",
    "summary": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZNUhNT2JYTEM5amFFSkhzRjVvaWM1Y1VlaTdQUUdJNGJId200SGVUSTA3OUkxM0dubGp1bkdRSnBWNmRoUFhCSngzdW9mdE0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B2SnQzM256eE52MXk1c0lwNjlUaFdNUkptOEpMRi0yNVIzSG9xRTlGaVUwT1ZRT3NnWHgzNTYxUTlJU2ltUjJZZzRseVhfOFlFUkdiUUd4NDA4OUwxY3dpVVZsYndSWTlfc21KSFhjS2pTS2pHZkMxeDdJODZJRHM4X25Hb1l4el9RRDExbnFJbWc0YTFlS3lnOUlnTEtaTmhNVktWMmFFdXNiSU1aSTJnazRYSURlMFE?oc=5",
    "published": "2026-09-30T07:00:00Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4707,7 +4718,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5754,6 +5765,17 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
