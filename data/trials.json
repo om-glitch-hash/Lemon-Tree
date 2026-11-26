@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:59:08Z",
+ "updated": "2026-11-26T12:02:23Z",
  "assets": {
   "Gedatolisib": {
    "company": "Celcuity",
@@ -9,7 +9,7 @@
    ],
    "ok": true,
    "count": 22,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Imlunestrant": {
    "company": "Eli Lilly",
@@ -19,7 +19,7 @@
    ],
    "ok": true,
    "count": 21,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Tersolisib": {
    "company": "Eli Lilly",
@@ -30,7 +30,7 @@
    ],
    "ok": true,
    "count": 11,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Giredestrant": {
    "company": "Roche",
@@ -40,7 +40,7 @@
    ],
    "ok": true,
    "count": 30,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Inavolisib": {
    "company": "Roche",
@@ -50,7 +50,7 @@
    ],
    "ok": true,
    "count": 37,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "GDC-4198": {
    "company": "Roche",
@@ -61,7 +61,7 @@
    ],
    "ok": true,
    "count": 4,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Palazestrant": {
    "company": "Olema Oncology",
@@ -71,7 +71,7 @@
    ],
    "ok": true,
    "count": 6,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "OP-3136": {
    "company": "Olema Oncology",
@@ -80,7 +80,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Elacestrant": {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -90,7 +90,7 @@
    ],
    "ok": true,
    "count": 43,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "MEN2312": {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -99,7 +99,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Camizestrant": {
    "company": "AstraZeneca",
@@ -109,7 +109,7 @@
    ],
    "ok": true,
    "count": 23,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Vepdegestrant": {
    "company": "Pfizer / Arvinas / Rigel",
@@ -120,7 +120,7 @@
    ],
    "ok": true,
    "count": 25,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Atirmociclib": {
    "company": "Pfizer",
@@ -130,7 +130,7 @@
    ],
    "ok": true,
    "count": 21,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Tegtociclib": {
    "company": "Pfizer",
@@ -140,7 +140,7 @@
    ],
    "ok": true,
    "count": 4,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Prifetrastat": {
    "company": "Pfizer",
@@ -150,7 +150,7 @@
    ],
    "ok": true,
    "count": 12,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Lasofoxifene": {
    "company": "LeonaBio / Sermonix",
@@ -159,7 +159,7 @@
    ],
    "ok": true,
    "count": 9,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Zovegalisib": {
    "company": "Relay Therapeutics",
@@ -169,7 +169,7 @@
    ],
    "ok": true,
    "count": 3,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "JS105": {
    "company": "Junshi Biosciences",
@@ -179,7 +179,7 @@
    ],
    "ok": true,
    "count": 3,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "SNV4818": {
    "company": "Novartis",
@@ -188,7 +188,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "ECI830": {
    "company": "Novartis",
@@ -197,7 +197,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "ARTS-021": {
    "company": "Avenzo Therapeutics",
@@ -208,7 +208,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "Samuraciclib": {
    "company": "Carrick Therapeutics",
@@ -218,7 +218,7 @@
    ],
    "ok": true,
    "count": 7,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "TOS-358": {
    "company": "Totus Medicines",
@@ -227,7 +227,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "GenSci145": {
    "company": "GenSci",
@@ -236,7 +236,7 @@
    ],
    "ok": true,
    "count": 1,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   },
   "BG-75202": {
    "company": "BeOne Medicines",
@@ -245,7 +245,7 @@
    ],
    "ok": true,
    "count": 2,
-   "checked": "2026-11-26T10:59:08Z"
+   "checked": "2026-11-26T12:02:23Z"
   }
  },
  "trials": {
