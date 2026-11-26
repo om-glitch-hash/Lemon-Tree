@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:43:58Z",
+ "updated": "2026-11-26T21:38:30Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -637,7 +637,7 @@
    "company": "Roche",
    "title": "Once-daily breast cancer pill gets US FDA nod - India Today",
    "summary": "Once-daily breast cancer pill gets US FDA nod India Today",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZ9IBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa003bnhQWHhoWkFqOXV1eWtqS2Y0VDJZYmxaRkNESXFMQXFhTUN5emlxT0d0ZTNJU2Z4cTdsaHBhS2xsVmMyejlhN09YaXZPeGplczdrLVJCaXhicDFaLWlkdUYzcWc3ZWZ5cHhYQ0x2R25tNGp6VUo4TWREeUhIa25ZQnRzZUtqY3ROQWFvMlJyRzV6cDlpR084TVZrSWlPT0RTR2kwWWtHUk1ndVlhSEhTTVkxZmppbjM4RtIBwgFBVV95cUxOUVZlMm5TNm9FUlU2aXBycmFWSXV2aHdMa29YZTl2d3YtWGdBbmZ0Tl9aVHJxaldfTHhBVVVOczltQmxHUDlMdmFjbVY4WC1SZnNlSE5kWmhXWlFoejJvOTRhZjFSMlo3OXBDN0hsLTZWX0RIdFJiZldsV05PUlRNS3BFNnZqOHZ3ZUdHZ3g5Nm5mZHFvVG8weElvaDdaeUU1QlhSdEJSLU5rWF9Td1lTaW9RTVU4S004TF9xa2NITHJXZw?oc=5",
    "published": "2026-11-25T10:22:48Z",
    "outlet": "India Today",
    "method": "news search (newsroom not indexed)",
@@ -1984,6 +1984,17 @@
    "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "3dc892cdbaf72f39",
+   "company": "Roche",
+   "title": "FDA Approves Cosentyx for Polymyalgia Rheumatica, Wilserdly for ER-Positive ESR1-Mutated Advanced Breast Cancer - PharmExec.com",
+   "summary": "FDA Approves Cosentyx for Polymyalgia Rheumatica, Wilserdly for ER-Positive ESR1-Mutated Advanced Breast Cancer PharmExec.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTi1FZHc4aDVWLWlrdVNEQzNjVXhjSkNoa2tZWlBzSlRCQ0tKY0c2R0t6WGJqZS1QMTIzVkU0UEowQ3dtTkx2alVkSi11WW1TMzFSNFVZTkQtcTEtZGlsOTd1MkxBMWV6TG9ucmo5dTFpNDNJQk1zY21qYTk1VEdKbzZ6Z3NTbVY0OVgyRHFYNWtCOG5aQVNjQXk2SlN6QVF2Y09WaDQydVcxaVRNa0k1SS13RkxMeXp5a0RQSy1HQ2tPMm5xVnloVEFLM19LZw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "PharmExec.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T21:38:30Z"
   },
   {
    "id": "9f524befebb04621",
