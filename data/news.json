@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:47:33Z",
+ "updated": "2026-11-26T18:40:22Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -4142,17 +4142,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "34f2736ff36d09a3",
-   "company": "Roche",
-   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
-   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9YSkJaQk12QU5IWHAzdGhwaG9zYUxSbk9YYmE5ZWdRc2hvTDdyYy1HYzRoMnNsdXB0cmRaQV9wSkYtTWZDV2VYVndqRmUxM3hRV1dWU3N0WjktNzAySk5rc0QyUzRKMGMydVE3Qm4wNHBzbHQ4Q2VyaTBrbk5qa19FZmZxcDJsTlVSM1pzZFROdU9pdTRWa0VVSEd0V00zRmdpLWtfU211U1pSU25qdEZYS0I?oc=5",
-   "published": "2026-06-03T07:00:00Z",
-   "outlet": "The Clinical Trial Vanguard",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "48636b0536817bec",
    "company": "Roche",
    "title": "Roche’s Investor Event at ASCO 2026 - Roche",
@@ -4173,6 +4162,17 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": "2026-11-21T18:15:32Z"
+  },
+  {
+   "id": "34f2736ff36d09a3",
+   "company": "Roche",
+   "title": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer - The Clinical Trial Vanguard",
+   "summary": "FDA Accepts NDA for Roche’s Giredestrant in Early-Stage Breast Cancer The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl84S3ZOSzZFUUdIcGNLR05DRXVZa3NkVTYwU0lkRUVURDluaWY0dW9vdHRrdExQZW81bjR3VVJpQ2N2MUJ4ZTlFbFNzUXN4UWd4LVVmUzRGTHJwVEJRWG12bnEyWnFRbE9hS3FYYkhmN3hyZTRiS2RRRTdIV0RJQ21xZWhvci1nRnVnMGVaWVhXT3J5aHVyR1dQZWNVQkYwVFQ1UWJsYzVHMUhndEUzOWl3?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "99cbb96e7682485a",
@@ -5495,6 +5495,17 @@
    "first_seen": "2026-11-20T12:31:11Z"
   },
   {
+   "id": "135db08783007872",
+   "company": "Celcuity",
+   "title": "FORM 8-K Celcuity Inc. - Celcuity",
+   "summary": "FORM 8-K Celcuity Inc. Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52NW00anFIcndBYnFfZHdkVC0td1E5QmlVczB1YzVxZXJDaUt2Qkdjd3BTa1V4bW5BZ2NoTllfOFRnSElvSjVCRzZpbmxSM2U3dUtGV0JkSDJuV2Jvd0ZkRTZXUG5CXzJmMm85NzRjYjVMak5JYnBGbzFKaVNfdw?oc=5",
+   "published": "2026-02-10T23:20:50Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T20:06:10Z"
+  },
+  {
    "id": "008bf6398b939ae5",
    "company": "Celcuity",
    "title": "0001493152-23-043751 | 8-K | iXBRL Viewer | Celcuity INC - Celcuity",
@@ -5504,17 +5515,6 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-20T12:31:11Z"
-  },
-  {
-   "id": "135db08783007872",
-   "company": "Celcuity",
-   "title": "FORM 8-K Celcuity Inc. - Celcuity",
-   "summary": "FORM 8-K Celcuity Inc. Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tUjF0ek5hOEhrLU0zSXJMcVpva1k0VWFpUUdKeGNkYTlsNy1LeEw4R2hTWGhBSW9ZbGwtY0RXYllyS2FVUGVkdjE3YUhiMlE5TkhTdzJHMjg5eE1zSWZEMHBXaUdxdGFjQnJIam9iTVdlM0dpVktJTGk4N0xRZw?oc=5",
-   "published": "2026-02-10T19:12:15Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T20:06:10Z"
   },
   {
    "id": "5ac51af166c8f087",

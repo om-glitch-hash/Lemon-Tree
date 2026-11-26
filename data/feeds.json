@@ -32,7 +32,7 @@
   "method": "newsroom rss (configured)",
   "filter": true,
   "sig": "[\"https://www.rigel.com/investors/news-events/press-releases\", \"https://www.rigel.com/investors/news-events/press-releases/rss\", null, null, [\"Veppanu\", \"vepdegestrant\", \"breast\", \"ESR1\"]]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "Olema Oncology": {
   "feed": "https://news.google.com/rss/search?q=site%3Aolema.com&hl=en-US&gl=US&ceid=US:en",
@@ -53,7 +53,7 @@
   "method": "newsroom rss (configured)",
   "filter": true,
   "sig": "[\"https://www.carricktherapeutics.com/news-media/press-releases\", \"https://www.carricktherapeutics.com/news-media/press-releases/rss\", null, null, null]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "Novartis": {
   "feed": "https://www.novartis.com/news/newsroom",
@@ -63,7 +63,7 @@
   "method": "newsroom page (scraped)",
   "filter": true,
   "sig": "[\"https://www.novartis.com/news/newsroom\", null, {\"url\": \"https://www.novartis.com/news/newsroom\"}, null, [\"SNV4818\", \"ECI830\", \"Pikavation\", \"Synnovation\", \"PI3K\", \"CDK2\", \"Kisqali\", \"ribociclib\", \"HR+\", \"HR-positive\", \"breast\"]]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "Pfizer": {
   "feed": "https://www.pfizer.com/newsroom/press-releases",
@@ -74,7 +74,7 @@
   "method": "newsroom page (scraped)",
   "filter": true,
   "sig": "[\"https://www.pfizer.com/newsroom/press-releases\", null, {\"url\": \"https://www.pfizer.com/newsroom/press-releases\", \"pattern\": \"press-release-detail/\"}, null, [\"vepdegestrant\", \"Veppanu\", \"atirmociclib\", \"tegtociclib\", \"prifetrastat\", \"PF-07220060\", \"PF-07104091\", \"PF-07248144\", \"CDK4\", \"CDK2\", \"KAT6\", \"breast\"]]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "Arvinas": {
   "feed": "https://news.google.com/rss/search?q=site%3Aarvinas.com+%28%22vepdegestrant%22+OR+%22Veppanu%22+OR+%22VERITAC%22+OR+%22TACTIVE%22+OR+%22breast%22+OR+%22estrogen+receptor%22+OR+%22ER%2B%22+OR+%22Rigel%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -92,7 +92,7 @@
   "method": "newsroom page (scraped)",
   "filter": true,
   "sig": "[\"https://beonemedicines.com/newsroom/\", null, {\"url\": \"https://beonemedicines.com/newsroom/\", \"pattern\": \"ir\\\\.beonemedicines\\\\.com/news/\"}, null, [\"BG-75202\", \"CDK2\", \"CDK4\", \"breast\"]]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "GenSci (Changchun GeneScience)": {
   "feed": "https://news.google.com/rss/search?q=%22GenSci145%22+OR+%28%22GeneScience%22+%22PI3K%22%29+OR+%28%22GenSci%22+%22PI3K%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -113,7 +113,7 @@
   "method": "newsroom rss (configured)",
   "filter": true,
   "sig": "[\"https://sermonixpharma.com/\", \"https://sermonixpharma.com/feed/\", null, null, null]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "Genentech (Roche US)": {
   "feed": "https://www.gene.com/media/press-releases",
@@ -124,7 +124,7 @@
   "method": "newsroom page (scraped)",
   "filter": true,
   "sig": "[\"https://www.gene.com/media/press-releases\", null, {\"url\": \"https://www.gene.com/media/press-releases\", \"pattern\": \"/media/press-releases/\\\\d+/\"}, null, [\"giredestrant\", \"Wilserdly\", \"inavolisib\", \"Itovebi\", \"GDC-4198\", \"RGT-419B\", \"evERA\", \"lidERA\", \"persevERA\", \"INAVO\", \"HR-positive\", \"ER-positive\", \"ESR1\", \"PIK3CA\"]]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "Menarini Group / Stemline Therapeutics": {
   "feed": "https://www.menarini.com/en-us/news.html",
@@ -135,14 +135,14 @@
   "method": "newsroom page (scraped)",
   "filter": true,
   "sig": "[\"https://www.menarini.com/en-us/news.html\", null, {\"url\": \"https://www.menarini.com/en-us/news.html\", \"pattern\": \"news-detail/\"}, null, [\"elacestrant\", \"Orserdu\", \"MEN2312\", \"KAT6\", \"ELEVATE\", \"ELECTRA\", \"ELCIN\", \"ADELA\", \"breast\"]]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "Junshi Biosciences (TopAlliance)": {
   "feed": "https://www.junshipharma.com/en/feed/",
   "method": "newsroom rss (configured)",
   "filter": true,
   "sig": "[\"https://www.junshipharma.com/en/news-center/\", \"https://www.junshipharma.com/en/feed/\", null, null, [\"JS105\", \"RP903\", \"PI3K\", \"breast\", \"Risen\"]]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "Totus Medicines": {
   "feed": "https://www.totusmedicines.com/news",
@@ -153,7 +153,7 @@
   "method": "newsroom page (scraped)",
   "filter": true,
   "sig": "[\"https://www.totusmedicines.com/news\", null, {\"url\": \"https://www.totusmedicines.com/news\", \"pattern\": \"article\\\\?url=\"}, null, null]",
-  "checked": "2026-11-19T18:17:35Z"
+  "checked": "2026-11-26T18:40:22Z"
  },
  "Roche": {
   "feed": "https://news.google.com/rss/search?q=%22Roche%22+%28%22giredestrant%22+OR+%22Wilserdly%22+OR+%22inavolisib%22+OR+%22Itovebi%22+OR+%22GDC-4198%22+OR+%22RGT-419B%22+OR+%22evERA%22+OR+%22lidERA%22+OR+%22persevERA%22+OR+%22INAVO%22+OR+%22HR-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
