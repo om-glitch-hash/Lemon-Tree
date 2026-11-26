@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:42:37Z",
+ "updated": "2026-11-26T16:50:44Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -588,6 +588,17 @@
   }
  ],
  "items": [
+  {
+   "id": "ce5f24ffaab8ed9b",
+   "company": "Roche",
+   "title": "Friday Five — Sanofi delivers much needed M&A, Kymera touts an 'oral Dupixent,' Roche's high-hopes for Wilserdly…and more - FirstWord Pharma",
+   "summary": "Friday Five — Sanofi delivers much needed M&A, Kymera touts an 'oral Dupixent,' Roche's high-hopes for Wilserdly…and more FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mV2l3ZW1FcnpUUmNLXzVCaGo1a0QyUEtCdHI1MmpMcTNXWG9xejhBUlhLNk9MbFRfcldqcmpHeXhub0VUaDlaTHdXNUx2WnpsOVBZ?oc=5",
+   "published": "2026-11-26T16:42:24Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T16:50:44Z"
+  },
   {
    "id": "b690eb3f44e09629",
    "company": "Roche",
@@ -1788,17 +1799,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "037ac79a8f5de5aa",
-   "company": "Roche",
-   "title": "Roche joins the oral SERD club as FDA clears Wilserdly - pharmaphorum",
-   "summary": "Roche joins the oral SERD club as FDA clears Wilserdly pharmaphorum",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZDFsUkZmc01HRkhJNUF5M2ljSFB1bE9SWEpVSXpkMmRjam5yWTcyem03OGxBT0o5ZU1yRVktSXdvYVpWN2RXb1YtZS1leDZ0dUxaZjl1bUNLeFdZNnlKOWVYSlhBSDJqQmdMc3hobDdWNS1lMUk3NzZCZTlPSmpwWGNHcw?oc=5",
-   "published": "2026-11-17T11:22:12Z",
-   "outlet": "pharmaphorum",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "26400fba4f53af5c",
    "company": "Roche",
    "title": "Roche wins US approval for Wilserdly in advanced breast cancer - The Pharma Letter",
@@ -1828,6 +1828,17 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
    "published": "2026-11-17T08:15:00Z",
    "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "037ac79a8f5de5aa",
+   "company": "Roche",
+   "title": "Roche joins the oral SERD club as FDA clears Wilserdly - pharmaphorum",
+   "summary": "Roche joins the oral SERD club as FDA clears Wilserdly pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZDFsUkZmc01HRkhJNUF5M2ljSFB1bE9SWEpVSXpkMmRjam5yWTcyem03OGxBT0o5ZU1yRVktSXdvYVpWN2RXb1YtZS1leDZ0dUxaZjl1bUNLeFdZNnlKOWVYSlhBSDJqQmdMc3hobDdWNS1lMUk3NzZCZTlPSmpwWGNHcw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "pharmaphorum",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
   },
