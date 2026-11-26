@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:38:34Z",
+ "updated": "2026-11-26T23:38:17Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -594,7 +594,7 @@
    "title": "Friday Five — Sanofi delivers much needed M&A, Kymera touts an 'oral Dupixent,' Roche's high-hopes for Wilserdly…and more - FirstWord Pharma",
    "summary": "Friday Five — Sanofi delivers much needed M&A, Kymera touts an 'oral Dupixent,' Roche's high-hopes for Wilserdly…and more FirstWord Pharma",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mV2l3ZW1FcnpUUmNLXzVCaGo1a0QyUEtCdHI1MmpMcTNXWG9xejhBUlhLNk9MbFRfcldqcmpHeXhub0VUaDlaTHdXNUx2WnpsOVBZ?oc=5",
-   "published": "2026-11-26T16:42:24Z",
+   "published": "2026-11-26T18:06:44Z",
    "outlet": "FirstWord Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T16:50:44Z"
@@ -1434,6 +1434,17 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
+   "published": "2026-11-22T18:13:15Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "e420e361e8314877",
@@ -2338,6 +2349,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
+   "published": "2026-11-09T22:00:26Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2347,17 +2369,6 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
-  },
-  {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
-   "published": "2026-11-09T08:00:00Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -2782,7 +2793,7 @@
    "company": "Celcuity",
    "title": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States - Celcuity",
    "summary": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B2SnQzM256eE52MXk1c0lwNjlUaFdNUkptOEpMRi0yNVIzSG9xRTlGaVUwT1ZRT3NnWHgzNTYxUTlJU2ltUjJZZzRseVhfOFlFUkdiUUd4NDA4OUwxY3dpVVZsYndSWTlfc21KSFhjS2pTS2pHZkMxeDdJODZJRHM4X25Hb1l4el9RRDExbnFJbWc0YTFlS3lnOUlnTEtaTmhNVktWMmFFdXNiSU1aSTJnazRYSURlMFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZNUhNT2JYTEM5amFFSkhzRjVvaWM1Y1VlaTdQUUdJNGJId200SGVUSTA3OUkxM0dubGp1bkdRSnBWNmRoUFhCSngzdW9mdE0?oc=5",
    "published": "2026-09-30T07:00:00Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5517,17 +5528,6 @@
    "first_seen": "2026-11-20T12:31:11Z"
   },
   {
-   "id": "135db08783007872",
-   "company": "Celcuity",
-   "title": "FORM 8-K Celcuity Inc. - Celcuity",
-   "summary": "FORM 8-K Celcuity Inc. Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52NW00anFIcndBYnFfZHdkVC0td1E5QmlVczB1YzVxZXJDaUt2Qkdjd3BTa1V4bW5BZ2NoTllfOFRnSElvSjVCRzZpbmxSM2U3dUtGV0JkSDJuV2Jvd0ZkRTZXUG5CXzJmMm85NzRjYjVMak5JYnBGbzFKaVNfdw?oc=5",
-   "published": "2026-02-10T23:20:50Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T20:06:10Z"
-  },
-  {
    "id": "008bf6398b939ae5",
    "company": "Celcuity",
    "title": "0001493152-23-043751 | 8-K | iXBRL Viewer | Celcuity INC - Celcuity",
@@ -5537,6 +5537,17 @@
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-20T12:31:11Z"
+  },
+  {
+   "id": "135db08783007872",
+   "company": "Celcuity",
+   "title": "FORM 8-K Celcuity Inc. - Celcuity",
+   "summary": "FORM 8-K Celcuity Inc. Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tUjF0ek5hOEhrLU0zSXJMcVpva1k0VWFpUUdKeGNkYTlsNy1LeEw4R2hTWGhBSW9ZbGwtY0RXYllyS2FVUGVkdjE3YUhiMlE5TkhTdzJHMjg5eE1zSWZEMHBXaUdxdGFjQnJIam9iTVdlM0dpVktJTGk4N0xRZw?oc=5",
+   "published": "2026-02-10T19:12:15Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T20:06:10Z"
   },
   {
    "id": "5ac51af166c8f087",
@@ -5776,17 +5787,6 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
-   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
