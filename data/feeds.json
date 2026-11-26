@@ -81,7 +81,7 @@
   "method": "newsroom via Google News (site:) (own feed blocked)",
   "filter": false,
   "sig": "[\"https://ir.arvinas.com/\", \"https://ir.arvinas.com/rss/news-releases.xml\", null, null, [\"vepdegestrant\", \"Veppanu\", \"VERITAC\", \"TACTIVE\", \"breast\", \"estrogen receptor\", \"ER+\", \"Rigel\"]]",
-  "checked": "2026-11-25T09:58:51Z"
+  "checked": "2026-11-26T00:31:56Z"
  },
  "BeOne Medicines (ex-BeiGene)": {
   "feed": "https://beonemedicines.com/newsroom/",
@@ -106,7 +106,7 @@
   "method": "newsroom via Google News (site:)",
   "filter": false,
   "sig": "[\"https://www.astrazeneca.com/media-centre/press-releases.html\", null, null, null, [\"camizestrant\", \"Etcamah\", \"SERENA\", \"HR-positive\", \"ER-positive\", \"ESR1\"]]",
-  "checked": "2026-11-25T09:58:51Z"
+  "checked": "2026-11-26T00:31:56Z"
  },
  "Sermonix Pharmaceuticals": {
   "feed": "https://sermonixpharma.com/feed/",
