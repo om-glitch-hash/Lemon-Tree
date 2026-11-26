@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:57:51Z",
+ "updated": "2026-11-26T10:59:08Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1348,17 +1348,6 @@
    "first_seen": "2026-11-24T20:26:32Z"
   },
   {
-   "id": "489b8718836f2834",
-   "company": "Roche",
-   "title": "Roche eyes its biggest seller yet after breast cancer pill’s broader US approval - Digg",
-   "summary": "Roche eyes its biggest seller yet after breast cancer pill’s broader US approval Digg",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QRmpRcHg3WFl0aHFndWd5c2laMmh0d1V0S3I0UV9xQTdmZUF4WE16M3N0OHZMM1VrWEJmNlVWcVVHY2o2VG1tMURfNUNtQzhoZWc?oc=5",
-   "published": "2026-11-23T16:49:54Z",
-   "outlet": "Digg",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-24T20:26:32Z"
-  },
-  {
    "id": "6ddec7a5c10e5ff3",
    "company": "Genentech (Roche US)",
    "title": "FDA Approves Genentech’s WILSERDLY (giredestrant) for Early-Stage ER-Positive Breast Cancer, Making it the First New Endocrine Therapy in This Setting in Over 20 Years",
@@ -1368,6 +1357,17 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": "2026-11-23T17:12:46Z"
+  },
+  {
+   "id": "489b8718836f2834",
+   "company": "Roche",
+   "title": "Roche eyes its biggest seller yet after breast cancer pill’s broader US approval - Digg",
+   "summary": "Roche eyes its biggest seller yet after breast cancer pill’s broader US approval Digg",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QRmpRcHg3WFl0aHFndWd5c2laMmh0d1V0S3I0UV9xQTdmZUF4WE16M3N0OHZMM1VrWEJmNlVWcVVHY2o2VG1tMURfNUNtQzhoZWc?oc=5",
+   "published": "2026-11-23T08:00:00Z",
+   "outlet": "Digg",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T20:26:32Z"
   },
   {
    "id": "4d0ea200d6cc2838",
@@ -1401,17 +1401,6 @@
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T13:54:36Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
-   "published": "2026-11-22T18:13:15Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "e420e361e8314877",
@@ -1799,6 +1788,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "e8b551f94c79001f",
+   "company": "Roche",
+   "title": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer - Dealroom",
+   "summary": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC1qOWhPMzVhaTRfODBjaG01VVZBV2N4bGNoNzFxYmpZMS1VWUFKcVRIaExUVmhPUEpBRU9hUG83bWlYbWQyRkM1U3ZodnhPQWsyOEZLSjVaZXNfeHBaeDNBeXZLNHkySFFxT3VXeW5TOVpMWW45MHhrUTltUFFzR2Q1eEFPYjBrQmpXdXJCNjdEeWxmamhRQzFiQ1A0UDgyTE1sYmdzczZmUnRmM05INk9uTThwZw?oc=5",
+   "published": "2026-11-17T08:47:31Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "516380b9b0c91964",
    "company": "Roche",
    "title": "FDA approves Roche's WILSERDLY (giredestrant) for ESR1-mutated advanced breast cancer - Dealroom",
@@ -1938,17 +1938,6 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSms5YU82MmpDRXFMeFduTDF3WUM5cjFIOGM4QU1lX3ZxSHBUNWY1endvNHp2bkkyODF1S0lUNDJPTE13ZDM2cGxsY0QtVVBKZWdlY1VNanEtV3U5U1hWdExMQjJnSnFISHZibWhiRWoza0JXNVRWTkR2YTZpOHJnamgyOEY3TUpwU2FTMXhTZV83Q2NqamRGNFVoNDl5UkdqRDNhYWkxWFhNTXRmWDdXQ0d4OHpIYW9oajhSdGphTmNJOHJHQkNUenRNWHQ?oc=5",
    "published": "2026-11-17T08:00:00Z",
    "outlet": "Reuters",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
-   "id": "e8b551f94c79001f",
-   "company": "Roche",
-   "title": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer - Dealroom",
-   "summary": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC1qOWhPMzVhaTRfODBjaG01VVZBV2N4bGNoNzFxYmpZMS1VWUFKcVRIaExUVmhPUEpBRU9hUG83bWlYbWQyRkM1U3ZodnhPQWsyOEZLSjVaZXNfeHBaeDNBeXZLNHkySFFxT3VXeW5TOVpMWW45MHhrUTltUFFzR2Q1eEFPYjBrQmpXdXJCNjdEeWxmamhRQzFiQ1A0UDgyTE1sYmdzczZmUnRmM05INk9uTThwZw?oc=5",
-   "published": "2026-11-17T07:22:01Z",
-   "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
   },
@@ -2294,17 +2283,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2314,6 +2292,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -5721,6 +5710,17 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
