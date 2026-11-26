@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:58:06Z",
+ "updated": "2026-11-26T05:10:17Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1700,17 +1700,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "9538da3af96a004e",
-   "company": "Roche",
-   "title": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval - Bloomberg.com",
-   "summary": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
-   "published": "2026-11-17T13:14:19Z",
-   "outlet": "Bloomberg.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "191c289cf48d0ffc",
    "company": "Roche",
    "title": "FDA Approves Roche’s Wilserdly Oral Breast Cancer Therapy - www.tokenpost.com",
@@ -1795,6 +1784,17 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
    "published": "2026-11-17T08:15:00Z",
    "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "9538da3af96a004e",
+   "company": "Roche",
+   "title": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval - Bloomberg.com",
+   "summary": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Bloomberg.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
   },
@@ -2492,17 +2492,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "5cbe5fcb41b2bdcf",
-   "company": "AstraZeneca",
-   "title": "Senior Director, Global Diagnostics at AstraZeneca - AstraZeneca",
-   "summary": "Senior Director, Global Diagnostics at AstraZeneca AstraZeneca",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVko4b0pfQnUzcURTUm9XQXloUWVYd2xpRlAyRy1IUFN1cXNycy1LZnVrYzBZNVNvY2pScTZ5ODdRdEpQcDRHR0xYZWdqci1qa2xSQ1p6d3ZJdGFMaWNpUUNTclUxN2p0c0NLc0V2aUJBT0xINUc3d1E0bjZta2s2bmJnRFBNTHRnNzk5eG12YjFsNWcxb1ZGenF6UnhFd2dDb0I0?oc=5",
-   "published": "2026-10-19T07:00:00Z",
-   "outlet": "AstraZeneca",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-25T09:58:51Z"
-  },
-  {
    "id": "6c3a6b521608e980",
    "company": "Roche",
    "title": "Roche to present pivotal data at ESMO 2026, showcasing advances across its lung and breast cancer late-stage portfolio - Roche",
@@ -2523,6 +2512,17 @@
    "outlet": "Avenzo Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-23T13:54:36Z"
+  },
+  {
+   "id": "5cbe5fcb41b2bdcf",
+   "company": "AstraZeneca",
+   "title": "Senior Director, Global Diagnostics at AstraZeneca - AstraZeneca",
+   "summary": "Senior Director, Global Diagnostics at AstraZeneca AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVko4b0pfQnUzcURTUm9XQXloUWVYd2xpRlAyRy1IUFN1cXNycy1LZnVrYzBZNVNvY2pScTZ5ODdRdEpQcDRHR0xYZWdqci1qa2xSQ1p6d3ZJdGFMaWNpUUNTclUxN2p0c0NLc0V2aUJBT0xINUc3d1E0bjZta2s2bmJnRFBNTHRnNzk5eG12YjFsNWcxb1ZGenF6UnhFd2dDb0I0?oc=5",
+   "published": "2026-10-15T23:51:32Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T09:58:51Z"
   },
   {
    "id": "35e3baf515e7810e",
