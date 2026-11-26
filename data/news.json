@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:13:00Z",
+ "updated": "2026-11-26T07:46:10Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1392,6 +1392,17 @@
    "first_seen": "2026-11-23T13:54:36Z"
   },
   {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2dTUEg1dEJvYUM1bUVjSlotMXlTaFBSaEhJVkJBYkFGekNZMGQzM3IwZVh6cGFGSV9EZHdSOU1OdFVfZWZGZzlVSkxzOWpNLVVFUHA0eVdFLWdnTzI3N2JZWWloSV9CUjY5WHJkMnE1cmtXbzdlNldqVW16WDNjLWN4OVNOTkFZT2F4Z0c4bnBDdmRxYUJ0R3JGZS1Ub2kwdjVFa3p2WEZaM3NrRTlvZGlWcm5wUUJWWjVoUDVwbG56WTJWeVA3OC1yM1FRSHhKdXg2dm83Zw?oc=5",
+   "published": "2026-11-22T18:13:15Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "e420e361e8314877",
    "company": "Roche",
    "title": "Roche Holding stock: FDA clears Wilserdly and Gazyva - ad-hoc-news.de",
@@ -2184,6 +2195,17 @@
    "first_seen": "2026-11-21T20:46:08Z"
   },
   {
+   "id": "56af7d71cc4ae40f",
+   "company": "Eli Lilly",
+   "title": "Expert Insights on Early Identification to Reduce Recurrence Risk in HR+, HER2– EBC - Eli Lilly",
+   "summary": "Expert Insights on Early Identification to Reduce Recurrence Risk in HR+, HER2– EBC Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcFMwVWozVEo0YmhZb2MwV2Vwems5dnhyTWJ5b2NMQUpMekg1M1Yzd0hMcjNlVE44LXA3QVNNVE0yOVRSRHdHMnlXODZJZHBwTHNHaUVNbVRZZl92dlhNaXRNR0dOdUUyNlBnaVhZYXEyUmNyRnR5SXVhMGI3TlFyVWxwRW9PME9jdXNLRjllSGxqQWQ3ZEhoT2xWeU54cXhzd3pRaDNqSkJidVpvdENGZTZaUTgtek5OTzR4RF9NbThhRVpOYXBjeDdtNnNvRENEV1gzdURB?oc=5",
+   "published": "2026-11-15T09:17:36Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-26T07:46:10Z"
+  },
+  {
    "id": "a1565d856f4bf373",
    "company": "Roche",
    "title": "FDA approves Roche’s Wilserdly (giredestrant), a next-generation oral SERD, for ER-positive, ESR1-mutated advanced breast cancer - Roche",
@@ -2261,6 +2283,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
+   "published": "2026-11-09T22:00:26Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2270,17 +2303,6 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
-  },
-  {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
-   "published": "2026-11-09T08:00:00Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -5688,17 +5710,6 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
-   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
