@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:21:49Z",
+ "updated": "2026-11-27T05:34:01Z",
  "sources": [
   {
    "company": "Celcuity",
@@ -7,10 +7,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Acelcuity.com&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 47,
-   "latest": "2026-11-15T19:40:59Z",
+   "items": 46,
+   "latest": "2026-11-09T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Eli Lilly",
@@ -18,10 +18,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Alilly.com+%28%22imlunestrant%22+OR+%22Inluriyo%22+OR+%22tersolisib%22+OR+%22LY4064809%22+OR+%22STX-478%22+OR+%22Scorpion%22+OR+%22EMBER%22+OR+%22PI3K%22+OR+%22SERD%22+OR+%22HR%2B%22+OR+%22HR-positive%22+OR+%22ER%2B%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 16,
-   "latest": "2026-11-23T05:01:51Z",
+   "items": 19,
+   "latest": "2026-11-23T21:36:42Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Roche",
@@ -32,7 +32,7 @@
    "items": 60,
    "latest": "2026-11-26T18:06:44Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Genentech (Roche US)",
@@ -43,7 +43,7 @@
    "items": 6,
    "latest": "2026-11-23T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Olema Oncology",
@@ -51,10 +51,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Aolema.com&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 16,
-   "latest": "2026-11-12T14:00:23Z",
+   "items": 17,
+   "latest": "2026-11-23T22:15:15Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Menarini Group / Stemline Therapeutics",
@@ -65,7 +65,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "AstraZeneca",
@@ -76,7 +76,7 @@
    "items": 15,
    "latest": "2026-09-11T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Pfizer",
@@ -87,7 +87,7 @@
    "items": 1,
    "latest": "2026-10-07T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Rigel Pharmaceuticals (Veppanu commercial rights)",
@@ -98,7 +98,7 @@
    "items": 2,
    "latest": "2026-11-24T13:05:00Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Arvinas",
@@ -106,10 +106,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Aarvinas.com+%28%22vepdegestrant%22+OR+%22Veppanu%22+OR+%22VERITAC%22+OR+%22TACTIVE%22+OR+%22breast%22+OR+%22estrogen+receptor%22+OR+%22ER%2B%22+OR+%22Rigel%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "latest": "2026-10-06T07:39:21Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "LeonaBio (ex-Athira; lasofoxifene licensee)",
@@ -120,7 +120,7 @@
    "items": 1,
    "latest": "2026-08-12T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Sermonix Pharmaceuticals",
@@ -131,7 +131,7 @@
    "items": 2,
    "latest": "2026-01-09T19:12:42Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Relay Therapeutics",
@@ -139,10 +139,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Arelaytx.com&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 16,
-   "latest": "2026-11-03T04:10:33Z",
+   "items": 14,
+   "latest": "2026-11-02T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Junshi Biosciences (TopAlliance)",
@@ -153,7 +153,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Novartis",
@@ -164,7 +164,7 @@
    "items": 1,
    "latest": "2026-11-18T06:06:02Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Avenzo Therapeutics",
@@ -172,10 +172,10 @@
    "feed": "https://news.google.com/rss/search?q=site%3Aavenzotx.com&hl=en-US&gl=US&ceid=US:en",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "ok": true,
-   "items": 21,
+   "items": 19,
    "latest": "2026-11-23T21:15:53Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Carrick Therapeutics",
@@ -186,7 +186,7 @@
    "items": 1,
    "latest": "2025-12-10T18:30:00Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "Totus Medicines",
@@ -197,7 +197,7 @@
    "items": 6,
    "latest": "2026-05-06T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "GenSci (Changchun GeneScience)",
@@ -208,7 +208,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   },
   {
    "company": "BeOne Medicines (ex-BeiGene)",
@@ -219,7 +219,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-27T04:21:49Z"
+   "checked": "2026-11-27T05:34:01Z"
   }
  ],
  "trials": {
