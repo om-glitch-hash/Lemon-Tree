@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:27:52Z",
+ "updated": "2026-11-27T12:32:56Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -2349,17 +2349,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnNaV0UzbG9mQjVGVkdNRFRUQXl0d1lXR2NsZFF2NzJka1ExcTNRSkduX0c3U1ZCM2tnZ3pOMnNoZlZRR0RtVE9DbDU2R1BiaE9QTUlIQTlRamlET25qVVpTTnM3VWx6dUEtWEQ3ODBZUmM0Rm1ISU9WeDk4bjEtdUFZbmxUVG9mQ18zVHJXQlhEMHBpeG9NbHVSSzlKd25qcGJNVUdoTzBDbG1JVHBoeTgyV1VjWHN3emFoazBYMGFCRlVOcGR4RXBuaw?oc=5",
-   "published": "2026-11-10T16:59:56Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2778,17 +2767,6 @@
    "first_seen": null
   },
   {
-   "id": "ebe5a79e0c3a8ecb",
-   "company": "Roche",
-   "title": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine - Yahoo Finance UK",
-   "summary": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU9LdmY0Qzd3Z3FncnpMT1ZfbTQ3cUlrUjNfQkhneF9sVDIyeDdBQ2lLdGx0UllmWnhfNTlBZUljT3A4TTZ4czk0RF9BdjI1d1VBZUdWM0hxdThydTUyeUluU3ZKXzRwUkxWUVhpS3ZiV085aDRsSXFGeDdYdktsWFZuaXZ2RG16bndZVVhyVnkzcmdyakt4X2JadUh5M2VXb3hzZA?oc=5",
-   "published": "2026-10-01T07:00:00Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T20:01:54Z"
-  },
-  {
    "id": "c9925b2e28fd5eea",
    "company": "Genentech (Roche US)",
    "title": "Genentech’s Giredestrant Combination Significantly Improved Progression-Free Survival in ER-Positive Advanced Breast Cancer in Phase III evERA Data Published in The New England Journal of Medicine",
@@ -2800,11 +2778,22 @@
    "first_seen": null
   },
   {
+   "id": "ebe5a79e0c3a8ecb",
+   "company": "Roche",
+   "title": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine - Yahoo Finance UK",
+   "summary": "Roche’s giredestrant combination significantly improved progression-free survival in ER-positive advanced breast cancer in phase III evERA data published in The New England Journal of Medicine Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU9LdmY0Qzd3Z3FncnpMT1ZfbTQ3cUlrUjNfQkhneF9sVDIyeDdBQ2lLdGx0UllmWnhfNTlBZUljT3A4TTZ4czk0RF9BdjI1d1VBZUdWM0hxdThydTUyeUluU3ZKXzRwUkxWUVhpS3ZiV085aDRsSXFGeDdYdktsWFZuaXZ2RG16bndZVVhyVnkzcmdyakt4X2JadUh5M2VXb3hzZA?oc=5",
+   "published": "2026-09-30T07:00:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T20:01:54Z"
+  },
+  {
    "id": "8a4e54feb6cc031d",
    "company": "Celcuity",
    "title": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States - Celcuity",
    "summary": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZNUhNT2JYTEM5amFFSkhzRjVvaWM1Y1VlaTdQUUdJNGJId200SGVUSTA3OUkxM0dubGp1bkdRSnBWNmRoUFhCSngzdW9mdE0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B2SnQzM256eE52MXk1c0lwNjlUaFdNUkptOEpMRi0yNVIzSG9xRTlGaVUwT1ZRT3NnWHgzNTYxUTlJU2ltUjJZZzRseVhfOFlFUkdiUUd4NDA4OUwxY3dpVVZsYndSWTlfc21KSFhjS2pTS2pHZkMxeDdJODZJRHM4X25Hb1l4el9RRDExbnFJbWc0YTFlS3lnOUlnTEtaTmhNVktWMmFFdXNiSU1aSTJnazRYSURlMFE?oc=5",
    "published": "2026-09-30T07:00:00Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4762,7 +4751,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5820,6 +5809,17 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
