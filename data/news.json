@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:59:07Z",
+ "updated": "2026-11-27T18:59:01Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -677,17 +677,6 @@
    "first_seen": "2026-11-23T23:16:56Z"
   },
   {
-   "id": "f1a675dd4ac5c9bd",
-   "company": "Avenzo Therapeutics",
-   "title": "Avenzo Therapeutics - Investor Relations - Avenzo Therapeutics",
-   "summary": "Avenzo Therapeutics - Investor Relations Avenzo Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QdkVPUnVTazhiRlJoMEhFRWo1UVdwMDRCX3B6cGlHd3haWlFscFpveE43RXp4NzdEeVlkYzJ5ajFZSlRfanJnMkU3cmtVNUpPSVFmaFdJMHdBQzNUT28wSDRB?oc=5",
-   "published": "2026-11-25T08:00:00Z",
-   "outlet": "Avenzo Therapeutics",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-24T09:34:19Z"
-  },
-  {
    "id": "c40bcd9bb2cae134",
    "company": "Roche",
    "title": "Roche's daily breast cancer pill wins FDA approval, prevents recurrence - FlipItMoney",
@@ -1335,6 +1324,17 @@
    "outlet": "Fierce Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T18:14:33Z"
+  },
+  {
+   "id": "f1a675dd4ac5c9bd",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics - Investor Relations - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics - Investor Relations Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QdkVPUnVTazhiRlJoMEhFRWo1UVdwMDRCX3B6cGlHd3haWlFscFpveE43RXp4NzdEeVlkYzJ5ajFZSlRfanJnMkU3cmtVNUpPSVFmaFdJMHdBQzNUT28wSDRB?oc=5",
+   "published": "2026-11-23T17:21:38Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T09:34:19Z"
   },
   {
    "id": "68e2c7e24caad198",
@@ -2360,6 +2360,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnNaV0UzbG9mQjVGVkdNRFRUQXl0d1lXR2NsZFF2NzJka1ExcTNRSkduX0c3U1ZCM2tnZ3pOMnNoZlZRR0RtVE9DbDU2R1BiaE9QTUlIQTlRamlET25qVVpTTnM3VWx6dUEtWEQ3ODBZUmM0Rm1ISU9WeDk4bjEtdUFZbmxUVG9mQ18zVHJXQlhEMHBpeG9NbHVSSzlKd25qcGJNVUdoTzBDbG1JVHBoeTgyV1VjWHN3emFoazBYMGFCRlVOcGR4RXBuaw?oc=5",
+   "published": "2026-11-10T16:59:56Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2815,7 +2826,7 @@
    "company": "Celcuity",
    "title": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States - Celcuity",
    "summary": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B2SnQzM256eE52MXk1c0lwNjlUaFdNUkptOEpMRi0yNVIzSG9xRTlGaVUwT1ZRT3NnWHgzNTYxUTlJU2ltUjJZZzRseVhfOFlFUkdiUUd4NDA4OUwxY3dpVVZsYndSWTlfc21KSFhjS2pTS2pHZkMxeDdJODZJRHM4X25Hb1l4el9RRDExbnFJbWc0YTFlS3lnOUlnTEtaTmhNVktWMmFFdXNiSU1aSTJnazRYSURlMFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZNUhNT2JYTEM5amFFSkhzRjVvaWM1Y1VlaTdQUUdJNGJId200SGVUSTA3OUkxM0dubGp1bkdRSnBWNmRoUFhCSngzdW9mdE0?oc=5",
    "published": "2026-09-30T07:00:00Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5831,17 +5842,6 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
-   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
