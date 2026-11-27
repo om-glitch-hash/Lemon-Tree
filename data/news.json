@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:38:32Z",
+ "updated": "2026-11-27T08:08:37Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -589,6 +589,17 @@
  ],
  "items": [
   {
+   "id": "baba4c9e12516556",
+   "company": "Eli Lilly",
+   "title": "Can Inluriyo® (imlunestrant) be used in patients with hepatic impairment? - Eli Lilly",
+   "summary": "Can Inluriyo® (imlunestrant) be used in patients with hepatic impairment? Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUU1GdlRlZXRPX2pMX05oOTBwcVJsajhLZTdJeGg5b3FmMkVuUy1NQXhra1pfRVdUaVY3dnFQQVRJZ182NVFwMlpGaWp2U2RvcHFRbXlCN0VpQmlLbDhzWU5PRHluTkY4NTdVM1RXR0lkZ0ZBMXRoR3Z5bTItOHlDczc4R1RHSUxhNmJoTDVpejIyNmZPZWR6YWdRejYtUUwzQ0Fza2tUSDhKZHdlS1dmeXVxU1hDclBOOXcwbnJmZ0ozanR3bXNTTXZ3?oc=5",
+   "published": "2026-11-26T23:06:52Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-27T08:08:37Z"
+  },
+  {
    "id": "ce5f24ffaab8ed9b",
    "company": "Roche",
    "title": "Friday Five — Sanofi delivers much needed M&A, Kymera touts an 'oral Dupixent,' Roche's high-hopes for Wilserdly…and more - FirstWord Pharma",
@@ -653,6 +664,17 @@
    "outlet": "Yahoo Finance Singapore",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T23:16:56Z"
+  },
+  {
+   "id": "f1a675dd4ac5c9bd",
+   "company": "Avenzo Therapeutics",
+   "title": "Avenzo Therapeutics - Investor Relations - Avenzo Therapeutics",
+   "summary": "Avenzo Therapeutics - Investor Relations Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QdkVPUnVTazhiRlJoMEhFRWo1UVdwMDRCX3B6cGlHd3haWlFscFpveE43RXp4NzdEeVlkYzJ5ajFZSlRfanJnMkU3cmtVNUpPSVFmaFdJMHdBQzNUT28wSDRB?oc=5",
+   "published": "2026-11-25T08:00:00Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-24T09:34:19Z"
   },
   {
    "id": "c40bcd9bb2cae134",
@@ -1302,17 +1324,6 @@
    "outlet": "Fierce Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T18:14:33Z"
-  },
-  {
-   "id": "f1a675dd4ac5c9bd",
-   "company": "Avenzo Therapeutics",
-   "title": "Avenzo Therapeutics - Investor Relations - Avenzo Therapeutics",
-   "summary": "Avenzo Therapeutics - Investor Relations Avenzo Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QdkVPUnVTazhiRlJoMEhFRWo1UVdwMDRCX3B6cGlHd3haWlFscFpveE43RXp4NzdEeVlkYzJ5ajFZSlRfanJnMkU3cmtVNUpPSVFmaFdJMHdBQzNUT28wSDRB?oc=5",
-   "published": "2026-11-23T17:21:38Z",
-   "outlet": "Avenzo Therapeutics",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-24T09:34:19Z"
   },
   {
    "id": "68e2c7e24caad198",
@@ -2338,28 +2349,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnNaV0UzbG9mQjVGVkdNRFRUQXl0d1lXR2NsZFF2NzJka1ExcTNRSkduX0c3U1ZCM2tnZ3pOMnNoZlZRR0RtVE9DbDU2R1BiaE9QTUlIQTlRamlET25qVVpTTnM3VWx6dUEtWEQ3ODBZUmM0Rm1ISU9WeDk4bjEtdUFZbmxUVG9mQ18zVHJXQlhEMHBpeG9NbHVSSzlKd25qcGJNVUdoTzBDbG1JVHBoeTgyV1VjWHN3emFoazBYMGFCRlVOcGR4RXBuaw?oc=5",
-   "published": "2026-11-10T16:59:56Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
-   "id": "dd491b711faa2d4b",
-   "company": "Celcuity",
-   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
-   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQmowNTdRa19ZeUUwUUw0blBIUTRrSk11N05NczBJdmptcWQ5OFNRUzEyTEhzYXJ3QmhYOVZ6eEFnVzR6ZzE1Z1FXamJZcnc?oc=5",
-   "published": "2026-11-09T22:00:26Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
-  },
-  {
    "id": "7631326f38c12357",
    "company": "Avenzo Therapeutics",
    "title": "Avenzo Therapeutics to Participate in the 2026 Jefferies Global Healthcare Conference in London",
@@ -2369,6 +2358,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "dd491b711faa2d4b",
+   "company": "Celcuity",
+   "title": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer - Celcuity",
+   "summary": "Celcuity Announces FDA Acceptance of sNDA for REVTORPYK™ (gedatolisib) for HR+/HER2-, PIK3CA Mutant Locally Advanced or Metastatic Breast Cancer Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEJPMkxhbGR4UFlONUllV3pKMlBQZkNZTmk5aGpJWXRQdUJHU0JPVFdFeVU0MFJ4NFNMZ1RiVEVyT3BQRGQta1ZfMDNqMHllMFZFcTlGMnN2ak90a3d1N3c2SVdBSVlyTVNWbXRVa2FfWElLUUo0RnZyNWJYUllUUmhTVk4tajVqeF9Xd3dpWkVEdzRfX01jUmRnRm9pYW5wZTNrZTBfZmJpV3FpeGQ0eUxoQm1UXzVXS1QwV2pR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "3c207acaaea78b1c",
@@ -2793,7 +2793,7 @@
    "company": "Celcuity",
    "title": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States - Celcuity",
    "summary": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZNUhNT2JYTEM5amFFSkhzRjVvaWM1Y1VlaTdQUUdJNGJId200SGVUSTA3OUkxM0dubGp1bkdRSnBWNmRoUFhCSngzdW9mdE0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B2SnQzM256eE52MXk1c0lwNjlUaFdNUkptOEpMRi0yNVIzSG9xRTlGaVUwT1ZRT3NnWHgzNTYxUTlJU2ltUjJZZzRseVhfOFlFUkdiUUd4NDA4OUwxY3dpVVZsYndSWTlfc21KSFhjS2pTS2pHZkMxeDdJODZJRHM4X25Hb1l4el9RRDExbnFJbWc0YTFlS3lnOUlnTEtaTmhNVktWMmFFdXNiSU1aSTJnazRYSURlMFE?oc=5",
    "published": "2026-09-30T07:00:00Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4206,6 +4206,17 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": "2026-11-21T18:15:32Z"
+  },
+  {
+   "id": "063dc22dbb014935",
+   "company": "Arvinas",
+   "title": "Vepdegestrant (ARV-471) Archives - Page 2 of 4 - Arvinas",
+   "summary": "Vepdegestrant (ARV-471) Archives - Page 2 of 4 Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1NVQtdExKWlNLSVpxREpfQXFobEIyVmhZNmkwYUN3eFRpNkpkWTFvOFFVNVlub2taOUt6QVphNk01VzMzYzFGT1JwTGptTm40ejJqWnVNaEIzRXljQldrLUt4S2d1anp5TW9EdEkyOA?oc=5",
+   "published": "2026-06-02T10:57:25Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-27T08:08:37Z"
   },
   {
    "id": "99cbb96e7682485a",
@@ -5798,6 +5809,17 @@
    "summary": "Corporate Governance Celcuity",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZjZVWHc1d0xZQVUweFJKazIyaTdwdnpteEo4U2dUVlEtLUg4bWJtSTU4MUdnMzh3NXRCQ01MQWttSGU4MUloeElHUXFlcHhsdFhtSk14MA?oc=5",
    "published": "2025-12-16T08:32:44Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-19T18:21:53Z"
