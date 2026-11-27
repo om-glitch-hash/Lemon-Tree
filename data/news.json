@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:54:15Z",
+ "updated": "2026-11-27T15:55:43Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1722,17 +1722,6 @@
    "first_seen": "2026-11-24T15:08:30Z"
   },
   {
-   "id": "04be8303624fb632",
-   "company": "Roche",
-   "title": "FDA Approves Roche’s Breast Cancer Drug Wilserdly With FoundationOne ESR1 CDx - GenomeWeb",
-   "summary": "FDA Approves Roche’s Breast Cancer Drug Wilserdly With FoundationOne ESR1 CDx GenomeWeb",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWN4elkwTTBJREp3X1JfWEhfeHVqVDlZdjduSHllRmNuV25iUlJ6YzdoN21ucnhIYUd6RmtFV0M5cUNWYkw5M1hTR2pFM1RsWWgxajJ2TTFyeTBiQ0hjZXUwN1ZNR0ROVWdJOHg3STVQSmoyZGtiMGFkM1FPbmtZTUl4RXh1OHFaN2tKenQ3Tm9iUE5ndGVGV3BWV2VFMGo2MTBBQWhHNG9aSUlGM0wwSFRMM3A3bmtfSTMwTlhGRU9JQQ?oc=5",
-   "published": "2026-11-17T14:49:00Z",
-   "outlet": "GenomeWeb",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "95075525ef3ca880",
    "company": "Roche",
    "title": "Roche scores FDA win for oral SERD giredestrant in advanced stage breast cancer - pharma.economictimes.indiatimes.com",
@@ -1843,12 +1832,23 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "04be8303624fb632",
+   "company": "Roche",
+   "title": "FDA Approves Roche’s Breast Cancer Drug Wilserdly With FoundationOne ESR1 CDx - GenomeWeb",
+   "summary": "FDA Approves Roche’s Breast Cancer Drug Wilserdly With FoundationOne ESR1 CDx GenomeWeb",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWN4elkwTTBJREp3X1JfWEhfeHVqVDlZdjduSHllRmNuV25iUlJ6YzdoN21ucnhIYUd6RmtFV0M5cUNWYkw5M1hTR2pFM1RsWWgxajJ2TTFyeTBiQ0hjZXUwN1ZNR0ROVWdJOHg3STVQSmoyZGtiMGFkM1FPbmtZTUl4RXh1OHFaN2tKenQ3Tm9iUE5ndGVGV3BWV2VFMGo2MTBBQWhHNG9aSUlGM0wwSFRMM3A3bmtfSTMwTlhGRU9JQQ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "GenomeWeb",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "08f53a64c6c33056",
    "company": "Roche",
    "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
    "summary": "Roche Secures First U.S. Approval for New Breast-Cancer Pill WSJ",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
-   "published": "2026-11-17T08:15:00Z",
+   "published": "2026-11-17T08:00:00Z",
    "outlet": "WSJ",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
@@ -2096,17 +2096,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "00c98b044c9ecb42",
-   "company": "Roche",
-   "title": "FDA clears Roche's Wilserdly, a daily pill for advanced breast cancer - Briefs Finance",
-   "summary": "FDA clears Roche's Wilserdly, a daily pill for advanced breast cancer Briefs Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWV2VVg1M2hUMVY5RTJJNlVXYTd3cUhDZmExSnR1U0VNT1ZhX25IR2tudkhkbVZQOTNNZk5mWjhOMFNtZm92alZ1dUY4dmlNMlNUYVFfYTJhTFdvaGlPVW14QWRYWUo2NUp4a0plUllaeFVINWFoTm1TY0Y4TVUzTlhZWi10TzIxS1hCaW12WXM1dw?oc=5",
-   "published": "2026-11-16T21:50:13Z",
-   "outlet": "Briefs Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "e929637ea716753c",
    "company": "Olema Oncology",
    "title": "Better medicines for breast cancer and beyond – Morgan Stanley 24th Annual Global Healthcare Conference - Olema Oncology",
@@ -2171,6 +2160,17 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": null
+  },
+  {
+   "id": "00c98b044c9ecb42",
+   "company": "Roche",
+   "title": "FDA clears Roche's Wilserdly, a daily pill for advanced breast cancer - Briefs Finance",
+   "summary": "FDA clears Roche's Wilserdly, a daily pill for advanced breast cancer Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWV2VVg1M2hUMVY5RTJJNlVXYTd3cUhDZmExSnR1U0VNT1ZhX25IR2tudkhkbVZQOTNNZk5mWjhOMFNtZm92alZ1dUY4dmlNMlNUYVFfYTJhTFdvaGlPVW14QWRYWUo2NUp4a0plUllaeFVINWFoTm1TY0Y4TVUzTlhZWi10TzIxS1hCaW12WXM1dw?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Briefs Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "19fea32294ab6183",
@@ -2490,6 +2490,17 @@
    "outlet": "",
    "method": "newsroom rss (configured)",
    "first_seen": null
+  },
+  {
+   "id": "3b8640bd459e75c1",
+   "company": "AstraZeneca",
+   "title": "9M and Q3 2026 results - AstraZeneca",
+   "summary": "9M and Q3 2026 results AstraZeneca",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczRwTGNzdGRkU25mRjh4LWdPczBHaHF6Z3FWeFpVRHR6NXczWUZONlF3SW1pWnVEZFZtMnViQmstblhrT1N4QllFMnBXNzM2MEJrRUpVdldKZEpBZ25pOE9rOGlabEZmcURobjVXNXlUdURyM3dRdzhQRTBBTlhjNVk5ZnRBODBQYjVGTlRmbVZwdw?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "AstraZeneca",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-27T15:55:43Z"
   },
   {
    "id": "67182e96460fa079",
@@ -4762,7 +4773,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
