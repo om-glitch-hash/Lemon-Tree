@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:08:26Z",
+ "updated": "2026-11-27T04:21:49Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1810,6 +1810,17 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
+   "id": "e8b551f94c79001f",
+   "company": "Roche",
+   "title": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer - Dealroom",
+   "summary": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC1qOWhPMzVhaTRfODBjaG01VVZBV2N4bGNoNzFxYmpZMS1VWUFKcVRIaExUVmhPUEpBRU9hUG83bWlYbWQyRkM1U3ZodnhPQWsyOEZLSjVaZXNfeHBaeDNBeXZLNHkySFFxT3VXeW5TOVpMWW45MHhrUTltUFFzR2Q1eEFPYjBrQmpXdXJCNjdEeWxmamhRQzFiQ1A0UDgyTE1sYmdzczZmUnRmM05INk9uTThwZw?oc=5",
+   "published": "2026-11-17T08:47:31Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
    "id": "08f53a64c6c33056",
    "company": "Roche",
    "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
@@ -1973,17 +1984,6 @@
    "outlet": "PharmExec.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T21:38:30Z"
-  },
-  {
-   "id": "e8b551f94c79001f",
-   "company": "Roche",
-   "title": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer - Dealroom",
-   "summary": "Faeth to test PIKTOR plus Roche's giredestrant in advanced HR+/HER2- breast cancer Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC1qOWhPMzVhaTRfODBjaG01VVZBV2N4bGNoNzFxYmpZMS1VWUFKcVRIaExUVmhPUEpBRU9hUG83bWlYbWQyRkM1U3ZodnhPQWsyOEZLSjVaZXNfeHBaeDNBeXZLNHkySFFxT3VXeW5TOVpMWW45MHhrUTltUFFzR2Q1eEFPYjBrQmpXdXJCNjdEeWxmamhRQzFiQ1A0UDgyTE1sYmdzczZmUnRmM05INk9uTThwZw?oc=5",
-   "published": "2026-11-17T07:22:01Z",
-   "outlet": "Dealroom",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
   },
   {
    "id": "9f524befebb04621",
@@ -4740,7 +4740,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
