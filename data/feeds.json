@@ -1,31 +1,31 @@
 {
  "Eli Lilly": {
-  "feed": "https://news.google.com/rss/search?q=site%3Alilly.com+%28%22imlunestrant%22+OR+%22Inluriyo%22+OR+%22tersolisib%22+OR+%22LY4064809%22+OR+%22STX-478%22+OR+%22Scorpion%22+OR+%22EMBER%22+OR+%22PI3K%22+OR+%22SERD%22+OR+%22HR%2B%22+OR+%22HR-positive%22+OR+%22ER%2B%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:) (own feed blocked)",
-  "filter": false,
+  "feed": "https://investor.lilly.com/rss/news-releases.xml",
+  "method": "newsroom rss (configured)",
+  "filter": true,
   "sig": "[\"https://investor.lilly.com/\", \"https://investor.lilly.com/rss/news-releases.xml\", null, null, [\"imlunestrant\", \"Inluriyo\", \"tersolisib\", \"LY4064809\", \"STX-478\", \"Scorpion\", \"EMBER\", \"PI3K\", \"SERD\", \"HR+\", \"HR-positive\", \"ER+\", \"ER-positive\", \"ESR1\", \"PIK3CA\"]]",
-  "checked": "2026-11-27T23:53:34Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "LeonaBio (ex-Athira; lasofoxifene licensee)": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aleonabio.gcs-web.com+%28%22lasofoxifene%22+OR+%22ELAINE%22+OR+%22breast%22+OR+%22Sermonix%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:) (own feed blocked)",
-  "filter": false,
+  "feed": "https://leonabio.gcs-web.com/rss/news-releases.xml",
+  "method": "newsroom rss (configured)",
+  "filter": true,
   "sig": "[\"https://leonabio.gcs-web.com/\", \"https://leonabio.gcs-web.com/rss/news-releases.xml\", null, null, [\"lasofoxifene\", \"ELAINE\", \"breast\", \"Sermonix\"]]",
-  "checked": "2026-11-27T23:53:34Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "Celcuity": {
-  "feed": "https://news.google.com/rss/search?q=site%3Acelcuity.com&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:) (own feed blocked)",
-  "filter": false,
+  "feed": "https://ir.celcuity.com/rss/news-releases.xml",
+  "method": "newsroom rss (configured)",
+  "filter": true,
   "sig": "[\"https://ir.celcuity.com/\", \"https://ir.celcuity.com/rss/news-releases.xml\", null, null, null]",
-  "checked": "2026-11-27T23:53:34Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "Avenzo Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aavenzotx.com&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:) (own feed blocked)",
-  "filter": false,
+  "feed": "https://avenzotx.com/feed/",
+  "method": "newsroom rss (configured)",
+  "filter": true,
   "sig": "[\"https://avenzotx.com/\", \"https://avenzotx.com/feed/\", null, null, null]",
-  "checked": "2026-11-27T23:53:34Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "Rigel Pharmaceuticals (Veppanu commercial rights)": {
   "feed": "https://www.rigel.com/investors/news-events/press-releases/rss",
@@ -35,18 +35,18 @@
   "checked": "2026-11-26T18:40:22Z"
  },
  "Olema Oncology": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aolema.com&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:) (own feed blocked)",
-  "filter": false,
+  "feed": "https://ir.olema.com/rss/news-releases.xml",
+  "method": "newsroom rss (configured)",
+  "filter": true,
   "sig": "[\"https://ir.olema.com/\", \"https://ir.olema.com/rss/news-releases.xml\", null, null, null]",
-  "checked": "2026-11-27T23:53:34Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "Relay Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=site%3Arelaytx.com&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:) (own feed blocked)",
-  "filter": false,
+  "feed": "https://ir.relaytx.com/rss/news-releases.xml",
+  "method": "newsroom rss (configured)",
+  "filter": true,
   "sig": "[\"https://ir.relaytx.com/\", \"https://ir.relaytx.com/rss/news-releases.xml\", null, null, null]",
-  "checked": "2026-11-27T23:53:34Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "Carrick Therapeutics": {
   "feed": "https://www.carricktherapeutics.com/news-media/press-releases/rss",
@@ -77,11 +77,11 @@
   "checked": "2026-11-26T18:40:22Z"
  },
  "Arvinas": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aarvinas.com+%28%22vepdegestrant%22+OR+%22Veppanu%22+OR+%22VERITAC%22+OR+%22TACTIVE%22+OR+%22breast%22+OR+%22estrogen+receptor%22+OR+%22ER%2B%22+OR+%22Rigel%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:) (own feed blocked)",
-  "filter": false,
+  "feed": "https://ir.arvinas.com/rss/news-releases.xml",
+  "method": "newsroom rss (configured)",
+  "filter": true,
   "sig": "[\"https://ir.arvinas.com/\", \"https://ir.arvinas.com/rss/news-releases.xml\", null, null, [\"vepdegestrant\", \"Veppanu\", \"VERITAC\", \"TACTIVE\", \"breast\", \"estrogen receptor\", \"ER+\", \"Rigel\"]]",
-  "checked": "2026-11-27T23:53:34Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "BeOne Medicines (ex-BeiGene)": {
   "feed": "https://beonemedicines.com/newsroom/",
@@ -99,14 +99,14 @@
   "method": "news search (no newsroom found)",
   "filter": false,
   "sig": "[null, null, null, \"\\\"GenSci145\\\" OR (\\\"GeneScience\\\" \\\"PI3K\\\") OR (\\\"GenSci\\\" \\\"PI3K\\\")\", null]",
-  "checked": "2026-11-27T22:57:55Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "AstraZeneca": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aastrazeneca.com+%28%22camizestrant%22+OR+%22Etcamah%22+OR+%22SERENA%22+OR+%22HR-positive%22+OR+%22ER-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:)",
-  "filter": false,
+  "feed": "https://www.astrazeneca.com/rss.xml",
+  "method": "newsroom rss",
+  "filter": true,
   "sig": "[\"https://www.astrazeneca.com/media-centre/press-releases.html\", null, null, null, [\"camizestrant\", \"Etcamah\", \"SERENA\", \"HR-positive\", \"ER-positive\", \"ESR1\"]]",
-  "checked": "2026-11-28T00:59:16Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "Sermonix Pharmaceuticals": {
   "feed": "https://sermonixpharma.com/feed/",
@@ -145,21 +145,17 @@
   "checked": "2026-11-26T18:40:22Z"
  },
  "Totus Medicines": {
-  "feed": "https://www.totusmedicines.com/news",
-  "scrape": {
-   "url": "https://www.totusmedicines.com/news",
-   "pattern": "article\\?url="
-  },
-  "method": "newsroom page (scraped)",
-  "filter": true,
+  "feed": "https://news.google.com/rss/search?q=%22Totus+Medicines%22&hl=en-US&gl=US&ceid=US:en",
+  "method": "news search (newsroom not indexed)",
+  "filter": false,
   "sig": "[\"https://www.totusmedicines.com/news\", null, {\"url\": \"https://www.totusmedicines.com/news\", \"pattern\": \"article\\\\?url=\"}, null, null]",
-  "checked": "2026-11-26T18:40:22Z"
+  "checked": "2026-11-28T08:48:00Z"
  },
  "Roche": {
   "feed": "https://news.google.com/rss/search?q=%22Roche%22+%28%22giredestrant%22+OR+%22Wilserdly%22+OR+%22inavolisib%22+OR+%22Itovebi%22+OR+%22GDC-4198%22+OR+%22RGT-419B%22+OR+%22evERA%22+OR+%22lidERA%22+OR+%22persevERA%22+OR+%22INAVO%22+OR+%22HR-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "filter": false,
   "sig": "[\"https://www.roche.com/media/releases\", null, null, null, [\"giredestrant\", \"Wilserdly\", \"inavolisib\", \"Itovebi\", \"GDC-4198\", \"RGT-419B\", \"evERA\", \"lidERA\", \"persevERA\", \"INAVO\", \"HR-positive\", \"ESR1\", \"PIK3CA\"]]",
-  "checked": "2026-11-27T22:57:55Z"
+  "checked": "2026-11-28T08:48:00Z"
  }
 }
