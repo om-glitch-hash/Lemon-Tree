@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:48:00Z",
+ "updated": "2026-11-28T09:39:37Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1667,17 +1667,6 @@
    "first_seen": "2026-11-25T14:44:45Z"
   },
   {
-   "id": "08f53a64c6c33056",
-   "company": "Roche",
-   "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
-   "summary": "Roche Secures First U.S. Approval for New Breast-Cancer Pill WSJ",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
-   "published": "2026-11-18T08:00:00Z",
-   "outlet": "WSJ",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
    "id": "00f5027babfaba38",
    "company": "Olema Oncology",
    "title": "Better medicines for breast cancer and beyond – Olema Oncology Presents Preclinical Data on Selective KAT6A Degraders in ER+/HER2- Breast Cancer Models at EORTC-NCI-AACR Symposium - Olema Oncology",
@@ -1850,6 +1839,17 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC1qOWhPMzVhaTRfODBjaG01VVZBV2N4bGNoNzFxYmpZMS1VWUFKcVRIaExUVmhPUEpBRU9hUG83bWlYbWQyRkM1U3ZodnhPQWsyOEZLSjVaZXNfeHBaeDNBeXZLNHkySFFxT3VXeW5TOVpMWW45MHhrUTltUFFzR2Q1eEFPYjBrQmpXdXJCNjdEeWxmamhRQzFiQ1A0UDgyTE1sYmdzczZmUnRmM05INk9uTThwZw?oc=5",
    "published": "2026-11-17T08:47:31Z",
    "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "08f53a64c6c33056",
+   "company": "Roche",
+   "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
+   "summary": "Roche Secures First U.S. Approval for New Breast-Cancer Pill WSJ",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "WSJ",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
   },
@@ -4186,6 +4186,17 @@
    "first_seen": "2026-11-28T07:54:14Z"
   },
   {
+   "id": "86bf5a77198ffb39",
+   "company": "Totus Medicines",
+   "title": "Totus Medicines - yespress.io",
+   "summary": "Totus Medicines yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jTHVaUGRlTDhValhGcVpkTG5YS0trTUw4cWY3d1dIbnZwMlNxMzl5eVJ1Q2lpcGpSdHlWbmh6N25sN1FRblN6bnBlUQ?oc=5",
+   "published": "2026-06-08T09:19:49Z",
+   "outlet": "yespress.io",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-28T09:39:37Z"
+  },
+  {
    "id": "cb61d59c856d159c",
    "company": "Roche",
    "title": "FDA Grants Priority Review to Giredestrant for ER-Positive Early Breast Cancer - OncLive",
@@ -5275,6 +5286,17 @@
    "first_seen": "2026-11-20T12:31:11Z"
   },
   {
+   "id": "396f6e58d333c89b",
+   "company": "Totus Medicines",
+   "title": "Totus Medicines Presents Phase 1a Clinical Data for TOS-358, a Covalent PI3Ka Inhibitor, at ESMO TAT 2026 - Yahoo Finance",
+   "summary": "Totus Medicines Presents Phase 1a Clinical Data for TOS-358, a Covalent PI3Ka Inhibitor, at ESMO TAT 2026 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONV9pUnozb1NYQkxqbWFwekc1VEZ6ME96MlMyeXYtUldLcWIxZzBFQjRIVldDN3RDZWxtU0F6QUQ3WVBjaHQ5ZG1MQVNqX19nX2E5UWw0S0xDQjQ1MzZaS09tcXVPeFQ5VmE0OHhEVXJYalI1dThvV3VFLW5uV1FyZlJrQ1ltdw?oc=5",
+   "published": "2026-03-18T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-28T09:39:37Z"
+  },
+  {
    "id": "ddec7b7ddefaf152",
    "company": "Olema Oncology",
    "title": "Olema Oncology to Present Preclinical Data for Palazestrant and OP-3136 at the 2026 AACR Annual Meeting - Olema Oncology",
@@ -5972,7 +5994,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
