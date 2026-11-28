@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:29:55Z",
+ "updated": "2026-11-28T13:41:48Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1733,17 +1733,6 @@
    "first_seen": "2026-11-21T19:13:56Z"
   },
   {
-   "id": "7f2e1ba970ba6910",
-   "company": "Roche",
-   "title": "FDA approves new oral breast cancer drug combo that cut progression risk 62%: 6 notes - Becker's Oncology",
-   "summary": "FDA approves new oral breast cancer drug combo that cut progression risk 62%: 6 notes Becker's Oncology",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnVDLUZYZERoNWJQMFI2YTFNREdxYk1OS2E3MTNvOXUyZEhMbWpNUWtKcHEzcFRlUEc5Rmc3Wk0wOVRBREFqbVNfVUtaQkoxLUVTYmlkY2VTVi1ySHF3MWlpbmtBcHBpY2N3VDA4QVJ0Y1lvOGRTRThic210NVlTc25aRWxWM2RZY2RnM1Jrcjc1VExFdUlrQ280YWFkY2lNeFRqMXBlY3hSWW5qdTFHdW5uQmhWeWYzTHhkNlhTVmttUGM?oc=5",
-   "published": "2026-11-17T15:10:30Z",
-   "outlet": "Becker's Oncology",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-24T15:08:30Z"
-  },
-  {
    "id": "95075525ef3ca880",
    "company": "Roche",
    "title": "Roche scores FDA win for oral SERD giredestrant in advanced stage breast cancer - pharma.economictimes.indiatimes.com",
@@ -1852,6 +1841,17 @@
    "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
+  },
+  {
+   "id": "7f2e1ba970ba6910",
+   "company": "Roche",
+   "title": "FDA approves new oral breast cancer drug combo that cut progression risk 62%: 6 notes - Becker's Oncology",
+   "summary": "FDA approves new oral breast cancer drug combo that cut progression risk 62%: 6 notes Becker's Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnVDLUZYZERoNWJQMFI2YTFNREdxYk1OS2E3MTNvOXUyZEhMbWpNUWtKcHEzcFRlUEc5Rmc3Wk0wOVRBREFqbVNfVUtaQkoxLUVTYmlkY2VTVi1ySHF3MWlpbmtBcHBpY2N3VDA4QVJ0Y1lvOGRTRThic210NVlTc25aRWxWM2RZY2RnM1Jrcjc1VExFdUlrQ280YWFkY2lNeFRqMXBlY3hSWW5qdTFHdW5uQmhWeWYzTHhkNlhTVmttUGM?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Becker's Oncology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T15:08:30Z"
   },
   {
    "id": "08f53a64c6c33056",
@@ -2028,6 +2028,17 @@
    "outlet": "PharmExec.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T21:38:30Z"
+  },
+  {
+   "id": "ecddadb0ff195104",
+   "company": "Roche",
+   "title": "Roche’s Wilserdly Joins Oral SERD Market, But Adjuvant Indication Still Pending - insights.citeline.com",
+   "summary": "Roche’s Wilserdly Joins Oral SERD Market, But Adjuvant Indication Still Pending insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPR3htU1hJRnJaZkppXzFlU3hJdlYteUNIM08tbmJhNE5LbjU3VWpITlpGVVV5WlBaSF9DanJENnNsa2ljM1BPdHBQTEZjTmhKTk90Snl4WWdSOFdKd3NWRkVGQ25Vd2FnZHBwOXJPa2Q0QU5iX0w5eWJCbEI1U25GcHppQXBCRTJJbFRJdjVTOHljVlNRb1R5T3lyWDBKZXh2YXdQSmpsb3Fwang0RHlNVlJCVndQc2NIM0VRdm5mVHRJMnVwaXpHSVF5M0ZDWXZ3R0YydjRNMEZ4TEljSGlUckJOREZsbWlwVGZWaHRSaWp0U0hQalNLN1daV3M0bF9lVlFxUjdHSzBDWUJWWHZmOHVHLXNENGRZ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "insights.citeline.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-28T13:41:48Z"
   },
   {
    "id": "9f524befebb04621",
@@ -2380,17 +2391,6 @@
    "outlet": "Bloomberg.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T19:13:56Z"
-  },
-  {
-   "id": "3909b11a1d63df9d",
-   "company": "Celcuity",
-   "title": "SEC Filings - Celcuity",
-   "summary": "SEC Filings Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnNaV0UzbG9mQjVGVkdNRFRUQXl0d1lXR2NsZFF2NzJka1ExcTNRSkduX0c3U1ZCM2tnZ3pOMnNoZlZRR0RtVE9DbDU2R1BiaE9QTUlIQTlRamlET25qVVpTTnM3VWx6dUEtWEQ3ODBZUmM0Rm1ISU9WeDk4bjEtdUFZbmxUVG9mQ18zVHJXQlhEMHBpeG9NbHVSSzlKd25qcGJNVUdoTzBDbG1JVHBoeTgyV1VjWHN3emFoazBYMGFCRlVOcGR4RXBuaw?oc=5",
-   "published": "2026-11-10T16:59:56Z",
-   "outlet": "Celcuity",
-   "method": "newsroom via Google News (site:) (own feed blocked)",
-   "first_seen": "2026-11-19T18:21:53Z"
   },
   {
    "id": "7631326f38c12357",
@@ -2870,7 +2870,7 @@
    "company": "Celcuity",
    "title": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States - Celcuity",
    "summary": "Celcuity Announces That REVTORPYK™ (gedatolisib) Is Now Commercially Available In The United States Celcuity",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZNUhNT2JYTEM5amFFSkhzRjVvaWM1Y1VlaTdQUUdJNGJId200SGVUSTA3OUkxM0dubGp1bkdRSnBWNmRoUFhCSngzdW9mdE0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B2SnQzM256eE52MXk1c0lwNjlUaFdNUkptOEpMRi0yNVIzSG9xRTlGaVUwT1ZRT3NnWHgzNTYxUTlJU2ltUjJZZzRseVhfOFlFUkdiUUd4NDA4OUwxY3dpVVZsYndSWTlfc21KSFhjS2pTS2pHZkMxeDdJODZJRHM4X25Hb1l4el9RRDExbnFJbWc0YTFlS3lnOUlnTEtaTmhNVktWMmFFdXNiSU1aSTJnazRYSURlMFE?oc=5",
    "published": "2026-09-30T07:00:00Z",
    "outlet": "Celcuity",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -4850,7 +4850,7 @@
    "company": "Relay Therapeutics",
    "title": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates - Relay Therapeutics",
    "summary": "Relay Therapeutics Reports First Quarter 2026 Financial Results and Corporate Updates Relay Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YN0hmYVR3MWtoaFNTVjM1Y2RQam9SbEVmbi1NRzlDcXNCaTNnQU16LXdOdXpEdEhRbjRYWDlPc21CWmlZMzhDUGNIYWp1UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaS1KMHZCVllabDFqcWtmeElyZTJPV0NvX1BSeXlCVnB5Y19kZmdfZVdoN2djYjBfb0hOeTlicHNRN2NRbU43cmUyQzNzSGJfVm96c3BObXFfa0FwYjNnYlkxQWhNWnhneHRMUHgxUjRqdmRycG9EZUEzWmZEMlVCMlJrUnlad0VsRzlGYzE1UzNZTDM5Mzc4cEt1MGNpbkFWT19pSVpOMWJDWjljVkhxYzlfREhfQmFFQkV2cGdHWQ?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Relay Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
@@ -5924,6 +5924,17 @@
    "first_seen": "2026-11-19T18:21:53Z"
   },
   {
+   "id": "3909b11a1d63df9d",
+   "company": "Celcuity",
+   "title": "SEC Filings - Celcuity",
+   "summary": "SEC Filings Celcuity",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaTdoYlFoU25LdFVLbmFmYkxVWFhaLW1hQUxrdE52a0F5dDlLdERPbmhGT0lwNU90VmhUeHppeXN6RjJmLWkyMEU5bw?oc=5",
+   "published": "2025-12-16T02:32:40Z",
+   "outlet": "Celcuity",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-19T18:21:53Z"
+  },
+  {
    "id": "9236f573fd6faf33",
    "company": "Celcuity",
    "title": "Email Alerts - Celcuity",
@@ -6005,7 +6016,7 @@
    "company": "Eli Lilly",
    "title": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer - Eli Lilly",
    "summary": "Updated data for Lilly's Inluriyo™ (imlunestrant) reinforce efficacy results as monotherapy and in combination with Verzenio® (abemaciclib) in ER+, HER2- advanced breast cancer Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRURjbXVXT2JrQ3d6aWNuYTcxTXBhUjFsekRTakwwdlNRbTRPTzQ2WmlyNUtHNWthd2FsZmEwMFA1UmRFN1FITkFveWRjc3VuTTcw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckxsQmlhT3k2cHQtanRtbGdDMFZwY2lWUU8wQlVKUXhwdVNKb2pxX3hHbWN0eWd6a1AyM1p2LW5SQ3A1eTBVSHQzZGFrbHVQX2FGdFVWSXBwZlBZV3ZHTlVmQk5OSHVXc2lOSmRCTWpZb1MtVFJpNVZuR2hid2ctLVVnbzdNS0txcWF3aW9YVDBxeGxteWxzYVNOenV3NHBhSEhXWFhyajZEZDdtUWhCOUlFaWZvUEJJQ2NCM2xZbjBGUQ?oc=5",
    "published": "2025-12-12T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:) (own feed blocked)",
