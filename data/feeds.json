@@ -102,11 +102,11 @@
   "checked": "2026-11-27T22:57:55Z"
  },
  "AstraZeneca": {
-  "feed": "https://www.astrazeneca.com/rss.xml",
-  "method": "newsroom rss",
-  "filter": true,
+  "feed": "https://news.google.com/rss/search?q=site%3Aastrazeneca.com+%28%22camizestrant%22+OR+%22Etcamah%22+OR+%22SERENA%22+OR+%22HR-positive%22+OR+%22ER-positive%22+OR+%22ESR1%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
+  "filter": false,
   "sig": "[\"https://www.astrazeneca.com/media-centre/press-releases.html\", null, null, null, [\"camizestrant\", \"Etcamah\", \"SERENA\", \"HR-positive\", \"ER-positive\", \"ESR1\"]]",
-  "checked": "2026-11-27T22:57:55Z"
+  "checked": "2026-11-28T00:59:16Z"
  },
  "Sermonix Pharmaceuticals": {
   "feed": "https://sermonixpharma.com/feed/",
