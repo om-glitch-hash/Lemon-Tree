@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:37:04Z",
+ "updated": "2026-11-28T11:32:06Z",
  "companies": {
   "Celcuity": {
    "site": "https://ir.celcuity.com/",
@@ -1346,6 +1346,17 @@
    "outlet": "Avenzo Therapeutics",
    "method": "newsroom via Google News (site:) (own feed blocked)",
    "first_seen": "2026-11-24T09:34:19Z"
+  },
+  {
+   "id": "6c39f576fb436639",
+   "company": "Avenzo Therapeutics",
+   "title": "About - Avenzo Therapeutics",
+   "summary": "About Avenzo Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE92cXdvTU11Z1l0Nzh2b3REZ1ZqQjRBdFhYSTZzd1U1Tzl3UmZpcTFIR1Ixa1ZWVXMtTmhiU2tZRWE?oc=5",
+   "published": "2026-11-23T17:15:05Z",
+   "outlet": "Avenzo Therapeutics",
+   "method": "newsroom via Google News (site:) (own feed blocked)",
+   "first_seen": "2026-11-28T11:32:06Z"
   },
   {
    "id": "68e2c7e24caad198",
